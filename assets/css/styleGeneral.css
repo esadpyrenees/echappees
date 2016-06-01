@@ -1024,7 +1024,7 @@
         left: 16.66%;
         text-align: center;
         width: 33.3333%;
-        top: 17px;
+        top: 16px;
         z-index: 803;
         
         /*background-color: green;*/
@@ -1063,6 +1063,7 @@
         top: 20px;
         width: 41.67%;
         z-index: 803;
+        color: black
     }
     #echappees-numero sup { line-height: 0.8;
     top: -0.4em;}
