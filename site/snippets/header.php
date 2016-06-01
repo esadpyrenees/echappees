@@ -21,7 +21,7 @@
     <link href='https://fonts.googleapis.com/css?family=Magra:400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,900italic,900,800,800italic,700italic,700,600italic,600,500italic,400italic,500,300italic,300,200italic,200,100italic,100' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Kreon:400,700,300' rel='stylesheet' type='text/css'> -->
-  
+    <link href='https://fonts.googleapis.com/css?family=Work+Sans:400,300,700' rel='stylesheet' type='text/css'>
 	<!-- script pour type kit -->
     <!-- kit original (luminance) -->
     <!-- <script src="https://use.typekit.net/pkn1ilg.js"></script> -->
