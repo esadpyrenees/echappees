@@ -1,0 +1,404 @@
+
+	/*Class permettant de gerer 12 colonnes*/
+	/*La somme de colonne d'une ROW doit etre = à 12*/
+	/*	
+	.col-1 {width: 8.33%;}
+	.col-2 {width: 16.66%;}
+	.col-3 {width: 25%;}
+	.col-4 {width: 33.33%;}
+	.col-5 {width: 41.66%;}
+	.col-6 {width: 50%;}
+	.col-7 {width: 58.33%;}
+	.col-8 {width: 66.66%;}
+	.col-9 {width: 75%;}
+	.col-10 {width: 83.33%;}
+	.col-11 {width: 91.66%;}
+	.col-12 {width: 100%;}
+	*/
+
+/*-------------------------------------------------------------------------- home*/
+
+@media only screen and (max-width: 980px) {
+
+
+	/*STYLE POUR LA PAGE D'ACCUEIL*/
+	#bandeau-blanc{
+		/*On agrandit le bandeau*/
+		top: 15%;
+        height:85%;
+    	width: 83%;
+    	padding-left: 0%;
+	}
+
+	#information_home{
+		top: 50px;		
+	    width: 75%;
+	    left: 12.49%;
+	}
+
+	#logotype_home{
+    	padding-bottom: 50px;
+	}
+
+	#container_nouveau_numero{
+		/*static permet de replacer dans le flux cette div et d'oublier son positionnement*/
+		position : static;
+        /*le texte est centré*/
+        text-align: center;
+	    width: 100%;
+	    left: 0%;
+
+	    /*padding-bottom: 100px;*/
+	}
+	/*NUMERO*/
+	/*A PROPOS*/
+	#a_propos{
+
+        padding-top: 150px;
+        /*background-color: rgba(0, 0, 255, 0.5);*/
+    }
+
+
+    
+	/*NUMERO ARTICLE*/
+	.information_propos {	
+	    width: 75%;
+	    margin-left: 12.49%;
+	    padding-top: 20px;
+	} 
+    
+    #container_titre {
+        float: none;
+    }
+
+	#information{
+		width: 75%;
+	    margin-left: 12.49%;
+	} 
+
+	
+
+	#container_titre{
+        position: static !important;
+		text-align: center;
+	    top: 50;		
+	    width: 100%;
+	    margin-left: 0;
+        padding-bottom: 50px;
+
+	}
+	
+	.container_titre_propos, #container_titre_essaie{
+        margin-left: 0px;
+        width: 100%;
+
+	}
+
+
+
+	.container_titre_propos{
+		margin-bottom: 20px;
+		padding-top: 0px;
+        position: static !important;
+	}
+
+
+	#esa-echappees {
+	    left: 0%;
+	    width: 100%;
+	
+	}
+
+	#couverture{
+        padding-bottom: 50px; 
+        
+    }
+
+	
+
+/*SOMMAIRE*/
+	div .float{
+        float: left;
+        width: 50%;
+        text-align: center;
+	}
+
+	#article_relie {
+		text-align: center;
+
+	}
+
+
+/*POUR LE MENU VOLET*/
+
+	.contentMenu ul li, .article_sommaire {
+        margin-bottom: 20px;
+
+        margin-left: 8.33%;
+        margin-right: 16.66%; 
+    }
+	
+	p, a{
+		font-size: 1em;
+	}
+
+	
+	/*MENU VOLET*/
+	.visibleMenu{
+	    /*left: 0%;    */
+	    /*largeur du volet */
+	    width: 100%;
+        z-index: 9999;
+	}
+
+    .menu {padding-left: 0}
+    .menu div ul { padding: 0}
+    .contentMenu ul li, .article_sommaire {
+        margin-left:8.33%;
+        margin-right:8.33%;
+    }
+
+	#meta2, #meta3{
+		/*width: 100%; */
+	}
+
+
+@media only screen and (max-width: 768px) {
+
+p {
+    /*par default les polices sont de 1em soit 16px*/
+        // font-size: 1.4em;
+    }
+
+    /* agit sur les articles*/
+    .memecolonnequunarticle{
+        margin-left: 8.33%;
+        width: 83.33%;
+    }
+
+     #meta2, #meta3 {
+        padding: 20px;
+        margin-top: 100px;
+        /*width: 100%;*/
+        
+    }
+}
+
+
+@media only screen and (max-width: 700px) {
+    #sideGallery{
+        padding: 50px;
+    }
+    #sideGallery.hidden {
+        position: static;
+        margin-left: 8.33%;
+        margin-right: 8.33%;
+        width: 83.33% !important;
+        padding: 0;
+        margin-bottom: 40px;
+        height: auto;
+        
+    }
+    #sideGallery.hidden:hover{ transform:none;}
+    #sideGallery.hidden figure:first-child {
+        position: static;
+    }
+    #sideGallery.hidden figure:first-child img { width: 100%}
+    .closeGallery { right: 30px}
+
+    /* jb /*
+    #echappees-numero {
+    z-index: 100;
+    left: 83.33%;
+    width: 16.66%;
+    }
+    */
+    #esa-echappees, 
+    #echappees-numero{
+        position: absolute;
+    }
+    #esa-echappees {
+        float: left;
+        left: 0;
+        margin-left: 12.49%;
+        text-align: left;
+        width: 100%;
+    }
+    #echappees-numero {
+        padding-right: 12.49%;
+        text-align: right;
+    }
+
+    #main_menu {
+        padding: 1em;
+        position: absolute !important;
+        text-align: center;
+        top: 4em;
+        transform: none;
+        width: 100%;
+        z-index: 801;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+	/*STYLE POUR LA PAGE D'ACCUEIL*/
+
+	/*STYLE POUR LE MENU*/
+	.menu div ul{
+		padding-left: 40px;
+		padding-right: 40px;
+	}
+
+	#information_home{
+		top: 15%;		
+	    /*width: 200px;*/
+	}
+
+	#logotype_home{
+		padding-bottom: 50px;
+	}
+
+	#actualite, #conseil{
+    	padding-bottom: 50px;
+	}
+
+	#nouveau_numero{
+		padding-bottom: 50px;
+	}
+
+	.conseil_lecture:after, .actualite:after{
+    font-size: 2em;
+
+	}
+
+	/*IDENTITE ESA*/
+	#esa-e, #esa-s, #esa-a, #esa-p{
+		font-size: 1em;
+	}
+
+
+	/*NUMERO ARTICLE*/
+	#couverture{
+        padding-top: 150px;
+        padding-bottom: 25px; 
+        
+    }
+
+    #image_couverture{
+        padding-bottom: 50px;
+    }
+
+	#meta{
+        padding: 10px;
+        border:5px solid white;
+    }
+
+    .menu_meta li {
+    	margin-right: 5px;
+        margin-left: 5px;
+        margin-top:10px;
+        display: inline-block; 
+    }
+
+     #meta3{
+    	/*text-align: center;*/
+    	border:5px solid white;
+    }
+     #meta2{ border:5px solid #ff7d4f; }
+
+
+	
+
+    
+    #text_article figure {
+        margin-left:  -20px;
+        margin-right:  -20px;
+    }
+    #text_article figcaption{
+        margin-left:  20px;
+        margin-right:  20px;
+    }
+	
+
+	#container_titre, #titre_propos{
+        margin-top: 30px;
+        padding-top:0px;
+        padding-bottom: 50px;
+    }
+
+    article {
+        padding-top: 0px;
+
+    }
+    #sideGallery.hidden,
+	.memecolonnequunarticle, #meta2, #text_article {
+        margin-left:  20px;
+        margin-right:  20px;
+        width: calc(100% - 40px) !important;    
+    }
+
+	div .float{
+        width: 100%;
+        height: auto;
+        margin-left: 0px;
+        margin-right: 0px;
+	}
+
+	#sommaire-page{
+        width: auto;
+        margin-top: 100px;
+        margin-left: 8.33%;
+        margin-right: 8.33%;
+    }
+    #sommaire-page > h3 {
+        text-align: center;
+    }
+    div .float, div .float_blanc {
+        padding-right:0;
+
+    }
+
+	
+
+	/*GENERAL*/
+	h1, h1 a{
+		// font-size: 1.7em;
+	}
+
+	h2, h2 a{
+		font-size: 1.2em;
+	}
+
+	h3, h3 a{
+		font-size: 1.2em;
+	}
+
+	h4{
+		font-size: 1em;
+	}
+
+	p, a{
+		font-size: 1em;
+	}
+
+	
+	/*MENU VOLET*/
+	.btnMenu, #btnGalerie {
+    	font-size: 1em;
+	}
+
+	div .VoletSommaire{
+
+        padding-bottom: 30px;
+        padding-top:10px; 
+        margin-left: 12%;
+        margin-right:12%; 
+        margin-top: 50px;
+       
+	}
+       
+	
+
+			
+}
+

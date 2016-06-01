@@ -1,0 +1,379 @@
+/* **************************** STYLE PRINT **************************** */
+
+@page { 
+    /*je specifie une orientation Portrait*/
+    size: portrait; 
+    /* produit une taille de boîte de page de format A4 */
+    size: 21cm 29.7cm; 
+    /*marges sur chacun des côtés entre le bord de la page et l'aire de la page (où se place le contenu)*/
+    margin-left: 3cm; 
+    margin-right: 3cm; 
+    margin-top: 1.3cm; 
+    margin-bottom: 1.5cm; 
+}
+
+@media print {
+
+    /*pour faire apparaitre du contenu (appelé dans les templates) seulement à l'impression*/
+    .print-me, .print-me * {
+        visibility: visible;
+    }
+
+/*///////////////////////////////////////////////////////////GENERAL */
+
+    body{
+        /*width: 100%;*/
+        /*enleve tout le fond sur la page imprimable = fond blanc*/
+        background: none;
+        /*par default les textes sont noir*/
+        color: black;
+        /*appel de la font*/
+        font-family: 'Raleway', sans-serif;
+        /*Taille de la font en point*/
+        font-size:10pt;
+        /*interlignage texte courant*/
+        line-height: 14pt;
+    }
+
+    /*---------------------------------------------------------- Les titres*/
+    h1, h2, h3, h4{
+        padding: 0;
+        margin: 0;
+    }
+
+    /*h1 =logo echappes */
+    h1{
+    	font-family: 'Magra', sans-serif;
+        /*Taille de la font en point*/
+        font-size: 18pt;
+        /*color: gray !important;*/
+        line-height: 22pt;
+        font-weight: bold;
+    }
+
+    /*h2 = titres de la revue + articles*/
+    h2{
+        /*appel de la police*/
+        font-family: "luminance", sans-serif;
+        /*font-weight: 100;*/
+        font-size: 25pt;
+        /*interlignage*/
+        line-height: 34pt;
+    }
+
+
+    /* h3 = titre des rubriques page home*/
+    h3{
+        /*appel de la police*/
+        font-family: "luminance", sans-serif;
+        /*taille*/
+        font-size: 18pt;
+        /*interlignage*/
+        line-height: 20pt;
+        margin-bottom: 15px;
+    }
+    /*Sous titres de l'article*/
+    h4{
+        font-family: "luminance", sans-serif;
+        font-size: 18pt;
+        line-height: 22pt;
+        text-align: left;
+        font-weight: bold;
+        page-break-after: avoid;
+    }
+
+    /*légendes images*/
+    h5{
+        font-size: 1em;
+        font-weight: lighter;
+        margin-top: 5px;
+        margin-bottom: 20px;
+        font-family: "luminance", sans-serif;
+    }
+
+    /*---------------------------------------------------------- liens oranges passent en noir*/
+    .orange{
+        color: black;
+    }
+
+    #liens-orange{
+        color: black;
+    }
+
+    /*---------------------------------------------------------- Les liens sont tous en noirs*/
+    a{
+    /* les liens ne sont pas soulignés*/
+        text-decoration: none;
+        font-size: inherit;
+        line-height: inherit;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    /*------------------------------------------------------------ Les liste*/
+    ul, ol {
+        list-style:none;
+        font-size: inherit;
+        line-height: inherit;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    /*---------------------------------------------------------- Les paragraphes*/
+    p {
+/*        font-size: inherit;
+        line-height: inherit;   
+*/      padding-bottom: 15px;
+        margin: 0px;
+        /*spécifie le nombre minimum de lignes d'un paragraphe devant rester en bas d'une page*/
+        orphans: 4;
+        /*spécifie le nombre minimum de lignes d'un paragraphe devant rester en haut d'une page*/
+        widows: 3;  
+    }
+
+    /*---------------------------------------------------------- suppression navigation*/
+    #prevNext, #next, #prev{
+        display: none;
+    }
+
+/*///////////////////////////////////////////////////////////COUVERTURE */
+
+    /*----------------------------------------------suppression du degrade de fond*/
+    .Degrade{
+        /* Suppression du degradé mais on garde la class*/
+        background-image:none;
+    }
+
+    /*------------------------------------------------suppression des menus de nav*/
+    #main_menu{
+        display: none;
+    }
+
+    /*--------------------------------------------------------logo echappées + N°*/
+    /*----------------------------suppression*/
+
+    #esa-echappees{
+        display: none;
+    }
+
+    #echappees-numero{
+        display: none;
+    }
+
+    #couverture{
+        display: none;
+    }
+
+    /*----------------------------style print*/
+    #entete-print{
+       width: 100%;
+    }
+
+    #esa-echappees-print {
+        float: left;
+       /*taille de la boite*/
+        width: 50%;
+        padding-right: 10px;
+        /*texte centré*/
+        text-align: center;
+        padding:0%; 
+    }
+
+    #echappees-numero-print{
+        float: right;
+        /*taille de la boite*/
+        width: 50%;
+        padding-left: 10px;
+        /*texte centré*/
+        text-align: center;
+        padding:0%; 
+    }
+
+    /*pour l'exposant*/
+    #echappees-numero-print sup { 
+        line-height: 0.8;
+        top: -0.4em;
+    }
+
+    /*--------------------------------------------------------Titre, auteur, date*/
+    #titre-print{
+        width: 100%;
+        float: left;
+        text-align: center;
+        margin-top: 1cm;
+    }
+
+    #float-print{
+        width: 50%;
+        float: right;
+        margin-top: 0.5cm;
+        margin-bottom: 0.3cm;
+    }
+    #auteur-print
+     {
+        text-transform: uppercase;
+    }
+
+    #date-print{
+        font-weight: lighter;
+    }
+    /*---------------------------------------------------suppression du sommaire*/
+    #sommaire-page{
+        display: none;
+    }
+
+/*///////////////////////////////////////////////////////////ARTICLE */
+    /*---------------------------------------------------------------Chapeaux*/    
+    .chapeau_size{
+        font-size:13pt;
+        line-height: 17pt;
+    }
+
+    #chapeau-print{
+        float: left;        
+        width: 100%;
+        color: black;
+        /*spécifie le nombre minimum de lignes d'un paragraphe devant rester en bas d'une page*/
+        orphans: 4;
+        /*spécifie le nombre minimum de lignes d'un paragraphe devant rester en haut d'une page*/
+        widows: 2;
+    }
+
+    /*chapeau de la redac*/
+    #edito-print{
+        display: block;
+        text-align: center;
+        font-weight: 300;
+        font-style: italic;
+        margin-top: 1.5cm;
+    }
+    /*chapeau de l'auteur*/
+    #chapeau-auteur-print{
+        float: right;
+        width: 100%;
+        /*margin-left: 15px;*/
+        text-align: center;
+        font-weight: 200;
+    }
+
+    #ole-print{
+        font-weight: 100;
+        /*cette élément se comporte en block pour se positionner à la suite et non en ligne*/
+        display: block;
+        width: 100%;
+        /*appel de la police*/
+        font-family: 'Neuton', serif;
+        font-size: 40pt;
+        /*le texte est centré*/
+        text-align: center;
+        margin-top: 0.5cm;
+        margin-bottom: 0.7cm;
+    }
+
+    /*---------------------------------------------------------------Article*/    
+
+    #articleAndGallery{
+        display: none;
+    }
+
+    #meta2{
+        display: none;   
+    }
+
+    #article_relie{
+        display: none;
+    }
+    #article_print{
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
+
+    /*---------------------------------------------------------------Notes*/    
+    #note_chapeau_print{
+        font-size: 10pt;
+        /*interlignage*/
+        line-height: 13pt;
+        /*graisse*/
+        font-weight: 300;
+        text-align: center;
+        orphans: 2;
+        widows: 2;
+    }
+
+
+    #note_print{
+        font-size: 9pt;
+        line-height: 12pt;
+        /*font-weight: lighter;*/
+        orphans: 2;
+        widows: 2;
+    }
+
+    .footnote_call {
+        font-weight: bolder;
+        line-height: inherit;
+        color: black;
+
+    }
+
+    #couverture .footnote_call,
+    #couverture .footnote_content {color: black;}
+    .footnote_call::before { content: "["}
+    .footnote_call::after { content: "]"}
+
+    .footnote_content{
+        color: black;
+    display: none;
+    }
+
+ /*///////////////////////////////////////////////////////////ARTICLE ESSAIE VISUEL*/
+
+    #essaie{
+    background: white;
+    }
+
+/*//////////////////////////////////////////////////////////////////////////IMAGES */
+    #menu-overlay, #gallery-overlay.visible, #menu-overlay.visible, .gallery, .gallery.opened, .gallery img{
+    display: none;
+    }
+
+    /*--------------------------------------------------------------- Les IMAGES*/
+
+    #btnGalerie{
+    display: none;
+    }
+
+    img{
+        width:60%; /*???*/
+        margin-bottom: 10px;
+        page-break-inside:avoid;
+        page-break-after:avoid;
+        page-break-before:auto;
+
+        /*margin-top: 10px;*/
+    }
+
+    #article_visuel img {
+        width: 100% !important;
+    }
+
+    #image_print{
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        float: left;
+        /*padding-right: 20px;*/
+
+
+    }
+
+    #titre_image_print{
+        /*margin-bottom: 0.5cm;*/
+        padding-right: 20px;
+    }
+
+}/* Ferme media screen*/
+
+

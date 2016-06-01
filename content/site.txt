@@ -1,17 +1,17 @@
-Title: Kirby Starterkit
+Title: échappées
 
 ----
 
-Author: Bastian Allgeier GmbH
+Author: École supérieure d'art des Pyrénées
 
 ----
 
-Description: This is Kirby's Starterkit.
+Description: Revue en ligne d'art et de design de l'École supérieure d'art des Pyrénées — Pau Tarbes
 
 ----
 
-Keywords: Kirby, CMS, file-based
+Keywords: Pau,Tarbes,Révue,Numérique,Recherche,Pédagogie,Design,Graphique,Multimédia,art,école,pyrénées,en ligne,échappées,ESA
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://getkirby.com text: Kirby)
+Copyright: École supérieure d'art des Pyrénées © 2016
