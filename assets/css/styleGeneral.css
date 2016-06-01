@@ -824,7 +824,8 @@
         border:3px solid rgba(255,255,255,.8);
         padding: 30px;
         padding-bottom: 10px;
-        max-width: 50rem;
+        max-width: 50rem;}
+    #meta{  
         margin-left: auto;
         margin-right: auto;
     }
@@ -1023,7 +1024,7 @@
         left: 16.66%;
         text-align: center;
         width: 33.3333%;
-        top: 10px;
+        top: 17px;
         z-index: 803;
         
         /*background-color: green;*/
