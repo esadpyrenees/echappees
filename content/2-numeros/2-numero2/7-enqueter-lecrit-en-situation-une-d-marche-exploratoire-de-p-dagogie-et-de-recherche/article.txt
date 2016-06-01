@@ -1,0 +1,167 @@
+Pagesettings-1: 
+
+----
+
+Title: Enquêter l’écrit en situation. Une démarche exploratoire de pédagogie et de recherche
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: francesca-cozzolino
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Suite à la dynamique impulsée par le processus de Bologne et l’harmonisation européenne des cursus (réforme dite LMD) en 2006, de nombreuses transformations se sont produites dans le paysage de l’enseignement supérieur artistique [1. Projets d’école évalués par l’*AERES* depuis 2011, depuis juin 2013 double tutelle *Ministère de la culture et de la communication* et *Ministère de l’enseignement supérieur et de la recherche*, développement des formations de troisième cycle et post-diplôme, montée en puissance de la dimension *recherche*.]. Celles-ci ont engendré une dynamique de structuration et stabilisation de la recherche en école d’art [2. Élaboration d’une charte nationale de la recherche (octobre 2012), permettant de s’accorder au niveau national entre écoles, mise en place d’une nouvelle formulation des appels à projets (avec l’apparition d’unités et programmes de recherche).]. Depuis, plusieurs rencontres, visant à faire un état des lieux des projets développés [3. Le dernier colloque sur la recherche en école d’art a eu lieu en février 2012, s’inscrivant dans le prolongement des différents ateliers organisés par Yolande Padilla de la Direction Générale de la Création Artistique (DGCA) et à la suite d’autres initiatives telles que : le colloque « Chercher sa recherche » (Nancy, 2005), les Assises Nationales des écoles supérieures d’art (Rennes, 2006), le colloque « Experimenta », (Annency, 2007), La recherche en art (séminaire pluridisciplinaire organisé par Jehanne Dautrey en 2007-2008, ENSA, Nancy), Le colloque « Recherche et création », ( ENSA, Nancy, 2010). Voir : les ressources publiées sur le site de l’*ANdÉA* ainsi que les actes des colloques cités : Jehanne Dautrey (dir), « La recherche en art », Paris, éd. MF, 2010 ; « Chercher sa recherche. Les pratiques et perspectives de la recherche en école supérieure d’art », Presses universitaires de Nancy, 2011.], ont eu lieux et les expérimentations de formes possibles se sont multipliés, pour que la recherche en école d’art fasse partie intégrante de la pédagogie.
+
+Nous témoignons ici d’une expérience entreprise au sein de l'École supérieure d'art des Pyrénées – Pau par laquelle nous avons cherché à lier la pédagogie avec un projet de recherche mené au sein de l’école. Il s’agit du projet « enquêter l’écrit en situation » [4. « Enquêter l’écrit en situation » est l’un des volets du programme de recherche « Écrire dans l’espace » porté par les designers Marie Bruneau et Bertrand Genier au sein de l’unité de recherche *L’Observatoire* de l’ÉSA Pyrénées – Pau :**http://www.esapyrenees.fr/fr/recherche/programmes-de-recherche**] qui a donné lieu au cours de méthodologie de la recherche ensciences sociales appliquée au design graphique (ÉSA Pyrénées – Pau, octobre 2012 – avril 2013). À travers ce cours, il a été mis en place une enquête collective sur les écritures exposées [5. Fraenkel, B., « Les écritures exposées », in *Linx*, 1994, pp. 99-110.] qui signalent et construisent le patrimoine de la ville de Pau. Dans une perspective pragmatique et dans l’idée de saisir les objets graphiques comme les produits d’actes d’écriture [6. Fraenkel, B., « Actes d’écriture : quand écrire c’est faire », in *Langage et société*, 121-122, 2007, pp. 101-112.],nous avons voulu, par ce projet, d’une part inventorier les différentes actions accomplies de ces objets graphiques s’affichant dans la ville (baliser, visualiser, organiser, construire une image du patrimoine) et d’autre part, questionner les visions du patrimoine détenues par les acteurs produisant ces écrits (Fig. 1 – 4). Il s’agit de prendre en compte toute forme d’écriture exposée (permanente, numérique, ou bien liée à une temporalité d’un évènement) et d’étudier la mise en patrimoine par l’écrit de la ville à partir de trois questions : quelle mise en valeur du patrimoine par l’écrit ? Quelles en sont les formes d’écritures ? Quelle gestion est faite de ces écrits inscrits dans l’espace public ?
+
+(image: echappees_2_51.jpg)
+#####© Amélie Lasserre
+
+(image: echappees_2_63.jpg)
+#####© Amélie Lasserre
+
+(image: echappees_2_64.jpg)
+#####© Amélie Lasserre
+
+(image: echappees_2_52.jpg)
+#####© Amélie Lasserre
+
+Les étudiants par des méthodes telles que l’observation, l’entretien, la recherche bibliographique, le recueil de données visuelles, ont été portés à l’analyse critique de productions graphiques. Celle-ci a été favorisée par des modalités de fonctionnement associant designers et enseignants de sciences sociales dans les ateliers de projet (APP). Cette proposition visait à dépasser le clivage entre recherche pratique et recherche théorique ainsi que la division des espaces pédagogiques (salle de cours magistral et ateliers). Il s’agissait alors d’initier à la recherche par la pratique de ses méthodes, d’apprendre la recherche par la recherche. Cet esprit a alimenté non seulement la phase d’enquête mais également celle de la mise en forme des résultats. Par le concours d’un designer multimédia, trois étudiants [7. La plateforme « Les écritures du patrimoine. Enquêter l’écrit en situation » a été conçue et développée par Marine Illiet, Loic Morizur et Sébastien Garciaz, étudiants en 3<sup>e</sup> année design graphique multimédia à l’ÉSA Pyrénées – Pau, accompagnés par Julien Bidoret, designer multimédia.] ont été encouragés à créer une plateforme numérique dédiée au stockage, au traitement et à la diffusion des données [8. **http://recherche.esapyrenees.fr/ecritures**]. La restitution de ce travail était pensée comme une invitation à réfléchir à des nouvelles formes pour donner à voir la recherche et à développer un travail d’architecture de l’information se situant entre un design de la recherche (son processus, ses développements théoriques) et un design de la donnée (data). Les données géo-localisées s’affichent sur une interface qui présente une carte du territoire dans laquelle se sont déroulées les enquêtes. Ce système de visualisation permet de mettre en avant le contexte du recueil des données et s’appuie sur l’exemple d’autres recherches visibles dans une publication numérique (comme c’est le cas de la version web de l’enquête de Bruno Latour « Paris Ville invisible » [9. Latour B. et Hermant E., 1998, « ville invisible », design Susanna Shannon, Les empêcheurs de penser en rond ; Paris, La Découverte. Version web : **http://www.bruno-latour.fr/virtual/index.html**]). Un autre enjeu identifié lors de l’élaboration de cette plateforme a été la visualisation de différentes *strates* de données. Les designers ont mis en place un système permettant d’articuler trois niveaux d’information : *viz* (visualisation tout public), *data* (les données géolocalisées, images, textes, données sonores), *meta* (des commentaires méthodologiques et pédagogiques constitués des retours des étudiants et des encadrants sur les démarches employées lors des enquêtes). Ainsi, différentes couches d’informations se combinent pour proposer une lecture adaptée à chaque type d’usage (de la simple consultation à l’outil de travail) et de visiteur (du grand public à l’utilisateur expert) tels qu’ils ont pu être déterminés au sein d’un cahier des charges. La réflexion menée sur l’ergonomie du site a permis de mettre en place trois modalités de navigation : par dossier thématique, par mots clefs et par lieux. La plateforme a également été pensée pour s’adapter à tous les types d’écran (ordinateur, tablette, *smartphone*) et à tous les types de situations produites par le contenu. Puisque l’un des enjeux était de penser un outil de visualisation des données pouvant convenir aux différentes phases du projet développées au cours des années à venir, l’une des contraintes les plus importantes était d’élaborer une interface présentant un contenu dynamique, en évolution constante et d’anticiper les possibilités, les exceptions ainsi que les cas particuliers.
+
+La méthodologie du projet « Les écritures du patrimoine » a cherché à initier des étudiants à et par la recherche et s’inscrit dans l’intention d’apporter en école d’art la culture de l’enquête et dans une série d’expériences menées auparavant au sein de l’École Nationale Supérieure de Création Industrielle (ENSCI – Les Ateliers). Ici nous avions mené une première expérience d’enquête collective par la mise en place du cours « Anthropologie et design, observation, critique et prospection » [10. Mené entre février et juin 2012, ce cours était l’un des résultats de la politique de recherche de l’équipe Paris Design Lab dans le cadre du programme de recherche « La ville laboratoire d’innovation sociale ». Dans ce cadre, il a été développé une méthodologie de recherche articulant enquêtes, enseignements et projets de design. Voir : F. Cozzolino et E. Le Gulvout, « Smart City Displays project. Recherche et design : interroger les objets urbains connectés », juin 2012, in *Les Carnets de recherche* de l’ENSCI – Les Ateliers, Paris et Cozzolino F., 2012 « Penser un objet de design dans la ville. Premiers éléments d’une enquête en cours sur le projet *Autreville*,* le Philotope* n°9 (Gerphau-Lavue), pp 85- 91. Titre du numéro « L’objet milieu », dirigé par Antonella Tufano.]. Les six élèves [11. Il s’agit de Olga Aranda Basave, Eleni Chalati, Coline Fontaine, Chrysanthi Kastani, Hugo Kreit, Arnaud Wink.] ayant participé au cours ont été engagés à part entière dans un volet du programme de recherche qui ciblait l’observation de la phase d’expérimentation d’une sélection de projets ayant été lauréats de l’appel de la Mairie de Paris *Mobilier urbain intelligent* en 2011.
+
+Au cours de ces deux expériences ont été adoptées des démarches exploratoires appartenant au champ de la recherche en sciences sociales pour l’appliquer à celui du design et plus particulièrement du design graphique. Ainsi ont été privilégiées des expériences de micro-terrains collectifs dans l’intention de mettre en avant une approche pragmatique également dans les cours théoriques. Tout en restant attentifs à la distinction qui existe entre travail d’intellectualisation  et entreprise de théorisation, l’ambition de ces projets était de chercher des collaborations entre plusieurs champs disciplinaires, d’ancrer le travail issu d’une initiation à l’enquête dans une culture du projet en design et de faire de la recherche un espace collectif articulant aussi bien l’équipe enseignante que les étudiants. Les écoles d’art ont un passé fertile dans le développement des formes émancipatrices en matière de pédagogie qui permettent de dépasser la dialectique du maître et de l’élève (l’un des exemples qui a fait école est celui du *Bauhaus*, ou encore *Black Mountain College* ou *Rijksakademie* d’Amsterdam). Les formes de recherches en école d’art sont aussi diverses que celles des séquences pédagogiques (séminaires, *workshops*, semaines intensives, cours semestriels, résidences, atelier à projets, ateliers recherche-création, etc.). Elles offrent des véritables occasions pour renouveler des modèles pédagogiques centrés sur la seule transmission de savoir (le modèle universitaire) ou de savoir-faire (le modèle des académies). Notre souhait est que la recherche en école d’art puisse élaborer autant de formes de construction des connaissances susceptibles de créer des nouvelles zones de contact entre pratiques créatives et savoirs.
+
+(image: echappees_2_66.jpg)
+#####Maquettes de l’interface, par Marine Illiet
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-enqueter-lecrit-en-situation.une-demarche-exploratoire-de-pedagogie-et-de-recherche.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Francesca Cozzolino
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] Projets d’école évalués par l’*AERES* depuis 2011, depuis juin 2013 double tutelle *Ministère de la culture et de la communication* et *Ministère de l’enseignement supérieur et de la recherche*, développement des formations de troisième cycle et post-diplôme, montée en puissance de la dimension *recherche*.
+
+[2.] Élaboration d’une charte nationale de la recherche (octobre 2012), permettant de s’accorder au niveau national entre écoles, mise en place d’une nouvelle formulation des appels à projets (avec l’apparition d’unités et programmes de recherche).
+
+[3.] Le dernier colloque sur la recherche en école d’art a eu lieu en février 2012, s’inscrivant dans le prolongement des différents ateliers organisés par Yolande Padilla de la Direction Générale de la Création Artistique (DGCA) et à la suite d’autres initiatives telles que : le colloque « Chercher sa recherche » (Nancy, 2005), les Assises Nationales des écoles supérieures d’art (Rennes, 2006), le colloque « Experimenta », (Annency, 2007), La recherche en art (séminaire pluridisciplinaire organisé par Jehanne Dautrey en 2007-2008, ENSA, Nancy), Le colloque « Recherche et création », ( ENSA, Nancy, 2010). Voir : les ressources publiées sur le site de l’*ANdÉA* ainsi que les actes des colloques cités : Jehanne Dautrey (dir), « La recherche en art », Paris, éd. MF, 2010 ; « Chercher sa recherche. Les pratiques et perspectives de la recherche en école supérieure d’art », Presses universitaires de Nancy, 2011.
+
+[4.] « Enquêter l’écrit en situation » est l’un des volets du programme de recherche « Écrire dans l’espace » porté par les designers Marie Bruneau et Bertrand Genier au sein de l’unité de recherche *L’Observatoire* de l’ÉSA Pyrénées – Pau : http://www.esapyrenees.fr/fr/recherche/programmes-de-recherche
+
+[5.] Fraenkel, B., « Les écritures exposées », in *Linx*, 1994, pp. 99-110.
+
+[6.] Fraenkel, B., « Actes d’écriture : quand écrire c’est faire », in *Langage et société*, 121-122, 2007, pp. 101-112.
+
+[7.] La plateforme « Les écritures du patrimoine. Enquêter l’écrit en situation » a été conçue et développée par Marine Illiet, Loic Morizur et Sébastien Garciaz, étudiants en 3<sup>e</sup> année design graphique multimédia à l’ÉSA Pyrénées – Pau, accompagnés par Julien Bidoret, designer multimédia.
+
+[8.] http://recherche.esapyrenees.fr/ecritures
+
+[9.] Latour B. et Hermant E., 1998, « ville invisible », design Susanna Shannon, Les empêcheurs de penser en rond ; Paris, La Découverte. Version web : http://www.bruno-latour.fr/virtual/index.html
+
+[10.] Mené entre février et juin 2012, ce cours était l’un des résultats de la politique de recherche de l’équipe Paris Design Lab dans le cadre du programme de recherche « La ville laboratoire d’innovation sociale ». Dans ce cadre, il a été développé une méthodologie de recherche articulant enquêtes, enseignements et projets de design. Voir : F. Cozzolino et E. Le Gulvout, « Smart City Displays project. Recherche et design : interroger les objets urbains connectés », juin 2012, in *Les Carnets de recherche* de l’ENSCI – Les Ateliers, Paris et Cozzolino F., 2012 « Penser un objet de design dans la ville. Premiers éléments d’une enquête en cours sur le projet *Autreville*,* le Philotope* n°9 (Gerphau-Lavue), pp 85- 91. Titre du numéro « L’objet milieu », dirigé par Antonella Tufano.
+
+[11.] Il s’agit de Olga Aranda Basave, Eleni Chalati, Coline Fontaine, Chrysanthi Kastani, Hugo Kreit, Arnaud Wink.

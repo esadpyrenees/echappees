@@ -1,0 +1,17 @@
+Title: Julie Morel
+
+----
+
+Text-bio: Julie Morel est artiste. Sa pratique est alimentée par une volonté d’interroger les relations quotidiennes qu’entretient l’homme avec la technologie, notamment au travers du langage. Ses propositions, souvent liées à l’histoire de l’art conceptuel, sont dirigées vers la textualité. Elle se penche et explore ainsi diverses formes et champs de l’écriture : la littérature, la traduction, le code informatique, le commentaire et le métalangage, la partition. En résidence au centre d’art de la *Maison populaire* et à la *Gaîté Lyrique* en 2012-2013, elle expose régulièrement son travail en France ou à l’étranger, dans des institutions (*Centre Pompidou*, *Glasgow Sculpture Studio*, *Centre d’art de Neuchâtel*, *BBB centre d’art*) ou des structures indépendantes (*White Space* Zürich, le *Bon accueil* Rennes, *Basekamp Gallery* Philadelphie). Enseignante à l’EESAB (Lorient), elle est directrice scientifique des projets de recherche « Autoarchivage immédiat comme œuvre » et « Géographies variables », soutenus par le *Conseil Scientifique de la Recherche en école d’art* (MC).
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+----
+
+Text-liste-articles: (link: numeros/numero2/de-lauto-archivage-immediat-comme-oeuvre text: n°2 : De l’auto-archivage immédiat comme œuvre)

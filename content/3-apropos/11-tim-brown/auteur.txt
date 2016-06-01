@@ -1,0 +1,20 @@
+Title: Tim Brown
+
+----
+
+Text-bio: Président d’IDEO, société qui a fondé sa réputation en créant la première souris d’*Apple* et le *Palm V*. IDEO conseille des entreprises multinationales et des organismes publics, dans les domaines de l’éducation, la santé ou le social. Tim a reçu de nombreux prix en design, et ses travaux ont été exposés au *Museum of Modern Art* de New York, à l’*Axis Gallery* de Tokyo et au *Design Museum* de Londres. Il a obtenu en 2004 un doctorat de science honoraire de l’*Art Center College* de Pasadena, Californie, et a été nommé en 2005 professeur invité en design à l’*University de Northumbria*, Newcastle, Angleterre. Tim Brown, Barry Katz, « Change by Design : how design thinking transforms organizations and inspires innovation », *Harper Collins Publishers*, New York, 2009. Pour l’édition française, « L’Esprit design : le *design thinking* change l’entreprise et la stratégie », titre traduit par Laurence Nicolaieff, collection *Village Mondial*, *Éditions Pearson*, août 2010.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+(link: www.ideo.com text: www.ideo.com popup: yes)
+(link: http://designthinking.ideo.com text: designthinking.ideo.com popup: yes)
+
+----
+
+Text-liste-articles: 

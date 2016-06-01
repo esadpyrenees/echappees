@@ -1,0 +1,187 @@
+Pagesettings-1: 
+
+----
+
+Title: Objets Esthétiques non Identifiés
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: christophe-bruno
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+### Le réseau et les strates temporelles de visibilité
+La vision apparaît comme un phénomène instantané. De la critique de cette illusion est née la révolution scientifique connue sous le nom de « théorie de la relativité ». Pourtant, malgré ce progrès de la raison, il semble qu’il soit difficile, voire impossible, de se départir de cette impression d’instantanéité. Sans doute cette erreur a-t-elle une fonction dans la phénoménologie de la perception. Quoi qu’il en soit, pour ce qui concerne la question de l’invisible, le retard de perception est une composante essentielle : comment différencier ce qui est proprement invisible de ce qui n’est pas encore perçu, voire de ce qui est aperçu mais pas encore reconnu comme effectivement perçu ; voire encore, de ce qui est aperçu et reconnu comme effectivement perçu, mais dénié ou confondu avec un autre signal ? Nous ne réalisons notre erreur que lorsque l’information passe par plusieurs canaux différents, comme dans le cas du décalage entre l’éclair et le tonnerre, ou si notre appareil perceptif se met à dysfonctionner : un aveugle a peut-être une perception plus proche de ce que serait un monde de lenteur, délivré de son immédiateté factice car, pour lui, toute perception des formes prend du temps — ce temps dont il a besoin pour caresser un visage et ainsi le « voir ». Que se passerait-il si la vitesse de la lumière était plus petite — par exemple, si elle était égale à celle d’un cycliste, soit 30 km / h environ [1. Comme il en est fait l’hypothèse dans le livre *Le nouveau monde de M.Tompkins*, publié pour la première fois en 1941. George Gamow, Russell Stannard, 2007, *Le nouveau monde de M.Tompkins*, éd. Le Pommier, Paris.] —, ou bien si les photons avaient l’allure de ballons de football ? La théorie de la relativité et la mécanique quantique seraient-elles moins énigmatiques ? Nous nous rendrions compte en particulier que la simultanéité et l’ordre de deux événements dépendent de notre propre vitesse [2. Mais avec la condition importante que la cause reste antérieure à l’effet dans tous les référentiels.]. Les perceptions visuelles n’auraient plus cette évidence d’immédiateté car nous arriverions plus facilement à comparer les durées que met l’information provenant d’un même événement à parcourir des canaux différents. Dans de telles conditions, la notion d’information aurait peut-être alors émergé plus rapidement dans l’histoire. Celle d’indéterminisme aussi, car si nous vivions à l’échelle des atomes, nos propres cognitions et perceptions seraient conditionnées par des phénomènes de type quantique.
+
+Avec l’avènement du réseau des réseaux, puis du *World Wide Web*, dans les années 1990, la phénoménologie de la perception changet-elle ? On affirme souvent que le rythme de l’information s’est considérablement accéléré. Il suffit de voir quelle impatience s’empare de certains lorsqu’ils n’ont plus de connexion Internet. Pourtant, il me semble que cette question appelle une réponse plus sophistiquée. Ne peut-on trouver, dans notre monde en réseau, des exemples de décélération, du moins de temporalités lentes, comme celles sur lesquelles l’humanité a vécu jusqu’alors ?
+
+En consultant par exemple l’archive de mes mails sur plusieurs années, je me rends compte qu’il y a de plus en plus de personnes à qui je mets de plus en plus de temps à répondre. Mon temps de réponse semble parfois se ralentir à un point extrême ; il est, de plus, très dépendant de ma localisation effective à l’intérieur de l’espace-temps réticulaire dans lequel j’évolue : dans certains cas, je suis très réactif, ce qui est en accord avec l’idée d’une accélération générale, mais dans d’autres cas, sans doute moins nombreux, l’échelle de temps devient démesurée et, à certains de mes correspondants,je ne répondrai peut-être jamais. Dans la sphère des échanges informationnels, ces situations de saturation, autrefois exceptionnelles, sont aujourd’hui la norme.
+
+L’étude récente de ces profils d’activité en théorie des réseaux montre que les lois de répartition statistiques qui les gouvernent ne dépendent pas du contenu des messages, ni des caractéristiques des interlocuteurs. On trouvera une analyse et un exposé vulgarisé de ces phénomènes de temporalité à l’ère des réseaux dans le dernier essai du physicien Albert-László Barabási, *Bursts : The Hidden Pattern Behind Everything We Do* [3. Albert-László Barabási, 2011, *Bursts : The Hidden Pattern Behind Everything We Do*, éd. Plume Books, New York.]. Dans son premier ouvrage de vulgarisation, Linked [4. Albert-László Barabási, 2003, *Linked : How Everything Is Connected to Everything Else and What It Means for Business, Science, and Everyday Life*, éd. Plume Books, New York.], livre essentiel pour comprendre le renouveau de la théorie des réseaux et son importance pour notre civilisation, Barabási explique comment les réseaux complexes (Web, réseaux sociaux, réseaux sémantiques ou économiques …), ont une tendance naturelle à se hiérarchiser de manière subtile et universelle — propriété qui se révèle être l’essence même du Web 2.0 [5. Dans le Web 2.0, chaque consommateur devient également producteur de l’information qui circule sur le réseau.]. Elle a pour nom « invarianced’échelle » : le réseau est similaire à lui-même quelle que soit l’échelle à laquelle on l’observe, comme un fractal ; à toutes les échelles, de près ou de loin, la structure de hiérarchisation d’un tel réseau reste identique à elle-même. Dans un réseau invariant d’échelle, on décompte un très petit nombre de noeuds très connectés, un nombre plus important de noeuds possédant un peu moins de connections, et ainsi de suite, jusqu’à la périphérie du réseau qui contient un très grand nombre de noeuds très peu connectés.
+
+(image: scale-free_network_sample.jpg caption: Sur la gauche, un réseau *distribué* ou démocratique, sur la droite, un réseau invariant d’échelle., <http://en.wikipedia.org/wiki /> File : Scale-free_network_sample.png © Carlos Castillo)
+
+Dans *Bursts*, Barabási s’intéresse aux modes de temporalité des réseaux et à la prévisibilité des comportements humains, dans la mesure où ils font partie de la société d’*hyper*-surveillance dans laquelle nous sommes entrés. Il étudie par exemple l’étude du déplacement sur Terre des êtres humains géolocalisés par leur téléphone mobile ou, plus simplement, le rythme d’envoi des e-mails dont je parlais précédemment. Dans les rythmes d’envoi des e-mails au cours du temps, on trouve statistiquement de nombreuses périodes où les envois se font de manière rapide, concentrée et saccadée (en *bursts, i.e*. en « saccades »), des moments moins nombreux pendant lesquels nous sommes moins réactifs, des moments encore moins nombreux témoignant d’une activité encore plus faible, etc.
+
+(image: longtail2.jpg caption: La longue traîne: La distribution des connexions sur un réseau « invariant d’échelle » suit la fameuse « longue traîne », concept popularisé en 2004 au moment de l’émergence du Web 2.0. Elle décrit un marché rendu accessible par les possibilités d’Internet : des produits qui font l’objet d’une demande peu élevée ou qui ont un volume de vente faible (dans la zone de droite, en gris foncé), peuvent constituer collectivement, en tant que somme de « marchés de niche », une part de marché au moins égale à celle des best-sellers (dans la zone de gauche, en en gris clair). Un exemple de rentabilisation de la longue traîne est le modèle économique d’Amazon. com, où la demande totale pour les articles faiblement demandés dépasse la demande totale des articles très demandés, best-sellers et autres blockbusters. Cette loi empirique de la longue traîne fut découverte pour la première fois par l’économiste néo-classique Wilfredo Pareto à la fin du XIXe siècle ; elle est appelée aussi « distribution de Pareto » ou « loi des 80 – 20 ». Dans *Bursts*, Barabási montre que le rythme de nombreux comportements humains suit cette loi statistique caractéristique de l’« invariance d’échelle ».)
+
+Chacun aurait l’impression d’agir de manière imprévisible, d’avoir son mode d’action qui lui est propre or, dans la plus grande diversité apparente, on observe, selon Barabási, des comportements plutôt prévisibles et compatibles avec le fait que le réseau serait ainsi constitué d’une multitude de strates de temporalités, hiérarchisées ainsi que le prédit la loi d’invariance d’échelle. Ces considérations permettent d’envisager la persistance de temps longs et de ralentissements au sein d’un réseau social — espace où l’accélération des processus semble en première approche dominer la phénoménologie des échanges.
+
+### Visibilité de la visibilité de la visibilité — le cas de Fascinum
+L’histoire de l’art est en partie bâtie sur notre phénoménologie de la perception. Il suffit, pour s’en convaincre, d’imaginer par exemple ce que serait une histoire de la peinture pour les aveugles [6. Dans le domaine du net.art, voir par exemple Vuk Ćosić, 1999, ASCII art history for the blind. Consultable à l’adresse www.ljudmila. org /~vuk / ascii / blind [7] Christophe Bruno, 2001, *Fascinum*. Consultable à l’adresse www.unbehagen.com/fascinum.]. Un renouveau de la phénoménologie de la perception à l’ère du *World Wide Web* ne devrait-il donc pas impliquer de repenser, une fois de plus, la question de l’histoire de l’art, dans le cadre du chiasme entre « histoire de la perception » et « perception de l’histoire » ?
+
+La quatrième et dernière section de cet article sera consacrée à une introduction au projet ArtWar(e), qui propose une approche non standard de l’histoire de l’art et des concepts, à l’ère du réseau. La section présente et la suivante servent de transition, et prennent appui sur une oeuvre Web que j’ai réalisée en 2001, *Fascinum* [7. Christophe Bruno, 2001, *Fascinum*. Consultable à l’adresse www.unbehagen.com/fascinum. ], intimement liée à la question de la temporalité dans le champ scopique.
+
+*Fascinum* est un programme informatique qui détourne Yahoo. Chaque portail national de Yahoo archive, comptabilise et classe les actualités les plus consultées dans les médias du pays en question. Fascinum récupère ces images d’actualité les plus vues (classées de 1 à 10), et les met ensemble dans une page Web, sous la forme d’une grille d’images, classées par pays (les colonnes) et par degré d’intérêt décroissant (les lignes). Comme l’indique la description de l’oeuvre, Fascinum montre « une vision panoptique en temps réel des sujets de fascination de l’humanité ».
+
+(image: fascinum2.jpg caption: Christophe Bruno, *Fascinum*, installation, 2001 www.unbehagen.com / fascinum © Christophe Bruno)
+
+Ce travail interroge la phénoménologie du visible et sa temporalité sur trois strates différentes.
+
+La première strate concerne la *visibilité des faits*, c’est-à-dire le champ du regard, dans sa globalité. Constituée par les flux d’actualités qui parcourent la planète, cette strate est branchée sur l’appareil perceptif global, soit l’ensemble des caméras et appareils de captation qui enregistrent les événements se produisant dans le monde.
+
+Dans l’espace médiatique, blogosphère incluse, le temps de vie d’une actualité est extrêmement court, de l’ordre de quelques heures, et la valeur de l’actualité est extrêmement volatile [8. Tom Glocer, PDG du groupe Thomson Reuters, affirme en 2009 que l’information atteint sa valeur la plus élevée dans les 3 premières millisecondes. Cf. <http://buzzmachine.com/2009/11/23/the-half-life-ofnews/>]. Si l’événement est important, couvert par de nombreux canaux de diffusion, il pourra éventuellement subsister quelques jours ou plus. Cette strate temporelle est ainsi le lieu d’une accélération considérable des processus de diffusion (par comparaison avec l’espace médiatique tel qu’il se présentait avant l’émergence du Web).
+
+Ces flux d’actualités sont ensuite archivés et comptabilisés, en particulier grâce à des dispositifs d’archivage comme celui de Yahoo, ou de surveillance de cet archivage, comme *Fascinum*. Un tel dispositif est aveugle aux faits eux-mêmes, mais observe les regards sur les faits. De manière récursive, le regard se regarde. Cette deuxième strate est celle de la* visibilité de la visibilité des faits*, strate sur laquelle « vit » mon installation.
+
+L’échelle de temps caractéristique y est naturellement plus grande que pour la première strate. Imaginez le haut d’une vague informationnelle : chaque actualité est une molécule informationnelle qui reste en haut de la vague pour un temps très court, alors que le sommet de cette vague semble avoir une durée de vie bien supérieure.
+
+Mais lorsque la vague s’épuise, son énergie se transfère vers d’autres potentialités. La visibilité du dispositif de surveillance de l’archivage, en tant qu’il prend une existence désormais identifiée dans le monde médiatique, est elle-même soumise à des variations temporelles. C’est la troisième strate, celle de la visibilité à la puissance trois, si l’on peut dire : visibilité de la* visibilité de la visibilité des faits*. Sa temporalité propre est liée à la vie et à la mort des concepts dont* Fascinum* est une incarnation — de même qu’une vague de l’océan peut mourir puis revivre sous la forme d’une vague nouvelle.
+
+### Temporalité de la troisième strate
+Pour comprendre la temporalité de cette troisième strate, il nous faut essayer de suivre à la trace les flux de concepts, leur émergence et leur obsolescence, comme leurs échanges à travers les frontières de l’espace réticulaire de la connaissance humaine. C’est l’exercice auquel je me suis livré en essayant de saisir comment, au cours des années, le concept associé à* Fascinum *a migré de communauté en communauté : alors qu’en 2001, *Fascinum *s’avère difficilement exposable et invendable, dans la mesure où sa pérennité en tant qu’installation n’est pas assurée, en 2004, un designer réalise un projet très similaire pour le compte de la société Benetton et, assez ironiquement, le projet est vendu en 2005 à... Yahoo. Ce type de récupération fait partie d’un phénomène plus général : au moment de l’émergence du Web 2.0, le monde des entreprises privées se ré-empare des stratégies de parasitage et d’infiltration mises en œuvres par les artistes activistes dans la mouvance desquels je gravitais, pour les récupérer à des fins marchandes (on parle alors de *guerilla marketing*). Mon détournement initial était ainsi « re-détourné » trois ans plus tard. En 2007, *Fascinum*, que j’avais transformée entre-temps en installation murale pérenne,
+a finalement obtenu le New Media Prize à ARCo, la Foire d’art contemporain de Madrid puis, dès 2010, est entrée dans plusieurs collections privées.
+
+Ce trajet, le long duquel la notion de paternité se révèle très volatile, qui part du monde du capitalisme de réseau, pour se rapprocher de la frontière du *mainstream* de l’art contemporain, en passant successivement par l’art activiste sur le réseau, le monde du design et celui du marketing, dessine ainsi une boucle étrange qui replonge dans le monde du capitalisme de réseau au moment de la vente du projet à Yahoo par Benetton. Il fait également une bifurcation dans la sphère du politique : toujours en 2007, les élections présidentielles en France sont marquées par l’irruption des principes du Web 2.0 dans le champ politique. En particulier, le site Web de Ségolène Royal [9. www.desirsdavenir.org NB : cette page n’est aujourd’hui plus visible sur le site. On trouve un archivage de ces visuels sur www.flickr.com / photos / segolene / 214148629 /] présente sur sa page d’accueil une grille d’images. Il s’agit d’un panorama de photos qui circulent dans l’espace médiatique, et qui sont en lien avec la candidate. Étrangement, mais peut-être n’est-ce qu’un hasard, la photo de l’affiche de campagne de Ségolène Royal a été prise par Oliviero Toscani, le photographe auteur de célèbres clichés pour la société Benetton.
+
+Le concept commun à la série des dispositifs — appelons-le, pour fixer les idées, « panopticisme digital » — met au moins une décennie à parcourir les différentes communautés évoquées et semble passer par un pic de visibilité, en 2007, au moment des élections présidentielles en France. Il n’est lui-même qu’un représentant d’un concept plus abstrait qui parcourt l’histoire sur des échelles de temps encore plus vastes. Malheureusement, ici, il s’avère plus difficile de poursuivre mon argumentation dans la mesure où elle est supposée se baser sur notre entrée explicite dans la société du réseau. En réalité, je présume que cette argumentation est toujours valide, hors du contexte du Web, mais cela nous entraînerait dans une discussion qui dépasse le cadre de cet article.
+
+(image: segosphere.jpg caption: Copie d’écran d’une partie du site Web de Ségolène Royal au moment des élections présidentielles de 2007. © desirsdavenir.org)
+
+En résumé, si certains processus de communication et d’échanges ont semblé s’accélérer depuis l’émergence du réseau, d’autres doivent être vus comme possédant des temporalités plus lentes ou subissant des décélérations. La situation est rendue complexe par le fait que ces phénomènes ont lieu en parallèle.
+
+De plus — et c’est un point important, bien qu’hypothétique —, selon la loi d’invariance d’échelle évoquée plus haut, rien n’interdit l’existence de cycles encore plus lents, peut-être invisibles aux historiens eux-mêmes. Si l’on suit les conclusions de *Bursts*, l’existence de tels phénomènes de lenteur extrême serait une nécessité dans la mesure où nous pourrions appliquer le paradigme du réseau à de telles échelles de temps.
+
+### Rétro-ingénierie de l’invisible
+
+Nous envisageons désormais l’univers sémiotique comme un écosystème réticulaire composé de multiples strates temporelles de visibilité, à l’image d’un matériau translucide et hétérogène diffractant la lumière. Dans certaines zones, l’information se propage très rapidement, presque instantanément, et dans d’autres, nous sommes victimes d’aberrations perceptives et de mirages informationnels, dans d’autres encore, le temps semble s’être arrêté. Ces zones s’enchevêtrent de manière complexe, entre visibilité et invisibilité, pour former le paysage médiatique contemporain.
+
+Ces phénomènes de ralentissement des processus informationnels et de déperdition de visibilité ont été évoqués maintes fois dans divers champs de la connaissance. Sur le réseau, ces phénomènes deviennent plus repérables, explicites et souvent quantifiables. Ainsi, si Walter Benjamin parle en 1936 du « déclin de l’aura » à l’époque de la reproductibilité technique [10. Walter Benjamin, 2008, *L’œuvre d’art à l’époque de sa reproductibilité technique*, éd. Gallimard, Paris.], on pourrait dire que le concept de « déclin de l’aura » a aujourd’hui perdu de son aura. Dans le champ du marketing contemporain, c’est le « cycle de *hype* » qui décrit ces phénomènes d’alternance entre *hype* et désillusion, entre émergence et obsolescence. Les cycles de *hype* ont été introduits dans les années 1995 par la société de consulting américaine Gartner, qui remarque que les produits de nouvelles technologies suivent toujours une même courbe d’émergence et d’obsolescence [11. Jackie Fenn & Marc Raskino, 2008, *Mastering the hype cycle, Gartner*, Inc, éd.]. Cette courbe présente deux temps : au premier temps, un *buzz* naît autour du produit émergent, mais, étrangement, après un pic de visibilité, l’idée sombre dans l’oubli. Or, selon Gartner, ce n’est que la première phase du cycle de hype, prélude à l’implémentation économique qui est sur le point de se produire. Dans cette première phase de *hype* très concurrentielle, le produit est testé, mis à l’épreuve et, de tous les concurrents, il n’en restera qu’un petit nombre qui va réussir à le porter sur le marché dans sa forme éprouvée.
+
+(image: hype2.jpg caption: Le cycle de hype selon la société Gartner.)
+
+Imaginons maintenant que l’on généralise cette approche au monde de l’art, des formes et des concepts. Après tout, la notion de hype n’est elle pas devenue essentielle dans le monde de l’art, depuis Warhol au moins, mais peut-être même depuis les débuts de la modernité en art et la question du « nouveau » chez Baudelaire ? Par ailleurs, la montée utopique, l’éclatement de la bulle fantasmatique, puis la chute dystopique — « tunnel de la désillusion » —, sont des phénomènes que les artistes vivent très concrètement. Quant à l’articulation de la phase immatérielle et spéculative avec la phase matérielle de l’implémentation économique, elle constitue en soi une des problématiques importantes de l’art contemporain, en particulier à l’ère des nouveaux médias. Enfin, ces cycles mettent en jeu les questions d’import-export entre communautés : une fois le concept mis à l’épreuve dans une communauté, c’est en général d’autres acteurs qui vont en tirer les bénéfices, comme dans l’exemple de* Fascinum*.
+
+L’idée de départ du projet *ArtWar(e)* [12. Disponible à l’adresse www.
+artwar-e.biz], collaboration avec le philosophe Samuel Tronçon initiée en 2010, est d’importer brutalement la notion de cycle de hype depuis le champ du marketing et des nouvelles technologies vers le champ de l’art et des concepts. Le site est présenté comme une agence de « gestion des risques artistiques » et de « curating assisté par ordinateur », mais c’est avant tout un projet de recherche sur l’évolution des formes et des concepts dans le contexte des réseaux sociaux [13. Le projet s’apparente à la « lecture de loin » proposée par le critique littéraire Franco Moretti, c’est-à-dire la reconnaissance de formes qui se dessinent sur des temps longs de l’histoire. Franco Moretti, 2008, Graphes, cartes et arbres. Modèles abstraits pour une autrehistoire de la littérature, éd. Les Prairies ordinaires, Paris.].
+
+Alors que les conditions qui président à l’émergence d’un concept et la localisation de sa source originelle restent mystérieuses et très certainement imprévisibles, le processus qui voit le concept se propager et se négocier au travers des frontières du corps social semble, au contraire, plutôt cyclique et reproductible. Ce sont ces cycles d’importexport, constitutifs de la dynamique du capitalisme cognitif, qu’*ArtWar(e)* a l’ambition de déconstruire dans le cadre d’une rétro-ingénierie des formes [14. En particulier grâce à une application informatique qui analyse le contenu sémantique des discussions dans les communautés sur le réseau social Facebook.].
+
+Comme on l’a vu dans les sections précédentes, les concepts transitent de communauté en communauté, suivant des temporalités diverses. Mais ils ne sont pas nécessairement identifiés en tant que tels : les formats qui parviennent jusqu’à nous ne sont, très certainement, qu’une infime partie d’un monde diffus dans lequel la plupart des phénomènes est en général indétectable. Outre le fait que les signaux associés puissent être trop faibles pour être détectés, ils peuvent rester inaperçus car ils se produisent selon des temporalités très lentes ; ils peuvent également être masqués, refoulés ou déniés dans les stratégies d’import-export.
+
+(image: hypecycle2.jpg caption:Un exemple de cycle de hype sur *ArtWar(e)* : le cycle de hype du « panopticisme digital », 2012, www.artwar-e.biz )
+
+Dans l’océan des formes esthétiques qu’*ArtWar(e)* cherche à observer, tout relief est un signifiant flottant ; il restera ainsi jusqu’à son entrée éventuelle dans l’univers de la valeur. Au moment de son importation dans le *mainstream*, soit lors de la deuxième phase de la courbe de *hype*, le marché, la critique ou l’histoire auront validé le concept, et feront de la vaguelette signifiante une forme historiquement identifiée et valorisable.
+
+Mais en dehors de l’îlot étroit du « spectaculaire concentré », l’océan « diffus » [15. Le terme « diffus » reprend ici la terminologie debordienne du « spectaculaire diffus », par opposition au « spectaculaire concentré ».Voir notamment Guy-Ernest Debord, 1988, Commentaires sur la société du spectacle, éd. Gérard Lebovici, Paris.] de ces objets esthétiques non identifiés constitue la masse cachée de l’univers conceptuel. Les physiciens appellent matière sombre, cette catégorie de matière hypothétique, encore non détectée, mais qui pourrait représenter 90 % de la densité totale de l’Univers observable.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: 
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Christophe Bruno
+
+----
+
+Article-sito: 

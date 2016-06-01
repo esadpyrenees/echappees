@@ -1,0 +1,105 @@
+Info-1: 
+
+----
+
+Pagesettings-1: 
+
+----
+
+Title: Curriculum vitæ
+
+----
+
+Articlevisuel-date: 1998-2013
+
+----
+
+Pagesettings-2: 
+
+----
+
+Articlevisuel-auteur: 
+
+- 
+  auteur_uid: elsa-mazeau
+
+----
+
+Pagesettings-3: 
+
+----
+
+Articlevisuel-medias: 
+
+(image: 1.jpg)
+#####« Curriculum vitæ », 1998-2013.
+
+(image: 2.jpg)
+#####« Curriculum vitæ », 1998-2013.
+
+(image: 3.jpg)
+#####« Curriculum vitæ », 1998-2013.
+
+(image: 4.jpg)
+#####« Curriculum vitæ », 1998-2013.
+
+(image: 5.jpg)
+#####« Curriculum vitæ », 1998-2013.
+
+Elsa Mazeau a proposé à des enfants de classes de primaires et de collèges de réaliser leur cv. Le contexte de la classe devient donc une manière d’anticiper par l’absurde la normalisation des parcours professionnels. Telle une archive autobiographique, l’expérience personnelle ou fictionnelle est convoquée et devient professionnelle. La dimention fantasmatique d’un futur proche l’alimente et sème les prémices d’un cv à venir.
+
+----
+
+Articlevisuel-image-texte: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Articlevisuel-domaine: 
+
+----
+
+Articlevisuel-keyword: 
+
+----
+
+Articlevisuel-biblio: 
+
+----
+
+Articlevisuel-url: 
+
+----
+
+Articlevisuel-pdf: (file: echappees-curriculum-vitae.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Pagesettings-5: 
+
+----
+
+Articlevisuel-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur-visuel: Elsa Mazeau
+
+----
+
+Articlevisuel-sito: 
+
+----
+
+Article-note-print: 
+
+----
+
+Articlevisuel-citer: 

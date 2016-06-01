@@ -1,0 +1,404 @@
+Pagesettings-1: 
+
+----
+
+Title: Les informations supplémentaires
+
+----
+
+Article-date: 2011-2013
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: elodie-royer
+- 
+  auteur_uid: yoann-gourmel
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: Les « informations supplémentaires » est une exposition racontée qui se modifie et se transforme à chaque fois qu’elle est présentée [1. La Galerie, Noisy-le-Sec, 2009 ; École européenne supérieure d’art de Bretagne, Brest, 2010 ; La Vitrine de l’ENSAPC, Paris, 2010 ; École supérieure d'art des Pyrénées – Tarbes, 2012 ; Le Pavillon blanc, Colomiers, 2012.], une exposition itinérante sous la forme d’un récit accompagné de gestes. C’est celui-ci que nous allons essayer de transmettre pour la première fois sous une forme écrite.
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Avant de commencer, nous voudrions citer quelques lignes issues de la préface de Bernard Faÿ, traducteur du livre de Gertrude Stein, « Américains d’Amérique, histoire d’une famille américaine » en 1933 : « Le grain de ce livre est très fin, il a le velouté de la peau humaine et jamais il n’a l’aspect d’une peau d’âne ; point de grande doctrine ou de thèse, point de belles explications en trois points. Les forces qui poussent et portent ces individus sont toutes intérieures et toutes elles sont exprimées comme des réalités intérieures, gaies ou tristes, tragiques ou comiques ; toutes les explications sont données par le contour et le contour des paragraphes nous donne la clef des destins comme le contour d’un visage nous donne la clef d’un caractère. »
+
+C’est effectivement de contours dont il est question dans cette exposition, de ces différents éléments textuels qui accompagnent la présentation d’une  œuvre ou d’une exposition afin d’en éclaircir ou d’en expliciter les enjeux ou le sens. Si une exposition est constituée d’ œuvres, elle est aussi composée d’un ensemble de textes et de paratextes, de récits autorisés et apocryphes, de discours et de rumeurs qui viennent les décrire, les commenter, les développer.
+
+Du communiqué de presse aux cartels, du carton d’invitation à l’audioguide, cette exposition explore les informations supplémentaires qui accompagnent habituellement l’expérience d’une  œuvre et participent à sa médiation ou à son archive. Si ces textes sont généralement rédigés par les commissaires, les services de communication ou de médiation, ces informations sont ici pour la plupart des  œuvres imaginées par des artistes.
+
+C’est donc à ces différents éléments textuels, à leur usage et à leur détournement par les artistes auxquels nous allons nous intéresser, à travers un ensemble d’ œuvres, de textes et de gestes réunis pour le plaisir d’une visite ensemble. Autrement dit, une exposition racontée, mise à nue par ses contours même.
+
+C’est ainsi que démarre la visite.
+
+### Le titre d’exposition
+Dans un café, un ami vous parle d’une exposition intitulée « Les informations supplémentaires » qui doit ouvrir prochainement. Il vous dit que vous découvrirez bientôt pourquoi tout en vous expliquant qu’elle devait s’appeler :
+« I have no information »
+
+... d’après une  œuvre intitulée « Show » Titles de Stefan Brüggemann, dont voici la description trouvée sur le site Internet www.showtitles.com : The Show Titles est une  œuvre en cours de Stefan Brüggemann, consistant en titres d’expositions. Ils sont disponibles gratuitement. Utilisez-les comme vous le souhaitez. Il n’y a pas à demander d’autorisation, utilisez seulement les titres d’expositions et créditez-les comme une  œuvre d’art (« Show Title, #XXX » par Stefan Brüggemann). Envoyez s’il vous plaît une copie du carton d’invitation et de tout le matériel imprimé à l’adresse suivante : *Show Titles, Flat 3, 84 Blackfriars Road, SE1 8HA, London, UK*.
+
+Quelques jours plus tard, vous recevez le carton d’invitation dans votre boîte aux lettres.
+
+### Le carton d’invitation
+
+Ce carton vous invite au vernissage de la première exposition de Marcel Broodthaers en avril 1964 à la Galerie Saint-Laurent à Bruxelles. Il est imprimé recto verso sur le papier glacé d’une page d’un magazine de mode remployée pour l’occasion. On peut y lire : « Moi aussi je me suis demandé si je ne pouvais pas vendre quelque chose et réussir dans la vie. Cela fait un moment déjà que je ne suis bon à rien. Je suis âgé de quarante ans… »  « L’idée enfin d’inventer quelque chose de sincère me traversa l’esprit et je me mis aussitôt au travail. Au bout de trois mois, je montrai ma production à Ph. Edouard Toussaint le propriétaire de la Galerie Saint-Laurent. Mais c’est de l’art, dit-il, et j’exposerais volontiers tout ça. D’accord, lui répondis-je. » Si je vends quelque chose il prendra 30%, Ce sont paraît-il des conditions normales, certaines galeries prenant 75% Ce que c’est ? En fait, des objets. Galerie Saint-Laurent rue Dusquesnoy Du 10 au 25 avril Vernissage vendredi 10 de 6 à 8 heures
+
+Un DVD accompagne ce carton. Vous décidez de regarder ce qu’il contient...
+
+### Le communiqué de presse
+
+Vous le glissez dans votre ordinateur et découvrez qu’il s’agit du communiqué de l’exposition qui n’est autre qu’une vidéo de Ryan Gander.
+
+« Basquiat or I can’t dance to it, one day but not now, one day I will but that will be it, but you won’t know and that will be it, 2008 »
+
+Vidéo, couleur, son
+5 minutes 30
+
+L’ œuvre est une vague reconstitution d’une scène du film « Basquiat » de Julian Schnabel (1996) et montre le galeriste anglais de l’artiste, Niru
+
+Ratnam faisant du vélo dans un parc en pyjama. La bande-son est la voix off de Ratnam lisant le communiqué de presse qu’il a écrit pour cette  œuvre à la suite du tournage de la scène – tout en sachant que ce texte deviendrait la voix off du montage final.
+
+Voici le texte en français de cette bande son, communiqué de presse de notre exposition :
+
+L’ œuvre « Basquiat  »(2008) de Ryan Gander est composée de deux éléments. Le premier est un film rejouant une scène du film Basquiat (1996) de Julian Schnabel. La scène se déroule à peu près aux deux tiers du film, quand Basquiat fait du vélo dans un parc pour rejoindre Andy Warhol. Dans la scène précédente, un journaliste interroge Basquiat poliment, mais avec une hostilité manifeste sur l’exploitation que ses admirateurs et lui-même font de son soi-disant statut d’outsider. Par comparaison, l’amitié qui le lie à Warhol est la preuve ultime de son appartenance au milieu. Il est ainsi possible de lire cette scène du vélo dans le parc comme le passage du statut d’outsider à celui de la reconnaissance qui structure le film. La tenue de Basquiat, un cardigan négligemment porté par-dessus un pyjama, suggère qu’il s’en moque – les choses arrivent un point c’est tout. Mais bien sûr, dévoré par l’ambition et nourri aux drogues, il s’en soucie de tout son être. La seconde partie de l’ œuvre de Ryan Gander est un texte parlé – les spectateurs familiers de ses  œuvres reconnaîtront ici un dispositif récurrent de l’artiste. Ceci est ce texte… Cela est ce texte… Le texte est écrit comme s’il s’agissait d’un communiqué de presse sur l’œuvre,
+mais c’est évidemment trompeur. Le texte, après tout, fait partie de l’œuvre, il ne peut donc espérer *être à propos* de l’œuvre.
+
+L’auteur de ce texte est l’un des galeristes de l’artiste, qui écrit les communiqués de presse des expositions de la galerie – y compris des précédentes expositions personnelles de l’artiste. L’auteur estégalement l’acteur du film, sollicité par l’artiste pour rejouer la scène de « Basquiat » mentionnée ci-dessus. Ce « communiqué de presse » ne pourra ainsi jamais se situer au-dessus ou en dehors de l’ œuvre – il est intégré à l’ œuvre. Je veux établir ici un parallèle avec le film de Schnabel. Une biographie ou un biopic devrait aussi se situer en dehors ou au-dessus de son sujet. Pourtant de nombreux commentateurs ont noté que ce n’était pas le cas dans le « Basquiat » de Schnabel. Schnabel incarne un personnage dans le film sous le nom fictif d’Albert Milo. La fille de Schnabel joue son propre rôle et ses parents font également une apparition furtive. Puisque les ayant droits de Basquiat n’ont pas donné la permission d’emprunter ses peintures, les « Basquiat » que l’on voit dans le film sont en fait de très bonnes reproductions peintes par Schnabel. Dans la scène où Basquiat et Warhol créent une peinture ensemble, un authentique portrait de Schnabel par Warhol est accroché au mur. 
+Plus surprenant encore, quand Basquiat visite l’atelier de Milo, il voit une véritable peinture de Schnabel de la série Bordeaux portant l’inscription « JMB » et Milo de déclarer : « Cela a été peint pour un ami décédé ». Comme le notait le critique Brooks Adam dans un article paru dans Art in Americaen 1996 : « Basquiat peut être vu comme un portrait déguisé de l’artiste Schnabel, pas de Basquiat… le film devrait s’intituler de manière plus appropriée Mon Basquiat ». Schnabel ne hante pas tant le film qu’il l’habite. Ainsi, la biographie filmée de Basquiat par Schnabel, comme ce texte, ne se situe pas et ne cherche d’ailleurs sans doute pas à se situer en retrait. Elle est complètement liée au sujet à propos duquel elle devrait se détacher, comme si Schnabel s’était immiscé dans Basquiat avec l’idée de re-mettre en scène une version de lui-même. Cela peut être perçu comme une façon de se projeter soi-même à travers une série de fausses identités, même si c’est peutêtre simplement la manière dont nous construisons notre existence.
+
+Je me suis moi-même rendu coupable de cela quand j’ai découvert « mon » Basquiat au rayon des catalogues d’exposition d’une bibliothèque d’histoire de l’art au début des années 1990. Je pense que je me sentais outsider à la limite du cliché. Ce sentiment séduisant de pseudo-identification m’est revenu dans toute sa naïveté adolescente lorsque j’ai rejoué la scène du parc. Je me suis laissé rattraper et le parc était un endroit qui, en soi et pour des raisons personnelles, était difficile pour moi à cette époque. J’ai trouvé le processus difficile. J’ai réalisé que je n’avais délibérément jamais vu le Basquiat de Schnabel dans toute sa gloire mélodramatique, ce que j’ai fait depuis bien sûr. Et j’ai été heureux de le voir finalement – et de le revoir de façon répétée - réalisant que d’autres pouvaient avoir leur propre Basquiat privé dans toute son absurdité et sa poésie.
+
+Malgré tout, j’ai également trouvé qu’écrire ce texte était un processus difficile. La fonction classique d’un communiqué de presse est d’aider le spectateur à avoir une prise sur l’ œuvre – et tandis que j’écris cela, je réalise évidemment que c’est la dernière chose que j’aimerais que le spectateur fasse. Ce qui a été rayé, après tout, c’est parfois exactement la chose que l’on devrait chercher.
+
+Intrigués par ces premiers éléments d’information, vous vous rendez à l’exposition où l’on vous remet à l’entrée la liste des  œuvres présentées.
+
+### La liste d’ œuvres
+
+Stefan Brüggemann
+« Show Title » #580,  œuvre en cours
+Titre d’exposition
+
+Marcel Broodthaers
+« Moi aussi, je me suis demandé si je ne pouvais pas vendre quelque chose et réussir
+dans la vie...,  »1964
+Carton d’invitation
+
+Ryan Gander
+« Basquiat or I can’t dance to it, one day but not now, one day I will but that will be it,
+but you won’t know and that will be it, » 2008
+Vidéo, couleur, son
+5 minutes 30
+
+Mario Garcia Torres
+« Untitled » (Missing Piece), 2005
+Intervention dans la liste des  œuvres
+Dimensions variables
+
+Aby Warburg
+Projet non vérifié de noms de salles de musée pour l’« Atlas Mnemosyne », 1929
+
+Nina Beier et Marie Lund
+« L’empreinte, » 2007
+Impression sur carton
+
+James Lee Byars
+« The Perfect Love Letter is To Write I Love You Backwards in the Air », 1974
+Performance
+
+Robert Barry
+(Sans titre)
+« Toutes les choses que je connais
+mais auxquelles en ce moment
+je ne pense pas
+13h36 15 juin 1969 »
+
+Ryan Gander
+« Investigation # 2 – Griffonnages réalisés par l’artiste dans son atelier du Suffolk, pendant qu’il téléphone à sa mère entre 10 h et 10 h 32 le matin d’un lundi férié le 31 août 2009, alors que son père la reconduit du pub de son frère à Macclesfield à leur maison dans le nord du Pays de Galles, pendant que sa petite amie Rebecca est allongée sur le lit, dans la chambre à coucher en haut de leur maison, subissant les contractions de leur premier enfant dont le sexe était alors inconnu et dont le nom n’était pas encore décidé. Il lève fréquemment les yeux vers la fenêtre donnant sur son jardin où roucoulent et paradent deux oiseaux perchés sur une branche et, de temps en temps, il jette un coup d’ œil vers le Velux au plafond sur sa droite où une araignée est suspendue produisant des silhouettes dans le ciel gris. Pendant qu’il écoute un enregistrement réalisé par la BBC à Edimbourg de Will Oldham performant un choix de chansons avec des musiciens avec lesquels il ne semble pas jouer d’habitude, à la fin d’un morceau, quelqu’un dans le public vocifère une demande, à laquelle lui est répondue « même chanson, jour différent, lieu différent, gens différents », alors qu’il se sent envahi par un sentiment mêlé de responsabilité et d’amour, il se demande pourtant dans quelle mesure sa foi en l’art pourrait changer d’un jour à l’autre,  »2009
+Cartel et autocollant en vinyle au mur
+
+Ad Reinhardt
+« Notice pour Ultimate Painting #6 », 1960
+
+Jiri Kovanda
+« xxx, I played a recording of Bod Dylan’s « I Want You » from a tape player to a group
+of listeners gathered round, February 23, 1978
+Textes dactylographiés et collés sur papier, 29,7 x 21 cm
+
+Tino Sehgal
+« Selling Out », 2007
+Performance
+
+Marcel Broodthaers
+« Entretien avec un chat », 1970
+Pièce audio
+
+Etsutomu Kashihara
+« This is a book », 1970
+Livre
+
+Lawrence Weiner
+« Quand les attitudes deviennent forme », 1969
+Marlène Belilos, En Marge, Télévision Suisse Romande, 1969
+
+Une  œuvre dans cette liste attire tout particulièrement votre attention :
+Mario Garcia Torres
+« Untitled (Missing Piece »), 2005
+Intervention dans la liste des  œuvres
+
+Vous la cherchez dans l’espace et ne la trouvez pas… Vous réalisez alors qu’elle n’existe que dans cette liste imprimée. Vous commencez alors votre visite en pénétrant dans la première salle intitulée « salle des fragments de mémoire ».
+
+### Les noms de salles
+
+Suivent ensuite les salles des noms voués à l’oubli, des images de l’extase, des figures de l’épouvante, des voix oubliées, du plan des enfers perdus, des solitudes, des ombres de la mémoire, des images de la mélancolie, des mythes oubliés, des paradis perdus, des simulacres et du néant, des visages effacés, des parfums de l’enfance, des  œuvres inachevées...
+
+Chaque salle de cette exposition est en effet nommée d’après un projet non vérifié de noms de salles pour un musée conçu à partir des planches de l’Atlas Mnémosyne d’Aby Warburg. Un atlas d’images destiné à rendre visible les survivances de l’Antiquité dans la culture occidentale par la force du montage d’une histoire de l’art sans texte. Selon Warburg, cet atlas était une « histoire de fantômes pour adultes » où les images (reproductions d’ œuvres d’art, coupures de presse et publicités, mélangeant époques, cultures et esthétiques différentes) étaient réordonnées dans un ensemble de relations totalement différentes du contexte qui les avait vu naître. Mais n’importait pas seulement le montage des images et la manière dont elles étaient montrées ensemble. Pour Warburg, le vide qui les séparait comptait tout autant. Il décrivait d’ailleurs l’atlas comme un travail sur « l’iconologie de l’intervalle » où le vide est un espace de pensée dans lequel il est possible de faire vivre un lien entre le présent et le début de l’histoire.
+
+Dans cette salle des « fragments de mémoire », vous vous approchez d’un cartel.
+
+Le cartel
+Nina Beier et Marie Lund
+« L’empreinte », 2007
+
+Sur celui-ci est écrit :
+« Les médiateurs de l’exposition ont appris la description d’une  œuvre d’art.
+Ils l’enseigneront à chaque visiteur qui désire l’apprendre. »
+Curieuse, curieux, vous vous approchez d’un médiateur et lui demandez quelle est cette  œuvre.
+
+### La description orale de l’ œuvre
+
+Il vous répond qu’il s’agit d’une  œuvre réalisée par l’artiste américain James Lee Byars en 1974 dans la cour du Palais des Beaux-Arts de Bruxelles, qui s’intitule : « *The Perfect Love Letter is To Write I Love You Backwards* » in the Air (La lettre d’amour parfaite est d’écrire je t’aime à l’envers dans les airs)
+
+Il se propose de la réaliser pour vous et dessine alors avec son doigt les lettres :
+U O Y E V O L I
+
+Après ce moment suspendu, vous continuez votre visite et tombez sur une  œuvre qui n’existe que dans l’énoncé de son titre.
+
+Le titre de l’ œuvre
+Robert Barry
+« (Sans titre) »
+« Toutes les choses que je connais mais auxquelles en ce moment je ne pense pas »
+13h36 15 juin 1969
+
+Et plus loin :
+
+Ryan Gander
+« Investigation # 2 – Griffonnages réalisés par l’artiste dans son atelier du Suffolk, pendant qu’il téléphone à sa mère entre 10 h et 10 h 32 le matin d’un lundi férié le 31 août 2009, alors que son père la reconduit du pub de son frère à Macclesfield à leur maison dans le nord du Pays de Galles, pendant que sa petite amie Rebecca est allongée sur le lit, dans la chambre à coucher en haut de leur maison, subissant les contractions de leur premier enfant dont le sexe était alors inconnu et dont le nom n’était pas encore décidé. Il lève fréquemment les yeux vers la fenêtre donnant sur son jardin où roucoulent et paradent deux oiseaux perchés sur une branche et, de temps en temps, il jette un coup d’ œil vers le Velux au plafond sur sa droite où une araignée est suspendue produisant des silhouettes dans le ciel gris. Pendant qu’il écoute un enregistrement réalisé par la BBC à Edimbourg de Will Oldham performant un choix de chansons avec des musiciens avec lesquels il ne semble pas jouer d’habitude, à la fin d’un morceau, quelqu’un dans le public vocifère une demande, à laquelle lui est répondue « même chanson, jour différent, lieu différent, gens différents », alors qu’il se sent envahi par un sentiment mêlé de responsabilité et d’amour, il se demande pourtant dans quelle mesure sa foi en l’art pourrait changer d’un jour à l’autre », 2009
+Cartel et autocollant en vinyle au mur. Soit une  œuvre qui réside autant dans son titre que dans le griffonnage agrandi et reporté au mur qui l’accompagne : deux types de capture d’un même moment, délimité par un coup de fil, prenant la forme d’un intervalle entre un récit détaillé et un dessin spontané et abstrait.
+
+La notice
+Ad Reinhardt
+« Ultimate Painting » #6, 1960
+
+Face à cette toile d’Ad Reinhardt, vous décidez de lire sa notice afin de mieux saisir sa démarche.
+
+« Peinture abstraite, 1960, 150 x 150 cm, huile sur toile. Une toile carrée (neutre, sans forme), d’un mètre cinquante de large,
+d’un mètre cinquante de haut, de la taille d’un homme (ni grande, ni petite, sans taille) à triple section (pas de composition), à une forme horizontale niant une forme verticale (sans forme, sans haut ni bas, sans direction), à trois couleurs (plus ou moins) sombres (sans lumière) et non-contrastantes (sans couleurs), à la touche du pinceau retouchée pour effacer la touche du pinceau, à la surface mate, plane, peinte à main levée (sans vernis, sans texture, non-linéaire, sans contour net, sans contour flou), ne réfléchissant pas l’entourage - une peinture pure, abstraite, non objective, atemporelle, sans espace, sans changement, sans référence à autre chose, désintéressée - un objet conscient de lui même (rien d’inconscient), idéal, transcendant, oublieux de tout ce qui n’est pas l’art (absolument pas anti-art). »
+
+Vous comprenez qu’il n’y a rien à voir ici que la peinture et poursuivez votre parcours. C’est alors qu’un médiateur vient vers vous et vous propose de participer à la documentation d’une performance.
+
+### La documentation de la performance
+
+Jiri Kovanda
+« xxx, I played a recording of Bod Dylan’s *I Want You* from a tape player to a group of listeners gathered around February 23 », 1978
+Textes dactylographiés et collés sur papier
+29,7 x 21 cm
+
+Il vous conduit dans une salle tout en vous expliquant que cette performance réalisée en 1978 n’a à l’époque pas été documentée, alors qu’en règle générale, une photographie accompagne toujours les énoncés des actions de cet artiste tchèque. Les commissaires de l’exposition ont donc choisi de la réaliser à nouveau et d’en produire la documentation. Dans la salle, un lecteur cassette est posé au sol et joue le morceau « I want you » de Bob Dylan. Alors que vous écoutez avec plaisir ce morceau en compagnie d’autres visiteurs, le médiateur sort de sa poche son téléphone avec lequel il vous prend en photo en train d’écouter.
+
+### L’audioguide
+A l’entrée de la salle suivante, vous trouvez un audioguide sur un banc qu’un visiteur a dû oublier…
+
+Tino Sehgal
+« Selling Out », 2007
+Performance
+http://www.audiovisit.com/visite_detail.php?visite_id=67
+
+Vous portez le casque à vos oreilles :
+
+« Nous vous conseillons d’éteindre votre audioguide avant de pénétrer dans cette salle, par respect pour l’interprète qui joue l’œuvre que vous vous apprêtez à voir. Cette salle présente trois œuvres de la collection du musée d’art contemporain, qui sont le théâtre, l’enjeu et la raison de la performance qui se déroulera devant vous. Intitulée « Selling Out », ce qui signifie se mettre en vente, cette  œuvre de Tino Sehgal, comme la plupart de ses autres performances, met en scène un événement qu’aucune trace ne doit documenter. C’est la seule présence du visiteur, la vôtre, qui déclenche le processus de l’ œuvre, tout entière concernée par l’acte de voir et l’échange suggestif entre le regardeur et le regardé, entre l’inerte et le vivant. Les trois sculptures choisies par Tino Sehgal dans la collection du musée sont l’œuvre des sculpteurs américains Larry Bell, Dan Flavin et Dan Graham. Elles ont toutes pour point commun la lumière, qu’elle soit artificielle ou naturelle. Avec ces trois  œuvres, l’image, son reflet et sa transparence jouent dans l’espace un rôle essentiel. Enfin, sachez que la scène se déroule dans la pénombre. »
+
+Aucune trace donc. Vous ne vous attardez pas car une discussion avec un artiste de l’exposition s’apprête à commencer dans l’auditorium.
+
+L’entretien
+Marcel Broodthaers
+« Entretien avec un chat », 1970
+
+Marcel Broodthaers : « Est-ce que c’est un bon tableau celui-là ? Qui correspond à ce que vous attendez de cette transformation toute récente qui va du conceptual art à cette nouvelle version d’une certaine figuration pourrait-on dire ?
+Le chat : Miaou
+MB : Vous croyez ?
+Le chat : Miaaaaaou Miaaaou Miaaaaaaaaou Miaaaaaaaaou
+MB : Cependant, cette couleur rappelle tout de même nettement la peinture qu’on
+faisait au moment de l’art abstrait, n’est-ce pas ?
+Le chat : Miaou Miaou Miaaaaou Miaaaou
+MB : Etes-vous certain que ce n’est pas un nouvel académisme ?
+Le chat : Miaou
+MB : Oui, mais s’il s’agit d’audace, c’est tout de même une audace contestable.
+Le chat : Miaou
+MB : Il s’agit tout de même…
+Le chat : Miaou
+MB : Mais il s’agit tout de même de marché.
+Le chat : Miaaaou
+MB : Mais il va falloir les vendre ces tableaux.
+Le chat : Miaaaou
+MB : Que feront les gens qui ont acheté les choses précédentes ?
+Le chat : Miaaaou
+MB : Vont-ils les revendre ?
+Le chat : Miaaaaaaou Miaaaou
+MB : Ou bien, continueront-ils à… ? Que pensez-vous ? Parce que, en ce moment,
+beaucoup d’artistes se posent la question.
+Le chat : Miaaaou Miaou Miaaaou Miaaaaaaou Miaou Miaou Miaaaaaou Miaaaou
+MB : Alors ? Fermer les musées ?
+Le chat : Miaou
+MB : Ceci est une pipe.
+Le chat : Miaou
+MB : Ceci n’est pas une pipe.
+Le chat : Miaou
+MB : Ceci est une pipe.
+Le chat : Miaou
+MB : Ceci n’est pas une pipe.
+Le chat : Miaou
+MB : Ceci est une pipe.
+Le chat : Miaou
+MB : Ceci n’est pas une pipe.
+Le chat : Miaou »
+[...]
+La conversation semble ronronner, vous vous éclipsez discrètement de
+la salle…
+
+###Le catalogue
+
+À la sortie, vous vous dirigez vers la librairie où vous feuilletez le catalogue de l’exposition réalisé par l’artiste Etsutomu Kashihara.
+
+(image: echappees_2_01.jpg)
+#####« This is a book », 1970 Il s’agit bel et bien d’un livre. Vous l’achetez.
+
+(image: echappees_2_08.jpg)
+#####« This is a book », 1970 Il s’agit bel et bien d’un livre. Vous l’achetez.
+
+(image: echappees_2_09.jpg)
+#####« This is a book », 1970 Il s’agit bel et bien d’un livre. Vous l’achetez.
+
+(image: echappees_2_10.jpg)
+#####« This is a book », 1970 Il s’agit bel et bien d’un livre. Vous l’achetez.
+
+(image: echappees_2_11.jpg)
+#####« This is a book », 1970 Il s’agit bel et bien d’un livre. Vous l’achetez.
+
+(image: echappees_2_12.jpg)
+#####« This is a book », 1970 Il s’agit bel et bien d’un livre. Vous l’achetez.
+
+###Le reportage télévisé
+De retour chez vous, vous allumez la télévision. Heureux hasard, vous tombez sur la diffusion d’un documentaire consacré à l’exposition « Quand les attitudes deviennent forme » organisée par Harald Szeemann à la Kunsthalle de Bern en 1969 au moment où l’artiste Lawrence Weiner est interviewé.
+
+« Quand les attitudes deviennent forme »
+Marlène Belilos, 1969, « En Marge », Télévision Suisse Romande Voici ce qu’il dit au sujet de l’ œuvre « A 36” x 36” Removal of Plaster Lathing from a Wall »(1969) qu’il est en train de réaliser pour l’exposition :
+
+Lawrence Weiner : « L’idée de détacher le plâtre du mur est très excitante. Ceci est peu important comparé à l’idée. Si je fais cette pièce à Amsterdam ou à New York, c’est exactement la même pièce. Même si elle a l’air un peu différent, que le mur est différent, c’est la même pièce. Je n’ai même pas besoin de la faire. Quelqu’un d’autre peut la faire. A Amsterdam, je l’ai faite hors du musée, et tout ce que j’ai montré, c’est un petit billet avec mon nom et le titre de la pièce en anglais et en hollandais. C’est tout. Pas de photo, pas de carte, rien. Ici, je vais enlever le plâtre du mur et mettre un billet sur lequel on lira, un mètre sur un mètre enlevé du plâtre du mur. C’est tout. L’idée de détacher le plâtre du mur est très excitante, et que cela en fasse quelque chose d’intéressant à regarder est supplémentaire, c’est comme une information de plus c’est tout.
+
+Marlène Belilos : Pourquoi avons-nous besoin d’informations supplémentaires ?
+
+LW : Vous n’en avez pas besoin. Certains en ont besoin. Certains n’en veulent pas mais en ont quand même besoin. Pourquoi avons-nous besoin d’art ? L’art est probablement la seule chose pour laquelle il n’y ait pas une raison vraie. Pas de raison, pas d’excuse. L’art est quelque chose que fait l’artiste, c’est tout. Je pense que l’art ne doit pas s’imposer, il doit être présenté et si vous pensez que vous le voulez, prenez le. L’information est là. Mais si vous ne le voulez pas, je ne vais pas vous brutaliser ou vous convaincre. C’est suffisant pour moi de présenter le travail. Et c’est à vous de l’accepter ou de le rejeter.
+
+MB : Mais c’est très différent de ce qui a été fait avant. Avant nous pouvions emporter l’ œuvre à la maison et la regarder.
+
+LW : Ceci peut être fait chez vous, vous pouvez vivre avec, vous pouvez aussi le garder en mémoire pour le reste de votre vie. Où que vous alliez, vous pouvez le construire, et l’avoir pour toute votre vie. Ce n’est pas un objet unique et précieux. C’est une idée unique mais qui a cinquante, soixante ou des centaines de représentations. Et chaque fois c’est nouveau. Vous ne pouvez le perdre, vous ne pouvez l’abîmer, rien ne peut lui arriver, il est là pour toujours et c’est tout. »
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-les-informations-supplementaires.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Élodie Royer & Yoann Gourmel
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: [1.] La Galerie, Noisy-le-Sec, 2009 ; École européenne supérieure d’art de Bretagne, Brest, 2010 ; La Vitrine de l’ENSAPC, Paris, 2010 ; École supérieure d'art des Pyrénées – Tarbes, 2012 ; Le Pavillon blanc, Colomiers, 2012.
+
+----
+
+Article-note-print: 

@@ -1,0 +1,22 @@
+Title: Corinne Melin
+
+----
+
+Text-bio: Docteure en esthétique et sciences de l’art, elle enseigne l’histoire de l’art et l’esthétique à l’ESA des Pyrénées, site de Pau. Entre 2009 et 2011, elle réalise des missions au sein d’entreprises artistiques et participe à des séminaires sur des questions relatives aux mondes de l’art et du travail. Membre du Laboratoire du Geste fondé et dirigé par Mélanie Perrier et Barbara Formis. Mène une approche historique sur l’art participatif depuis les années 1950 et interroge le reenactment dans les pratiques artistiques contemporaines orientées numériques. S’intéresse aux terrains communs existants entre plusieurs disciplines des Sciences Humaines et Sociales : la sociologie, la philosophie, l’art et le design.
+
+----
+
+Text-contact: corinne.melin@esapyrenees.fr
+
+----
+
+Text-liens: (link: http://leslangagesducorps.unblog.fr/ text: www.leslangagesducorps.unblog.fr popup: yes)
+
+----
+
+Text-liste-articles: 
+
+(link: numeros/numero1/introduction text: n°1 : Introduction )
+(link: numeros/numero1/presentation-d-chapp-es-n-2 text: n°1 : Présentation d’échappées n°2)
+(link: numeros/numero2/introduction-dgm-et-shs-l-usager-a-l-ere-numerique text: n°2 : Introduction – DGM et SHS, l’usager à l’ère numérique)
+(link: numeros/numero3/lecteur-lecture-ecriture-a-lere-num-rique text: n°3 : Lecteur, lecture, écriture à l’ère numérique)

@@ -1,0 +1,185 @@
+Pagesettings-1: 
+
+----
+
+Title: Entretien avec Emmanuël Souchier, Sur l’écriture et la lecture aujourd’hui
+
+----
+
+Article-date: 6 mars 2014
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: emmanuel-souchier
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: Emmanuël Souchier est professeur à l'ENST en Sciences de l'information et de la communication et corédacteur en chef de la revue *Communication & langages*. L’entretien porte sur *l’énonciation éditoriale* : les différentes formes, les divers contextes : culturel, économique, social. Cet entretien a été mené par Amélie Lassere, Mélissa Malo, Louise Rigaux, Camille Belloc et Céline Blancou, étudiantes en DNSEP Design Graphique Multimédia, dans le cadre du séminaire « Les nouvelles formes éditoriales », le 6 mars 2014.
+
+----
+
+Article-chapeau-redaction-note: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+**Qu’est-ce qui vous a amené à écrire sur la question de la lecture et de la forme que vous appelez également *énonciation éditoriale* ?**
+
+Pour résumer, la question initiale était de s’interroger sur les variations d’un manuscrit à travers différentes éditions, à différents stades de l’écriture, en somme sur la différence d’énonciation. Est-ce que le texte me dit autre chose quand c’est un manuscrit, une édition pré-originale, originale, etc. ? Si je reste dans un cadre littéraire ou linguistique, je pense qu’il n’y a pas de différence, c’est le même texte. Mais cela veut dire qu’il y aurait une espèce d’abstraction du texte. Il serait complètement dénué de sa matérialité, de sa représentation, etc. Or je constate dans un premier temps que j’ai un manuscrit, avec la trace d’un geste, un geste corporel, que je peux lire à travers certaines données qui seraient par exemple la graphologie, si c’était une science. En tout cas je peux voir un certain nombre de choses qui s’expriment, qui vont être entre le geste de la main, le dessin et l’écriture. Après quelque chose entre dans le monde social ; avec le manuscrit, je suis d’abord dans l’ordre privé puis dans l’ordre du monde social car je vais faire un tapuscrit destiné à l’atelier d’impression. Ensuite, je vais avoir des marques très étranges sur ce document qui sont en fait des marques de fabrication, parce que dans l’atelier de typographie, on note un certain nombre d’informations. En ce sens, sur mes documents, j’ai d’autres choses ; mon texte est donc complètement différent. A chaque étape je m’aperçois qu’il y a des traces d’énonciation éditoriale, de corps de métier, de gens qui interviennent sur l’élaboration de ce texte. Donc ce que je suis en train de lire, ce n’est pas du tout la même chose selon les étapes. Quand il y a à la fin du parcours – si tant est que ce soit une fin – quand j’ai une édition illustrée, je m’aperçois que j’ai au moins un illustrateur qui vient en ligne ; ainsi je ne peux pas dire que j’ai un seul auteur, c’est faux, j’ai plusieurs énonciateurs, j’ai appelé cela la polyphonie énonciative. Cela passe à travers la matérialité, l‘image du texte. je ne peux pas en faire abstraction, en tant que sémiologue, c’est constitutif de l’objet de communication que j’ai sous les yeux. cela m’amène à élaborer cette idée d’énonciation éditoriale, sur son trépied entre l’infra-ordinaire, l’image du texte, sa matérialité puis la polyphonie énonciative.
+
+**Iriez-vous jusqu’à dire que la pensée première, à l’origine du manuscrit, a été transformée ? Qu’elle a évolué dans l’écriture par des transformations successives ?**
+
+Oui. J’irais même jusqu'à dire que cette idée première n’existe pas.
+
+**Parce qu’elle n’a pas été encore transmise ?**
+
+Elle n’existe qu’à partir du moment où elle s’élabore à travers l’écriture. En fait, il n’y a pas de pensée première en soi ; je ne suis pas dans la tête de l’auteur et je ne peux pas la savoir. La pensée n’existe socialement qu’à partir du moment où elle est donnée comme échangeable. L’écriture est une modalité d’expression qui permet la circulation de la pensée à travers le corps social. Mais surtout elle prend forme, elle se réifie à travers l’acte d’écriture et sa matérialité ; lorsque je suis en train d’écrire, je pense. Je reprendrais bien l’idée de « j’écris donc je pense ».
+
+**Vous dites que « l’énonciation éditoriale est ce par quoi le texte peut exister matériellement, socialement et culturellement ». De façon pragmatique, comment ce texte existe par lui-même ? Comment ce texte existe si vous n’êtes pas là ?**
+
+Quelque chose me paraît ici extrêmement intéressante. Je vais revenir, avant d’arriver au texte, à l’écriture. On a oublié un facteur fondamental dans l'histoire de l’écriture, c’est le lecteur. En fait, il ne peut pas y avoir de pensée de l’écriture sans lecteur. Le texte que je vous donne, je n’en suis plus maître. Il ne m’appartient plus. Il vous appartient... L’autre jour, j’étais avec une étudiante en master recherche et je lui dis « C’est du texte mort ». Elle me répond « vous ne pouvez pas dire ça ». On a eu un échange et j’ai changé mon registre, parce que je crois qu’elle avait raison. C’est plutôt du texte qui dort, ce texte n’existe pas pour l’instant : il dort. Il n’existe éveillé qu’à partir du moment où un lecteur vient l’éveiller. Le texte, c’est *la belle au bois dormant*. En fait ça veut dire quoi ? Ça veut dire que ce que j’ai fait à un moment donné, ce que quelqu’un a fait pour écrire un texte, ne lui appartient plus à partir du moment où il l’a donné à l’autre, il s’en sépare, c’est une vraie rupture, qui est fondamentale, je ne suis pas le lecteur. Le lecteur a cette liberté fabuleuse de pouvoir interpréter le texte. Alors bien sûr, il y a des cadres, il y a ce que j’ai écrit, et on peut en discuter, on peut ne pas être d’accord. En même temps vous pouvez dire des choses que je n’avais pas vu dans le texte que j’ai écrit, et c’est monnaie courante, parce que quand on écrit, quand on élabore un texte, on n’est pas maître de tout ce qu’on véhicule. Quand je vous disais tout à l’heure que l’extraordinaire richesse de l’écriture c’est de se nourrir de la langue, de la culture, de l’histoire en propre à celui qui écrit. Je n’en suis pas le maître, j’apporte peut-être quelques pierres à l’édifice mais par rapport à tout ce que l’histoire me donne, je ne maîtrise pas grand chose. Puis, il y a l’inconscient, il y a l’histoire, etc., je n’entre pas dans les détails. La richesse de ce que j’élabore à un moment ne dit pas tout ce que *je pense pouvoir dire que...*. Entre ce que je crois dire et ce que je dis réellement, ce que lit le lecteur, il y a une différence. C’est votre liberté de dire que vous avez entendu cela, lu ainsi votre texte. Il y a un deuxième point que vous avez évoqué tout à l'heure, je pense indirectement. C’est sur l’idée de complexité. Je pense à une métaphore utilisée par Queneau : il parle de l’œuvre comme d’un oignon : un texte qui est arrivé à quelque chose sera épluché par chaque lecteur. Si le texte peut lui donner une liberté c’est qu’il est potentiellement porteur de quelque chose qui est plus riche qu’il ne le pense. Je pense à un texte de Nietzsche que j’ai lu je ne sais pas combien de fois, et à chaque fois que j’y retourne, je retrouve des choses que je n’avais pas lu, donc je me dis que ce texte est bon. Pourquoi ? Non parce que je n’ai pas tout compris mais parce qu'il est riche, généreux. Il y a une autre citation que j’ai mise en quatrième de couverture du livre que j’ai fait sur Queneau aux éditions du *Seuil*. Je crois que c’est dans le prière d’insérer de *Gueule de pierre*. Queneau dit que si on dit tout au lecteur, il va se vexer, il faut qu’il ait un effort à faire ; avec la lecture on se déploie soi-même à travers la pensée de l’autre et on déploie l’autre à travers sa pensée. C’est comprendre que le texte n’a pas tout dit. C’est un échange et cet échange c’est vous qui le faites en tant que lecteur.
+
+**La lecture rend le texte moins figé. S’il y a plusieurs possibilités de revenir sur le texte, de le relire, de le comprendre de façon multiple, cela lui donne une liberté plus importante.**
+
+Je crois qu'en fait c'est le propre de l'image par définition et de l'écriture c'est-à-dire que ce n'est pas un code zéro. Je fais quelque chose quand je dis que c'est ça... que je dis à x... Ce n'est pas du code. Il y a de la polysémie en permanence et la polysémie se régule entre le lecteur et le texte. Le lecteur va réguler en fonction de sa culture, de sa situation, de son état d’esprit du moment, etc. Et pourtant, le texte est objectivement et matériellement le même.
+
+**À la lecture de vos textes, on constate que vous soulevez des questions relatives au domaine du design graphique. Est-ce que vous pensez à la mise en forme des textes que vous écrivez ?**
+
+Malheureusement, je n'ai pas toujours la main, pour ne pas dire que les trois quarts du temps je n'ai pas la main. La situation idéale serait que je sois à la fois homme orchestre : éditeur, maquettiste, designer, etc. Je n'ai pas tous ces talents. Par contre, je suis intéressée par une véritable discussion. Dans le « traité des vertus démocratiques » paru chez *Gallimard*, j'ai eu une discussion avec l'éditeur. Je ne voulais pas que les fragments soient complètement concaténés les uns aux autres. Je voulais que ça respire car cela faisait partie inhérente de la forme du texte. J'ai réussi à l'obtenir. Évidemment, l'idéal eut été que nous ayons un fragment par page mais l’éditeur trouvait, cela couterait trop cher, argument sur lequel nous avons discuté et j'ai tenu longtemps pour réussir à avoir quelque chose d'intermédiaire. Pourquoi ? Je voulais que cela respire parce que l'auteur a construit et conçu son texte par fragments et que je ne voyais pas ses textes complètement écrasés dans la page. Cela aurait été complètement contraire à son geste. Il y a quelques images insérées. Il y a aussi et dans l'introduction, des sauts d'énonciation clairement donnés à voir au lecteur ; à chaque citation, on a un décalage ou des blancs. J’ai tenté de rendre lisible ce texte au sens où je l'entendais. Quand je donne la voix à l'autre, ce n'est pas la même typographie. Il faut que je me décale... Alors, l'idéal, ce serait effectivement de travailler en commun mais cette situation n'est pas courante malheureusement.
+
+**Avez-vous déjà collaboré avec un designer graphique ?**
+
+Oui, bien sûr. Je vais le faire pour un texte à venir, un texte poétique car je veux que les textes soient présentés de manière précise ; une discussion est à mener avec le designer graphique.
+
+Je ne sais pas si vous avez en tête un beau texte de Guy Lévis Mano. C’est un grand traducteur de Lorca en l'occurrence, un poète, et un typographe. Avec deux de ses camarades typographes, il a rédigé un texte court dans les années 1940, si mes souvenirs sont bons, qui s'appelle, « trois typographes en avaient marre ». Dans ce texte, il s'insurge en tant que typographe et poète. J’insiste encore sur le fait qu’il soit traducteur car pendant toute une partie de sa vie, il a lui-même mis en page des textes de ses amis poètes : a un moment il s'insurge avec ses deux camarades typographes. Dans ce texte, il souligne que la poésie du travail du typographe ne se voit pas. C’est un geste intéressant de dire que même les personnes avec qui nous travaillons ne voient pas ce que nous faisons. Et là il y a effectivement toute une culture à mettre en place et probablement un échange à élaborer. Mais ce n'est pas dans les mœurs. Il y a des raisons économiques et sociologiques, une histoire, des prises de pouvoir...
+
+L'énonciation éditoriale a pour objectif de mettre en évidence les rapports de pouvoir dans l'énonciation du texte. Le graphiste peut prendre la parole sur le texte et imposer une illisibilité. Il y a un exemple que j'avais donné pendant que je passais mon Habilitation à diriger des recherches ; c’est celui de la revue *Traverse* édité par le centre George Pompidou à Paris. Le graphiste très malin (il est passé chez *Gallimard* après) a fait une maquette et une mise en page en jouant avec les colonnes : une colonne, deux colonnes, trois colonnes, quatre colonnes, cinq colonnes ; le texte apparaissant totalement déconstruit. Dans son geste graphique, il y un jeu intelligent : il arrive à une rupture telle avec le texte qu’il le rend illisible.
+
+**Par rapport à l’idée de lecteur, dans l’un de vos textes, vous dites que « l'écran transforme et conditionne le processus d'écriture ». Est-ce que l'arrivée de l'écran a modifié votre façon d'écrire et de vous adresser au lecteur ? Et dans ce processus d'écriture, préférez-vous l'écriture manuscrite ou à l'écran ?**
+
+Ni oui, ni non. J'essaie de réfléchir sur cela mais je ne suis pas sûr d'avoir les bonnes pistes. Il y a des textes que je n'arrive pas à faire à l'écran. Et quand il y a quelque chose de complexe à conceptualiser, j'ai besoin de m'étaler, sur un mur par exemple. Dans cette situation, l'écran me gène. Je n'arrive pas à penser avec l’écran. En fait, j'ai besoin de voir. J'ai une pensée visuelle et j'ai besoin de laisser mûrir, de réfléchir. Parfois j'ai des notes et j'essaie d'élaborer des plans. S’il y a une idée qui ressort de l’ensemble, j’utilise des flèches par exemple pour l’indiquer. Avec l'écran, je n'ai pas cette liberté. Je suis complètement orthonormé. Je n'ai pas la visibilité, sur mon écran, du *background*, de tout ce que j'ai mis en mémoire. J'ai une pensée visuelle, et devant cet écran, je n'arrive pas à exprimer ce que j'ai besoin d'exprimer. (…) J'aime la formule suivante de George Perec « Je fais mon chemin en marchant. » C'est vraiment ça en fait. J'ai l'impression de m'inscrire dans cet ordre là. Par contre, quand j'ai effectivement des textes en cours d'élaboration, je les peaufine pour les donner à lire de façon à ce qu’ils soient beau à l'oreille. J'ai besoin de sentir que cela glisse et que le lecteur se sente bien. Même si l'articulation des temps est peut-être complexe parce que ça convoque des tas de choses, il faut que cela soit lisible. En tout cas, j'essaye ; j'adore travailler l'écriture de ce point de vue et à ce moment là, l'écran est un bon espace ; on peut retravailler son texte en permanence.
+
+**Je voudrai maintenant vous poser deux questions que j’ai dégagées des lectures de vos textes. Vous dites que « l’apparente démocratisation de la pratique d’écriture-lecture se traduit en fait par un renforcement accentué des inégalités sociales devant l’accès au texte [...] la complexification de la pratique d’écriture-lecture n’étant prise en compte par aucune instance d’apprentissage collectif. ». Ma première question est la suivante : est-ce que vous pensez qu'il existe un décalage entre les enseignements proposés aujourd'hui et les possibilités de lecture-écriture à l'écran ? La seconde question est : doit-on comprendre que les inégalités auxquelles vous faites allusion sont à observer chez les utilisateurs ? Ou est-ce qu'il s'agit, au contraire, d’une inégalité sociale à observer chez la personne qui écrit et a besoin de compétences de plus en plus complexe ? Dans votre texte, vous parlez de cette complexité, de codes, et que les inégalités finalement sont de plus en plus accrues parce qu'il faut des compétences... Et de la même façon j'ai lu qu’il existait aussi chez le lecteur, des inégalités sociales.**
+
+En fait, il faudrait déployer la citation que vous donnez parce qu'il y a là derrière une monstruosité de questions importantes... Mon premier geste a été de m'insurger de manière très claire contre le discours d'escorte, le discours politique, le discours amené par les industriels (les fabricants et les technologues). La dimension publicitaire du marketing est *au service de* et consiste à dire que ces outils sont des outils de démocratisation de l'écriture. C'est faux. Pourquoi ? Parce que quand on dit cela, on balaye toute la complexité que l'on demande aux usagers. On oublie de penser la dimension éducative. On oublie de penser la dimension des différences sociales et culturelles. Et on les réduit à l'idée selon laquelle la technologie nous amènerait la démocratie. Il n'y a pas plus difficile d'accès que ces objets. Il faut les apprendre et on ne les apprend pas tous n'importe où, ni n'importe comment. Il faut avoir accès à une culture. Tous ici, nous appartenons à une élite lettrée. Et nous n'avons plus aucun recul sur nos savoirs que nous convoquons en permanence sur les écrans... Je pense à cette métaphore qu'on m'a donné où toute la population de la planète a été résumée à un village d'une centaine de personnes. Dans ce village, une seule personne, un seul individu a accès à un ordinateur sur la centaine constituant la population planétaire. Cela permet aux occidentaux lettrés de mettre un peu la pédale douce sur un certain nombre de discours. Ce point quantitatif est extrêmement violent dit ainsi. On ne s'aperçoit pas de ce qu'on est en train de vivre ou de ce qu'on est en train de faire. Si j’utilise un ordinateur de marque Apple pour travailler au quotidien, cela veut dire qu'il y a quatre vingt dix neuf autres personnes qui ne l'utilisent pas ; elles ne sont pas *connectés* à ce que je suis en train de faire. L'avantage de ces chiffres est qu'ils nous remettent à notre place.
+
+Je voudrais aussi souligner un second point, plus compliqué que le précédent. Pour avoir accès à ce dispositif, j'ai besoin de savoir lire et écrire... Combien existe t-il d'illettrés en France ? La moyenne est d'à peu près 20% de la population en France... Pour poursuivre, je ferai appel à la notion de *literacy* que Ivan Illich et Barry Sanders ont développé dans leur ouvrage « ABC, l'alphabétisation des masses » (« de l'esprit populaire »), publié chez *Boréal*, éditeur canadien. La *literacy* c'est quoi ? C'est le lire et l'écrire mais pas uniquement. Le lire et l'écrire convoquent une culture derrière ; ce n'est pas parce que je sais lire « A, B, C » que je lis un livre... J'ai besoin de savoir lire en compréhension. Et ça c'est une culture énorme, un savoir colossal ! Et je souhaiterai faire un éloge de l'Éducation Nationale de ce point de vue. Par où passe le savoir de toute la population ? N’est pas par l'Éducation Nationale ? Est-ce par l'Europe ? Difficile étant donné sa politique ultralibérale sur l'éducation ; son objectif étant de privatiser au maximum l'éducation pour faire de l'argent, c'est tout ! Le discours est simple, claire et concis ! Mais il faut le dire, le comprendre et l'analyser ! Et bien tout ce travail qui, encore à l'heure actuelle est fait de *literacy* de la population, il passe par l'Éducation Nationale. Et ça on l'oublie ! Or nous en avons besoin pour avoir accès à ces outils. Et ces outils sont des outils de lecture et d'écriture et il nous faut une compréhension... Et bien cette culture là, nous l'avons. On ne la voit pas car elle nous est totalement transparente. Et on l'oublie. On oublie que nous avons eu nécessité à convoquer tout cela pour avoir accès à ces outils. Là, il y a un vrai problème. Pourquoi ? Parce qu’en fonction des différences culturelles, il y a une différence d'accès. Et cet outil n'est pas démocratique en soit. Il est phénoménologiquement outil. Point ! Ce que l’on en fait, c'est autre chose ! Et ce que l'on peut en faire à travers notre collectif social c'est-à-dire notre collectivité, c'est autre chose ! Je suis désolé, je suis nécessairement faux dans ce que je dis parce que je vais trop vite, mais l'idée de fond est là. En disant cela, je pense à un autre aspect, qui est important aussi. Je m'intéresse au regard du chercheur qui travaille sur les média informatiques et les conditions de lecture et d'écriture à l'écran. On s'aperçoit que certains phénomènes cognitifs sont liés à l'écriture ainsi qu’à la mémoire. Si je reprends la très grande histoire des outils au sens où l'entend André Leroi Gourhan c'est-à-dire une délégation de la mémoire, une externalisation de la mémoire humaine vers l'outil, je me dis que j'ai un outil fabuleux, intellectuel. J'y ai délégué ma mémoire. En fait, j'ai externalisé ce savoir vers le dispositif. Et puis je m'aperçois que je suis bloqué par la question de l’écran. J'ai nécessité à mettre une quantité colossale d'informations. Et je ne peux pas ! Pourquoi ? Parce que cela devient illisible ! Que dois-je faire ? Je passe par des subterfuges, des artefacts qui sont un redéploiement inverse, non pas de la délégation de la mémoire vers l'outil mais vers l'usager et la nécessité de mémoriser un certain nombre de tâches. Et ça, personne ne l'a encore réalisé. Il faut qu'on revienne là-dessus, qu'on travaille là-dessus car c'est important ! Et donc je suis bloqué par l'espace de l'écran ou l'espace de la page mais ce n'est pas la même chose. Il y a des enjeux qui sont fondamentaux, des enjeux à la croisée du *donné à voir* et du *donné à comprendre* ou du *donné à lire*, donc de faire des scénarios. Les deux sont intimement liés. Il faut que je sois à la fois synthétique et que je fasse quelque chose de beau, de lisible, d'accessible et que mon espace respire. Là je serai efficace. Apple a été extrêmement malin de ce point de vue là. Il a pensé le design avant les autres. C’est une nécessité phénoménologique de l'écran. Et puis le deuxième aspect est qu'il faut qu'on arrive à penser en même temps la scénarisation des actes intellectuels. Le troisième aspect est la délégation, les versions écran...
+
+----
+
+Article-note: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: design graphique, histoire
+
+----
+
+Article-keyword: Écriture, lecture, culture, informatique, Emmanuël Souchier, énonciation éditoriale, matérialité, manuscrit, langue, histoire, design graphique, usager, social, literacy
+
+----
+
+Article-resume: 
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Article-relie: 
+
+----
+
+Pdf: (file: echappees-entretien-avec-emmanuel-souchier-sur-lecriture-et-la-lecture-aujourdhui.pdf  text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Print: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Emmanuël Souchier
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+----
+
+Article-interviewer: 
+
+- 
+  auteur_uid: amelie-lassere
+- 
+  auteur_uid: melissa-malo
+- 
+  auteur_uid: louise-rigaux
+- 
+  auteur_uid: camille-belloc
+- 
+  auteur_uid: celine-blancou

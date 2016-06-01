@@ -1,0 +1,143 @@
+Pagesettings-1: 
+
+----
+
+Title: Le marché de l’art : entre visible et invisible
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: nathalie-moureau
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+10 441 500 euros, tel est le montant record auquel la sculpture en céramique de Jeff Koons, *Pink Panther*, une œuvre de 1988, a été adjugée en mai 2011 chez Sotheby’s New York. 605 000 dollars, un montant comparativement plus modeste, quoique également record pour l’artiste, pour une tonne de graines de tournesol en porcelaine d’Ai Weiwei en mai 2012 chez Sotheby’s New York, l’installation, d’une centaine de millions de graines (150 tonnes), avait été dévoilée au public dans le *Turbine Hall* de la Tate Modern au cours de l’année précédente.
+
+Enchères millionnaires, médiatisation des ventes, fièvre des acheteurs, telle est la partie visible du marché de l’art. Les records, aussi spectaculaires qu’ils soient, ne constituent que la partie émergée de l’iceberg et ne sauraient être atteints si, au préalable, un travail plus souterrain de légitimation des oeuvres n’avait été accompli. Car l’œuvre d’art contemporaine n’est pas toujours immédiatement reconnue par le marché. La question de la révélation de sa qualité artistique doit être résolue. Tandis que sous l’Académie de nombreux traités esthétiques guidaient les amateurs dans leur activité d’appréciation (e.g. hiérarchie des genres, règles de dessin, etc.), désormais nombre d’amateurs se trouvent démunis pour évaluer l’originalité de la démarche de l’artiste.
+
+Depuis la fin du XIXe siècle, c’est en effet l’originalité [1. Nathalie Moureau, Dominique Sagot-Duvauroux, 2010, *Le marché de l’art contemporain*, éd. La Découverte, Paris.] de la démarche et non plus le respect de normes préétablies qui sert de référence pour juger de l’intérêt d’un travail artistique. Et l’on est passé d’un « marché d’œuvres » à un « marché de noms d’artistes ». Si sous l’Académie, la qualité artistique d’une oeuvre pouvait être évaluée sans que soit nécessairement fait référence à son auteur (il suffisait de comparer les caractéristiques de l’oeuvre aux préconisations des traités esthétiques), on ne peut aujourd’hui juger de l’intérêt artistique d’une oeuvre indépendamment de la connaissance de l’ensemble de la démarche d’un artiste. La valeur artistique d’une céramique *Puppy*, signée Jeff Koons, ne dépend pas de ses qualités formelles mais de son inscription dans la démarche artistique kitsch de l’artiste. De même, comment apprécier le travail du Coréen Meekyoung Shin sans ne rien connaître de sa démarche ? Cet artiste produit des vases traditionnels chinois à partir de savon et opère ainsi un triple déplacement de l’oeuvre dans l’espace, le temps et la production, tout en questionnant la notion d’authenticité et de pérennité. Le poids de la démarche sur le marché est tel qu’importe peu de savoir, au final, qui a réalisé en propre l’oeuvre. En témoignent les productions de Jeff Koons et d’Ai Weiwei : le premier emploie une bonne centaine d’assistants dans son atelier de Chelsea, et plus de 1600 personnes de la ville de Jingdezhen ont été impliquées dans la production des graines de tournesol pour l’installation d’Ai Wewei.
+
+La reconnaissance de l’originalité d’un travail artistique ne relève pas d’un acte de magie, et ce n’est pas par hasard que le nom d’un artiste entre dans l’histoire de l’art en train de se faire. Les actions d’un nombre réduit de personnalités du monde de l’art sont cruciales dans cette inscription. Ces quelques individus, qualifiés habituellement d’instances de légitimation [2. Raymonde Moulin, 2009, *L’artiste, l’institution et le marché*, éd. Flammarion, Paris.] (conservateurs, critiques, marchands, et grands collectionneurs) ont, en effet, la capacité de créer « de petits événements historiques » qui contribuent à faire entrer le nom de l’artiste dans l’histoire. Ces petits événements consistent en la rédaction de catalogues, en l’entrée d’oeuvres dans des musées, fondations ou autres institutions, en l’organisation et la circulation d’expositions, en la publication d’articles, en la sélection d’artistes en vue de leur participation à de grandes manifestations internationales (e.g. Biennales). Tous ces éléments constituent autant de signaux qui accréditent la valeur artistique du travail des artistes, et qui servent de repères de qualité objectivés aux acheteurs sur le marché. On le sait, le rôle du grand collectionneur Charles Saatchi a été conséquent pour la carrière de l’artiste céramiste Grayson Perry, ainsi que son obtention du Turner Prize (2003).
+
+(image: capture-d-ecran-2016-04-24-23.33.41.png caption: « Réseau étoile » Source N. Moureau, *Analyse économique de la valeur des biens d’art*, éd. Paris Economica, Paris, 2000, p. 246.)
+
+### Les instances de légitimation et leur réseau
+Bien évidemment, un seul petit événement historique ne suffit pas à accréditer le travail d’un artiste ; ainsi l’achat d’une oeuvre par un Frac ne fournit qu’une légitimité naissante. Il importe qu’un nombre suffisamment conséquent de petits événements se produise pour que le nom de l’artiste s’inscrive dans l’histoire. Mais le processus peut être généré rapidement. En effet, les liens qui unissent les membres du réseau constitué des instances de légitimation sont denses et les signaux émis par les uns peuvent être
+rapidement consolidés par les actions des autres.
+
+(image: capture-d-ecran-2016-04-24-23.34.08.png caption: « Réseau ‹fermé› » Source N. Moureau, *Analyse économique de la valeur des
+biens d’art*, éd. Paris Economica, Paris, 2000, p. 271.)
+
+À cet égard, les foires, biennales, vernissages et grands événements internationaux du monde de l’art contemporain sont autant de rencontres au cours desquelles les instances de légitimation peuvent échanger sur les artistes, s’informer, voire s’influencer, contribuant au final à mettre le projecteur sur quelques noms.
+
+Sur le marché, les prix obtenus par un artiste ne correspondent pas nécessairement à cette valeur artistique, sans quoi les artistes dotés de la plus grande valeur artistique (*i.e.* capitalisant le plus
+grand nombre de « petits signaux historiques ») seraient également ceux dont les prix sur le marché seraient les plus élevés. L’observation des prix obtenus aux enchères montre que ce n’est pas nécessairement le cas. Les oeuvres de Damien Hirst sont parmi les plus chères du marché, ce n’est pas pour autant qu’il est l’artiste vivant dont la valeur artistique est la plus reconnue selon le classement du *Kunst Kompass* [3. Le *Kunst Kompass* propose chaque année le classement des 100 artistes les plus représentés dans les musées, biennales et ayant obtenus le plus de critiques dans des revues spécialisées. Ce classement propose une mesure approximative (seuls les « petits événements historiques les plus importants » sont retenus) de la valeur artistique telle que nous l’avons définie.].
+
+(image: capture-d-ecran-2016-04-24-23.33.50.png caption: Extrait du Kunst Kompass Classement des cinq premiers artistes, 2011 Source :
+Kunstkompass, 2011, Extraits, Manager Magasin.)
+
+Ainsi, les instances de légitimation n’ont pas la maîtrise de la fixation des prix. Ceux-ci dépendent plus largement de la demande de l’ensemble des acheteurs qui est modelée par plusieurs facteurs. En premier lieu, le collectionneur s’appuie sur son goût qui, lui-même, est conditionné par son expérience antérieure. Par exemple, une personne n’ayant pas eu, par le passé, de contact avec la création contemporaine, sera plus encline à se tourner vers des oeuvres traditionnelles, faute de repères suffisants pour appréhender la nouveauté. Les travaux de recherche, tant sociologiques qu’économiques, soulignent le rôle joué par le capital culturel dans la formation du goût [4. Voir, par exemple, Pierre Bourdieu, Monique Saint-Martin, 1973, « Anatomie du goût », in* Actes de la Recherche en Sciences Sociales*, pp. 18 – 43 ; ou encore, Gary Becker et Georges Stigler, 1977, « De Gustibus Non Est Disputandum », *The American Economic Review*, (67) 2, pp. 76 – 90.]. Le second critère intervenant dans l’achat d’une oeuvre réside dans l’information disponible sur le travail de l’artiste. En situation d’achat, nombre de personnes ne se fient pas seulement à leur goût, mais cherchent également à obtenir de l’information sur le parcours de l’artiste. C’est pourquoi, dans les grandes foires d’art contemporain, nulle galerie ne se hasarde à présenter le travail d’un jeune artiste sans mettre à la disposition du public son CV. Ce type d’information est en réalité un condensé des petits événements historiques émis par les instances de légitimation qui, comme on l’a vu, constitue une partie des éléments qui interviennent dans la décision d’achat. Néanmoins, un facteur extérieur vient dans de nombreux cas brouiller la clarté des signaux artistiques émis par les instances de légitimation : l’information médiatique. Celle-ci délivrée par les magazines, suscitée par le battage purement médiatique que font les maisons de vente aux enchères autour de quelques ventes, reflète les « bruits et rumeurs » du marché et n’a pas de fondement artistique. Pour autant, elle met en avant le nom de quelques artistes qui vont attirer les acheteurs, d’une part parce que la médiatisation les rassure (à tort) quant à la valeur artistique (brouillage des signaux entre information artistique et médiatique), d’autre part parce qu’acheter un artiste dont on parle beaucoup peut satisfaire le besoin de positionnement de certains collectionneurs. 
+
+*In fine*, ce n’est que lorsque les collectionneurs actifs sur le marché font confiance aux signaux émis par les instances de légitimation que la hiérarchie des prix est cohérente avec la valeur artistique objectivée. En revanche, dans les cas où les personnes accordent du poids à l’opinion moyenne du marché (par exemple, effets de mode ou faible confiance dans les signaux émis par les instances de légitimation), elles adoptent un comportement mimétique et des mouvements spéculatifs peuvent apparaître à la manière de ce que l’on peut observer en bourse. Telle a été la situation ces dernières années avec l’arrivée sur le marché de l’art de nouveaux milliardaires issus des pays du BRIC (Brésil, Russie, Inde et Chine) — des individus peu connaisseurs, mais en quête de reconnaissance qui ont cherché, pour la satisfaire, à se construire une légitimité sociale en achetant de l’art contemporain. Selon les données du World Wealth Report (Capgemini) [5. Le World Wealth Report est édité chaque année, depuis 1997, par Capgemini et Merill Lynch Global Wealth Management. Il étudie la répartition des grosses fortunes dans le monde. Selon cette étude, une personne détient un patrimoine net important (en excluant la résidence principale, les objets de collection, les consommables et les biens de consommation durable), lorsque celui-ci est supérieur ou égal à 1 million de USD.], le nombre de milliardaires a littéralement explosé dans ces pays, atteignant 3,37 millions en 2011 dans la zone Asie-Pacifique, plaçant cette région pour la première fois en tête de celles comptant le plus grand nombre de millionnaires (l’Amérique du Nord en comptabilise 3,35 millions). Ces nouveaux collectionneurs sont prêts à dépenser des sommes colossales pour acheter les artistes les plus en vue du moment, contribuant à entretenir les effets de mode et à fixer une valeur économique sans commune mesure avec la valeur artistique.
+
+Peu nombreux à intervenir sur le marché [6.En 2007 / 2008, selon les données Artprice, plus de la moitié des transactions se faisait à moins de 5000 euros, 37 % des transactions s’opéraient entre 5000 et 50 000 euros, 11 % entre 50 000 et 500 000 euros, et seulement 1 % d’entre elles étaient réalisées pour un montant supérieur à 500 000 euros. ], mais fort visibles du fait du rôle qu’ils jouent dans l’envolée des prix et la création de « bulles spéculatives » sur le marché, ces nouveaux milliardaires ne nous feront pas pour autant oublier la fameuse maxime du sage Petit Prince de Saint-Exupéry : « L’essentiel est invisible pour les yeux ».
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: 
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Nathalie Moureau
+
+----
+
+Article-sito: 

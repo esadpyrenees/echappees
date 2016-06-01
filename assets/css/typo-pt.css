@@ -1,0 +1,37 @@
+@import url(https://fonts.googleapis.com/css?family=Work+Sans:400,300,700);
+
+@font-face {
+  font-family: 'Magragra';
+  src: url('../fonts/Magra-Bold.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Magra-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/Magra-Bold.woff') format('woff'), /* Modern Browsers */
+       url('../fonts/Magra-Bold.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/Magra-Bold.svg#b05f9b358fd70a7ac28b8af2ded63cbe') format('svg'); /* Legacy iOS */
+       
+  font-style:   normal;
+  font-weight:  700;
+}
+
+h1,
+#esa-echappees {
+    font-family: 'Magragra', sans-serif; 
+}
+
+.btnMenu,
+#article_relie::before,
+#btnGalerie,
+body {
+     // font-family: 'Work Sans', sans-serif;
+     font-family: "pt-sans",sans-serif;
+ }
+
+ h2,
+ h3,
+ h4, 
+ h5,
+ .contentMenu ul li, .article_sommaire,
+ .contentGalerie ul li  {
+     font-family: 'Work Sans', 'Yo', sans-serif;
+    // font-family: "brandon-grotesque",sans-serif;
+    font-family: 'Infini', sans-serif;
+ }

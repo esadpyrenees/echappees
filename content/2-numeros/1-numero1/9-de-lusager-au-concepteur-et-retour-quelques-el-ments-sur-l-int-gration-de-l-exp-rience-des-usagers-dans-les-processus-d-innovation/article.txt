@@ -1,0 +1,144 @@
+Pagesettings-1: 
+
+----
+
+Title: De l’usager au concepteur, et retour. Quelques éléments sur l’intégration de l’expérience des usagers dans les processus d’innovation
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: julie-denouel
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Si l’on observe l’organisation des processus d’innovation, on constate encore souvent que les questions liées aux usages n’interviennent que dans les phases ultimes du processus de développement ; ceci laissant implicitement supposer qu’il suffit qu’une technologie soit bien conçue pour qu’elle soit naturellement acceptée et mobilisée par les usagers. Or, nombreuses sont les innovations techniques qui, malgré leur qualité intrinsèque (technique, graphique, etc.), se trouvent largement sous-exploitées, et ce, pour des raisons très diverses : certaines répondant de façon relativement périphérique aux besoins des utilisateurs, d’autres manquant d’être pleinement adaptées au contexte d’activité du public cible auquel elles sont censées être destinées, d’autres encore, projetant des types d’actions qui se trouvent en contravention avec les règles d’organisation de la vie sociale, etc. Ainsi, l'univers des usagers et celui des concepteurs apparaissent, malheureusement, encore trop souvent étrangers l'un à l'autre.
+
+Pour autant, de nombreux industriels considèrent depuis longtemps qu’il est nécessaire de prendre en compte le point de vue des usagers dans la dynamique d’innovation et que, pour ce faire, il est important d’engager une investigation spécifique permettant de comprendre ce que les usagers font des dispositifs techniques [1. Investigation spécifique en ce qu’elle s’écarte, notamment, d’une démarche marketing.]. Dès le début des années 80, des systèmes d’innovation intégrant la problématique des usages sont ainsi mis en oeuvre, comme, par exemple, ceux qui portent sur les CSCW (*Computer Supported Cooperative Work*), situations de travail complexes supposant d’être structurées autour d’environnements professionnels fragmentés, de pratiques de coopération diversement médiatisées par des technologies et de tâches individuelles et collectives répondant d’ordonnancements et de temporalités fort différents. Dans ce cadre, « les développeurs et les concepteurs de dispositifs techniques sentaient bien qu’ils devaient mieux comprendre comment les individus travaillaient et s’organisaient, afin de concevoir des systèmes techniques répondant plus adéquatement aux besoins des individus et des organisations [2. Jauréguiberry, F., Proulx, S., 2011, *Usages et enjeux des technologies de communication*, Toulouse, Erès, p. 43.] ». Pour favoriser une meilleure adaptation des innovations aux usagers et à leur(s) contexte(s), les équipes d’ingénieurs — et plus particulièrement celles des centres de recherche et développement (R&D) — ont dès lors été souvent complétées de chercheurs en sciences humaines et sociales (ergonomes, psychologues, sociologues, linguistes, économistes, historiens, etc.) venant apporter, en différents moments de la conception, des éclairages sur la façon dont les individus s’approprient, rejettent, détournent (entre les autres), les innovations techniques.
+
+Ainsi, progressivement, les expériences des usagers, à travers leurs utilisations et leurs usages (notions proches mais pas exactement synonymes), ont été appréhendées comme des ressources essentielles des dynamiques d’innovation. Aussi, proposons-nous, dans le cadre de cet article, de préciser tout d’abord en quoi les utilisations et les usages constituent des points d’entrée pertinents pour saisir les expériences des usagers, puis d’esquisser les contours de trois modèles de conception intégrant précisément ces expériences.
+
+### 1 L’expérience des usagers : une question d’utilisation ou d’usage ?
+Le vocabulaire de sens commun nous amène souvent à considérer utilisation et usage comme deux termes synonymes. Or, si l’on observe la façon dont ces derniers sont convoqués dans le champ scientifique, force est de constater qu’ils relèvent de programme de sens distincts (mais également complémentaires pour un processus de conception) : si la notion d’*utilisation* engage un point de vue très fin sur le rapport entre individu et technologie et rend principalement compte du processus cognitif et fonctionnel de manipulation d’un objet technique, la notion d’usage suppose d’ouvrir le champ d’observation pour incorporer davantage le *contexte social et culturel* dans et par lequel les technologies sont mobilisées. La notion d’*utilisation* fait partie des outils d’analyse fondamentaux de l’ergonomie et des sciences cognitives, que l’on trouve le plus souvent dans le cadre des études sur les IHM (Interactions Homme-Machine) [3. Sencah, B., 1990, *Évaluation ergonomique des interfaces Homme / Machine : une revue de la littérature*, Rapport INRIA n° 1180, Le Chesnay, INRIA Publications.]. Dans cette optique, analyser le processus d’*utilisation* vise à déterminer l’intérêt général et particulier d’un nouveau dispositif technique et, ce faisant, à identifier les contraintes et les obstacles auxquels un utilisateur peut se trouver confronter au moment où il mobilise ce nouvel outil. Le processus d’*utilisation* est alors questionné à travers trois critères corrélés [4. Tricot, A., Plegat-Soutjis, F., Camps, J.- F., Amiel, A., Lutz, G., & Morcillo, A., 2003, « Utilité, utilisabilité, acceptabilité : interpréter les relations entre trois dimensions de l’évaluation des EIAH », in C. Desmoulins, P. Marquet et D. Bouhineau (dir.), *Environnements informatiques pour l’apprentissage humain*, Paris : ATIEF / INRP, pp. 391– 402. des EIAH », in C. Desmoulins, P. Marquet et D. Bouhineau (dir.), *Environnements informatiques pour l’apprentissage humain*, Paris : ATIEF / INRP, pp. 391– 402.] : celui de l’*utilité* (existe-t-il une adéquation entre les fonctions offertes par le dispositif technique et celles nécessaires à l’*utilisateur* pour réaliser les tâches qui lui sont affectées ?), celui de l’*utilisabilité* (le dispositif technique choisi par l’utilisateur est-il utilisable ? le dispositif choisi est-il, du point de vue de l’utilisateur, efficace, efficient et satisfaisant ?) et celui de l’*acceptabilité* (le dispositif technique respecte-t-il les normes et conventions sociales qui règlent les situations dans lesquelles l’utilisateur va être amené à le mobiliser ?). Ainsi, l’approche construite à partir de la notion d’*utilisation* suppose un examen détaillé de l’« expérience utilisateur » [5. Bercenilla, J., et Bastien, J. M. C., « L’acceptabilité des nouvelles technologies : quelles relations avec l’ergonomie, l’utilisabilité et l’expérience utilisateur ? », *Le Travail Humain*, n° 72, pp. 311– 331, 2009.], c’est-à-dire la façon dont un individu va pouvoir appréhender les différentes fonctions techniques et va ensuite mettre en œuvre les scripts d’action offerts par la technologie en fonction de buts et d’objectifs préétablis. Pour saisir ces expériences, on propose à des individus d’effectuer un ensemble de tests, le plus souvent en laboratoire ou dans le cadre d’expérimentations, dont les résultats permettent de définir ensuite les conditions optimales d’*utilisation* au travers desquelles le dispositif atteint sa finalité.
+
+Avec la notion d’*usage*, on se détache d’une perspective centrée sur l’*utilisateur* pour ouvrir la focale et s’intéresser conjointement à l’*usager* et au *contexte social et culturel* dans lequel il est engagé. Cette notion est ainsi associée à la sociologie des usages, courant de recherche pluridisciplinaire relevant des sciences sociales [6. Denouël, J. et Granjon, F., 2011, *Communiquer à l’ère numérique. Regards croisés sur la sociologie des usages*, collection Sciences sociales, Paris, Presses des Mines.]. Se tenant à égale distance de deux conceptions influentes en sciences sociales, l’une plutôt « technodéterministe » [7. Supposant que toute innovation technique impacte les activités sociales et constitue un élément moteur des changements historiques et sociétaux.] et l’autre davantage « sociodéterministe » [8. *Supposant a contrario* que les structures de reproduction du social conditionnent le développement et la façon d’utiliser des technologies.], la sociologie des usages vise à saisir, non pas ce que les technologies font aux individus, mais ce que les individus font des technologies. Ainsi, ce courant suppose d’observer, au plus près des pratiques, les « usages réels » tels qu’ils sont produits dans des contextes avérés (au domicile, au travail, dans les transports, etc.), par des individus aux trajectoires biographiques diverses. Pour ce faire, on s’appuie sur différentes méthodes d’enquête de terrain (observations ethnographiques, entretiens, carnets de bord, etc.), afin de saisir le contexte des usagers et ainsi identifier les différentes logiques (interactionnelles, relationnelles, économiques, sociales, culturelles, mais aussi techniques) qui structurent la façon dont ils mobilisent des technologies. Questionner le contexte s’avère ici indispensable et central, dans la mesure où les technologies ne sont jamais des objets neutres et que leurs usages se révèlent toujours pluriels et composites. En effet, ces différents travaux ont pu montrer à maintes reprises que l’appropriation des nouveaux dispositifs était le lieu de transformations — voire de réinventions — dans lesquelles les scripts d’*utilisation* imaginés par les ingénieurs tendaient souvent à être déformés, contournés ou recyclés par les usagers. Ce faisant, ces recherches ont pu mettre en évidence le fait que tout usage s’inscrit dans une « double médiation » [9. Jouet, J., 2000, « Pratiques de communication et figures de la médiation », *Réseaux*, p. 60, pp. 99 –120, 1993.], principe réflexif entre *technogénèse* et *sociogénèse* — « à la fois technique car l’outil structure la pratique, mais aussi social car les formes d’*usage* et le sens accordé à la pratique se ressourcent dans le corps social » [10. Jouët, J., « Retour critique sur la sociologie des usages »,* Réseaux*, 18 / 100, p. 497.].
+
+Prenons un exemple de cette démarche, en partant d’une analyse relativement répandue concernant l’usage des sites de réseaux sociaux : on souligne souvent le fait que la massification des usages du web 2.0 aurait favorisé une tendance à l’expression de soi — voire à l’exposition de soi —, phénomène qui relèverait d’une exacerbation pathologique du *moi* et serait la conséquence des cultures narcissiques traversant les sociétés capitalistes avancées [11. Twenge, J.M., Keith Campbell, W., 2009, *The Narcissism Epidemic. Living in the Age of Entitlement*, New York, Free Press.]. En contrepoint de ces analyses qui manquent probablement de s’appuyer sur un examen empiriquement fondé, plusieurs enquêtes de terrain ont souligné que, certes, les réseaux socionumériques autorisent la production et la mise en visibilité d’identitèmes personnels — voire intimes — (processus relevant de la *technogénèse*), mais que ces mêmes identitèmes sont produits de façon à être orientés vers Autrui, dont il est attendu une réaction, voire une évaluation en retour. Dès lors, on remarque que le processus d’expression de soi traversant les usages des réseaux socionumériques s’inscrit dans des processus corrélés relevant de la sociogénèse, qui sont liés à une volonté d’extimité [12. Tisseron, S., 2011, « Intimité et extimité », *Communications*, n° 88, pp. 83 – 92. ], de mise en relation [13. Cardon, D., 2009, « L’identité comme stratégie relationnelle », *Hermès*, n° 53, pp. 61– 66.] et de reconnaissance sociale [14. Granjon, F. et Denouël, J., 2010, « Exposition de soi et reconnaissance de singularités subjectives sur les sites de réseaux sociaux », *Sociologie*, n° 1, vol.1, pp. 25 – 43.].
+
+En outre, c’est pour saisir les différentes logiques qui traversent les usages et mieux appréhender leur plasticité que l’on fait appel de plus en plus « en amont » dans le processus de conception aux chercheurs en sciences humaines et sociales. Si la coopération entre chercheurs en SHS et ingénieurs s’opère avec plus ou moins de facilité et d’efficacité [15. Le souhait de former des équipes pluridisciplinaires permettant d’associer des compétences et des approches variées se heurte parfois à des principes de réalité difficiles à contourner, certains relevant de contraintes organisationnelles ou temporelles (l’analyse des usages requiert par exemple de travailler sur des temporalités moyennes à longues qui s’accordent souvent mal avec les temporalités courtes au fondement de l’organisation du secteur industriel et du marché économique), certains liés à la difficulté de réunir et faire collaborer des individus dont les formations et les cultures s’inscrivent dans des voies éloignées, voire radicalement opposées.], on remarque cependant que l’expérience des usagers est maintenant considérée, du point de vue des responsables industriels, comme un enjeu central pour l’innovation qui nécessite la mise en oeuvre de processus de conception *ad hoc*.
+
+### 2 Trois modèles de conception intégrant l’expérience des usagers.
+En nous appuyant sur les travaux d’Alexandre Mallard, sociologue spécialiste des processus d’innovation en entreprise [16. Mallard, A., 2011, « Explorer les usages, un enjeu renouvelé pour l’innovation des TIC », in J. Denouël et F.Granjon (dir.), *Communiquer à l’ère numérique. Regards croisés sur la sociologie des usages*, Paris, Presses des Mines, pp. 253 – 282.], nous présenterons trois modèles de conception intégrant l’expérience des usagers auxquels on recourt assez fréquemment aujourd’hui dans les centres de R&D. L’*incubation*, la *percolation et l’internalisation* engagent, chacune, une démarche spécifique qui vise à affaiblir les lignes de séparation entre usagers et ingénieurs et, par là-même, à trouver de nouvelles ressources (potentiellement inattendues ou non imaginables autrement) venant alimenter le processus de conception.
+
+Le modèle d’*incubation* suppose d’être accompli à l’intérieur d’un centre de R&D et a pour particularité d’engager une coordination étroite entre les différents acteurs d’une équipe de conception pluridisciplinaire. La démarche associée à ce modèle repose tout d’abord sur un *processus itératif*, impliquant l’alternance de séquences de conception, de séquences de développement et de séquences de tests et d’expérimentations. Dans une première phase, le dispositif technique en cours d’élaboration est en effet appelé à être confronté de façon répétée à un « univers extérieur ». Cet univers extérieur forme un espace d’expérimentation et de simulation d’utilisations, construit le plus souvent en laboratoire par des ergonomes, au moyen duquel il va être possible de mettre à l’épreuve certaines hypothèses apparaissant dans le cours du processus d’innovation ou de collecter des informations qui ne sont pas disponibles dans la sphère de conception [17. Deuff, D., Cosquer, M. et Foucault, B., 2010, « Méthode centrée utilisateurs et développement agile : une perspective ‹ gagnant-gagnant › au service des projets de R&D », *Proceedings* IHM 2010, ACM, pp. 189 – 196.]. Cette première phase de la démarche d’*incubation* a pour avantage de permettre l’identification progressive de leviers sur lesquels il est possible d’agir pour contrôler la trajectoire d’usage à venir ; ne serait-ce que pour éviter l’échec. C’est à l’issue de ce processus de conception séquentialisé qu’intervient la commercialisation de l’innovation technique et sa diffusion sur le marché. Dans une seconde phase, la démarche d’*incubation* est complétée par une séquence d’analyse des usages, supposant d’observer, sur une temporalité plus ou moins longue, la façon dont les usagers introduisent et mobilisent les nouvelles technologies dans leur contexte de vie. Le résultat de ces observations est présenté à l’équipe en charge du développement en vue de nouveaux ajustements au dispositif mis sur le marché ou à de nouvelles innovations.
+
+Par rapport au précédent modèle, le modèle de percolation engage quant à lui un travail d’ouverture vers l’extérieur du centre de R&D. Dans ce cadre, l’objectif est de développer les capacités d’innovation de l’entreprise en les complétant par des ressources externes. Qu’entend-on par « ressources externes » ? Cette formulation peut avoir des acceptions plurielles selon le système de percolation employé. En effet, ce deuxième modèle de conception a été décliné en plusieurs démarches. Parmi elles, se trouve l’open innovation [18. Chesbrough, H., Vanhaverbeke, W., West, J., 2006, *Open Innovation. Researching a New Paradigm*, Oxford, Oxford University Press.] supposant que les services de conception d’une entreprise développent des interactions avec des acteurs porteurs de dynamiques d’usages et d’innovations (ingénieurs indépendants, designers, responsables de start-up, chercheurs issus des sphères privée et académique, etc.) et, par là-même, saisissent des innovations émergentes [19. Ce processus présente quelques liens avec les dynamiques participants de l’*open source*, sans en être — loin s’en faut — un équivalent exact.]. Pour mettre en oeuvre ce processus d’innovation ouverte, on s’appuie notamment sur la pratique du réseautage, dans le cadre de colloques, conférences, et autres espaces d’échange entre membres d’un même secteur d’activité [20. Dans le champ de l’innovation des technologies d’information et de communication, la *Cantine numérique* — qui a été créée à Paris puis exportée dans différentes villes de France métropolitaine —, forme un « espace d’intéressement », tel qu’il a pu être décrit par M. Akrich, M. Callon et B. Latour (« L’art de l’intéressement » in D. Vinck (dir.), *Gestion de la recherche. Nouveaux problèmes, nouveaux outils*, Bruxelles, De Boeck, pp. 27 – 52, 1991), qui est particulièrement favorable à la constitution de ces réseautages et, ainsi, à la circulation des connaissances et des idées (cf. <http://lacantine.org> ).]. Mallard souligne à cet égard que « l’objectif idéal de ce type de (pratique) est de capter les effets de ‹ créativité en milieu ouvert › que constitue la circulation des idées et des projets dans ces lieux de discussion, des effets qui sont d’autant plus intéressants que les propositions d’usages en question sont en général associées à des technologies en cours de développement — au lieu d’être désincarnées comme c’est souvent le cas dans les exercices de créativité classiques » [21. *Ibid*., Mallard, 2011, p. 270.]. En outre, l’innovation prend forme, ici, à l’articulation de l’intérieur et de l’extérieur de l’entreprise, à travers un processus de partage réciproque d’informations et de connaissances.
+
+Le modèle de conception par *internalisation* reprend les principes d’ouverture et de captation de ressources externes portés par le modèle de la *percolation*, mais dans un contexte et selon des modes de partage relativement différents. En effet, l’objectif est, ici, de rester attentif aux usages produits dans des communautés de pratiques, de saisir les plus pertinents pour les rediriger ensuite vers les centres de conception industrielle, les inscrire dans de nouvelles stratégies de développement puis les diffuser sur le marché [22. En outre, cette démarche s’inscrit dans le sillage des logiques de *lead users* décrites par Eric von Hippel (2005, Democratizing innovation, Cambridge, MIT Press) ou des dynamiques d’*innovation ascendante* mises en évidence par Dominique Cardon (2006).]. Nombre des innovations liées à internet, et plus particulièrement au web 2.0, participent de cette démarche : le p2p, le wifi ou les sites de réseaux sociaux sont tous le fruit du travail de collectifs amateurs, de groupes d’étudiants ou de militants associatifs, fort éloignés des cercles d’innovation industrielle. Et c’est l’augmentation croissante des usages de ces mêmes dispositifs qui a obligé les industriels à accompagner leur diffusion, en s’appropriant et en développant de nouveaux standards qui, à un moment, sont devenus incontournables (comme dans le cas du wifi) ou en réorientant leur stratégie et conception de service (par exemple, davantage centrée sur l’échange de contenus culturels numériques depuis l’apparition du p2p). Du point de vue des acteurs industriels, cette démarche offre de nombreux avantages puisque « les collectifs concernés (sont) des lieux d’expérimentation intensive du couple dispositif utilisateur et de partage des savoirs issus de ces expérimentations, et (qu’à ce titre) ils peuvent favoriser l’émergence de nouveaux produits fortement adhérents à des usages effectifs [23. *Ibid.*, Mallard, 2011, p. 268]. Cela dit, l’*internalisation* engage une démarche qu’il faut pouvoir mettre en œuvre de façon éclairée. Elle peut faire émerger des situations tendant vers l’exploitation du travail produit en externe. Pour être tout aussi efficace que juste, l’association du monde marchand avec le monde non marchand doit, en ce cas, reposer sur un système de collaboration, lui- même fondé sur un strict partage entre égaux.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: pdf-pau-delusagerauconcepteur.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Julie Denouël
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 

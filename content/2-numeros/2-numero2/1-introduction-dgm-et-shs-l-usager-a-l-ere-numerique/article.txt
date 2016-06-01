@@ -1,0 +1,146 @@
+Pagesettings-1: 
+
+----
+
+Title: Introduction – DGM et SHS, l’usager à l’ère numérique
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: corinne-melin
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Le design en tant que méthodologie de conceptualisation s’alimente à d’autres champs du savoir et des techniques : les arts, les sciences sociales, les langages scientifiques ou ceux liés à certaines technologies comme le numérique ou encore à tout ce qui a trait aux systèmes de communication et de visualisation de l’information. Le designer prend donc en compte des facteurs externes au domaine du design proprement dit. Il tente d’adapter son objet aux besoins économiques, psychologiques, spirituels, sociaux, technologiques et intellectuels de l’homme. Afin de circonscrire le champ de cette conception du design en tant que processus, ont été interrogées dans le numéro 1 ses relations avec d’autres disciplines et tout particulièrement la sociologie, l’anthropologie et la philosophie [1. Voir le numéro 1 de la revue *échappées*, en particulier « Les pensées du design » (séminaire conduit par Corinne Melin). Il existe une version papier ainsi qu’une version numérique **(link: http://recherche.esapyrenees.fr/echappees/fr/edito-pau.php text: téléchargeable ici popup: yes)**.]. Comment agir en commun ? Croiser des disciplines et des champs d’application ?
+
+Afin de poursuivre sur les relations entre le design et les SHS, le numéro 2 a été construit en accordant un intérêt particulier à l’usager et à la façon dont le designer et le chercheur s’en emparent. Il apparaît que la prise en compte de celui-ci, dès la conception de produits et de services numériques, conduit à une juste adéquation des comportements d’usage. La technique et le sujet sont à penser ensemble, particulièrement dans un projet relié aux technologies du numérique. Pour ce faire, l’usager est à placer au centre des dispositifs numériques étudiés ; ces dispositifs étant de véritables champs d’observation et d’expérimentation. Il a été ainsi réuni ici des articles rendant compte de recherches actions abouties ou en cours ; ces recherches collectives réunissent, autour de dispositifs numériques concrets, chercheurs, designers, commanditaires, usagers ; chacun participant à l’affinement de l’objet d’étude.
+
+Dans son article, Fabien Labarthe spécifie les apports réciproques du design et des SHS au sein du processus d’innovation centrée-usager. Il discute d’un *guide méthodologique* conçu pour accompagner des porteurs de projet à intégrer le *point de vue* des usagers dans les phases d’expérimentation de produits et de services numériques. Ce guide, souligne l’auteur, n’est pas une suite de recettes mais bien plutôt une boussole, fabriquée pour s’orienter vers l’usager aux comportements souvent imprévisibles. Fabrice Papy et Peter Stockinger rendent compte d’une recherche action où bibliothécaires et chercheurs œuvrent ensemble au service d’une amélioration significative des compétences documentaires des usagers. Ils montrent la nécessité de réinventer « les systèmes de recherche bibliographique utilisés dans les bibliothèques universitaires, encore trop en prises avec un paradigme système ne prenant pas en compte l’usager ». Marion Rollandin analyse la place du joueur / usager dans le cadre d’un jeu en ligne « *League of Legends* » à l’appui « d’une enquête menée sur la réflexivité communicationnelle dans les échanges en ligne ». Elle tente « de cerner par quels processus les interfaces graphiques incitent le joueur à s’approprier le monde fictionnel proposé par le dispositif et en quoi la place de l’usager est centrale dans ce dispositif. » Jessica de Bideran s’appuie sur ses observations du dispositif numérique en réalité augmentée « Imayana » [2. « Imayana » (*Ima* en référence à image et* Yana* signifiant mémoire en quechua) a été conçu par la société *heritage prod*. Un *Ipod 2* adapté à ce service permet de faire des visites augmentées de Bordeaux au XVIII<sup>e</sup> siècle ; ce dispositif est exploité par l’office du tourisme de la commune depuis septembre 2012.] pour dégager des mécaniques d’interaction des visiteurs avec l’environnement patrimonial arpenté. Elle souligne notamment que l’usager, en expérimentant « Imayana », est physiquement présent dans un monde qui hybride passé et présent ainsi qu’environnement réel et création numérique. Pascale Argod envisage la mobilité du numérique en tant que transfiguration de la relation à l’espace et s’appuie, pour en discuter, sur de nombreux exemples de carnets de voyage créés par des artistes ayant recours au transmédia, soit une même narration déployée sur plusieurs média. Le sujet est ainsi placé au centre du dispositif narratif, chargé qu’il est de *parcourir* un récit.
+
+D’autres articles sont des retours de situations d’apprentissage empiriques : terrain, plateforme, atelier, *workshop*, conduites à École supérieure d'art des Pyrénées – Pau, par des enseignants, designers invités et étudiants en DGM (Design Graphique et Multimédia). Chaque projet présenté est en lien avec l’un des trois programmes de recherche réunis au sein de l’unité L’*Observatoire* [3. Lien URL vers l’unité de l’EPCC Pau Tarbes **(link: http://www.esapyrenees.fr/fr/recherche/ l-observation text: *L’Observatoire*)**.]. Il en constitue le plus souvent une étape intermédiaire pour vérifier une hypothèse, clôturer un pan de l’analyse par exemple. Chaque projet a également confronté les jeunes et futurs designers à des réalités numériques et de différentes manières : par des simulations de la matière calculée, par l’observation du sujet pris dans un dispositif ou encore par la transposition de données issues du réel.
+
+Francesca Cozzolino et Julien Bidoret rendent compte d’une expérience de recherche et de pédagogie « Enquêter l’écrit en situation » menée entre octobre 2012 et avril 2013 [4. Ces cours sont en lien avec le programme de recherche **(link: http://www.esapyrenees.fr/fr/recherche/programmes/ecrire-dans-l-espace text: « écrire dans l’espace »)**.] dans la commune de Pau. Francesca Cozzolino souligne que par delà le travail d’enquête, la volonté était de dépasser le clivage entre recherche de forme et recherche théorique ainsi que de se dégager de la division des espaces pédagogiques : salle de cours magistral et ateliers. L’objectif était « d’initier à la recherche par la pratique de ses méthodes ou d’apprendre la recherche par la recherche ». Julien Bidoret expose, quant à lui, la façon dont a été créée avec des étudiants la plateforme numérique ; territoire virtuel rendant active l’enquête menée sur le terrain. Les deux *workshops* proposés par Julien Drochon « Interfaces / Interactions » avec Martial Geoffre-Rouland en décembre 2012 et « Internet of Spaces » avec Dimitri Nieuwenhuizen en avril 2013 [5. Ces deux *workshops* sont en lien avec le programme de recherche **(link: http://www.esapyrenees.fr/fr/recherche/programmes/nouvelles-temporalites text: « Nouvelles Temporalités »)**.] ont permis d’expérimenter la relation entre les mondes digital et physique, la manière dont cette relation influence l’altération de la fonction des objets, de l’architecture et de l’espace (public) ou encore comment fonctionne le *ménage à trois* homme-données-objet. Perrine Saint Martin restitue un atelier conduit également par Corinne Melin et Jérémie Baboukhian (interactive et web designer invité) avec les étudiants de 4<sup>e</sup> DGM [6. Cet atelier est en lien avec le programme de recherche **(link: http://www.esapyrenees.fr/fr/recherche/programmes/design-graphique-multimedia text: « DGM et SHS, l’usager à l’ère numérique » popup: yes)**.]. Elle souligne que des pratiques sociales naissant de et autour de la manipulation d’*iPad* ont été interrogées, et que des formes textuelles et iconographiques ont été expérimentées au niveau de leur organisation et diffusion, au travers de la création d’applications.
+
+Enfin j’ai souhaité, pour clôturer et somme toute ouvrir ce numéro 2, mener un entretien avec le philosophe Stéphane Vial, à partir de son ouvrage « l’être et l’écran » [7. Stéphane Vial, « L’être et l’écran », *PUF*, Paris, septembre 2013.], et discuter de l’ontophanie numérique ; l’ontophanie étant la manière dont les choses apparaissent et déterminent directement la nature de l’expérience que tout individu peut faire.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-introduction-dgm-et-shs-lusager-a-lere-numerique.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Corinne Melin
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] Voir le numéro 1 de la revue *échappées*, en particulier « Les pensées du design » (séminaire conduit par Corinne Melin). Il existe une version papier ainsi qu’une version numérique téléchargeable ici : http://recherche. esapyrenees.fr/echappees/fr/edito-pau.php 
+
+[2.] « Imayana » (*Ima* en référence à image et* Yana* signifiant mémoire en quechua) a été conçu par la société *heritage prod*. Un *Ipod 2* adapté à ce service permet de faire des visites augmentées de Bordeaux au XVIII<sup>e</sup> siècle ; ce dispositif est exploité par l’office du tourisme de la commune depuis septembre 2012.
+
+[3.] Lien URL vers l’unité de l’EPCC Pau Tarbes *L’Observatoire* : http://www.esapyrenees.fr/fr/recherche/ l-observation
+
+[4.] Ces cours sont en lien avec le programme de recherche « écrire [dans] l’espace » : http://www.esapyrenees.fr/fr/recherche/programmes/ecrire-dans-l-espace
+
+[5.] Ces deux *workshops* sont en lien avec le programme de recherche « Nouvelles Temporalités » : http://www.esapyrenees.fr/fr/recherche/programmes/nouvelles-temporalites
+
+[6.] Cet atelier est en lien avec le programme de recherche « DGM et SHS , l’usager à l’ère numérique » : http://www.esapyrenees.fr/fr/recherche/programmes/design-graphique-multimedia
+
+[7.] Stéphane Vial, « L’être et l’écran », *PUF*, Paris, septembre 2013.

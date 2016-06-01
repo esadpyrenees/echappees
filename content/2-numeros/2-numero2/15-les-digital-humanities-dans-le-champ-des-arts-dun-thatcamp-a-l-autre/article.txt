@@ -1,0 +1,195 @@
+Pagesettings-1: 
+
+----
+
+Title: Les « Digital Humanities » dans le champ des arts : d’un « THATCamp » à l’autre
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: nicolas-thely
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+### Une communauté de pratiques
+
+En France, les *Digital Humanities* ont spectaculairement émergé dans le paysage des sciences humaines et sociales (SHS) les 18 et 19 mai 2010 avec l’organisation à Paris d’un *THATCamp*, une manifestation atypique se présentant sous la forme d’ateliers, de non-conférences. Un *THATCamp*, *The Humanities and Technology Camp*, est un mode de rencontre d’ateliers. Non académique, il a pour objet le partage de connaissance et de savoir-faire, ayant vu le jour en 2008 au *Center for History and New Media Roy Rosenzweig* basé en Virginie (États-Unis) [1. **http://chnm.gmu.edu**].
+
+Organisé sous l’impulsion du *Centre pour l’édition électronique ouverte* (le Cléo), le *THATCamp* 2010 a été initié par un appel aux chercheurs dès décembre 2009 lancé par Marin Dacos dont on retrouve un fragment sur l’affiche de la manifestation : « Voulons-nous, acteurs ou observateurs des *Digital Humanities*, travailler ensemble ? Si la réponse est positive, si *l’archipel* des humanités numériques veut se construire dans la durée, alors nous devons tous engager une réflexion sur la façon de partager cet objectif. » À l’issue des deux journées d’ateliers, un manifeste des *Digital Humanities* sera rédigé, prenant en compte le tournant numérique des conditions de production et de diffusion du savoir, appelant à ne pas faire table rase du passé et à se « constituer en communauté solidaire, ouverte, accueillante et libre d’accès. » [2. **http://tcp.hypotheses.org/1**]
+
+(image: echappees_g.jpg)
+#####Manifeste des Digital Humanities, 2011.
+
+À la lecture de la liste des premiers signataires du manifeste des *Digital Humanities*, il est frappant de constater combien les acteurs du monde de l’art numérique sont les grands absents de ce moment décisif pour la communauté francophone en SHS, alors même que ceux-ci se targuent d’être à la pointe des débats de société, à l’avant-garde des formes et des pratiques numériques. On peut tout juste se consoler de trouver parmi les premiers signataires Corinne Welger-Barboza, figure importante des humanités numériques, auteur d’un remarquable « Grand Tour à l’heure des *Digital Humanities* », et concéder la seule apparition d’artistes et de théoriciens à travers la signature collective du laboratoire canadien NT2. Mais c’est bien peu [3. **http://tcp.hypotheses.org/412**]. Pour ma part, c’est en tant qu’auditeur de l’émission « Place de la Toile » animée par Xavier de La Porte diffusée sur *France Culture* le 2 juillet 2010 que j’ai entendu parler pour la première fois des *Digital Humanities* [4. **http://www.franceculture.fr/emission-place-dela-toile-digital-humanities-2010-07-02.html**]. Œuvrant depuis la fin des années 1990, dans le champ de l’art contemporain et de l’Esthétique, les préoccupations scientifiques de cette communauté de pratiques résonnaient avec les questionnements méthodologiques formulés à titre individuel dans mes recherches portant sur la web-intimité et la basse définition. Pourquoi un blog d’un chercheur contribue-t-il à la recherche aussi bien qu’un article scientifique ? Comment pérenniser et partager les données récoltées lors d’enquêtes de terrain ? Comment les algorithmes s’immiscent-ils dans la conduite de la recherche? Etc.
+
+###Régime visuel du discours
+
+Prenant part au *THATCamp* suivant, qui s’est déroulé du 23 au 26 mars 2011 à Florence, j’ai été immédiatement frappé par la manière dont les chercheurs en SHS avaient recours quasi systématiquement à des logiciels de visualisation de données plus ou moins sophistiqués dans la conduite de leur recherche, mais aussi et surtout, pour appuyer leur réflexion. Ils avaient besoin de visualiser très rapidement les propos d’un discours ou de cartographier le champ notionnel ou conceptuel qu’ils étudiaient. Ainsi lors d’un atelier, Frédéric Clavert, docteur en histoire contemporaine et acteur majeur des DH en France, utilisait-il le programme *Wordle* pour mettre rapidement en évidence le contenu d’un texte portant sur les humanités numériques. Réfléchir passe désormais par le régime visuel de la pensée, par l’affichage d’un nuage de mots clés colorés et bien ordonnés.
+
+(image: echappees_f.jpg)
+#####Frédéric Clavert, Word Cloud Digital Humanities, 2011. © Frédéric Clavert.
+
+Mais cette production graphique standard ne peut laisser insensible la rétine d’un amateur d’art et de design graphique. Elle ranime des problématiques propres au monde de l’art et, plus précisément, à la communication graphique et à son enseignement : en 2008, Yoann Bertrandy, étudiant à l’école supérieure des arts décoratifs de Strasbourg (ESDAC) publiait sur la plateforme *ISSUU* son mémoire de fin d’étude au titre sans appel : « Tout le monde est graphiste ». Faisant le constat de la prolifération des imprimés *faits maison* pour annoncer une fête au village, un concert de musique, une loterie, Yoann Bertrandy interpellait ses professeurs : « Tous ces documents infographiés qui nous arrivent dans les mains sans être passés par celles d’un graphiste professionnel. Cette matière protéiforme et normalisée, m’interroge sur le métier que j’envisage de faire : graphiste. Car, si cette création graphique « sauvage » remplissait sa fonction, puisque sa forme en est imbibée – tout à fait inconsciemment ; à quoi la professionnalisation du graphiste servirait-elle ? À quoi les graphistes professionnels servent-ils ? Et à quoi vais-je servir, moi ? » [5. **http://issuu.com/yoannbertrandy/docs/y-bertrandymemoire-08**]. Yoann Bertrandy posait la question de la place du plus grand nombre dans la contribution à la création des formes graphiques destinées à la communication, son rôle et son métier se retrouvent discutés.
+
+Ce nuage de mots produit par Frédéric Clavert appartenait-il au même registre ? Il rappelait également le principe de la couverture d’« An Anthology », ouvrage majeur du mouvement *Fluxus*, édité en 1963 par George Maciunas. *Wordle* avait-t-il encodé, comme *Photoshop* et *After Effects*, les savoir-faire et les pratiques existantes dans le champ du design graphique ? De retour à Paris, je réalisais un entretien avec Gilles Rouffineau, spécialiste des éditions off-line et professeur en design à l’école d’art et de design de Valence, dans lequel il revenait sur l’historique de la publication de Maciunas et discutait sa forme matricielle ressemblant aux nuages de mots-clés [6. **http://esthetique.hypotheses.org/89**. Par ailleurs, Gilles Rouffineau remarque et souligne également, qu’à sa connaissance, « An Anthology » est peu commenté par les designers, mais intéresse plutôt les historiens d’art, part essentielle des activités éditoriales de Fluxus. Maciunas a fait l’objet de multiples commentaires en langue anglaise, en particulier dans les revues *October et Grey Room *; Julia Robinson, « Maciunas as Producer : Performative Design in the Art of the 1960’s », 2008.].
+
+(image: echappees_h.jpg)
+#####George Maciunas / Fluxus, Doctrine of Chances, Chance Operations, Concept Art, Anti-Art, Indeterminacy, Improvisation, Meaningless Work, Natural Disasters (An Anthology), 1963.
+
+Incontestablement, si les questions de conception d’outils graphiques et d’analyses de données structurent le champ des humanités numériques, l’esthétique et le design avaient un rôle à jouer pour contribuer à penser les bonnes pratiques. Quelques mois plus tard, alors que la campagne de recrutement des enseignants-chercheurs battait son plein au sein des universités françaises, et où l’on assistait à une multiplication des postes en « arts numériques », l’université Rennes 2, et plus précisément le laboratoire « Arts de l’équipe Arts : Pratique et Poétique », se démarquait, en publiant un poste de professeur des universités portant la mention *humanités numériques*, dans le but de restructurer les recherches en arts et esthétique avec et sur le numérique.
+
+###Des précurseurs dans le champ des arts
+
+Une telle orientation signifiait-elle un retour vers des expérimentations des années 1970 ? Pour mémoire, en 1971 dans le cadre de l’exposition « Une esthétique programmée » au musée national d’art moderne de la ville de Paris, Manfred Mohr avait placé un tableau blanc à l’attention des visiteurs les invitant à répondre à la question « Que pensez-vous de la recherche esthétique faite à l’aide d’un ordinateur ? ». Le résultat, assez décevant plastiquement, était un ensemble de traits et de ratures. À la même époque, Abraham Moles publiait « Art et Ordinateur », et défendait une esthétique informationnelle et une exploration des arts assistés par ordinateur. Mais en 2011, à l’heure des *Digital Humanities*, devions-nous nous placer dans la même filiation ?
+
+Il était très intéressant également de regarder ailleurs et de convenir que les recherches fondamentales dans le champ de l’art et du numérique ont été conduites en France par Jean-Louis Boissier et Anne-Marie Duguet. Formés par Franck Popper, Roland Barthes et Christian Metz, ces deux théoriciens de l’art d’un nouveau genre ont œuvré dans les années 1980 et 1990, à la marge de l’Esthétique historique, en conciliant spéculation théorique et utilisation de nouvelles technologies (vidéodisques, CD-Rom, DVDrom). Leurs approches théoriques étaient toujours informées des enjeux de l’art, de son actualité et de son histoire. Jean-Louis Boissier a notamment contribué à deux expositions majeures, « Electra » (1985) et « Les Immatériaux » (1985). De 1990 à 1994, il a été commissaire avec Anne-Marie Duguet de la biennale Artifices [7. **http://fr.wikipedia.org/wiki/Biennale_Artifices**] qui se tenait à Saint-Denis, où ils ont exposé les premières œuvres en réalité virtuelle de Jeffray Shaw et de Masaki Fujihata. Anne-Marie Duguet et Jean-Louis Boissier ont joué un rôle déterminant dans le domaine de l’histoire et de la théorie des arts et médias en proposant des notions dont nous sommes aujourd’hui les héritiers (*mondes bornés*, *déjouer*, *jouabilité*, *dispositifs*). L’un et l’autre, à travers la conception de CD-Rom [8. **http://jlggb.net/jlb/?page_id=21**] et DVD-Rom [9. **http://www.anarchive.net**] ont appréhendé les bases de données comme une forme supplémentaire du discours avec un potentiel d’écriture et de lecture à explorer. Étrangement, ces théoriciens, pourtant au centre de la discussion théorique dans le champ des arts et médias, ne parlaient pas de design, même s’il était question d’agencement des formes et de création d’artefacts qui transmettent des expériences ou bien des savoirs. Leurs expérimentations nous informent sur ce qui se joue aujourd’hui dans les pratiques épistémologiques qui correspondent aux humanités numériques.
+
+### Animer et structurer la recherche
+
+À Rennes, un petit groupe concerné par les humanités numériques s’est formé dès septembre 2011 dans le cadre d’un séminaire de doctorat dont j’assure la conduite. On y retrouve notamment Pierre Braun, Virginie Pringuet, Camille Bosqué, Alexandre Dupont et Robin de Mourat [10. **http://oin.hypotheses.org**]. Si nos réflexions restaient bien inscrites dans le champ des arts, nous sentions que nous étions en train d’opérer toutefois de véritables ruptures épistémologiques au sein même des méthodologies propres à notre champ disciplinaire : nous suivions des formations à des logiciels de visualisation de données, nous avions établi des contacts fructueux avec des chercheurs en statistique et en traitement automatique des langues. Nous prenions conscience que nous étions en train de mettre en place des méthodes et des outils numériques indispensables pour la conduite de nos recherches. Ainsi, avoir recours à la programmation pour accéder à des données, à des techniques de statistiques pour analyser les données, de traitement automatique des langues, nous permet-il d’appréhender autrement des sujets déjà balisés (le *Computer Art*, le *Net Art*), de rouvrir des débats (le statut de la critique d’art), de contribuer à la diffusion de la culture (cartographie de l’art dans l’espace public), et d’observer des phénomènes émergents (*FabLab*).
+
+Nous avions également remarqué la persistance, dans tous les cas de figure, de questions de design liées à la conception d’outil et de programmes d’analyse, à la mise en forme des données, à leurs représentations et à la communication des résultats des recherches.
+
+Si ces questions étaient déjà convenues à l’étranger voire intégrées dans la structuration de la recherche, comme à Stanford, en France, personne ne les formulait explicitement au sein de la communauté des *Digital Humanities*. Aussi à l’occasion du deuxième *THATCamp* organisé à Paris les 25 et 26 septembre 2012, associé à deux enseignants en école d’art et de design, Gilles Rouffineau et David-Olivier Lartigaud, auteur d’une remarquable thèse sur le *Software Art*, nous avons proposé un atelier portant sur le rôle du design dans les *Digital Humanities*. Nous ouvrions ainsi la discussion : « L’idée de cet atelier est d’ouvrir un nouveau chantier. Un atelier précédent intitulé « l’historien programmeur », a posé le couple chercheur-programmeur. On se propose d’ajouter un troisième personnage, le designer. » [11. **http://books.openedition.org/editionsmsh/386**]
+
+Puis, suite à une journée d’études organisées à Rennes 2 en avril 2013 avec Jean-Christophe Plantain et Pierre Mounier portant sur les esthétiques du traitement des données en SHS, l’idée d’organiser un *THATCamp* a fait jour. Au début du mois de juin un appel a été lancé à partir de *Tweeter* et de la liste DH, interpellant la communauté des arts et du design.
+
+Organisé avec Alexandre Serres et Olivier Le Deuff, maîtres de conférences en sciences de l’information et de la communication, le *THATCamp* de Saint-Malo s’est tenu les 18 et 19 octobre 2013 [12. **http://thatcamp35.hypotheses.org**]. Il a rassemblé quatre-vingt chercheurs et personnels scientifiques venus de France, de Suisse et de Belgique. S’il a été l’occasion de mettre en place la création d’une association francophone des humanités numériques, le *THATCamp* de Saint-Malo a également marqué l’arrivée du monde de l’art et du design dans les humanités numériques : quatre écoles étaient présentes : l’EESAB de Rennes, l'École supérieure d'art des Pyrénées – Pau, l’ÉSAD de Saint-Étienne et l’ÉSAD Valence-Grenoble respectivement représentées par Erwan Mahé, Vincent Meyer, David-Olivier Lartigaud, et Gilles Rouffineau et Alexis Chazard. Sur les seize ateliers proposés par les participants du *THATCamp*, quatre ont porté directement sur des questions de design. Ainsi, dans les salles du château de la Briantais où se déroulaient les ateliers, rebaptisées pour l’occasion des noms de *grands pionniers* des humanités numériques (R. Busa), de l’information scientifique (V. Bush), de l’informatique et des interfaces (D. Engelbart) et de l’hypertexte (T. Nelson), chacun a pu contribuer aux discussions, renouveler et élargir le champ des références. De leur côté, les chercheurs en SHS, dont Frédéric Clavert et Pierre Mounier, ont découvert la programmation orientée art et design, les pratiques artistiques des éditions d’artiste, et l’univers des *FabLab*.
+
+Trois ans après le premier *THATCamp* et la publication du manifeste des *Digital Humanities*, la recherche en art et design avance désormais de manière structurée dans le champ des humanités numériques, avec des acteurs et des institutions impliqués et identifiés. Il convient à présent de continuer à œuvrer ensemble.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: Digital humanities
+
+----
+
+Article-keyword: Digital humanities, humanités numériques
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-les-digital-humanities-dans-le-champ-des-arts-dun-thatcamp-a-lautre.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Nicolas Thély
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] http://chnm.gmu.edu.
+
+[2.] http://tcp.hypotheses.org/1
+
+[3.] http://tcp.hypotheses.org/412
+
+[4.] http://www.franceculture.fr/emission-place-dela-toile-digital-humanities-2010-07-02.html
+
+[5.] http://issuu.com/yoannbertrandy/docs/y-bertrandymemoire-08
+
+[6.] http://esthetique.hypotheses.org/89. Par ailleurs, Gilles Rouffineau remarque et souligne également, qu’à sa connaissance, « An Anthology » est peu commenté par les designers, mais intéresse plutôt les historiens d’art, part essentielle des activités éditoriales de Fluxus. Maciunas a fait l’objet de multiples commentaires en langue anglaise, en particulier dans les revues *October et Grey Room *; Julia Robinson, « Maciunas as Producer : Performative Design in the Art of the 1960’s », 2008.
+
+[7.] http://fr.wikipedia.org/wiki/Biennale_Artifices
+
+[8.] http://jlggb.net/jlb/?page_id=21
+
+[9.] http://www.anarchive.net
+
+[10.] http://oin.hypotheses.org
+
+[11.] http://books.openedition.org/editionsmsh/386
+
+[12.] http://thatcamp35.hypotheses.org
+
+----
+
+Article-interviewer: 

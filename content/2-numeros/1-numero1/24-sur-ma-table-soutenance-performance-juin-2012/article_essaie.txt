@@ -1,0 +1,86 @@
+Info-1: 
+
+----
+
+Pagesettings-1: 
+
+----
+
+Title: Sur ma table, Soutenance / performance
+
+----
+
+Articlevisuel-date: juin 2012
+
+----
+
+Pagesettings-2: 
+
+----
+
+Articlevisuel-auteur: 
+
+- 
+  auteur_uid: cindy-coutant-garzoni
+
+----
+
+Pagesettings-3: 
+
+----
+
+Articlevisuel-medias: 
+
+(image: 1.jpg)
+
+(image: 2.jpg)
+
+(image: 3.jpg)
+
+----
+
+Articlevisuel-image-texte: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Articlevisuel-domaine: 
+
+----
+
+Articlevisuel-keyword: 
+
+----
+
+Articlevisuel-biblio: 
+
+----
+
+Articlevisuel-url: 
+
+----
+
+Articlevisuel-pdf: 
+
+----
+
+Pagesettings-5: 
+
+----
+
+Articlevisuel-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur-visuel: Cindy Coutant-Garzoni
+
+----
+
+Articlevisuel-sito: 

@@ -1,0 +1,230 @@
+Pagesettings-1: 
+
+----
+
+Title: Entretien avec Jean-Luc Lemaire, « Art Book Magazine », librairie numérique en ligne
+
+----
+
+Article-date: 25 mars 2014
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: jean-luc-lemaire
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: Jean-Luc Lemaire est designer graphique, co-fondateur de *ABM studio* et de la plateforme en ligne *Art, Book, Magazine*, il a présenté lors de son intervention son travail à la fois de designer et d'éditeur. Quels sont les enjeux d'une librairie en ligne aujourd'hui, le choix, l'utilisation et les contraintes d'un outil de diffusion comme l'*iPad* ? Cet entretien a été mené par Juliette Ducros, Pauline Terne, Pauline Miele, Fanny Demarais et Maeva Exposito, étudiantes en DNSEP Design Graphique Multimédia, dans le cadre du séminaire « Les nouvelles formes éditoriales », le 25 mars 2014.
+
+----
+
+Article-chapeau-redaction-note: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+### La plateforme *Art Book Magazine* existe depuis maintenant trois ans. Quelles étaient vos attentes au moment de sa création, qu’en est-il aujourd’hui? Avec du recul, que retenez-vous de cette expérience?
+
+Au lancement du projet, nous avions l'envie d'offrir un objet de diffusion pour l'édition d'art et de réaffirmer la place du design sur les tablettes. Nous avions aussi une envie de prospective, c’est-à-dire de s'approprier ce nouveau support qui n'est ni ordinateur, ni un livre traditionnel, mais un objet intermédiaire que l'on peut emmener dans son lit et lire comme un livre, qui a des contraintes mais aussi des qualités.
+
+Cela fait maintenant trois ans que nous réfléchissons à ces problématiques et certaines institutions ont d’ailleurs conforté notre choix en prenant le parti pris de la tablette comme étant un objet avec un environnement spécifique méritant d’être développé. Nous avons mis en place cet outil en travaillant le soir, après notre journée de travail. Notre engagement fut assez lourd à porter, ce qui ne nous a pas empêché d’emmener la plateforme *Art Book Magazine*, aussi loin que l'on a pu sous cette forme. Mais il est vrai que nous étions un peu naïfs en démarrant, car nous n’avions pas tout à fait anticipé le poids de l’investissement que cela demandait et l'inertie du système en place. De plus, nous avons pu observer que chez les éditeurs traditionnels, ils y avaient quelques réticences à passer au numérique. Ce changement doit se faire au niveau institutionnel et obtenir une plus grande visibilité. Mais je dirais que pour le moment l'économie liée à cet environnement est assez minime ; les choses bougent doucement.
+
+### Dans quelle mesure l’évolution des usages et des supports de lecture a-t-elle influencé votre pratique et votre regard sur le design graphique ?
+
+Je ne sais pas si elle l'a vraiment influencé, par contre elle nous a confortés dans l'idée que c'était un élément central. Nous avons une longue expérience de l'édition, papier et écran et avions déjà eu cette réflexion sur des interfaces de type site internet. Nous avons commencé assez tôt à expérimenter et avons vécu une époque où l’on pouvait tester beaucoup plus qu'aujourd'hui. En tous cas, les vocabulaires de formes et de système n'étaient pas aussi balisés.
+
+Aujourd’hui, il me semble que nous retrouvons sur la tablette les mêmes enjeux. Il reste beaucoup de choses à imaginer et la place du design au milieu de tout ça nous paraît fondamentale. Car à l’avenir y aura de plus en plus de contenus qui ne seront accessibles que par cet intermédiaire et si un texte est illisible au bout de trois pages, cela ne pourra pas fonctionner. Le but du designer est de donner à voir un contenu. C’est pour cette raison que nous suivons avec un grand intérêt cet espace numérique et que nous continuons à investir cette voie car il reste encore beaucoup à faire et à expérimenter, les supports continus à évoluer et ce même s’ils ont déjà une identité assez claire.
+
+### Qu’est-ce que le l’édition numérique apporte de plus à l’édition papier et quelles contraintes cela soulève-t-il (qu’elles soient d’ordre technique, ergonomique ou de budget) ?
+
+Cette interrogation questionne un certain nombre d’habitude comme par exemple : le rapport à la typographie qui est un aspect assez compliqué. Un bon travail graphique s'appuie sur un travail typographique de qualité ainsi qu’une réflexion autour des contraintes liées à l'écran.
+
+La relation entre papier et écran est un vaste chantier et je dirais que la palette des possibles est large. Un des moyens intelligents est d’établir un cahier des charges pertinent dès le départ avec l’éditeur, sur ce que l'on veut faire et les moyens que l'on a. Il y a un certains nombres de documents qui peuvent être utilisés de manière assez simple, comme par exemple les formats PDF ou ePUB. Certains textes gagneront à être représentés avec une certaine interactivité en leur associant des légendes, des images dans un contexte graphique plus subtil. On peut aussi intégrer du multimédia, des interactions sonores, de la temporalité etc. Ce sont des questionnements très intéressants car contrairement au livre papier, il n’est pas figé.
+
+Le texte inscrit sur un écran donne la possibilité de revenir dessus, on peut le modifier, lui ajouter du contenu. On pourrait même programmer un contenu qui évoluerait d'une certaine manière. Quelqu’un qui aurait lu le premier chapitre d'un livre pourrait se voir proposer, selon ce qu'il a déjà lu, une évolution dans la suite du récit. Il y a tout un espace de création, c'est un côté vraiment excitant, qui demande du temps et du développement parfois. Un système capable de voir ce que l’on a déjà vu et ce que l’on n’a pas vu, permet de proposer un contenu adaptatif et évolutif. Si l’on parle de temporalité on pourrait tout à fait envisager un ouvrage qui a une durée de vie infinie, ou un ouvrage qui s'efface au fur et à mesure qu'on le lit.
+
+À l’inverse, il y a aujourd’hui des personnes qui réfléchissent sur une espèce de super lecture qui consiste à prendre des outils qui sont propres à l’écran, d’inverser les processus de lecture et de transformer les habitudes en n’utilisant plus le texte en pavé mais une fenêtre très précise avec une succession de mots permettant de lire beaucoup plus vite que sur un texte normal. On quitte ici un peu le champ du graphisme traditionnel mais si on veut faire un outil de travail, et si on imagine que quelqu'un doit se confronter à une très grande masse de données qu'il doit assimiler rapidement, peut être qu'un jour ce sera une solution. Nous aurons des livres scolaires où il n'y aura plus de mise en page, mais un champ de texte qui viendrait scintiller ou les mots se succèderaient et le lecteur serait ainsi capable de lire trois ou quatre fois plus vite que sur un texte traditionnel. Ce sont des champs propres au design numérique qui vont continuer de se développer et à s'ajuster, c'est le côté le plus excitant du travail.
+
+Sur la question du budget, on est encore dans un système économique très contraint, embarquer une police de caractères dans une application peut coûter extrêmement cher. Avant un designer avait une licence *print* qui lui coûtait entre 50 et 100 euros voir parfois 300 et il pouvait faire autant d’éditions qu'il le souhaitait. Aujourd’hui, quand on utilise cette même police de caractères dans une application, cela peut facilement monter à plusieurs milliers d'euros par an selon son usage. Les projets numériques s’inscrivent dans un champ de contraintes très fort et le designer doit chercher des langages spécifiques de qualité pour un travail donné, en travaillant avec des outils qui n’ont pas encore acquis tout à fait la richesse de ceux du *print*.
+
+### Vous vous définissez à la fois comme diffuseur, librairie, bibliothèque, mais aussi comme éditeur numérique. Quelle est la proportion de créations numériques par rapport aux adaptations, rééditions ?
+
+Nous sommes une librairie avec beaucoup de contenu et la majorité sont des éditions contemporaines qui sortent actuellement, que l’on va juste proposer à la diffusion. Sur une minorité, nous allons proposer une forme spécifique, c’est le travail que l’on mène sur des collections de livres de photographies ou sur certains catalogues d’expositions qui sont développés pour l’environnement de la tablette. Ensuite, il y a un certain nombre d’ouvrages qui sont plutôt de la documentation au sens un peu patrimoniale, que l’on va sortir des archives, comme par exemple des ouvrages qui sont épuisés, qui ne circulent plus et que l’on va scanner ou photographier selon la nature de l’objet. Puis, il reste encore une toute petite partie qui sont des ouvrages qui vont être *augmentés* et améliorés pour la tablette. Cela peut être une optimisation du format. C’est toujours un gain de qualité non négligeable pour un ouvrage si l’on passe d’un grand format à un petit format. Dans ce cas, une adaptation graphique amène un plus grand confort de lecture. Cela peut aussi être l’ajout d’un édito, de contenu ou encore de navigation. Nous avons, par exemple, fait pour la *Cité des Sciences*, un album numérique qui fait approximativement 64 pages. Il y a des entretiens, des photos, des images. Dans la version numérique, on a à peu près une demi-heure d’entretien vidéo en complément. C’est l’une des augmentations que le passage du papier à l’écran peut permettre, mais actuellement l’essentiel des ouvrages diffusés sont des numérisations de titres qui existent au format papier.
+
+### Y-a-t-il beaucoup d’auteurs, de collectifs, qui vous sollicitent pour éditer des livres exclusivement numériques ?
+
+Oui ça commence. Récemment nous avons réalisé un projet qui s’appelle *Flatland*. C’est un projet qui a vraiment été pensé dans sa dimension numérique dès le départ. Il a été développé par Thierry Fournier et c’est un ouvrage interactif, une sorte de catalogue qui retranscrit les différents parcours d’exposition possible en tenant compte de l’orientation géographique de la tablette. Selon l’orientation on peut avoir accès à certains textes, dans une autre on peut consulter plutôt des contenus propres à l’exposition. Nous avons aussi un livre de phonogrammes des écrits de Mallarmé, qu’ils n’étaient possible de faire exister que sur la tablette. Personne n’allait imprimer un ouvrage sur une collection de phonogrammes, mais pour les amateurs de Mallarmé, c’est une richesse incroyable, parce que l’on peut voir son écriture. Ce sont des textes qui sont assez complexes à déchiffrer, c’est une écriture calligraphique de type prise de notes. C’est typiquement un projet de documentation pensé et rendu possible par la tablette.
+
+### Comment se fait la sélection des livres que vous publiez et comment le dialogue s’établit-il entre les éditeurs désireux de passer au numérique, et vous ?
+
+La sélection éditoriale se fait de manière assez simple. Nous avons un comité de lecture avec une thématique qui reste l’art contemporain mais aussi les arts qui s’en rapprochent le plus comme par exemple la photographie, le cinéma, la bande dessinée ou encore l’architecture. Nous n’avons par exemple pas de romans. Le fait d’avoir un comité de lecture nous permet par exemple si on trouve qu’il y a trop d’autoédition, d’ouvrages ou de catalogues de galeries qui sont juste une compilation d’images sans réflexion critique sur l’œuvre proposée, de ne pas s’en faire le relais et de rester objectif. L’ambition est de conserver une certaine qualité dans les titres proposés. Il nous est arrivé de devoir demander un travail formel à un éditeur qui nous proposait un projet dont le fond nous semblait pertinent, mais où la forme nous paraissait vraiment problématique. Lorsque c’est un projet en cours de réalisation, nous pouvons intervenir et expliquer : « écoutez, nous on le prend à condition qu’il soit mieux designé ». Parfois c’est une remarque qui passe assez mal mais cela nous a aussi permis de faire des ouvrages plutôt de qualité.
+
+Le contact avec les éditeurs peut aussi se faire beaucoup plus simplement. Par exemple, s’ils nous connaissent, ils peuvent nous contacter et dire « voilà, j’aimerai qu’on discute sur la possibilité de diffuser mes titres ». Sachant que mettre des ouvrages dans la librairie ne coûte pas d’argent à l’éditeur, les rémunérations se font justes sur les ventes. Dans ce cas, nous regardons ensemble quels sont les titres pouvant potentiellement s’inscrire dans la librairie, les processus techniques nécessaires pour qu’il puisse nous fournir l’ensemble des fichiers puis nous lui faisons signer un contrat qui déterminera sa rémunération. Voilà, c’est assez simple ! À l’inverse, il nous arrive aussi régulièrement de contacter des éditeurs à qui on dit « on aime beaucoup ce que vous faites, pourquoi ne pas venir chez nous ? ». C’est là le fruit de longues discutions, et souvent cette démarche finie par aboutir, mais elle prend beaucoup de temps.
+
+### Parce que c’est lié au numérique ?
+
+Oui.
+
+### Parce qu’ils sont réticents à ce passage quand vous allez les voir ?
+
+Il y a ceux qui sont réticents, d’autres qui se questionnent, qui ne savent pas trop, ou encore certains qui s’y intéressent mais qui vont mettre du temps à passer le pas. Un éditeur qui diffuse ses titres pour la première fois sur support numérique va avoir un certain nombre d’incidence qu’il faut qu’il est anticipé notamment au niveau des droits. Et imaginons qu’il est anticipé tout ça, après reste le cas, et il n’est pas si marginal, de la disponibilité des fichiers. Il est fréquent que certains éditeurs nous disent : « je vous passerai bien mes ouvrages mais je ne sais pas où sont les fichiers ». Parce que les fichiers sources sont restés chez les graphistes et qu’ils ne sont plus forcément en bon termes ou parce qu’ils les ont perdus, ils n’ont pas tous de système d’archivage forcément opérationnel.
+
+### Avez-vous eu des retours de lecteurs par rapport à la création de votre plateforme *Art, Book, Magazine* ?
+
+C’est une petite tristesse de la librairie sous cette forme, nous avons très peu de contacts avec l’utilisateur. De temps en temps on a quelques échanges de mails, un certain nombre quand les gens ont un souci, évidemment on les rassure, on leur explique comment faire, etc. Après c’est vrai qu’il y a assez peu, pour le moment en tout cas, de retours des utilisateurs au sens : quelqu’un qui à la fin se fendrait d’un mail en disant « je suis ravi d’avoir trouvé ce livre, c’était inespéré ». Il arrive que lorsqu’on croise les gens physiquement, certains nous le disent « j’ai été très content de voir que vous aviez tel ouvrage, ça faisait des années que je ne l’avais pas vu, je l’ai acheté, ça m’a rappelé toute ma jeunesse ». Nous avons l’impression d’avoir un rapport finalement assez distant. Après dans les évolutions sur lesquelles nous travaillons actuellement, il y aura une intégration un peu plus forte des réseaux sociaux. Ils en existent des spécifiques à la lecture, et puis nous allons mettre davantage d’outils au service de l’utilisateur, nous espérons que cela créera davantage de retours et d’échanges.
+
+### Vous avez fait le choix de la plateforme *Apple* comme seul support de lecture et de diffusion mis en place par *Art, Book, Magazine*. Pouvez-vous nous expliquer votre choix de développer ce projet uniquement sur tablette, et qui plus est sur l’*IPad* – qui sous-entend un public restreint?
+
+Nous sommes effectivement dans un environnement *Apple* car nous y trouvons une simplicité de développement et un univers qui est déjà très balisé en termes de formats. C’était de plus quasiment les primo-arrivants, les premiers à avoir une offre disponible aussi qualitative. Après il y a le contexte économique qui fait que de toute façon, si on cherche à vendre des livres, le marché reste lié à *Apple*, mais en terme de philosophie, nous serons ravis le jour où nous pourrons être sur d’autres supports.
+
+On ne croit pas vraiment à la lecture sur les écrans d’ordinateur donc, pour le moment, il y a peu de chances qu’on développe une liseuse en ligne. Par contre, on va quand même implanter davantage l’application en ligne pour permettre à l’utilisateur de se connecter directement à son compte via un ordinateur. Il pourra ainsi vérifier, par exemple, la disponibilité d’un titre ou encore pour retrouver peut-être des notes qu’il aura prises dans l’application, etc. Pour le moment, on reste sur l’idée que la tablette c’est un réel outil de lecture, bien plus qu’un ordinateur. C’est un postulat discutable mais c’est celui qui nous a poussés à démarrer le projet et c’est celui qu’on maintient pour le moment.
+
+### Il y a quelques années les dessinateurs de caractères disaient que le meilleur outil de lecture était le *Kindle* par rapport aux questions de contraste et de luminosité : est-ce que vous considéré que c’est toujours le cas et prenez-vous en compte ces questions de lecture quand vous designez les livres ?
+
+L’encre numérique est à priori un support de lecture qui fatigue moins que l’écran numérique, c’est un fait. Je pourrais cependant être de mauvaise foi et dire que je lis plus d’un quart d’heure sur ce support sans que ça ne me pose de problème (rire). Mais sinon oui, nous sommes obligés de prendre en compte cette question du contraste et de la luminosité. Il y a des choses assez simples, nous nous sommes par exemple rendus compte, de manière totalement empirique, que ceux qui lisaient sur tablette, des choses telles que des IPUB, des textes longs de type roman basculaient en mode nuit. Finalement on s’adapte, moi-même je règle souvent mon *IPad* sur une faible luminosité quand je travaille, je la mets entre 50% et 60% du réglage maximum. Pour moi cela fait complètement partie de ce qui est de l’ordre de l’amélioration. Ce n’est pas rédhibitoire, mais il est certain que pour un universitaire qui lit du texte à longueur de journée la liseuse garde tous ces attraits. Elle a de plus une autonomie incroyable, mais l’enjeu n’est pas sur ce type de contenus, par contre, dès que l’on arrive sur un objet livre un peu plus sophistiqué, je ne parle ici pas du fond mais des nouvelles fonctionnalités, on est obligé d’aller vers un environnement tablette.
+
+### Est-ce qu’il y a des préconisations d’usages par rapport au livre lorsqu’on le télécharge ?
+
+Pas trop sur l’usage, parfois c’est plus sur des contraintes de poids de fichiers liées à la circulation. Nous voyons que nous sommes encore dans des choses assez expérimentales et nouvelles. Dès qu’une édition est un peu sophistiquée il y a un mode d’emploi, on demande de glisser dans un sens ou dans l’autre. Ce qui est aussi amusant, c’est que parfois on se rend compte qu’on invente un peu des usines à gaz. On se dit que l’on va faire ça, ou ça et ça, on fait le prototype et là c’est inutilisable parce qu’on a prévu six mouvements sur la même page et que la tablette n’arrive pas à comprendre. Donc on simplifie, mais ce qui est intéressant est que la gestuelle n’est pas encore figée, même s’il y a beaucoup d’usages qui sont quasi acquis. *Apple* et *Samsung* nous aident bien, parce qu’ils se font la guerre sur les brevets. Il y en a un chez qui on ne peut pas faire une double tape à cause du brevet déposé par l’autre par exemple.
+
+### Serait-il envisageable que certains ouvrages, qui ne sont pas orientés sur un contenu textuel, existent sur des plateformes en ligne sans être dans le cadre de la liseuse ?
+
+L’édition est un travail particulier, réfléchir à la mise en forme de contenus doit se faire avec un parti pris de présentation, une vision du propos. Donc soit on parle juste des contenus bruts et effectivement tout est déjà, à mon avis, disponible en ligne, à qui les cherche, soit on cherche un contenu éditorialisé et on se rapproche quand même d’un objet qui est plus celui du livre. Notre conviction d’aujourd’hui est que la tablette est un outil qui va continuer à s'améliorer et à exister. Il y en aura de plus en plus, que ça soit par *Apple* ou d’autres marques. C’est un objet qui va devenir tellement usuel que la frontière entre ceux qui en ont et ceux qui n’en ont pas devrait vraiment s’atténuer. L’autre point et que nous ne souhaitons pas aller sur tous les terrains, nous souhaitons rester sur cet environnement. Cela nous permet également de rassurer les personnes qui nous ont fait confiance jusqu’à présent sur le côté « ce que vous allez nous confier ne va pas circuler n’importe où », ce qui est quand même une crainte majeure de la plupart des éditeurs qui imaginent que s’ils nous confient un ouvrage en PDF, demain il sera partout sur le net.
+
+### Nous parlons ici du passage du papier au numérique, mais l’avez-vous envisagé dans l’autre sens ?
+
+Pas tout à fait comme cela, mais c’est une réflexion que nous avons menée dans le livre traditionnel, dans les années 2000, car nous avons travaillé avec beaucoup de structures et de lieux d’exposition. Les budgets n’ont jamais été très importants mais aujourd’hui on constate que c’est de pire en pire, donc la problématique de l’édition est de plus en plus complexe : les lieux font très peu d’éditions parce qu’ils n’ont pas beaucoup de moyens, ils n’ont donc pas de diffuseurs, par conséquence il n’y a pas de reconnaissance du travail qui a été fait. Nous avons ainsi été amenés à réfléchir à des solutions comme par exemple l’impression à la demande. On réalisait des catalogues, ils en imprimaient 50 exemplaires au moment de l’exposition, et après, chacun pouvait au prix quasiment d’un catalogue ordinaire le commander en ligne.
+
+Cela ne venait pas à l’origine d’un projet numérique, mais nous pourrions imaginer que si la librairie *Art Book Magazine* possédait un best-seller numérique, par exemple une monographie de photographe, que l’on écoulerait vraiment de manière conséquente, se poserait la question avec le photographe de son envie d’avoir une version papier de cette version numérique. Mais le fait d’avoir cette version numérique interroge ce qu’est l’objet physique, donc quitte à le faire, il faut que chaque objet ait une cohérence propre. Si demain j’achète un livre papier d’un photographe dont j’ai déjà la version numérique, j’attends qu’il y ait une qualité de reproduction irréprochable et peut-être dans un format que n’offre pas la tablette ou d’autres spécificités. Il est évident que si j’achète un ouvrage qui a été entièrement fait en sérigraphie, sa version sur internet, n’aura pas la même chaleur et la même qualité. Chaque support interroge ses propres spécificités.
+
+### La nouvelle revue de Peter Bilak, *Works that Work*, proposent une solution où l’on achète les deux en même temps. Pourquoi prendre les deux ? Et est-ce que c’est une question qui se pose ? Vous avez certains ouvrages qui existent en version papier, ou même des objets qui sont complémentaires des versions papier. Est-ce qu’il y a des possibilités d’acheter des packs par exemple chez vous ou est-ce que vous pensez le faire ?
+
+Pour l’instant, ce n’est pas une offre dont on dispose, essentiellement à cause des limitations technologiques, nous n’avons pas par exemple de compte utilisateur sur lequel on pourrait facilement associer un numéro d’une revue, d’un ISBN papier et un ISBN numérique. Il n’y
+as pas encore ce type de traçage. Comme on est entièrement dans l’environnement *Apple*, il n’y a qu’*Apple* qui a accès au compte client. Nous ne savons pas qui achète chez nous, mais cela fait partie de ces réflexions, c’est quelque chose que nous voyons notamment avec la revue *Optical Sound*. Elle existe en papier, en noir et blanc, c’est un objet agréable, qui a une présence. Elle existe aussi en version numérique, ou elle est à priori un peu plus complète et en couleurs. Nous sommes là à une période charnière, c’est-à-dire que pour beaucoup de gens, ce type d’ouvrage doit être en papier et la version numérique n’a pas vraiment d’intérêt. Offrir les deux, pourrait cependant apporter un confort de lecture et comme la version numérique est vendue assez peu cher, pour nous ce n’est pas considéré comme étant une perte.
+
+Nous pouvons tout à fait envisager le fait que comme pour le vinyle les gens les achètent parce que l’objet vinyle est beaucoup plus séduisant que l’objet CD. Ils ont la possibilité d’avoir un code d’accès pour accéder à la version numérique, car au final ils vont écouter la musique sur leur lieu de travail, où ils n’auront pas de platine. De la même manière, quelqu’un qui consomme beaucoup d’ouvrages, se fera plaisir en ayant l’objet physique qu’il va mettre dans sa bibliothèque, mais il se peut qu’au final, quand il ira passer sa journée à Pau, il sera content d’avoir son *iPad* sur lequel il pourra finir ou reprendre les articles qu’il avait commencé (rire). Enfin, idéalement c’est un service qu’on aimerait avoir, mais malheureusement ce n’est pas aussi simple parce que cette revue circule et profite d’un réseau qui existe déjà qui est celui des librairies. Mais avant que l’on puisse être relié à ce qu’il y a dans la tablette, il va falloir augmenter les *process*, avoir une traçabilité, un système de compte connecté. Cela viendra certainement, mais pour l’instant c’est encore un peu loin.
+
+### Quelles sont pour vous les espérances, les attentes et les limites de la tablette ? Avez-vous identifié des besoins particuliers notamment par rapport à la lecture et les différents types d’écrans qui ont aujourd’hui un caractère rigide mais qui pourront peut-être évoluer vers des écrans souples ?
+
+Les limites, c’est assez simple à cerner à l’usage. Ces questions sont intéressantes, mais nous ne sommes pas forcément les mieux placés, parce qu’on ne pousse pas assez les usages dans leurs retranchements. Nous sommes plus focalisés sur des questions de lecture, de livre, etc. Mais il nous arrive de nous frotter à des mécanismes un peu triviaux comme par exemple quant on répond à un appel d’offres sur des audio-guides. L’audio guide est un objet un peu désuet, en même temps c’est un objet de médiation très important pour les lieux culturels. L’aspect numérique change beaucoup la donne. Avant on avait besoin de louer un appareil qui était lourd et *in-situ*. Aujourd’hui nous avons un objet qui a un écran, sur lequel on peut inscrire à l’avance du contenu par téléchargement, il y a un avant, un pendant, un après.
+
+Les fonctionnalités sont importantes, et je dirais que c’est seulement quand on aura suffisamment travaillé et expérimenté que l’on trouvera les meilleures fonctions. Avoir de la réalité virtuelle pour visiter un musée, est-ce-que c’est une bonne idée ? Je ne sais pas. Si j’imagine que je me promène à chaque fois avec ce système, sur les deux premiers tableaux je vais être content d’avoir la légende qui apparaît sur le *smartphone*, mais au troisième je vais le ranger. En même temps, un *smartphone* pourrait proposer un parcours pédagogique, où je ne serais peut-être pas obligé de simplement promener l’appareil mais être capable de réagir en fonction des pièces que j’ai vu et me conseiller un itinéraire sans ce que soit un poids. Par exemple, j’ai vu une exposition il y a trois jours, il fallait passer un quart d’heure avant de rentrer dans l’exposition parce que l’on nous donnait un récepteur qu’il fallait porter autour du cou, une oreillette et un bracelet. Pendant 10 minutes, tout le monde était en panique : « je ne reçois pas, je l’ai en anglais, ça ne clique pas quand j’appuie, etc. ». Au final, une fois dans l’exposition, passé le deuxième dispositif avec le récepteur, on avait plus envie de l’utiliser parce qu’il n’y avait qu’un seul type de contenu et qu’il était distillé dans l’exposition. En plus, il était assez contraignant car il nécessitait de se tenir dans une zone assez précise pour pouvoir recevoir la bonne émission. Au final, ce sont les enfants qui ont joué le jeu plus que les adultes. La plupart des adultes sont ressortis avec le récepteur au fond de leurs poches. Cela n’a pas vraiment fonctionné, mais c’est intéressant, cela fait parti, je trouve, de ce qu’il y a de plus stimulant quand on arrive dans le numérique. Il y des choses à trouver.
+
+Pour ce qui est des besoins, je dois dire que si nous avions un objet qui était aussi tolérant qu’un livre de poche, nous serions les rois du monde. Les principaux problèmes que nous avons rencontrés au début sont le poids de l’*iPad* et sa résolution. Ces points-là ont été *résolus*. On a aujourd’hui un bel écran *rétina*, donc plus de problème de résolution, et même s’il reste lourd il s’allège. Il y a encore le prix, personnellement je ne sors pas mon *iPad* dans le métro, alors que pourtant j’aimerais bien lire, j’utilise plus facilement mon livre de poche. Il y a la fragilité de l’objet aussi, quand on a un objet qui coûte 500 euros en moyenne, on fait quand même bien attention, c’est un objet qui n’est pas aussi robuste que la revue papier. C’est là une vraie limite et quelque part, en tant qu’amoureux du papier je ne suis pas pressé qu’ils arrivent déjà à la feuille ultime qui sera super légère résistante et qu’on pourra peut-être agrandir. Car la question du format est également importante, si on fait un équivalent en papier on est en dessous du A5 et traduire des contenus riches constamment dans un petit A5, au bout d’un moment on commence à en avoir marre et à se fatiguer. Les petits boutons, les trucs à glisser, si demain ils trouvent un système d’écran dépliable, quel bonheur ! Ne serait-ce que pour regarder un film, un film qui est tourné en 16/9<sup>e</sup> ce n’est pas homothétique au format, on pourrait ajouter des bandes. Et reste encore la question de l’autonomie... L’*iPad* est donc un objet qui n’est pas encore abouti, il va continuer à muter et c’est bien que ça n’aille pas trop vite.
+
+----
+
+Article-note: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: Jean-Luc Lemaire, éditeur traditionnel, éditeur numérique, librairie numérique, institution, Art Book Magazine, papier & écran, diffusion, supports, lecteur, print, bibliothèque, numérisation, fichier, tablette, lecture, format PDF, liseuse, Smartphone, iPad
+
+----
+
+Article-resume: 
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Article-relie: 
+
+----
+
+Pdf: (file: echappees-entretien-avec-jean-luc-lemaire-art-book-magazine-librairie-numerique-en-ligne.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Print: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Jean-Luc Lemaire
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+----
+
+Article-interviewer: 
+
+- 
+  auteur_uid: juliette-ducros
+- 
+  auteur_uid: pauline-miele
+- 
+  auteur_uid: fanny-demarais
+- 
+  auteur_uid: maeva-exposito

@@ -1,0 +1,272 @@
+Pagesettings-1: 
+
+----
+
+Title: Design et SHS dans le processus d’innovation centrée-usager : quels apports réciproques ?
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: fabien-labarthe
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Cet article se fonde sur une recherche-action conduite depuis quatre ans au sein de la gouvernance du programme régional PACA Labs [1. Pour plus d’informations sur le programme PACA Labs, nous renvoyons à l’adresse : **(link: http://emergencesnumeriques.regionpaca.fr/innovation-et-economienumeriques/paca-labs.html text: emergencesnumeriques.regionpaca.fr/innovation-et-economienumeriques/paca-labs.html popup: yes)**.]. Ce dispositif, mis en place en novembre 2008 par le Conseil Régional Provence-Alpes-Côte d’Azur (PACA), vise à soutenir des projets d’expérimentation de produits et de services numériques, portés par des consortiums inter-organisationnels et supposés impliquer des usagers. Conformément à la philosophie des *Living Labs* qui sous-tend le programme, deux principes d’action majeurs guident le montage des projets : (1) impliquer des usagers en tant que co-concepteurs des innovations, au même titre que les autres parties-prenantes des projets ; (2) élaborer des expérimentations dites *grandeur nature*, implantées dans des contextes d’usage réels. Ainsi, ces expérimentations d’usage entendent réduire les incertitudes que connaissent les entrepreneurs quant à la commercialisation des produits ou services qu’ils développent, tout en satisfaisant à des exigences en termes d’utilité et d’innovation sociale.
+
+Cependant, le caractère polyvalent de la catégorie *usager*, tout comme la polysémie de la notion d’*usage*, sont également sources d’incertitude pour les porteurs de projet PACA Labs. A l’instar d’autres initiatives européennes du même type [2. Pour un aperçu des méthodologies élaborées dans différents *Living Labs* européens, voir par exemple Esteve Almirall, Melissa Lee et Jonathan Wareham, 2012, « Mapping Living Labs in the Landscape of Innovation Methodologies », revue *Technology Innovation Management*, septembre 2012.], nous avons donc été conduits à élaborer un *guide méthodologique* afin d’aider les candidats au programme à intégrer le *point de vue* des usagers au sein de leurs projets d’expérimentation [3. Laura Draetta et Fabien Labarthe, « The Living Labs at the test of user-centered innovation. Proposal of a methodological framework », acte du colloque *ICE 2010 – Collaborative Environments for Sustainable Innovation*, Lugano (Suisse), 21-23 juin 2010.]. Cette première version du guide est composée d’un petit glossaire stabilisant quelques définitions pour favoriser la compréhension des consignes, et incite fortement les porteurs de projets à collaborer avec des chercheurs en sciences humaines et sociales (SHS). Nous nous sommes inspirés en cela des démarches engagées par la communauté scientifique des chercheurs en CSCW [4. *Computer Supported Cooperative Work* (travail coopératif assisté par ordinateur).], dont la particularité consiste précisément à inviter les SHS dans le travail de conception. Comme l’indique Dominique Cardon, « le CSCW est ainsi devenu le lieu d’exploration d’une multitude de méthodologies et de dispositifs visant à établir une *conception centrée-usager*, *assistée par l’usage*, un design, ou mieux un *co-design*, *participatif* ou *évolutif* [5. Dominique Cardon, « Les sciences sociales et les machines à coopérer. Une approche bibliographique du Computer Supported Cooperative Work (CSCW) », *Réseaux*, n° 85, 1997, p. 22.].
+
+L’objectif de cette contribution est de spécifier les apports réciproques du Design et des SHS au sein du processus d’innovation centrée-usager. Pour ce faire, nous nous attacherons dans un premier temps à revenir sur ce terme d’*innovation centrée-usager*, afin de mieux le circonscrire et le distinguer d’autres formes d’innovation qui lui sont apparentées. Nous nous ressaisirons ensuite du guide méthodologique précédemment mentionné en exposant les quatre phases (anticipation, conception, adaptation, adoption) qui le composent. Chacune de ces phases a en outre été pensée en relation avec une *topique* qui lui est propre, de façon à ce que l’ensemble des registres d’interprétation généralement mobilisés dans les études d’usage [6. Pour une synthèse documentée et problématisée de ces différents registres, nous renvoyons à Jauréguiberry, F, Proulx, S, 2011, « Usages et enjeux des technologies de communication », Toulouse, éditions *érès* (en particulier, les pages 78 à 101).] soient intégrés dans le processus. Précisons enfin que ce cadre méthodologique ne relève pas d’une *recette* figée, mais plutôt d’une *boussole* indiquant de grandes orientations qu’il conviendra ensuite d’adapter aux spécificités de chaque projet. Et ceci d’autant que demeure une forme d’imprévisibilité consubstantielle aux logiques d’appropriation des biens et des services après leur mise sur le marché ou leur diffusion publique.
+
+### Qu’entend-on par *innovation centrée-usager* ?
+
+Avant toute chose, il convient de distinguer l’innovation dite *centrée-usager* de l’innovation dite *par l’usage*, *ascendante* ou encore *horizontale* [7. Von Hippel, E., 2005, « *Democratising innovation* », Cambridge, *MIT Press*.]. Ces trois derniers termes équivalents relèvent d’une forme de participation quasi-spontanée d’usagers dans un processus d’innovation, généralement à la suite d’une difficulté rencontrée ou d’un problème identifié au cours de l’usage d’un produit ou d’un service déjà commercialisé et qui ne trouve aucune solution mise à disposition sur le marché. Comme le précise Dominique Cardon, les innovations par l’usage sont « des innovations technologiques ou de services qui naissent des pratiques des usagers et se diffusent à travers des réseaux d’échanges entre usagers ». Et d’ajouter plus loin, « ce qui constitue un groupe d’usagers en avant-garde d’une innovation horizontale, c’est avant tout le souci pratique et concret de trouver par soi-même et avec ses propres moyens des solutions adaptées à ses besoins-stratégie que les acteurs économiquement favorisés n’engagent que rarement, souvent parce que le temps, à la différence de l’argent, leur manque » [8. Dominique Cardon, « Innovation par l’usage », in Ambrosi, A., Peugeot, V., Pimienta, D.,(dir.), 2005, *Enjeux de mots. Regards multiculturels sur les sociétés de l’information*, Caen, *C & F* éditions.]. S’inspirant dans son principe de l’innovation par l’usage (que l’on peut également qualifier ici de *sociale*), mais ne bénéficiant pas de son caractère informel, l’innovation centrée-usager peut par conséquent être considérée comme un processus institutionnalisé de l’innovation ascendante, ce qui la rapproche de ce point de vue de l’innovation que l’on dira *ouverte* [9. Chesbrough, H., Vanhaverbeke, W., West, J., 2006, « *Open Innovation* ». Researching a New Paradigm, Oxford, *Oxford University Press*.].
+
+Innovation ouverte et innovation centrée-usager ont en effet partie liée de par leur nature *participative*. De fait, il paraît difficile de s’engager dans un processus d’innovation centrée-usager telle que nous l’envisageons sans s’inscrire préalablement dans une démarche collaborative, réunissant par là-même plusieurs catégories d’acteurs (parmi lesquels des usagers, mais aussi les praticiens du Design et des SHS susceptibles d’en être les *porte-parole* [10. Même si ce point n’est pas traité dans le présent article, il est à noter que la question portant sur la *représentation des usagers* au sein des équipes-projet reste particulièrement problématique. Elle fait actuellement l’objet d’un traitement dans le cadre d’une thèse de doctorat conduite par Bastien Tavner au sein de l’équipe *Deixis-Sophia* de *Télécom Paristech* et de la préparation d’un ouvrage collectif, co-dirigé par Laura Dreatta et moi-même.]. L’idée qui domine est alors de mobiliser / consulter des parties-prenantes issues de différents écosystèmes d’innovation, afin de permettre la conception d’un produit ou d’un service, mais aussi et surtout de favoriser son adoption. En ce sens, le modèle de l’innovation ouverte peut être rapproché du modèle de l’intéressement, mis en avant par les sociologues du CSI [11. Centre de Sociologie de l’Innovation, École des Mines.] et selon lequel « le destin de l’innovation, son contenu, mais aussi ses chances de succès, résident tout entier dans le choix des représentants ou des porte-parole qui vont interagir, négocier pour mettre en forme le projet et le transformer jusqu’à ce qu’il se construise en marché » [12. Madeleine Akrich, Michel Callon et Bruno Latour, « A quoi tient le succès des innovations ? 2 : Le choix des porte-parole », revue *Gérer et comprendre, Annales des Mines *n°12, 1988, p. 25.]. Il reste que, compte-tenu de son caractère stratégique en matière de gestion des partenaires, la notion d’innovation ouverte, qui fait aujourd’hui florès dans la plupart des dispositifs publics de soutien à l’innovation [13. Que l’on songe au Crédit Impôt Recherche ou aux pôles de compétitivité, tous ces dispositifs conditionnent l’apport d’un financement public à la dimension collaborative des projets. Le programme PACA Labs n’échappe pas à cette incitation (sur ce point, cf. Laura Draetta, Fabien Labarthe, 2010, « TIC et systèmes régionaux d’innovation : vers quels changements ? Le cas du dispositif PACA Labs », in Viera, L., Pinède, N., (dir.), *Stratégie du changement dans les systèmes et les territoires*, Bordeaux, *Maison des sciences de l’Homme d’Aquitaine*).], relève davantage du management ou de la conduite de projet (activités de veille, réseautage, mobilisation des experts, choix des participants, planification des tâches, etc.) que d’une démarche centrée sur l’usager à proprement parler.
+
+Même si une telle démarche peut prendre appui sur des procédures d’innovation ouverte, afin notamment de capter des innovations ascendantes et / ou faire émerger de nouvelles idées [14. Ce que permettent respectivement les modèles de l’internalisation et de la percolation, identifiés par Alexandre Mallard, 2011, « Explorer les usages : un enjeu renouvelé pour l’innovation des TIC », in Denouêl, J., Granjon, F., *Communiquer à l’ère numérique. Regards croisés sur la sociologie des usages*, Paris, Presses des Mines.], l’innovation centrée-usager consiste plus spécifiquement à les développer et à les expérimenter. En ce sens, elle relève du modèle de l’* incubation des usages*, décrit par Alexandre Mallard, dont l’objectif est de donner forme et ampleur à des usages de produits ou de services en cours de conception, en les confrontant « une ou plusieurs fois à un univers *extérieur* d’utilisation spécialement recomposé de façon à tester certaines hypothèses ou à collecter des informations qui ne sont pas directement disponibles dans la sphère de conception » [15. *Ibid*. p. 263.]. L’innovation centrée-usager touche à cet égard au processus de *transformation socio-technique* et au *modèle tourbillonnaire* qui lui est afférent, selon lequel « l’innovation se transforme en permanence au gré des épreuves qu’on lui fait subir, c’est-à-dire des intéressements qu’on expérimente » [16. Madeleine Akrich, Michel Callon et Bruno Latour, *opus cit*., p. 21.], même s’il s’agit ici de mettre davantage l’accent sur l’organisation des épreuves, plutôt que sur les logiques d’intéressement.
+
+C’est en particulier pour aider à cette organisation que designers et chercheurs SHS peuvent être mobilisés dans les innovations centrée-usagers (parfois également qualifiées d’*assistées par l’usage* [17. En faisant référence ici à la méthode CAUTIC (Conception Assistée par l’Usage des Technologies d’Information et de Communication) élaborée par le sociologue Philippe Mallein.] ). Les approches du Design et des SHS présentent en effet toutes deux la particularité de se penser potentiellement, au travers des méthodes et des outils qu’elles mobilisent, du *côté de l’usager* [18. Comme l’indiquent Lesli Haddon et Kari-Hans Kommonen, « *both sociologist and designer can claim simultaneously to be on the side of the user to the extent that either user feedback or observations about potentials users may lead to the shaping of a product which is in some way better for users* » (2005). in Haddon L., Kommonen, K-H., 2002, *Interdisciplinary explorations : a dialogue between a sociologist and a design group*, Report for COST 269 (consulté à l’adresse : **(link: http://www.lse.ac.uk/media@lse/whosWho/AcademicStaff/LeslieHaddon/InterdisciplinaryExploration.pdf text: www.lse.ac.uk/media@lse/whosWho/AcademicStaff/LeslieHaddon/InterdisciplinaryExploration.pdf popup: yes)**).]. Il leur appartient donc de concevoir les protocoles exploratoires et expérimentaux adéquats au sein des différentes phases qui jalonnent ce processus.
+
+### Proposition d’un cadre méthodologique
+
+Le processus de l’innovation centrée-usager que nous proposons constitue un modèle séquentiel, non linéaire, composé de quatre phases distinctes (anticipation, conception, adaptation, adoption), non exclusives les unes des autres. La succession des phases recouvre un processus qui va de l’exploration (anticipation, conception) à l’expérimentation (adaptation, adoption), et permet d’aborder alternativement des problématiques liées à l’*utilisabilité* (conception, adaptation), envisagée sous l’angle du *régime de familiarité* [19. Thévenot, L., 2006, « L’action au pluriel. Sociologie des régimes d’engagement », Paris, La Découverte.], et à l’*usage* (anticipation, adoption), considéré comme une *pratique d’appropriation transformatrice* [20. Michel de Certeau et Luce Giard, « L’ordinaire de la communication », in Certeau (de), M., 1994 [1983], *La prise de parole et autres écrits politiques*, Paris, éditions du *Seuil*, pp.163-224.]. Chaque phase débouche sur la production d’un livrable, permettant de formaliser des états intermédiaires du produit ou du service en cours de développement [21. Comme le précise Alexandre Mallard, il existe en effet toute une gradation possible dans l’instanciation des projets d’expérimentation qui vont « des idées jusqu’au service lui-même, en passant par le concept, la maquette, le prototype et le pilote » (2011, *opus cit*., p. 272).], et qui constitue le point de départ de la phase suivante. Enfin, il est à noter que chaque phase possède également une autonomie relative, pouvant faire l’objet de plusieurs boucles de rétroaction sur elle-même en fonction du degré de perfectionnement du livrable que l’on souhaite atteindre (et bien sûr des contraintes de temps et de budget alloués au projet). Soit le schéma suivant :
+(image: echappees_2_70.jpg)
+#####Processus d'innovation centré sur l'usager
+
+### Anticipation
+
+La phase *anticipation* recouvre les étapes du processus d’innovation centrée-usager qui vont de l’idée au scénario d’usage (en passant par le concept) – ce qui suppose que l’idée a déjà été produite dans une phase antérieure, que les designers qualifient parfois par
+le terme d’*idéation* (et qui relève également pour partie de l’innovation ouverte). Il n’empêche, le point de départ de cette phase repose sur la constitution d’une équipe-projet pluridisciplinaire dont l’enjeu est de produire, tout au long du processus qui s’engage, une innovation considérée comme étant à la fois *ouverte* et *centrée-usager*. L’objectif général étant bien d’anticiper les exigences (techniques, morales, juridiques, économiques, politiques, etc.) des différentes parties-prenantes d’une part et, d’autre part, l’ancrage social et culturel du futur produit ou service. À ce stade, il est possible d’intégrer au sein des équipes-projet de *véritables* usagers, mais cela présuppose que l’idée est déjà suffisamment avancée pour définir des critères quant à leur sexe, leur âge, leur niveau de diplôme ou leur catégorie socioprofessionnelle. On privilégiera donc ici le choix de *porte-parole des usagers* (designers et chercheurs SHS spécialisés autant que possible dans le domaine d’activité ciblé, mais aussi représentants *légaux* des collectifs d’usagers concernés par le projet, de type association loi 1901 par exemple). Ces porte-parole peuvent ainsi jouer le rôle d’*usagers-experts* ou, si l’on veut, de *lead users* (Von Hippel, 2005), susceptibles à la fois de détecter des tendances et d’apporter une expertise pour désamorcer les obstacles identifiés.
+
+Trois temps peuvent être distingués au sein de cette première phase : (1) faire émerger de nouvelles idées ; (2) élaborer un (ou plusieurs) concept(s) ; (3) réaliser un (ou plusieurs) scénario(s) d’usage. Le principe général consiste ici non pas tant à concevoir une première ébauche de produit ou de service (cf. phase suivante) que d’imaginer les *expériences-usager* [22. Terme que nous préférons ici à celui d’*expérience-utilisateur* généralement employé en ergonomie et qui met davantage l’accent sur les seules compétences manipulatoires des usagers.] autour desquelles pourront être élaborées des solutions innovantes. Sur ce plan, les designers sont appelés à être davantage à la manœuvre que les chercheurs SHS (en particulier dans les temps 1 et 3), dans la mesure où ils sont les plus armés pour animer des ateliers créatifs et produire des supports à la fois graphiques et réflexifs. Les chercheurs SHS, quant à eux, pourront davantage être sollicités dans le temps 2, afin notamment d’équiper *sociologiquement* les réflexions (en produisant par exemple un état de l’art des travaux portant sur les thématiques abordées ou les habitudes socioculturelles des usagers pressentis – nous y reviendrons) et en faisant bénéficier les autres participants de leurs compétences analytiques dans l’élaboration de concepts [23. Il ne s’agit pas de dénier ici ce type de compétences aux designers, ou même à tout autre participant au projet, mais de souligner que la capacité à produire des concepts constitue l’un des pré-requis de la formation à la recherche, et tout particulièrement dans le domaine des sciences humaines et sociales.]. C’est sur cette base que ces derniers pourront ensuite être formalisés par les designers en scénarios d’usage. Comme l’indiquent Pascale Trompette et Eric Blanco, « les scénarios mettent en scène des fictions autour de l’usage sous la forme de scénettes (films, BD,jeux de rôle) pour les mettre en discussion auprès d’usagers projetés » [24. Pascale Trompette et Eric Blanco, « L’usage en conception. Projeter sans fermer. La carrière sociale des innovations », in Chalas, Y., Gilbert, C., Vinck, D., 2009, *Comment les acteurs s’arrangent avec l’incertitude*, Paris, Éditions des archives ouvertes, p. 108.]. Aussi s’agit-il – avant même de les soumettre à discussion – d’incarner les concepts dans des formes narratives (de type *story-telling* mêlant textes et images, animées ou non), qui permettront de mettre en scène des usages et des usagers, en spécifiant leurs profils, certaines fonctionnalités du dispositif, les types d’interaction que cela suppose et les contextes d’usage, etc. Ainsi, les scénarios d’usage, outre leur fonction illustrative, ont également vocation à servir d’hypothèses de travail pour les phases suivantes.
+
+### Conception
+
+La phase *conception* recouvre les étapes du processus d’innovation centrée-usager qui vont, maintenant, du scénario d’usage au prototype (en passant par la maquette dite *fonctionnelle*). On entre ici dans le domaine de l’*utilisabilité* (ou* usability*), qui consiste à réduire la focale d’attention sur des problématiques liées aux interactions homme-machine (IHM).
+
+Il s’agit, en d’autres termes, de concevoir des *artefacts cognitifs* [25. Un *artefact cognitif* est un outil artificiel conçu pour conserver, exposer et traiter l’information dans le but de satisfaire une fonction représentationnelle (cf. Donald A. Norman, « Les artefacts cognitifs », in Conein,B., Dodier, N., Thévenot, L., 1993, *Les objets dans l’action. De la maison au laboratoire*, Paris, éditions de l’*EHESS*, pp. 15-34).] et des *affordances* [26. L’*affordance* désigne, tout à la fois, la potentialité d’action perçue dans un objet technique et la capacité de cet objet à suggérer sa prise en main (cf. Gibson J.-J., 1986, « The Ecological Approach to Visual Perception », Lawrence Erlbaum, New Jersey).] qui trouveront à se matérialiser dans des interfaces ou des fonctionnalités dites *conviviales* (ou *users friendly*), en ce que l’objectif recherché est qu’elles soient facilement interprétables et compréhensibles par un utilisateur *ordinaire*. Les spécialistes *usage* concernés au premier chef par la phase de conception, que l’on peut à juste titre qualifier ici de *centrée-utilisateur* (norme ISO 13407), sont les ergonomes et les psychologues (du côté des SHS) ou bien encore les designers d’interface ou d’interaction (du côté du Design) [27. À noter d’ailleurs qu’il n’est pas rare que les seconds aient reçu une formation initiale ou complémentaire dans les mêmes disciplines que les premiers.].
+
+Néanmoins, il est également souhaitable au cours de cette phase de garder à l’esprit les problématiques de type *sociologiques* qui auront été mises à jour dans la phase précédente. On sait, en effet, que les concepteurs (ingénieurs et informaticiens en particulier, mais aussi designers dans notre cas) accompagnent leur travail de conception d’un processus représentationnel de *configuration de l’usager* [28. Steeve Woolgar, « Configuring the User : The case of usability trials », in Law J. (dir.), *A Sociology of Monsters : Essays on Power, Technology and Domination*, London, *Routledge*, pp. 57-99.], par lequel ils projettent mentalement dans les artefacts qu’ils produisent l’image idéalisée d’un usager virtuel (les fameux *persona* en langage Design). Ils contribuent ainsi à y incorporer, volontairement ou non, des *scripts d’usage* [29. Madeleine Akrich, « Comment décrire les objets techniques ? », revue *Techniques et culture *n°9, 1987, pp. 49-64.] sémiologiquement prescripteurs de *prises* à saisir par les utilisateurs (des *affordances*, donc). Or, on sait aussi que les usages prescrits par les dispositifs techniques peuvent s’avérer à la longue non conformes à leurs usages effectifs [30. C’est même là l’objet principal de la sociologie dite *des usages*.]. Une première manière de contrevenir, autant que faire se peut, à ce clivage consiste dès lors à mieux informer en amont les représentations que les concepteurs se font des utilisateurs potentiels, de façon à ce que celles-ci intègrent le plus possible la réalité de leurs pratiques sociales et culturelles (en termes de styles de vie, de modes de consommation, de goûts culturels, etc.).
+
+Une fois les scénarios d’usage réalisés, deux temps principaux peuvent être identifiés au cours de la phase de conception : (1) tester les scénarios d’usage envisagés ; (2) sélectionner les scénarios qui feront l’objet d’une conception plus poussée sous la forme d’une maquette et / ou d’un premier prototype. Concernant le premier point, ce sont le plus souvent les concepteurs / designers eux-mêmes qui testent les artefacts qu’ils créent, en se faisant tantôt *concepteurs-usagers* tantôt *usagers-concepteurs* [31. Patrice Flichy, « Technique, usage et représentations », revue *Réseaux* n°148-149, 2008, pp. 168-169.]. Toutefois, pour éviter que les concepteurs pêchent par ethnocentrisme en confondant leur point de vue avec celui des usagers ciblés, il est préférable d’inviter également de véritables utilisateurs, recrutés idéalement sur la base des profils identifiés dans la phase précédente, dans une démarche de *co-conception*, afin qu’ils évaluent et critiquent les scénarios d’usage lors de séances de *focus-groups*, par exemple. Ainsi, et c’est le second point, les remarques formulées permettront de tester l’acceptabilité des scénarios et de sélectionner les hypothèses à retenir pour la conception des maquettes, puis, le cas échéant, du premier prototype.
+
+### Adaptation
+
+La phase *adaptation* recouvre les étapes du processus d’innovation centrée-usager qui vont du prototype au pilote (ou dispositif). Tout en restant dans le registre de l’*utilisabilité*, on quitte ici le domaine de l’exploration pour entrer dans celui de l’expérimentation. Le principe qui domine consiste dès lors à laisser à disposition le prototype à un (ou plusieurs) utilisateur(s) et à observer la manière dont ils l’utilisent au sein d’un espace aménagé à cet effet (bureau de travail, salle de réunion, chambre, cuisine ou *living room*, arrêt de bus, etc.). Du point de vue des SHS, il s’agit dorénavant de décentrer quelque peu le regard des interactions homme-machine pour prendre en compte dans l’étude le *carré de l’activité* [32. Christian Licoppe, « Dans le carré de l’activité : perspectives internationales sur le travail et l’activité », revue *Sociologie du travail* n°50, pp. 287-302.] dans lequel elles se situent. En d’autres termes, cette phase vise à reconsidérer l’utilisation d’un prototype non plus seulement à partir de tests ergonomiques, mais en mobilisant des approches pragmatiques de l’usage, telles que la cognition distribuée, l’ethnométhodologie ou encore les CSCW, dont on a déjà parlé plus haut et au sein desquels « les ethnographes et les sociologues des activités de travail occupent une place de choix » [33. Dominique Cardon, « Les sciences sociales et les machines à coopérer. Une approche bibliographique du Computer Supported Cooperative Work (CSCW) », *Réseaux*, n° 85, 1997, p. 18.].
+
+Sur le plan méthodologique, les designers peuvent ici prêter main forte. En effet, ils se revendiquent eux aussi le plus souvent d’une approche pragmatique et ont largement intégré dans leurs champs de compétences la pratique de l’ethnographie [34. Voir par exemple Christina Wasson, « *Ethnography in the Field of Design* », revue *Human Organisation* n°4, vol. 59, 2000.] – bien que cette méthode soit davantage mobilisée en amont de la conception du prototype, un peu à la manière d’un *repérage* [35. C’est le sens général du terme anglo-saxon de *quick and dirty ethnography*, utilisé dans le domaine des CSCW comme dans celui du Design.], et moins en aval, comme nous l’envisageons ici à partir de l’observation d’un dispositif déjà (pré)conçu. À noter également que d’autres compétences du Design peuvent s’avérer fort utiles pour aménager des espaces, créer des signalétiques ou même encore des *ambiances* qui participe de la *logique des situations* [36. Fornel (de), M., Quéré, L., 1999, « La logique des situations. Nouveaux regards sur l’écologie des activités sociales », Paris, éditions de l’*EHESS*.] que l’on souhaite circonscrire pour l’expérimentation.
+
+En résumé, on peut identifier trois temps au cours de la phase d’adaptation : (1) mettre en scène le prototype dans une situation
+préalablement définie et aménagée ; (2) observer la manière dont l’utilisateur mobilise (ou non) le dispositif technique dans le cours de ses actions ou interactions ; (3) identifier les fonctions qui lui font défaut, entendu dans le sens de leur dysfonctionnement comme dans celui de leur absence [37. Il s’agit par conséquent d’être particulièrement attentif à deux types de modalités d’intervention des utilisateurs, sur les quatre formes identifiées par Madeleine Akrich, à savoir l’*adaptation*, qui consiste à modifier certains attributs du prototype en les ajustant aux caractéristiques de l’utilisateur et de son environnement, et l’extension, par laquelle on adjoint un ou plusieurs éléments permettant d’enrichir la liste des fonctionnalités initialement prévues (cf. Madeleine Akrich, « Les utilisateurs, acteurs de l’innovation », revue *Éducation permanente*, n° 134, 1998, pp. 79-89).]. Ainsi, à l’issue de la phase d’adaptation, l’équipe-projet doit être en mesure d’améliorer non seulement la *prise en main* du prototype pour en proposer une nouvelle version sous la forme plus aboutie d’un pilote, mais aussi de mieux appréhender la *mise en contexte* de son usage, qui fait l’objet de la phase suivante.
+
+### Adoption
+
+La phase *adoption* recouvre les étapes du processus d’innovation centrée-usager qui vont du pilote jusqu’au produit ou service finalisé. Tout en restant dans le champ de l’expérimentation, on quitte maintenant le domaine de l’utilisabilité pour entrer à nouveau dans celui de l’*usage*. Il s’agit de privilégier ici les approches méthodologiques qui mettent l’accent sur le processus d’appropriation [38. Josiane Jouët, « Retour critique sur la sociologie des usages », revue *Réseaux* n°100, 2000, pp. 487-521.], sans pour autant perdre de vue que ces processus ne peuvent en réalité véritablement advenir qu’après la mise sur le marché du produit ou du service [39. Ce qui n’interdit pas que les produits et les services commercialisés puissent être à nouveau transformés par des usagers, mais cette fois-ci dans le cadre d’un processus d’innovation par l’usage.]. Aussi, la phase d’adoption consiste-telle en une sorte de déploiement non commercial, mais *grandeur nature*, dans des contextes organisationnels (entreprises, écoles, etc.), domestiques (maisons, appartements, immeubles) ou s’inscrivant dans l’espace public (rues, bus, métro, parcs naturels, etc.). Le principe qui domine est alors de « laisser à l’utilisateur une certaine marge de manœuvre pour lui laisser découvrir des fonctionnalités, les mettre à l’épreuve de ses pratiques actuelles, les développer ou les abandonner, etc. » [40. Alexandre Mallard, 2011, *opus cit*., p. 276.]. Il s’agit, en d’autres termes, de focaliser l’attention sur les *manières de faire* ou au contraire sur les pratiques de résistance que génère le dispositif, eu égard au contexte d’usage mais aussi aux dispositions (milieu social, niveau d’étude, position statutaire, etc.) des usagers.
+
+De la même manière que les designers pouvaient être à la manœuvre dans la phase anticipation, ce sont ici les chercheurs SHS (sociologie et anthropologie des organisations, de la culture, de la famille ou de la ville, par exemple) qui sont à l’initiative dans la phase adoption. Les méthodes mobilisées peuvent relever à la fois de démarches qualitatives et / ou quantitatives. Ainsi, l’approche ethnographique peut à nouveau être convoquée, même si on tendra à privilégier l’observation dite *participante*, plutôt que *directe* ou *filmée*, comme c’est le cas pour les phases précédentes. De même, la conduite d’entretiens semi-directifs semblera plus appropriée que des entretiens de type informatifs (anticipation) ou directifs (conception), de façon à pouvoir aborder différentes dimensions de la vie quotidienne. Il s’agit en tout état de cause de faire appel à la mémoire et aux récits d’expériences des usagers, en focalisant moins sur l’étude des compétences manipulatoires individuelles que sur celle des processus collectifs d’apprentissages et des rapports sociaux d’usage. De même, sur le plan de l’analyse quantitative, on peut envisager la passation de questionnaires ou, si la technologie s’y prête (Internet, téléphonie mobile, *sans contact*, etc.), la fouille de données et l’analyse de logs (ce qui suppose en sus quelques compétences informatiques). L’idéal étant, dans tous les cas, de combiner les différentes méthodes au sein du protocole expérimental. Les Designers, pour leur part, seront sans doute
+moins directement concernés par cette phase d’adoption, qui peut paraître éloignée de leurs champs d’intervention habituels (situés en amont du prototype). Pour autant, les projets PACA Labs ont montré les difficultés que pouvaient éprouver les chercheurs SHS à communiquer les résultats de leurs études au reste de l’équipe-projet. C’est sur ce dernier point queles spécialistes du Design peuvent, de notre point de vue, jouer un rôle complémentaire à celui des SHS, en traduisant les études d’usage sous forme de préconisations graphiques ou visuelles.
+
+Pour finir, trois temps peuvent à nouveau être distingués au sein de la phase d’adoption : (1) déployer le pilote dans un contexte *grandeur nature*; (2) étudier les manières de faire et les pratiques de résistance des usagers ; (3) identifier de nouvelles configurations d’usage, en mettant notamment l’accent sur les logiques de *déplacement* ou de *détournement* [41. Il s’agit ici des deux autres formes identifiées par Madeleine Akrich (1998, *opus cit*.). Le déplacement consiste à modifier le spectre des usages prévus d’un dispositif, sans annihiler ce en vue de quoi il a été conçu. Le* détournement* désigne une manière de se servir d’un produit ou d’un service qui n’a rien à voir avec le scénario prévu au départ par le concepteur.]. Ainsi, à l’issue de la phase adoption, deux options sont possibles, soit mettre le produit ou le service sur le marché, soit développer une nouvelle idée en relaçant éventuellement le processus d’innovation centrée-usager.
+
+### Conclusion
+
+Le processus d’innovation centrée-usager que nous avons décrit doit permettre de passer de l’élaboration d’un concept de produit ou service à sa matérialisation, en intégrant au sein de chacune des phases qui le composent le *point de vue de l’usager*. Pour ce faire, il se base, en même temps qu’il parie, sur la complémentarité des approches du Design et des SHS. Les premières se spécifient par le travail de la créativité qu’elles autorisent et par leur capacité à produire des *objets-frontières* utiles à la formalisation des connaissances et à l’avancée du projet [42. Pour une distinction des différents types d’objetsfrontières qui peuvent être mobilisés dans la conception d’un produit et d’un service, nous renvoyons à l’article de Céline Verchère et d’Emmanuel Anjembe, « De la difficulté de fabriquer des objets-frontières. Le cas d’un projet de conception exploratoire », revue *Anthropologie des connaissances* n°1, vol.4, 2010, pp. 36-54.]. À cet égard, les Designers sont sans doute plus qualifiés que les chercheurs SHS pour réaliser les différents *livrables* qui jalonnent la mise en oeuvre du processus. En retour, les chercheurs SHS sont susceptibles d’informer la réflexion et les méthodes des designers, en intégrant dans leurs univers créatifs des travaux (expertises, études, recherches) et des enquêtes de terrain (observations, entretiens, questionnaires) réalisés pour les besoins de l’exploration et de l’expérimentation d’usage. Il s’agit, en d’autres termes, de fournir aux Designers (ou aux autres concepteurs possiblement concernés – on pense en particulier aux ingénieurs et aux marketeurs) des données empiriques afin qu’ils puissent être en mesure d’imaginer des usages qui incorporent en leur sein des principes de réalité à la fois technique et sociale.
+
+Il reste que, comme le soulignent Pascale Trompette et Eric Blanco, « toute qualification fine des alignements possibles entre l’objet, l’expérience possible de son usage, l’usager et le monde qui l’environne, se paie en réduction des marges de manœuvre et en irréversibilité. L’enjeu devient alors pour les concepteurs de rétablir des mécanismes d’ouverture et de plasticité de leurs artefacts face à la surdétermination que produit la projection de l’usage » (2009 : 99). Les spécialistes du Design et des SHS ont par conséquent tous deux un rôle supplémentaire de médiation à jouer au sein de l’équipe-projet qui consiste, d’une part, à faire alterner *ouverture* et *fermeture* du champ des possibles au sein du processus d’innovation centrée-usager et, d’autre part, à contrôler les *dérives* possibles de la trajectoire du projet au sein du processus d’innovation ouverte [43. Ce qu’Alexandre Mallard désigne par le terme* uses drift* : « *uses drift is not necessarily a user-centered process, but rather a multi-facetted dynamic that the social scientists involved in ICTs projects have to understand correctly if they want to produce usable knowledge for managing innovation* » (Alexandre Mallard, « *Following the Emergence of Unpredictable Uses ? New Stakes and Tasks for a Social Scientific Understanding of ICT Uses* », in Haddon, L., and alii (dir.), 2005,* Everydays Innovators : Researching the role of users in shaping ICT’s*, Dordrecht, Springer, p. 43).].
+
+(image: 02.workshop-internet-of-spaces-planete-ipod-2013-mettre-entre-p-13-et-14-version-pdf.jpg)
+#####*Workshop* « *Internet of spaces* », Planète *iPod*, 2013.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-design-et-shs-dans-le-processus-dinnovation.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Fabien Labarthe
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] Pour plus d’informations sur le programme PACA Labs, nous renvoyons à l’adresse : **(link: http://emergencesnumeriques.regionpaca.fr/innovation-et-economienumeriques/paca-labs.html text: emergencesnumeriques.regionpaca.fr/innovation-et-economienumeriques/paca-labs.html popup: yes)**.
+
+[2.] Pour un aperçu des méthodologies élaborées dans différents *Living Labs* européens, voir par exemple Esteve Almirall, Melissa Lee et Jonathan Wareham, 2012, « Mapping Living Labs in the Landscape of Innovation Methodologies », revue *Technology Innovation Management*, septembre 2012.
+
+[3.] Laura Draetta et Fabien Labarthe, « The Living Labs at the test of user-centered innovation. Proposal of a methodological framework », acte du colloque *ICE 2010 – Collaborative Environments for Sustainable Innovation*, Lugano (Suisse), 21-23 juin 2010.
+
+[4.] *Computer Supported Cooperative Work* (travail coopératif assisté par ordinateur).
+
+[5.] Dominique Cardon, « Les sciences sociales et les machines à coopérer. Une approche bibliographique du Computer Supported Cooperative Work (CSCW) », *Réseaux*, n° 85, 1997, p. 22.
+
+[6.] Pour une synthèse documentée et problématisée de ces différents registres, nous renvoyons à Jauréguiberry, F, Proulx, S, 2011, « Usages et enjeux des technologies de communication », Toulouse, éditions *érès* (en particulier, les pages 78 à 101).
+
+[7.] Von Hippel, E., 2005, « *Democratising innovation* », Cambridge, *MIT Press*.
+
+[8.] Dominique Cardon, « Innovation par l’usage », in Ambrosi, A., Peugeot, V., Pimienta, D.,(dir.), 2005, *Enjeux de mots. Regards multiculturels sur les sociétés de l’information*, Caen, *C & F* éditions.
+
+[9.] Chesbrough, H., Vanhaverbeke, W., West, J., 2006, « *Open Innovation* ». Researching a New Paradigm, Oxford, *Oxford University Press*
+
+[10.] Même si ce point n’est pas traité dans le présent article, il est à noter que la question portant sur la *représentation des usagers* au sein des équipes-projet reste particulièrement problématique. Elle fait actuellement l’objet d’un traitement dans le cadre d’une thèse de doctorat conduite par Bastien Tavner au sein de l’équipe *Deixis-Sophia* de *Télécom Paristech* et de la préparation d’un ouvrage collectif, co-dirigé par Laura Dreatta et moi-même.
+
+[11.] Centre de Sociologie de l’Innovation, École des Mines.
+
+[12.] Madeleine Akrich, Michel Callon et Bruno Latour, « A quoi tient le succès des innovations ? 2 : Le choix des porte-parole », revue *Gérer et comprendre, Annales des Mines *n°12, 1988, p. 25.
+
+[13.] Que l’on songe au Crédit Impôt Recherche ou aux pôles de compétitivité, tous ces dispositifs conditionnent l’apport d’un financement public à la dimension collaborative des projets. Le programme PACA Labs n’échappe pas à cette incitation (sur ce point, cf. Laura Draetta, Fabien Labarthe, 2010, « TIC et systèmes régionaux d’innovation : vers quels changements ? Le cas du dispositif PACA Labs », in Viera, L., Pinède, N., (dir.), *Stratégie du changement dans les systèmes et les territoires*, Bordeaux, *Maison des sciences de l’Homme d’Aquitaine*).
+
+[14.] Ce que permettent respectivement les modèles de l’internalisation et de la percolation, identifiés par Alexandre Mallard, 2011, « Explorer les usages : un enjeu renouvelé pour l’innovation des TIC », in Denouêl, J., Granjon, F., *Communiquer à l’ère numérique. Regards croisés sur la sociologie des usages*, Paris, Presses des Mines.
+
+[15.] *Ibid*. p. 263.
+
+[16.] Madeleine Akrich, Michel Callon et Bruno Latour, *opus cit*., p. 21.
+
+[17.] En faisant référence ici à la méthode CAUTIC (Conception Assistée par l’Usage des Technologies d’Information et de Communication) élaborée par le sociologue Philippe Mallein.
+
+[18.] Comme l’indiquent Lesli Haddon et Kari-Hans Kommonen, « *both sociologist and designer can claim simultaneously to be on the side of the user to the extent that either user feedback or observations about potentials users may lead to the shaping of a product which is in some way better for users* » (2005). in Haddon L., Kommonen, K-H., 2002, *Interdisciplinary explorations : a dialogue between a sociologist and a design group*, Report for COST 269 (consulté à l’adresse : (link: http://www.lse.ac.uk/media@lse/whosWho/AcademicStaff/LeslieHaddon/InterdisciplinaryExploration.pdf text: http://www.lse.ac.uk/media@lse/whosWho/AcademicStaff/LeslieHaddon/InterdisciplinaryExploration.pdf))
+
+[19.] Thévenot, L., 2006, « L’action au pluriel. Sociologie des régimes d’engagement », Paris, La Découverte.
+
+[20.] Michel de Certeau et Luce Giard, « L’ordinaire de la communication », in Certeau (de), M., 1994 [1983], *La prise de parole et autres écrits politiques*, Paris, éditions du *Seuil*, pp.163-224.
+
+[21.] Comme le précise Alexandre Mallard, il existe en effet toute une gradation possible dans l’instanciation des projets d’expérimentation qui vont « des idées jusqu’au service lui-même, en passant par le concept, la maquette, le prototype et le pilote » (2011, *opus cit*., p. 272).
+
+[22.] Terme que nous préférons ici à celui d’*expérience-utilisateur* généralement employé en ergonomie et qui met davantage l’accent sur les seules compétences manipulatoires des usagers.
+
+[23.] Il ne s’agit pas de dénier ici ce type de compétences aux designers, ou même à tout autre participant au projet, mais de souligner que la capacité à produire des concepts constitue l’un des pré-requis de la formation à la recherche, et tout particulièrement dans le domaine des sciences humaines et sociales.
+
+[24.] Pascale Trompette et Eric Blanco, « L’usage en conception. Projeter sans fermer. La carrière sociale des innovations », in Chalas, Y., Gilbert, C., Vinck, D., 2009, *Comment les acteurs s’arrangent avec l’incertitude*, Paris, Éditions des archives ouvertes, p. 108.
+
+[25.] Un *artefact cognitif* est un outil artificiel conçu pour conserver, exposer et traiter l’information dans le but de satisfaire une fonction représentationnelle (cf. Donald A. Norman, « Les artefacts cognitifs », in Conein,B., Dodier, N., Thévenot, L., 1993, *Les objets dans l’action. De la maison au laboratoire*, Paris, éditions de l’*EHESS*, pp. 15-34).
+
+[26.] L’*affordance* désigne, tout à la fois, la potentialité d’action perçue dans un objet technique et la capacité de cet objet à suggérer sa prise en main (cf. Gibson J.-J., 1986, « The Ecological Approach to Visual Perception », Lawrence Erlbaum, New Jersey).
+
+[27.] À noter d’ailleurs qu’il n’est pas rare que les seconds aient reçu une formation initiale ou complémentaire dans les mêmes disciplines que les premiers.
+
+[28.] Steeve Woolgar, « Configuring the User : The case of usability trials », in Law J. (dir.), *A Sociology of Monsters : Essays on Power, Technology and Domination*, London, *Routledge*, pp. 57-99.
+
+[29.] Madeleine Akrich, « Comment décrire les objets techniques ? », revue *Techniques et culture *n°9, 1987, pp. 49-64.
+
+[30.] C’est même là l’objet principal de la sociologie dite *des usages*.
+
+[31.] Patrice Flichy, « Technique, usage et représentations », revue *Réseaux* n°148-149, 2008, pp. 168-169.
+
+[32.] Christian Licoppe, « Dans le carré de l’activité : perspectives internationales sur le travail et l’activité », revue *Sociologie du travail* n°50, pp. 287-302.
+
+[33.] Dominique Cardon, « Les sciences sociales et les machines à coopérer. Une approche bibliographique du Computer Supported Cooperative Work (CSCW) », *Réseaux*, n° 85, 1997, p. 18.
+
+[34.] Voir par exemple Christina Wasson, « *Ethnography in the Field of Design* », revue *Human Organisation* n°4, vol. 59, 2000.
+
+[35.] C’est le sens général du terme anglo-saxon de *quick and dirty ethnography*, utilisé dans le domaine des CSCW comme dans celui du Design.
+
+[36.] Fornel (de), M., Quéré, L., 1999, « La logique des situations. Nouveaux regards sur l’écologie des activités sociales », Paris, éditions de l’*EHESS*.
+
+[37.] Il s’agit par conséquent d’être particulièrement attentif à deux types de modalités d’intervention des utilisateurs, sur les quatre formes identifiées par Madeleine Akrich, à savoir l’*adaptation*, qui consiste à modifier certains attributs du prototype en les ajustant aux caractéristiques de l’utilisateur et de son environnement, et l’extension, par laquelle on adjoint un ou plusieurs éléments permettant d’enrichir la liste des fonctionnalités initialement prévues (cf. Madeleine Akrich, « Les utilisateurs, acteurs de l’innovation », revue *Éducation permanente*, n° 134, 1998, pp. 79-89).
+
+[38.] Josiane Jouët, « Retour critique sur la sociologie des usages », revue *Réseaux* n°100, 2000, pp. 487-521.
+
+[39.] Ce qui n’interdit pas que les produits et les services commercialisés puissent être à nouveau transformés par des usagers, mais cette fois-ci dans le cadre d’un processus d’innovation par l’usage.
+
+[40.] Alexandre Mallard, 2011, *opus cit*., p. 276.
+
+[41.] Il s’agit ici des deux autres formes identifiées par Madeleine Akrich (1998, *opus cit*.). Le déplacement consiste à modifier le spectre des usages prévus d’un dispositif, sans annihiler ce en vue de quoi il a été conçu. Le* détournement* désigne une manière de se servir d’un produit ou d’un service qui n’a rien à voir avec le scénario prévu au départ par le concepteur.
+
+[42.] Pour une distinction des différents types d’objetsfrontières qui peuvent être mobilisés dans la conception d’un produit et d’un service, nous renvoyons à l’article de Céline Verchère et d’Emmanuel Anjembe, « De la difficulté de fabriquer des objets-frontières. Le cas d’un projet de conception exploratoire », revue *Anthropologie des connaissances* n°1, vol.4, 2010, pp. 36-54.
+
+[43.] Ce qu’Alexandre Mallard désigne par le terme* uses drift* : « *uses drift is not necessarily a user-centered process, but rather a multi-facetted dynamic that the social scientists involved in ICTs projects have to understand correctly if they want to produce usable knowledge for managing innovation* » (Alexandre Mallard, « *Following the Emergence of Unpredictable Uses ? New Stakes and Tasks for a Social Scientific Understanding of ICT Uses* », in Haddon, L., and alii (dir.), 2005,* Everydays Innovators : Researching the role of users in shaping ICT’s*, Dordrecht, Springer, p. 43).

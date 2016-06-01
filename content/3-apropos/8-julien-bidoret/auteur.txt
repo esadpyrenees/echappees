@@ -1,0 +1,17 @@
+Title: Julien Bidoret
+
+----
+
+Text-bio: Julien Bidoret est designer, développeur et intervient à l’École supérieure d’art des Pyrénées – Pau dans les enseignements relatifs au design graphique et aux pratiques numériques. Il développe parallèlement une activité de veille, de recherche et de critique du design des médias numériques. Ses espaces de prospection touchent au design éditorial en ligne, au design d’interfaces et d’expérience utilisateur, aux outils et techniques de visualisation de données et, sur le plan culturel, aux questions de l’identité numérique et des usages des réseaux.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+----
+
+Text-liste-articles: (link: numeros/numero2/design-dun-outil-au-service-de-la-recherche-et-de-sa-diffusion text: n°2 : Design d’un outil au service de la recherche et de sa diffusion)

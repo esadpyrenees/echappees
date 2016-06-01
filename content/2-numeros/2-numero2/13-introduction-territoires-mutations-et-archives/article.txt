@@ -1,0 +1,156 @@
+Pagesettings-1: 
+
+----
+
+Title: Introduction – Territoires, mutations et archives
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: chrystelle-desbordes
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+*Là où la carte découpe, le récit traverse.* 
+Michel De Certeau [1. M. De Certeau, 1990 (1980), « L’invention du quotidien », éd. *Gallimard*, Paris, p. 189.]
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+À l’heure des pratiques généralisées des *TIC* et du *Web 2.0*, au sein desquelles se manifestent des échanges transfrontaliers d’un nouveau genre, et où s’impose, notamment, une nouvelle économie des images (artistiques) requestionnant la reproductibilité technique et le statut de l’archive, notre rapport au monde et à sa perception semble totalement bouleversé, au point où le terme de mutation(s) s’impose. Ainsi que l’atteste, entre autres, le phénomène de la géolocalisation, la notion des territoires, intimes et collectifs, est requestionnée et, du même coup, notre relation à l’espace – l’espace*lu de loin* et l’espace *lu de près* [1. Nous faisons écho ici à l’essai de Franco Moretti, 2008, « Graphes, Cartes, Arbres », *Les Prairies ordinaires*, Paris.]… aux *espèces d’espaces* aurait dit Perec [2. Georges Perec, 2000 (1974), « Espèces d’espaces », éd. *Galilée*, Paris.].
+
+(image: echappees_d.jpg)
+#####Étienne Jules Marey, *Trajectoire stéréoscopique d’un point brillant placé au niveau des vertèbres lombaires d’un homme qui marche en s’éloignant de l’appareil photographique*, chronophotographie sur plaque fixe, 1894 (© d’après Jules Marey, « Le mouvement », 1894).
+
+En parallèle, la culture numérique de l’immatériel a notamment pour conséquence de nous conduire à réfléchir à la préservation et à l’exploitation de nos archives – que celles-ci appartiennent à un lointain passé ou qu’elles soient produites dans la fugacité du présent car, comme le souligne Pierre-Damien Huyghe, « il n’y a plus d’expérience vécue sans enregistrement » [3. Cité par Nicolas Thély : **http://oin.hypotheses. org/995** (15.11.2013).].
+
+À cet immatériel où la dimension à la fois physique et métaphysique du temps se pose sous un nouveau jour, répond une appétence marquée à se saisir de l’archive, à la réinvestir en en re-montant la valeur mnésique, à faire de l’archive, plus qu’un document du passé, un matériau agissant dans le présent. De cet immatériel émerge, encore, une rematérialisation des objets, via notamment les impressions 3D, laissant entrevoir une forme d’auto-production quasi artisanale, peut-être capable de contourner le capitalisme globalisé.
+
+(image: echappees_e.jpg)
+#####Agnès Rosse, Juste la forme des océans, 2008, céramique émaillée, 80 × 120 × 1,5 cm, EKWC (centre européen de céramique), Hollande. © Agnès Rosse.
+
+Et si dans cet environnement saturé de signes et de symptômes, « la société ne se défait, mais elle se transforme », ainsi que l’affirme le philosophe Yves Charles Zarka [4. Y. C. Zarka sur *France Inter* : « 3 D Le Journal (Stéphane Paoli) », 10.11.2013.], les artistes comme les chercheurs et autres acteurs du monde de l’art livrent leurs visions de cette mutation. Le déplacement, sur ces territoires traçant de nouveaux contours, signe diversement ces pratiques. Déplacement politique, économique, social ou épistémologique, déplacement heuristique ou poétique, quelles formes sont produites dans ce contexte ? Et quelles en sont les résonances dans la création contemporaine, à laquelle nos étudiants prennent part ?
+
+(image: echappees_2_13.jpg )
+#####Béatrice Darmagnac, *Esteu aquí* – Vous êtes ici, 2009-2013, céramique émaillée, dimensions variables. Vue de l’exposition Esteu aquí de l'École supérieure d'art des Pyrénées – Tarbes, Castell-Palau de la Bisbal d’Empordá (Catalogne), 31.10-01.12.2013. © Béatrice Darmagnac.
+
+« (Le poète) ressemble au sismographe que tout tremblement fait vibrer, même s’il se produit à des milliers de lieux. Ce n’est pas qu’il pense sans cesse à toutes les choses du monde. Mais elles pensent à lui. Elles sont en lui, aussi le gouvernent-elles. Même ses heures mornes, ses dépressions, ses moments de confusion sont des états impersonnels. Ils ressemblent aux palpitations du sismographe et un regard qui serait assez profond pourrait y lire des choses plus mystérieuses que dans ses poèmes. » Hugo Hofmannstahl [5. Hugo Hofmannstahl, « Le poète et l’époque présente », cité par Yves-Alain Michaud, 2012 (1998),« Aby Warburg ou l’image en mouvement », éd. *Macula*, Paris, p. 330.]
+
+Les pages qui suivent n’ont pas l’ambition de répondre, ni de commenter ou d’illustrer ces questions, mais bien plutôt de réfléchir aux propositions faites par nos invités et par les étudiants, d’imaginer leurs correspondances, leurs capacités à dialoguer pour tracer de nouvelles constellations nées de recherches interdisciplinaires en lien avec ces *signes* des temps.
+
+Ces pages empruntent deux voies : « territoires et mutations » et « territoires et archives » – deux axes, encore, qui souvent se croisent voire se rejoignent, et dont les frontières paraissent poétiquement labiles. Elles veulent témoigner d’expériences et d’expérimentations traçant de singulières cartographies, déplaçant des territoires, réinventant, dans une présence peut-être fondamentalement insaisissable au contemporain, les graphies graciles du sismographe.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-introduction-territoires-mutations-et-archives.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Chrystelle Desbordes
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: [1.] M. De Certeau, 1990 (1980), « L’invention du quotidien », éd. *Gallimard*, Paris, p. 189.
+
+----
+
+Article-note-print: 
+
+[1.] Nous faisons écho ici à l’essai de Franco Moretti, 2008, « Graphes, Cartes, Arbres », *Les Prairies ordinaires*, Paris.
+
+[2.] Georges Perec, 2000 (1974), « Espèces d’espaces », éd. *Galilée*, Paris..
+
+[3.] Cité par Nicolas Thély : http://oin.hypotheses. org/995 (15.11.2013).
+
+[4.] Y. C. Zarka sur *France Inter* : « 3 D Le Journal (Stéphane Paoli) », 10.11.2013.
+
+[5.] Hugo Hofmannstahl, « Le poète et l’époque présente », cité par Yves-Alain Michaud, 2012 (1998),« Aby Warburg ou l’image en mouvement », éd. *Macula*, Paris, p. 330.

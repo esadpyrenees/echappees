@@ -1,0 +1,13 @@
+Title: Guide pour une bonne saisie du texte
+
+----
+
+Info-1: 
+
+----
+
+Exposant: 
+
+Pour afficher un exposant veuillez encadrer la lettre des deux balises suivantes <sup></sup>
+Exemple:
+XX<sup>e</sup> siècle

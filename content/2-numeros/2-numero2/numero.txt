@@ -1,0 +1,73 @@
+Number: 2
+
+----
+
+Numero-date: mars 2014
+
+----
+
+Title: DGM et SHS l'usager à l'ère du numérique / Territoires, mutations et archives
+
+----
+
+Image-couv: (image: affiche_atelier-seminaire-arc-ipad-avec-jeremy-baboukhian-fev-2014.jpg)
+
+----
+
+Nom-responsable-numero: 
+
+Martine Moureu, Directrice générale de l’ÉSA Pyrénées – Pau Tarbes
+Odile Biec, Directrice du site de Pau.
+
+----
+
+Conseils-scientifiques-numero: Ivan Clouteau, directeur des études et de la recherche, ÉSA Pyrénées – Pau Tarbes.
+
+----
+
+Coordination-revue-numero: 
+
+Corinne Melin, professeure d’esthétique et théorie des arts, ÉSA Pyrénées – Pau
+Mail : (email: corimelin@gmail.com text: corimelin@gmail.com)
+Chrystelle Desbordes, professeure d’histoire de l’art, ÉSA Pyrénées – Tarbes
+
+----
+
+Comite-redaction-numero: Chrystelle Desbordes, Corinne Melin, Perrine saint Martin
+
+----
+
+Design-graphique-numero: 
+
+Benjamin Renaud, Toulouse. (link: www.benjaminrenaud.fr text: www.benjaminrenaud.fr popup: yes)
+<br><br>
+Pour la version papier : imprimée à 500 exemplaires sur papier Offset FSC mix credit blanc 250g pour la couverture et 90g pour les pages intérieures; composée en Magra Regular/Bold et Newton Regular/Bold/Italique, polices de caractères Open Source disponibles sur Google WebFonts.
+
+----
+
+Numero-domaine: 
+
+----
+
+Numero-keyword: 
+
+----
+
+Numero-pdf: 
+
+----
+
+Edito-auteur: Chrystelle Desbordes et Corinne Melin
+
+----
+
+Edito-contenu: 
+
+Le deuxième numéro d’échappées, revue annuelle de recherche en art et design de l’École supérieure d'art des Pyrénées — Pau Tarbes, poursuit ses objectifs : faire état des réflexions menées dans les programmes de recherche de l’école. Il s’agit, en particulier, de relayer les participations du séminaire mis en place sur le site de Tarbes par Chrystelle Desbordes (en écho avec le séminaire « l’invisible est réel » de 2011 / 2012), comme de poursuivre la réflexion engagée dans le numéro précédent par Corinne Melin sur les relations entre le design graphique multimédia et les sciences humaines et sociales. Liés aux mentions des diplômes présentés par l’école (art-céramique à Tarbes, design graphique multimédia à Pau), les axes de réflexion participent de l’initiation à la recherche des étudiants de second cycle grâce à la mise en mouvement de savoirs ouverts à l’expérimentation.
+
+**À Pau**, les chercheurs et les designers interrogent, chacun à leur manière, les collaborations entre le design graphique multimédia et les sciences humaines et sociales. L’attention est particulièrement portée sur l’usager et la façon dont le designer et le chercheur s’en emparent. Il nous apparait en effet nécessaire de prendre en compte l’usager dès la conception de produits et de services numériques ainsi que de le placer au centre de tout dispositif numérique.
+
+**À Tarbes**, les réflexions menées dans le cadre de « Territoires, mutations et archives » (inscrit au sein du séminaire de L’*Observatoire* des regards), ont continué de tisser des liens forts avec les différents chantiers mis en œuvre dans l’unité de recherche L’*Observatoire* [1.Pour le détail des programmes de recherche formant l’unité L’*Observatoire*, voir le site de l’école : **(link: http://www.esapyrenees.fr/fr/recherche/l-observation text: www.esapyrenees.fr popup: yes)** ]. Au cœur de notre époque caractérisée par les usages de l’Internet, les notions d’espace et de temps sont revisitées ou, pour le moins, rediscutées, à la fois par les artistes, les professionnels de l’art et les chercheurs, et métamorphosent, au passage, les territoires de nos liens sociaux. Chacun des invités offre ici matière à réflexion et, dans une diversité de pratiques, les paroles dialoguent avec des formes produites par les étudiants.
+
+Cette année, plus encore que l’an dernier, un réseau de correspondances s’est tissé entre les différentes pistes de réflexion initiées sur les deux sites de L'ÉSA Pyrénées – Pau Tarbes. En relation avec un certain nombre de pratiques liées aux technologies numériques, le pari est donc, pour ce numéro 2, de réfléchir à l’impact de ce qui constitue une nouvelle éthologie humaine à la fois sur la pratique artistique et son environnement immédiat, et des recherches menées dans le champ des sciences humaines et sociales.
+échappées, dont le nom invite à l’évasion plurielle, au dépassement des frontières disciplinaires, à une croisée de points de vue, désire être une réponse à ce que pourrait articuler théorie et pratique au cœur des propositions de recherche en École Supérieure d’Art. *échappées* se veut ainsi une mise en perspective des enjeux de la connaissance et de la pratique contemporaines. La théorie n’y est pas envisagée en tant que commentaire sur l’art, mais bien comme un espace réflexif et expérimental à même de rencontrer les enjeux de l’art et du design contemporains.

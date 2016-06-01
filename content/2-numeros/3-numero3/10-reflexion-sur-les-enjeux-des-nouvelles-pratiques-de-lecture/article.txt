@@ -1,0 +1,152 @@
+Pagesettings-1: 
+
+----
+
+Title: Réflexion sur les enjeux des nouvelles pratiques de lecture
+
+----
+
+Article-date: Mars 2015
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: melissa-malo
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: Mélissa Malo mène une réflexion sur les nouvelles pratiques de lecture en insistant sur les changements qu’induisent les supports numériques dans notre appréhension du texte et de l’image.
+
+----
+
+Article-chapeau-redaction-note: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Pendant longtemps, la lecture a été associée aux supports papier et liée entre autres à l'activité de lire un texte de fond pour l'instruction ou pour le loisir. Aujourd'hui, il semblerait que la lecture désigne un champ plus large d'activités. Avec le déploiement de la société d'information sur écrans, le développement des nouveaux médias, la lecture devient numérique. En ce sens, elle implique différemment le lecteur dans l'acte même de lire. D'une lecture statique linéaire, on glisse vers une lecture animée et discontinue. En effet, l'hypermédia et l'hypertexte amènent le lecteur à être actif : il peut, en lisant un texte, ouvrir une nouvelle fenêtre, écrire un commentaire, regarder une vidéo, etc. Les supports ont changé, modifiant en conséquence nos environnements et nos pratiques de lecture. Alors qu'à une époque on se réservait un moment pour se plonger dans un roman ou un journal, aujourd'hui nombre de nos lectures sont concentrées dans notre *Smartphone* que l'on peut consulter en tout lieu et à toute heure. On a tendance à préférer les textes courts aux textes longs. Le moment de lecture privilégié a laissé place à la consultation quotidienne d'un torrent d'informations accessibles dans le cyberespace, à tel point qu'on ne se rend même plus compte qu'on est dans une action de lecture. Le concept est actuellement en train d'évoluer. Par *lecture*, il faut comprendre l'action de lire c'est-à-dire l'activité de compréhension d'une information écrite, soit le déchiffrage visuel qui traduit un langage. Ainsi, le terme de *lecture* n'est plus exclusivement utilisé pour désigner la lecture linéaire, il concerne également le décryptage d'une image. D'ailleurs, les textes numériques sont la plupart du temps accompagnés d'images ou de divers contenus multimédia. On ne lit plus seulement les textes : les images se lisent aussi. Avec Internet, les messages visuels nous accompagnent en permanence et dans tous les domaines. Désormais on peut dire qu'on lit pour se déplacer, se renseigner, s'informer et *se mettre à la page*. La lecture renvoie aussi bien à lire les informations des panneaux pour s'orienter dans le métro, qu'à regarder l'heure sur son écran de *Smartphone*, à naviguer sur Internet ou encore, à échanger via différents réseaux sociaux. La lecture est donc devenue une activité qui occupe une place à part entière dans notre vie au quotidien. Aussi il est légitime de se demander si ces nouvelles pratiques de lecture qui se développent via ces outils numériques (notamment sur les écrans d'ordinateur, de *Smartphone*, de tablette numérique, de liseuse), n'est pas une nouvelle activité. Il y a effectivement un questionnement à avoir sur le vocabulaire. Est-il toujours légitime d’employer le terme de *lecture* ? Peut-être serait-il plus juste de parler d'*hyperlecture* comme le suggèrent Alban Cerisier et Jean-Yves Mollier dans « Où va le livre ? » : « L’*hyperlecture* transforme les relations possibles entre les images, les sons et les textes associés de manière non linéaire par les connexions électroniques ainsi que les liaisons pensables et réalisables entre des textes fluides dans leurs contours et en nombre virtuellement illimité. » [1. Alban Cerisier et Jean-Yves Mollier, « Où va le livre ? », editions *La Dispute*, collection *États des lieux*, Paris. ]
+
+On lit tous davantage et plus rapidement, mais on ne lit plus forcément pour le plaisir de lire. En effet, au cours d'une lecture, on recherche souvent une information, balayant le texte ou l'image à la recherche de mots-clés pouvant nous amener au sujet qui nous intéresse, au lieu de commencer au début et de tout lire jusqu’à la fin. Depuis l'apparition des outils numériques et leur omniprésence au quotidien, les lecteurs ont développé une lecture fragmentée et discontinue. Les *objets connectés* centralisent de multiples fonctions qui donnent alors la possibilité de passer très vite d'une fenêtre à une autre, d'être interrompu par un appel ou déconcentré par une image qui apparaît sur l'écran. Ainsi, le lecteur a tendance à s'attacher davantage aux textes courts tels que les titres, les sous-titres, les légendes, les encadrés, ou les mots-clés mis en valeur dans les articles plutôt qu'à la structure, globale du texte qu'ils ne lisent (parfois) plus jusqu'au bout. Des chercheurs se sont questionnés sur le sujet, parlant alors d'un phénomène d'*écrémage* [2. Julien Jégo, « Est-ce que le livre numérique tue vraiment la lecture ? », *Slate Magazine*, publié le 14.08.14.]. En ce sens, le titre revêt un rôle fondamental puisque souvent, il sera la seule information glanée lors d'une lecture *écrémée*. Dans le dictionnaire, le titre est défini comme la « désignation d'un sujet traité (dans un livre) ; [ou le] nom donné (à une œuvre littéraire) par son auteur, et qui évoque plus ou moins clairement son contenu. » Or le titre n'existe pas seulement dans le champ littéraire. On le retrouve dans d'autres champs, notamment celui de l'image. Le plus souvent, il s'apparente à un mot-clé, une légende, une expression. Un titre est un message codé, une accroche, il représente et peut avoir une fonction référentielle : informer, une fonction conative : impliquer et une fonction poétique : susciter l'intérêt ou l'admiration. Le titre fait le lien entre le lecteur et l'image, quel que soit son type. Il détermine donc le regard porté sur l'image et constitue, selon les formules de l'artiste Marcel Duchamp, par exemple, une *couleur invisible* qui lui est ajoutée. Sur les réseaux sociaux, il suffit de connaître le mot-clé, le terme, le *Hashtag* qui permet de centraliser toutes les informations autour d'une même thématique pour que les utilisateurs puissent commenter ou suivre une conversation. De cette manière, *surfer sur Internet*, *chatter*, *textoter*, *tweeter* sont devenus des termes régulièrement employés dans le langage courant, renvoyant tous indirectement à des activités d'écriture-lecture. À l'heure où les images nous accompagnent en permanence et dans tous les domaines, il est devenu nécessaire de les nommer afin de les classer, les indexer et même, les référencer sur Internet. Il est très important de trouver le mot le plus juste, plus représentatif et qualificatif de l'image afin que le lecteur identifie rapidement ce qui est représenté ou ce qu'il cherche. Dans le cadre des requêtes Internet, le choix du vocabulaire, des mots-clés (ou *tags* en anglais) pour définir et nommer les choses est essentiel et fondamental. Dans le dictionnaire *Google Images*, Felix Heyes et Ben West questionnent le principe fondateur de cet outil qui est de proposer les images supposées les plus pertinentes à toute recherche écrite. Ils ont voulu tester jusqu'à quel point cela était vrai. Pour cela ils ont fait une expérience en représentant les 22416 mots du *Oxford English Pocket Dictionary* par la première recherche trouvée sur *Google Images*. Le résultat est surprenant car parfois les images trouvées ne correspondent absolument pas au mot-clé qui avait été recherché. Cette expérience démontre qu'un mot ne peut donc pas être représenté par une unique image, tout comme une seule image ne peut pas renvoyer à un mot en particulier. Par ailleurs, elle montre l'importance de la langue dans laquelle on s'exprime, comprend et écrit/lit : cette expérience a été menée en anglais et le résultat aurait été tout à fait différent si elle avait été effectuée dans une autre langue. Si le XX<sup>e</sup> siècle a été fortement marqué par une communication orale (avec la démocratisation des médias dits *traditionnels* : la radio et la télévision), le XXI<sup>e</sup> siècle a développé en parallèle une communication visuelle où l'écriture est beaucoup plus présente que la parole. Les outils du numérique amènent de nouvelles actions dans notre manière de communiquer, comme par exemple les interactions tactiles. Il devient alors accessible à tout utilisateur d'associer du texte et des images, oubliant trop souvent qu'il manipule un langage codé appartenant à une langue, une culture, une pensée. Comme l'explique Sean Hall dans « Comment les images font signe », « les images seules sont [si] souvent propices à l'interprétation qu'elles ne permettent pas au lecteur de s'appuyer sur une signification stable. Peut-être est-ce pour cela qu'on éprouve le besoin d'y ajouter des mots […]. Lorsqu'ils interagissent avec des images et des objets, les textes peuvent donc simplifier, compliquer, expliciter, amplifier, confirmer, contredire, démentir, réaffirmer ou contribuer à définir toute sorte de significations. » [3. Sean Hall, « Comment les images font signe », traduit de l'anglais par Philippe Mothe, éditions *Hazan*, 2012.] Les mots et les images ont toujours entretenu d'étroites relations : ils constituent les matériaux du langage, permettant de fabriquer des messages. Or aujourd'hui, les auteurs publient des messages en ligne qui vont ensuite être augmentés par les partages, les liens et les commentaires ajoutés de différents lecteurs. De fait le lecteur devient lui aussi auteur, et les messages sont souvent écrits à plusieurs mains. On pourrait presque parler d'une écriture-lecture participative, insistant du même coup sur le fait que l'action d'écriture est inscrite au cœur de l'activité de lecture. Selon la théorie des actes de langage développée par John Austin, la fonction du langage est d’agir sur la réalité et de permettre à celui qui produit un énoncé d’accomplir, ce faisant, une réaction. De la même manière, la forme d'un texte, sa structure, sa typographie permet de provoquer une réaction avant même que le lecteur en ait fait l'interprétation sémantique. C'est aussi le cas des images qui, « passent, à un moment ou à un autre, entre les mains du graphiste. […] Le designer graphique, artiste de la communication, jonglant sans cesse entre le fond et la forme, agit, d'une certaine manière, comme un passeur ou un interprète au sein de la société où il vit et travaille. […] Internet et les réseaux sociaux sont devenus des robinets à images, pour le meilleur et pour le pire. […] Pour autant, quels que soient les supports utilisés, qu'ils soient numériques ou plus traditionnels, le texte et l'image restent au centre de tout dispositif de communication ou de connaissance. […] À sa manière, le graphiste contribue, comme les autres artistes, à modifier, à enrichir l'image que nous nous faisons du monde où nous vivons. » [4. Michel Bouvet, directeur du catalogue d'exposition de la *Fête du Graphisme n°3*, « Avant propos », éditions du *Limonaire*, Choisy-le-Roi, 2015.] Ainsi, la lecture ne renvoie plus exclusivement au texte. Elle désigne aussi l'image, les titres, les mots-clés, tout ce qui permet de construire un message. Plus que des supports de lectures, les technologies de l'information et de la communication ne sont autres que des supports de messages. Et dans cette nouvelle ère de la communication numérique, l'auteur ne s'adresse pas directement à son lecteur ; il existe bien d'autres acteurs de la communication tels que les graphistes, mais aussi les développeurs, les journalistes et tous les internautes qui s'expriment à travers des mots et des images. On n'a quasiment plus besoin de chercher l'information, elle vient directement à nous, éduquant les cerveaux des lecteurs d'une génération habituée à cliquer, à survoler, et à ne plus lire de longs articles, de livres, de textes dans le détail et la densité. On préfère alors les désigner par le terme d'*hyperlecteurs* plutôt que celui de *lecteurs*. Bien sûr on continue d'aller dans les bibliothèques pour consulter des livres, des journaux et d'autres textes sur papier, mais peu à peu, nous évoluons vers de nouvelles habitudes de lecture qui diminuent nos capacités à se concentrer sur la lecture linéaire. nous évoluons vers de nouvelles habitudes de lecture qui diminuent nos capacités à se concentrer sur la lecture linéaire d'un livre. L'*hyperlecteur* n'a plus à tourner les pages, il les fait apparaître et disparaître en un clic.
+
+<iframe src="https://player.vimeo.com/video/42481397" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+#####(link: https://vimeo.com/42481397 text: *Google* popup: yes), Felix Heyes et Ben West, « Google », Volume 1, édition *Jean Boïte*, 1328 pages, 2013.
+
+(image: dictionnaire-google-01.jpg)
+#####(link: http://felixheyes.com/Google-Book text: Dictionnaire *Google* popup: yes), Felix Heyes et Ben West, « Google », Volume 1, édition *Jean Boïte*, 1328 pages, 2013.
+
+(image: dictionnaire-google-03.jpg)
+#####(link: http://felixheyes.com/Google-Book text: Dictionnaire *Google* popup: yes), Felix Heyes et Ben West, « Google », Volume 1, édition *Jean Boïte*, 1328 pages, 2013.
+
+(image: dictionnaire-google-02.jpg)
+#####(link: http://felixheyes.com/Google-Book text: Dictionnaire *Google* popup: yes), Felix Heyes et Ben West, « Google », Volume 1, édition *Jean Boïte*, 1328 pages, 2013.
+
+----
+
+Article-note: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: Mélissa Malo,Texte,Image,Support numérique,Langage,Hyperlecture,Information,Message,Signe
+
+----
+
+Article-resume: 
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Article-relie: 
+
+----
+
+Pdf: (file: echappees-reflexion-sur-les-enjeux-des-nouvelles-pratiques-de-lecture.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Print: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Mélissa Malo
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] Alban Cerisier et Jean-Yves Mollier, « Où va le livre ? », *Éditions La Dispute*, collection *États des lieux*, Paris.
+
+[2.] Julien Jégo, « Est-ce que le livre numérique tue vraiment la lecture ? », *Slate Magazine*, publié le 14.08.14.
+
+[3.] Sean Hall, « Comment les images font signe », traduit de l'anglais par Philippe Mothe, éditions *Hazan*, 2012.
+
+[4.] Michel Bouvet, directeur du catalogue d'exposition de la *Fête du Graphisme n°3*, « Avant propos », éditions du *Limonaire*, Choisy-le-Roi, 2015.

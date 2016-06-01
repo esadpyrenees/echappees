@@ -1,0 +1,94 @@
+Info-1: 
+
+----
+
+Pagesettings-1: 
+
+----
+
+Title: Méta-morphoses
+
+----
+
+Nom-auteur-visuel: M<sup>r</sup> V. Eye
+
+----
+
+Title-note: 
+
+« Il n’y a pas de différence entre ce dont un livre parle et la manière dont il est fait. Un livre n’a donc pas davantage d’objet. En tant qu’agencement, il est seulement lui-même en connexion avec d’autres agencements, par rapport à d’autres corps sans organes. »
+ 
+Introduction : Rhizome, *Mille plateaux*, Gilles Deleuze et Félix Guattari, 1980
+
+----
+
+Articlevisuel-date: 1<sup>er</sup> janvier 1970 00:00:00
+
+----
+
+Pagesettings-2: 
+
+----
+
+Articlevisuel-auteur: 
+
+- 
+  auteur_uid: mr-v-eye
+
+----
+
+Pagesettings-3: 
+
+----
+
+Info-2: 
+
+----
+
+Articlevisuel-medias: 
+
+(image: general-1-illustration-tiree-de-on-growth-and-form-d-arcy-wentworth-thompson-1917.png)
+(image: general-2-marshall-mcluhan-the-medium-is-the-massage-1967-bantam-books.png)
+(image: general-3-brochure-xerox-pour-la-station-de-travail-xerox-star-8010-1981.jpg)
+
+##### 1. Illustration tirée de Forme et croissance (*On growth and form*, 1917), où l'auteur, D'Arcy Wentworth Thompson qui est un des premiers biomathématiciens, y démontre que l'on peut passer d'une forme d'une espèce à la forme d'une espèce proche par certaines transformations géométriques.
+ 
+##### 2. Double page tirée de *The Medium Is The Massage – An Inventory of Effects* conçu par le théoricien des média Marshall McLuhan et le designer graphique Quentin Fiore, la première édition date de  1967, Bantam books.
+ 
+##### 3. Image extraite de la brochure de présentation (1981) de la station de travail *Xerox Star 8010*.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Articlevisuel-domaine: stratigraphie, sémiophysique, sérendipité systémique
+
+----
+
+Articlevisuel-keyword: Forme et croissance, On growth and form, D'Arcy Wentworth Thompson, biomathématiques, Marshall McLuhan, Quentin Fiore, The Medium Is The Massage – An Inventory of Effects, théorie des médias, Xerox PARC (Palo Alto Research Center), Xerox Star 8010, recherche & développement
+
+----
+
+Articlevisuel-biblio: 
+
+----
+
+Articlevisuel-sito: 
+
+----
+
+Articlevisuel-pdf: (file: echappees-meta-morphoses.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Pagesettings-5: 
+
+----
+
+Articlevisuel-relie: 
+
+----
+
+Article-note-print: 

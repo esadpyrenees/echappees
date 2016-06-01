@@ -1,0 +1,174 @@
+Pagesettings-1: 
+
+----
+
+Title: « Interfaces / interactions » et  « Internet of spaces », retour sur deux workshops
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: julien-drochon
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Les deux workshops présentés ci-dessous : « Interfaces / Interactions » avec Martial Geoffre-Rouland et « Internet of Spaces » avec Dimitri Nieuwenhuizen ont pris place dans le cadre de l’atelier Design des Nouveaux Média de l’ÉSA Pyrénées, site de Pau. Ces temps de travail resserrés sur une semaine, accompagnés par des acteurs spécialistes du design, ont permis d’aborder certaines notions sous l’angle pratique et expérimental. La notion de « Natural User Interface » (interface permettant des interactions hommemachine invisibles basées sur des mouvements, la voix, le corps…) a été particulièrement approfondie. Ces workshops s’inscrivent également dans le programme de recherche « Nouvelles Temporalités ». Ce programme explore notamment les vecteurs de transmission de l’information et du savoir et étudie les nouveaux usages des média contemporains et historiques.
+
+### Workshop décembre 2012 , « Interfaces / Interactions », avec Martial Geoffre -Rouland
+Le design graphique est historiquement lié aux supports imprimés. Ses champs d’intervention sont habituellement ceux de la lisibilité, de la grille, de la surface d’un écran ou d’une page et du rapport texte-image. L’usager du design graphique est sollicité principalement par le sens de la vue. En élargissant le contexte à celui de l’espace, que peuvent permettre les principes d’interaction dans la pratique du design graphique ? La dématérialisation ou ce que nous percevons comme tel dans la mise à distance à laquelle nous obligent les écrans favorise un espace de déploiement inexploré par le design graphique. Aujourd’hui, le matériau du designer graphique s’étend à l’image en mouvement, au son et pourquoi pas au jeu vidéo ? Quelles rencontres peuvent alors s’opérer entre l’usager et l’objet ? Quelle part de cette médiation le design graphique peut-il occuper ? Où se situe l’intervention de l’auteur ? C’est à partir de ces questions que les étudiants en option design graphique multimédia de 2e, 3e et 4e années, ont participé au workshop Interfaces / Interactions conduit par Martial Geoffre-Rouland, en décembre 2012. Ils ont ainsi élaboré des projets à l’appui de programmations simples et d’interfaces d’interaction, supprimant le clavier de l’ordinateur.
+
+(image: echappees_2_55.jpg)
+#####Workshop « Interfaces-interactions », Trombologo, par Valère Auger, Laetitia Boiteau, Quentin Saldi, 2012.
+
+#### Trombologo
+(image: echappees_2_72.jpg)
+#####Workshop « Interfaces-interactions », Trombologo, par Valère Auger, Laetitia Boiteau, Quentin Saldi, 2012.
+
+Les étudiants ont crée un programme de formes intuitives et universelles afin de traduire l’expression du visage à un instant T. Un système
+de reconnaissance faciale permettait de relier visage et programme. Par la récupération de valeurs / données telles que la taille de la bouche ou encore l’ouverture des yeux, l’usager pouvait remodeler son « portrait graphique » comme il le souhaitait.
+
+#### Livre interactif
+(image: echappees_2_73.jpg)
+#####Workshop « Interfaces-interactions », Le livre interactif, par Marjolaine Beney, Anaïs Couzon, 2012.
+(image: echappees_2_56.jpg)
+#####Workshop « Interfaces-interactions », Le livre interactif, par Marjolaine Beney, Anaïs Couzon, 2012
+
+L’idée de départ était d’articuler lumière et texte. Le choix s’est porté sur le roman (écrit comme un journal intime) d’un auteur anonyme intitulé « L’Herbe Bleue ». L’auteur y mêle ses diverses sensations, émotions, sentiments auxquels les étudiantes ont associé des couleurs. Le dispositif global était composé de quatre ampoules (blanche, verte, rouge, bleue) placées audessus d’une tablette sur laquelle huit extraits de l’ouvrage étaient posés ainsi qu’une webcam. Le tout donnait à voir une œuvre où récit et lumière s’accordaient lors de la manipulation des extraits.
+
+#### Pong 2.0
+(image: echappees_b.jpg)
+#####Workshop « Interfaces-interactions », Pong 2.0, 2012.
+
+Le projet a été intitulé Pong 2.0 et fait référence au jeu vidéo du même nom créé dans les années 80. Ce *mini jeu* était dépourvu de but et de finalité comme un high score ou une victoire finale. Pour concevoir ce jeu, le capteur de mouvement de la kinect a été expérimenté.
+
+#### Memorial Activity
+(image: echappees_c.jpg)
+(image: echappees_2_62.jpg)
+#####Workshop « Interfaces-interactions », Memorial activity, par David Duhau, Anaïs Martins, Guofan Xiong, Thomas Le Guern, 2012.
+
+Comment proposer au spectateur la représentation de ses déplacements ? En cartographiant la mémoire de l’espace ? Un ensemble de blocs ont été disposés de manière désordonnée dans un angle de la pièce. Lors du passage du spectateur, les arêtes s’illuminaient. La position du spectateur était enregistrée et montée en boucle. Ainsi lorsque de nouveaux spectateurs marchaient dans la pièce, de nouvelles arêtes s’éclairaient à leur passage. L’accumulation de ces *faisceaux* engendrait de plus en plus de lumière.
+
+#### Transcription graphique de la musique
+(image: echappees_2_54.jpg)
+(image: projetpauline7-copie.jpg)
+#####Workshop « Interfaces-interactions », Transcription graphique de la musique, par Adeline Grolet, Pauline Terne, Camille Belloc, Marjolaine Bergonnier, 2012.
+
+À l’aide de Processing, les étudiantes ont expérimenté plusieurs manières d’écrire le son sur un format délimité. Une affiche a été créée pour chaque morceau de musique.
+
+### Workshop mai 2013, « Internet of Spaces », avec Dimitri Nieuwenhuizen (Lust )
+(image: echappees_2_45.jpg)
+#####Workshop Lust « Internet of spaces », Dimitri Nieuwenhuizen à gauche et les étudiants, 2013.
+
+On imagine souvent exister notre monde digital comme une couche indépendante et parallèle séparée de notre environnement tangible et organique. Pourtant, alors que les réseaux s’étendent par delà les ordinateurs et commencent à influencer les espaces physiques, ces territoires a priori distincts deviennent inséparables. Si nous continuons à regarder le digital et le physique comme deux entités fondamentalement différentes, aucun objet médiatique ne pourra exister en possédant simultanément le caractère métaphysique du digital et le caractère tangible des choses physiques. Les 2 jours de workshop ont permis d’explorer les conséquences de cette convergence.
+
+(image: echappees_2_44.jpg)
+#####Workshop Lust « Internet of spaces », avec les étudiants, 2013.
+
+À travers des expérimentations simples, nous avons discuté de de notions telles que : la fusion des mondes digital et physique, la manière dont elle influence l’altération de la fonction des objets, de l’architecture et de l’espace (public), du *ménage à trois* homme-données-objet, l’équivalent digital de l’ici, du là et du partout, de la liberté sur Internet, de l’agrégation de contenu, de la vie privée selon Facebook et d’Aaron Swartz. Les étudiants ont fabriqué des prototypes papier d’objets intelligents. En s’appuyant sur des cas existants, ils ont réfléchi aux usages et à la façon dontces objets pouvaient améliorer nos vies dans un futur plus ou moins éloigné : une poubelle intelligente pour nous inciter à trier nos déchets, des drones-assistants, l’affichage de l’information publique et communautaire, la reconnaissance faciale, la protection des données personnelles... autant de rapports possibles aux objets technologiques imaginés sous l’angle du design prospectif.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-interfaces-interactions-et-internet-of-spaces-retour-sur-deux-workshops.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Julien Drochon
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 

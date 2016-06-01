@@ -1,0 +1,108 @@
+Info-1: 
+
+----
+
+Pagesettings-1: 
+
+----
+
+Title: Carte blanche : Circuit béant
+
+----
+
+Articlevisuel-date: 2013
+
+----
+
+Pagesettings-2: 
+
+----
+
+Articlevisuel-auteur: 
+
+- 
+  auteur_uid: etienne-cliquet
+
+----
+
+Pagesettings-3: 
+
+----
+
+Articlevisuel-medias: 
+
+(image: echappees_2_19.jpg)
+
+(image: echappees_2_20.jpg)
+
+(image: echappees_2_21.jpg)
+
+### Étienne Cliquet, Circuit béant, 2013
+
+Le dessin de la carte a été généré par un programme informatique à partir d’un système d’information géographique (SIG), puis reproduit sur le mur avec un robot piloté par ordinateur sur le mur du *datacentre* de la société *Fullsave* à Labège, avant d’être entièrement peint à la main. Le boîtier placé au milieu du mur est un thermomètre électronique. Il préexistait et a été intégré à la carte.
+
+La forme de la carte découle de la manière dont a été mise à plat la surface terrestre, sa projection cartographique. Telle une orange qu’on aurait épluchée en un seul tenant, sa découpe suit le tracé des principaux câbles de fibre optique qui permettent à Internet de fonctionner. L’infrastructure d’Internet, au lieu d’être représentée au centre de la carte, se retrouve être le contour même de la carte, les bords du monde.
+
+Ce processus met l’Antarctique au centre comme espace le plus éloigné de toute connexion Internet. En revanche, les pays les mieux connectés, comme l’Europe, se retrouvent en marge de la carte et disloqués en petits bouts. C’est le cas de la France dont on a bien du mal à reconstituer la forme qu’on lui connaît.
+
+Placé dans un endroit sécurisé, cet atlas est paradoxalement inaccessible au public. Cette situation rappelle les peintures rupestres situées au fond des grottes dont les historiens savent, aujourd’hui, qu’elles n’étaient pas faites pour être vues (les personnes initiées venaient les peindre sur place à la lueur des lampes à huile). Comme les grottes, les *datacentres* sont des endroits fermés et frais.
+
+Circuit béant est une des étapes du projet « Datacentre » d’art d’Étienne Cliquet produite par le *BBB* centre d’art (Toulouse), avec le soutien financier du *Dicréam* (CNC), de l’*Institut Français* et de la *région Midi-Pyrénées*, en partenariat avec la société *Fullsave* et l’association (link: Tetaneutral.net text: Tetaneutral.net popup: yes).
+
+Le travail d’Étienne Cliquet est visible à la fois sur Internet et dans l’espace tangible. Depuis 2004, il développe des recherches en origami assisté par ordinateur, voir son site : (link: http://www.ordigami.net text: ordigami.net popup: yes)
+
+----
+
+Articlevisuel-image-texte: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Articlevisuel-domaine: 
+
+----
+
+Articlevisuel-keyword: 
+
+----
+
+Articlevisuel-biblio: 
+
+----
+
+Articlevisuel-url: 
+
+----
+
+Articlevisuel-pdf: (file: echappees-carte-blanche-circuit-beant.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Pagesettings-5: 
+
+----
+
+Articlevisuel-relie: 
+
+----
+
+Title-note: Carte blanche [1. Nous avons invité Étienne Cliquet, artiste et enseignant à l’isdaT (département Beaux-arts, Toulouse), dans le cadre du partenariat entre nos écoles, et parce qu’il nous a paru particulièrement pertinent de lui demander d’intervenir, au regard de sa pratique artistique, dans ce numéro d’échappées. ] : Circuit béant
+
+----
+
+Nom-auteur-visuel: Étienne Cliquet
+
+----
+
+Articlevisuel-sito: 
+
+----
+
+Articlevisuel-citer: 
+
+----
+
+Article-note-print: 

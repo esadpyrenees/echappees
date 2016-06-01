@@ -1,0 +1,163 @@
+Pagesettings-1: 
+
+----
+
+Title: Le pouvoir des capitales
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: mario-vinicius
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+La coexistence entre les capitales et les minuscules de l’alphabet latin n’a pas toujours été aussi paisible qu’on pourrait le croire. De sa création à nos jours, ces signes, qui entourent et écrivent notre existence, ont une évolution graphique complexe. En effet, bien que ces signes aient un espace physique, plastique et sémantique propre dans l’écriture, on remarque que dans une même matière textuelle — des manuscrits jusqu’aux outils numériques contemporains — leur relation peut varier entre harmonie et disharmonie. Cela m’a conduit à interroger les relations de pouvoir linguistiques et graphiques entre les capitales et les minuscules. Après un bref rappel historique de ces formes et de leurs usages, nous porterons un regard sur notre environnement graphique et ses écologies; l’idée principale étant de montrer que les lettres sont des organismes omniprésents et très puissants qui façonnent les paysages de notre existence.
+
+### Brève histoire des formes des capitales et des minuscules
+La matrice mentale ou squelette commun [1] de la capitale encore employée aujourd’hui n’a pas subi les altérations du temps. La *Capitalis Monumentalis* a été créée pour écrire sur les monuments des messages proclamant le pouvoir de l’Empire Romain ; l’exemple le plus notable est sans doute l’inscription de la Colonne Trajane, datée du IIe siècle ap. J.C., qui annonçait : « Le sénat et le peuple romain, à l’empereur César Nerva Trajan Auguste, fils du divin Nerva Auguste, germanique, dacique, grand pontife, en sa 17e puissance tribunitienne, salué imperator pour la 6e fois, consul pour la 6e fois, père de la patrie, pour faire savoir de quelle profondeur la colline et l’endroit ont été creusés par de si grands travaux. »
+
+(image: colonne_trajane.jpg caption: Inscription en *Capitalis Monumentalis* sur la base de la Colonne Trajane. © Monti, Rome / Ikona)
+
+Ces lettres étaient d’abord peintes puis sculptées ; les gestes du sculpteur suivaient les lignes tracées au pinceau. Cette manière de faire explique en partie pourquoi le trait gravé préserve le mouvement organique de la main [2. David Harris, 2009, A arte da caligrafia, Ambientes e Costumes Editora, São Paulo. ]. Pour la confection de manuscrits prestigieux, d’autres capitales, influencées directement par la *Capitalis Monumentalis*, étaient utilisées ; la plume étant préférée au pinceau. En parallèle, l’écriture cursive romaine s’est développée grâce notamment à la correspondance épistolaire quotidienne. Cette dernière écriture contenait déjà quelques archétypes des signes qui, avec l’évolution de l’alphabet latin vers la bicaméralité — c’est-à-dire la distinction entre les lettres majuscules et les minuscules dans un même alphabet —, font partie du squelette commun des lettres minuscules utilisées aujourd’hui.
+
+La cristallisation de la forme actuelle des minuscules a été beaucoup plus tardive que celle des capitales. Deux moments importants retiennent notre attention. Le premier est la création de la minuscule caroline au VIIIe siècle par Alcuin d’York sous l’impulsion de Charlemagne. L’empereur désirait uniformiser de façon simple et lisible la communication écrite dans le vaste territoire de l’empire. Pour concevoir la minuscule caroline, Alcuin s’est notamment inspiré des écritures onciales et demi-onciales, qui à leur tour contenaient des formes de lettres aujourd’hui reconnues comme des minuscules (issues respectivement de l’ancienne et nouvelle cursive romaine) mélangées à d’autres identifiées comme capitales — par exemple, le « n » demi-oncial garde la forme capitale composée par deux traits verticaux et un trait diagonal en leur milieu.
+
+(image: evolution_majuscules_minuscules.jpg caption: Schéma d’Adrian Frutiger montrant l’évolution des capitales vers les minuscules, 1983, *Des signes et des hommes*, Éditions Delta & SPES, Denges © Adrian Frutiger)
+
+Le second est la redécouverte de la minuscule caroline par les scribes humanistes italiens au XVe siècle. Ces derniers ont influencé de façon décisive les premiers graveurs de caractères romains comme le pionnier Nicolas Jenson, français basé à Venise dans les années 1470 [3. Il est possible que Jenson soit arrivé à Venise à la fin des années 1460, mais on sait très peu ce qu’il a fait entre 1462 et 1469.]. Il faut souligner que ces scribes ou dessinateurs de caractères ont été les premiers depuis l’Antiquité à étudier sérieusement la construction des formes de la *Capitalis Monumentalis*, étude que l’on peut notamment retrouver dans l’oeuvre de l’italien Luca Pacioli *De divina proportione* (manuscrits datant de la fin du XVe siècle, avec une première version imprimée en 1509) et dans le *Champ Fleury*, livre de 1529 du français Geoffroy Tory. On doit à la Renaissance l’enracinement du mélange systématisé des capitales romaines et des minuscules carolines dans le texte de labeur. C’est à cette période que nait la bicaméralité de l’alphabet latin telle que nous la connaissons aujourd’hui, car jusqu’alors, ces deux dessins — malgré les formes de transition onciales et demi-onciales susmentionnées — existaient indépendamment. On pouvait auparavant trouver les deux dans une même page manuscrite, mais rarement dans une même ligne, sauf dans le cas de lettrine. Dans le corpus paléographique, il était courant d’utiliser les capitales pour les titres sous la forme de lettrines et / ou en-luminures, et les formes carolines et ses dérivées dans le corps du texte même. Cela présuppose l’existence d’une hiérarchie dans les écritures  [4. Détail d’une page manuscrite où la hiérarchie des écritures a été adoptée : le titre et la lettrine ont été écrits en capitales, la première ligne en onciale et le reste du texte en minuscule caroline.].
+
+(image: hierarchie_des_ecritures-capitales_onciale_caroline.jpg caption: Détail d’une page manuscrite *A arte da caligrafia*, 2009, Ambientes e Costumes Editora, São Paulo © David Harris)
+
+### Les capitales : réflexions graphiques et humaines
+La *Capitalis Monumentalis* était utilisée pour graver des inscriptions sur les monuments de l’Empire Romain. Le mot monument ayant pour sens premier en latin, monere « se remémorer », mais aussi le sens d’« avertir ». Cette écriture avait en conséquence pour fonction de perpétuer la mémoire des conquêtes de l’empire en avertissant de son pouvoir. Au-delà de l’étymologie, ces dessins avaient plastiquement un aspect monumental. En analysant les formes et contre-formes de la *Capitalis Monumentalis*, Frutiger [5. *Ibid*., Adrian Frutiger, 1983, pp. 101 – 102.] a montré une relation frappante entre cette écriture et l’architecture des monuments d’alors. Une écriture peut-elle transmettre la monumentalité ? Bien entendu, la façon dont on perçoit la monumentalité n’est pas la même d’une culture à l’autre. En Occident, où l’influence culturelle latine est très forte, on associe fréquemment le monumental au politique et à une occupation grandiose de l’espace (d’ailleurs, le mot monumental est fréquemment utilisé pour désigner quelque chose de gigantesque, colossal). La hauteur et la chasse des capitales sont nettement supérieures à celles des minuscules, ce qui est déjà un premier indice de monumentalité. On peut également mentionner leur verticalité rigide et prononcée [6. Bien que les sérifs ne fassent pas partie de nos matrices mentales de lettres, cet effet est augmenté si elles sont présentes, comme dans le cas de la *Capitalis Monumentalis*.]. En outre, dans plusieurs caractères d’imprimerie, anciens ou contemporains, les lettres majuscules gardent les proportions canoniques de l’Antiquité Classique. 
+
+(image: lettre_a_de_durer.jpg caption: Les proportions canoniques du dessin du « A ». Extrait de l’œuvre *Proportions des lettres*, 1525, de Albrecht Dürer. © Dürer, A, 1965, Of the Just Shaping of Letters, Dover Publications Inc., New York)
+
+Mais ce ne sont pas seulement les formes qui donnent aux majuscules sa charge politique au cours de l’histoire, ce sont aussi ses usages, et nous essayons de montrer dans cet article que les deux sont intrinsèquement liés. En plus de l’usage originel de la *Capitalis Monumentalis*, les écritures majuscules qui en dérivent plus directement — si comparées à des écritures de transition onciales et demi-onciales et enfin aux minuscules — ont historiquement occupée une position élitiste dans la mise en page. C’est la notion de la hiérarchie des écritures et de la hiérarchie typographique. Les titres et les lettrines écrits en capitales occupent en effet les espaces privilégiés dans la page. Avec l’apparition de l’imprimerie en Occident, contemporaine de la bicaméralisation de l’alphabet latin, l’orthotypographie est née, et avec elle des règles de placement de capitales qui changent de pays en pays et en fonction du contexte typographique. À ce sujet, nous allons nous pencher sur certains cas individuels d’usages de la majuscule.
+
+Dans la plupart des langues européennes, les noms propres sont capitalisés, bien que les règles de capitalisation aient été encore très malléables jusqu’au début du XVIIIe siècle, à cause de l’indice élevé de l’analphabétisme en Europe. Le nom est ce dont nous avons besoin pour établir un contact formel avec le statut selon les époques et les lieux — ce statut peut être religieux (le baptême étant un exemple) ou séculier (comme les actes de naissance et les pièces d’identité). Selon une perspective laïque, on peut interroger l’esprit anthropocentriste de la Renaissance : a-t-il influencé la fixation systématisée de cette règle ? En Anglais, bien que ce ne soit pas de façon arrêtée (d’autres théories existent et ne s’excluent pas les unes des autres), la fixation de la capitalisation du pronom de la première personne du singulier « I » m’amène à me demander si ce n’est pas un cas où l’on érige la monumentalité de notre autorité (et conséquemment de notre responsabilité) devant le monde, dans la façon d’être un individu. En parlant d’exemples notables issus de la religion quant à la capitalisation, on peut mentionner les capitales de déférence, comme dans les pronoms personnels se rapportant à Dieu, ainsi que la capitalisation elle-même du mot « Dieu ».
+
+Dans l’espace public, les inscriptions monumentales de l’Antiquité jusqu’à la contemporanéité qui emploient les capitales de façon ostentatoire sont toujours visibles. Plusieurs monuments politiques construits des siècles après Rome n’utilisent pas la voyelle « U » (une addition à notre alphabet postérieure à Rome), mettant le « V » à sa place.
+
+(image: monument_combattants_haute_garonne.jpg caption: Détail du Monument aux Combattants de la Haute-Garonne, à Toulouse 2008 (disponible sur www.panoramio.com) © Jefferson Wellano)
+
+Cette connexion avec le passé nous amène à penser à l’origine de nos institutions, et suscite parfois des critiques. Des typographes modernistes comme Herbert Bayer (artiste ayant étudié et enseigné au Bauhaus) [e] et Jan Tschichold (graphiste et typographe très influent) ont proposé d’abolir les capitales pour l’unicaméralité minuscule ; cette pensée fonctionnelle met en valeur l’économie de temps et les ressources qui en résulterait ainsi que l’esthétique :
+
+(image: bayer.jpg caption: Caractère Universal, de Herbert Bayer, créé entre 1925 & 1926, ce caractère ne contient que des minuscules. © Roxanne Jubert, *Graphisme, typographie, histoire*, Éditions Flammarion, 2005, Paris.)
+
+Tschichold dans la Neue Typographie (1928)  [7. Le typographe a réalisé cette recherche vers une nouvelle écriture entre 1926 & 1929. © Roxanne Jubert, 2005, Graphisme, typographie, histoire, Éditions Flammarion, Paris. ] argumente que l’alphabet latin bicaméral est constitué d’un mélange de dessins non harmonieux, issu de l’indéniable distance qu’il existe entre les périodes historiques qui ont vu apparaître ces deux dessins: *Capitalis Monumentalis* et minuscule caroline [8. Jan Tschichold, 1998, The New Typography, University of California Press, Berkeley.].
+
+(image: tschichold.jpg caption: Projet de Jan Tschichold pour un alphabet unicaméral et phonétique.)
+
+Il y avait derrière cette attitude moderniste une pensée utopique provenant de l’association des minuscules aux valeurs démocratiques — or, elles sont les lettres les plus fréquentes dans la plupart des textes. Un autre avantage fonctionnel, en plus de la simplification rationnelle résultante d’un alphabet unicaméral, tendrait à dire que les minuscules, ayant des ascendantes et descendantes, donc plus de variation dans leurs formes, sont plus vite lues par rapport aux capitales. Cet argument persiste, soutenu par des études spécifiques qui ont même, à titre d’exemple, guidés la décision de l’administration de New York en 2010 à changer toute la signalétique de l’état. En effet, celle-ci entièrement composée en capitales ne permettait pas selon cette étude une bonne lisibilité. Ainsi, tous les panneaux de signalisation ont été changés et utilisent maintenant des majuscules et des minuscules.
+
+### Conclusion
+Cette réflexion est un travail en cours, et il reste encore à explorer de nombreuses autres nuances concernant la relation qu’entretiennent le pouvoir et les capitales dans leurs usages. Quant à la bicaméralité, plusieurs alphabets unicaméraux, comme le géorgien ou l’hébreu prouvent qu’elle n’est pas une nécessité absolue. Et bien que les arguments modernistes aient eu un certain écho, nous continuons à employer à la fois les deux dessins: minuscules et capitales. Après plusieurs siècles de familiarisation avec ce système, il semble difficile d’aller contre des habitudes culturelles persistantes — du moins à court terme, car cela demanderait des efforts considérables d’adaptation aussi bien en tant qu’individu que dans notre organisation sociale. Quelle que soit la situation, nous remarquons que même si l’unicaméralité minuscule est de plus en plus présente au travers d’outils comme le texto ou le mail [9. Où souvent l’envie d’une communication écrite rapide et informelle se sert de cette simplification.], il faut que les formes anciennes soient enseignées pour que l’on puisse les déchiffrer et, conséquemment, déchiffrer toute l’histoire derrière ces formes, une histoire riche de contradiction.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: pdf-pau-lepouvoirdescapitales.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Mario Vinícius
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 

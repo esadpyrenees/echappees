@@ -1,0 +1,106 @@
+Title: Les pensées du design / L’invisible est réel
+
+----
+
+Number: 1
+
+----
+
+Couverture-image: 
+
+----
+
+Numero-titre: 
+
+----
+
+Numero-date: Décembre 2012
+
+----
+
+Numero-comite: 
+
+----
+
+Numero-auteurs: 
+
+----
+
+Numero-domaine: 
+
+----
+
+Numero-keyword: 
+
+----
+
+Numero-pdf: 
+
+----
+
+Edito-auteur: Corinne Melin
+
+----
+
+Edito: xsajncozbdcibzvhbezficb
+
+----
+
+Image-couv: (image: lanlan-su-ecritures-exposees-peripherie-de-wangzhu-nov-2009.jpg)
+
+----
+
+Edito-contenu: 
+
+Le premier numéro d’*échappées*, revue annuelle d’art et de design de l’École supérieure d'art des Pyrénées – Pau Tarbes, a notamment pour ambition de faire état des réflexions menées dans les séminaires conduits, sur les deux sites, depuis la rentrée 2011. Les deux séminaires, destinés aux étudiants du second cycle, sont liés aux mentions des diplômes présentés par l’école : art (céramique) à Tarbes, design graphique / multimédias à Pau.
+
+**À Pau**, Cette année le séminaire conduit par Corinne Melin, ayant pour thème « Les pensées du design », a questionné le rôle de la recherche sociale dans la formation du processus du design, et les « transformations » que les sciences sociales opèrent dans ses pratiques. 
+
+**À Tarbes**, le séminaire de « L’Observatoire des regards », dirigé par Chrystelle Desbordes,a interrogé la notion d’invisible au sein de pratiques artistiques et, en amont et en aval, dans le domaine de l’archéologie, de l’histoire de l’art, de l’économie du *Web 2.0* ou du marché de l’art. 
+
+Plus que dans les contenus à proprement parler, le point commun entre les deux propositions se manifeste dans la méthode employée. Cette méthode, en l’occurrence, veille à articuler recherches et pédagogie dans le contexte d’une école supérieure d’art. La recherche par projets ou la recherche création en fournit un élément essentiel : retours critiques et analytiques réguliers des étudiants en fonction de pratiques d’artistes et de designers ; paroles de scientifiques sur leurs méthodologies et investigations en regard d’une démarche créative.
+On trouvera donc dans les pages qui suivent des articles produits par nos invités – artistes et théoriciens –, comme des travaux réalisés par les étudiants à la suite des interventions en séminaire ou encore, en relation avec d’autres chantiers de recherche et laboratoires de réflexion menés à l’école. Les recherches engagées dans les séminaires se trouvent ainsi prolongées, ouvrant encore le champ des réflexions.
+La revue *échappées*, dont le nom invite à l’évasion plurielle, au dépassement des frontières disciplinaires, à une croisée de points de vue et de perspectives, désire travailler sur la question de l’articulation entre théorie et pratique – une question au cœur des problématiques de recherche en école d’art. Selon cet objectif, la théorie n’est pas envisagée en tant que commentaire sur l’art, mais bien comme une mise en pratique de savoirs et d’expériences.
+
+----
+
+Edito-note: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: corinne-melin
+
+----
+
+Nom-responsable: Martine Moureu, Directrice générale de l’ESAP
+
+----
+
+Conseils-scientifiques-numero: Monique Larrouture Poueyto, directrice du site de Pau
+
+----
+
+Coordination-revue-numero: 
+
+Chrystelle Desbordes, professeure d’histoire de l’art, ÉSA Pyrénées – Tarbes  
+<br>
+Corinne Melin, professeure d’esthétique et théorie des arts, ÉSA Pyrénées – Pau.
+
+----
+
+Comite-redaction-numero: Chrystelle Desbordes, Corinne Melin, Perrine Saint Martin
+
+----
+
+Design-graphique-numero: 
+
+Romina Guttierrez, étudiante en 4è année Design graphique Multimédia, cadre du cours « Edition&Typographie » de Perrine Saint Martin.
+
+Pour la version papier : La revue imprimée à 600 exemplaires sur papier Cyclus blanc 250g pour la couverture et 90g pour les pages intérieures ; composée en Magra Regular/Bold et Newton Regular, polices de caractères Open Source disponibles sur Google WebFonts.
+
+----
+
+Nom-responsable-numero: Martine Moureu, Directrice générale de l’ÉSA Pyrénées – Pau Tarbes

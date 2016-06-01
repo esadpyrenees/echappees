@@ -1,0 +1,93 @@
+Info-1: 
+
+----
+
+Pagesettings-1: 
+
+----
+
+Title: Fabrique
+
+----
+
+Articlevisuel-date: 2012-2013
+
+----
+
+Pagesettings-2: 
+
+----
+
+Articlevisuel-auteur: 
+
+- 
+  auteur_uid: lyse-fournier
+
+----
+
+Pagesettings-3: 
+
+----
+
+Articlevisuel-medias: 
+
+(image: echappees_2_18.jpg)
+#####« Fabrique », 2012-2013, détail de la série Fabrique : 1 à 26, feutre sur papier à patron, 100 x 200 cm. © Lyse Fournier. 
+
+Projet mis en place dans le cadre du workshop d'élodie Royer et Yoann Gourmel, école supérieure d'art des Pyrénées – Tarbes, novembre 2012 (*statement*, documentation des curators et projets des étudiants visibles sur le blog territoires-ecran : (link: http://www.territoires-ecran.tumblr.com text: territoires-écran popup: yes)).
+
+----
+
+Articlevisuel-image-texte: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Articlevisuel-domaine: 
+
+----
+
+Articlevisuel-keyword: 
+
+----
+
+Articlevisuel-biblio: 
+
+----
+
+Articlevisuel-url: 
+
+----
+
+Articlevisuel-pdf: (file: echappees-fabrique.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Pagesettings-5: 
+
+----
+
+Articlevisuel-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur-visuel: Lyse Fournier
+
+----
+
+Articlevisuel-sito: 
+
+----
+
+Articlevisuel-citer: 
+
+----
+
+Article-note-print: 

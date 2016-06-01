@@ -1,0 +1,250 @@
+Pagesettings-1: 
+
+----
+
+Title: Du carnet de voyage numérique à l’expérience transmédia
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: pascale-argod
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+La mobilité du numérique produit une transfiguration de la relation à l’espace, notamment du déplacement physique et du voyage qui évolue vers un espace virtuel, partagé, de flux et d’interaction, parfois vers une poétique de l’imaginaire et de la mobilité numérique. Le carnet de voyage met en question la territorialité liée aussi à un autre temps du voyage, entre retenue et passage de flux. La question du statut de l’œuvre *carnet de voyage* interroge ainsi le régime de l’art. Comment expérimente-t-on le rendu du voyage de l’artiste à l’heure de l’œuvre numérique ? De l’écrit à l’écran, le carnet de voyage semble subir des mutations génériques et des mutations médiatiques : de l’album de voyage dessiné et du documentaire audio-visuel vers une hybridité de supports combinés et de nouvelles formes de médiations (blog, streaming, e-pub...). L’hybridité du genre rend nécessaire la création d’une typologie qui puisse différencier les carnets de voyage multimédia et numériques en fonction de plusieurs critères. Du blog de voyage ou *blog-reportage* au *web documentaire*, la transgression des frontières entre documentaire et fiction semblerait alors *la marque de fabrique* du carnet de voyage qui pourrait tendre vers une virtualisation de la notion de voyage [1. Notre réflexion a été guidée par les travaux de recherches (cités en bibliographie) d’Edmond Couchot sur *l’écran mosaïque* (1998), de J.E. Müller sur *l’intermédialité* (2000) et de Malte Hagener sur la *perception kaléidoscopique* (2008).].
+
+### La narration multiforme , plurimédia et transmédia du carnet de voyage numérique
+
+#### Le carnet de voyage *blog* et *vblog* : une nouvelle forme de créativité nomade ?
+La réalisation d’un carnet devrait favoriser l’interactivité avec l’hypermédia, souvent confrontée à la linéarité et au scénario de l’auteur qui suit des étapes sur un chemin défini. L’espace de création inter-actif avec le feedback est intéressant pour le carnettiste. Il peut faire évoluer sa création, expliciter son propos, témoigner dans le dialogue avec d’autres voyageurs, ouvrir au dialogue interculturel avec les autochtones, confronter le regard déformé du voyageur à la réalité vécue des populations locales qui l’ont hébergé ou qu’il a rencontré et tisser un lien entre auteur, lecteur et témoins ou collaborateurs à l’œuvre.
+
+Le *vlogging* est le fait de tenir un *vlog* [2. Cette définition provient de la diffusion de vidéos du tsunami en décembre 2004.] c’est-à-dire un journal de bord en vidéo sur l’Internet. *Vlog Europe* [3. **(link: http://www.vlogeurope.com/blog text: Vlogeurope.com popup: yes)**.] a accueilli l’association culturelle *Videoformes* [4. **(link: http://www.nat.fr/videoformes/VIDEOFORMES/ total_cadres.html text: www.nat.fr/videoformes popup: yes)**. ], devenu, depuis 1984, un observatoire permanent des évolutions de l’art contemporain qui a recours aux nouvelles technologies de l’image et du son. Ce nouveau médium du *vlog* est une nouvelle tendance du carnet de voyage, prolongement du genre cinématographique. Grâce au podcast, on peut saisir l’instant et le vécu du voyage qui est immédiatement diffusé. N’est-ce pas le propre du carnet de voyage de communiquer son expérience, aussi authentique et immédiate que possible, pour créer une proximité entre le créateur et son lecteur ? Nous approchons alors d’une vision réaliste et journalistique du voyage. Avec ce type de média de l’immédiateté, la notion d’œuvre d’art est questionnée, tout comme l’a été en son temps la photographie. Le temps permet-il pour autant à l’artiste de se distancer de sa création pour atteindre la dimension critique nécessaire à la définition d’oeuvre d’art ? Il s’agit d’une problématique de poïétique. Elle permettrait bien évidemment de distinguer une typologie parmi les carnets de voyage, et de différencier les actes créatifs selon les artistes voyageurs ; c’est en effet le voyage et l’expérience vécue sur le terrain qui déclenchent l’acte créatif du carnet et qui le distinguent des autres albums. L’*iPhone 4* d’*Apple*, qui permet de varier l’angle de prise de vues avec dextérité, pourrait dans ce cas annoncer une nouvelle ère du carnet de voyage comme *carnet d’instant*.
+
+#### Pourrait-on envisager un carnet de voyage cross et transmédia ?
+Certains carnets de voyage portant sur des expéditions scientifiques peuvent faire l’objet de transposition d’un genre dans un autre, voire d’intermédialité. C’est le cas de L’« odyssée sibérienne » de Nicolas Vanier, qui est adaptée, transposée voire retranscrite du récit de voyage à l’album pour enfant, du cédérom au DVD, du jeu vidéo à plusieurs sites web ; chaque version de l’expédition offrant un point de vue différent, donc une nouvelle création. Ainsi, à partir du site de l’expédition [5. **http://www.odysseesiberienne.com** ou **http://www.nicolasvanier.com** avec les dossiers pédagogiques du CRDP de Paris : **http://www.odysseesiberienne.com/pedagogy.php**.], on accède aux dossiers pédagogiques du *CRDP* de Paris et aux productions, telles que le Cédérom intitulé « L’odyssée sibérienne  : le rêve utile », le film-DVD, la production multimédia intitulée « Quatre défis du développement durable : sur les traces de *l’Odyssée sibérienne* », produite par le *CNDP* ou le jeu vidéo « L’Odyssée Sibérienne : le jeu-vidéo ». Au-delà de l’hybridité du genre, nous pourrions évoquer une complémentarité des médias pour un même carnet de voyage. Cette circulation pourrait engendrer un carnet de voyage cross et transmédia. Il semblerait que la notion de voyage, qui est le propre de ce genre, pourrait être tout à fait propice au voyage entre les médias. C’est ainsi que Nicolas Bry définit le transmédia sur le site *Transmedialab* à partir de la thèse « Transmedia Storytelling » de G A. Long (2007) qui repose sur l’innovation de la narration. Ce serait le projet de l’artiste numérique Karen Guillorel [6. Affiliée au laboratoire ENER mené par F. Garnier et P. Hénon à l’ENSAD, École Nationale Supérieure des Arts Décoratifs de Paris.] qui souhaiterait prolonger sa création bande dessinée autofictionnelle Je sakura, Japon vers le transmédia. Elle le définit comme « la possibilité de créer un puzzle narratif gigantesque dont les différents éléments sont racontés sur plusieurs médias qui se répondent et sont à la fois des histoires en soi mais participent à un échafaudage narratif plus vaste. On peut ainsi raconter de grandes histoires, des épopées et s’exprimer par des médias très différents. On revient à l’ère des conteurs grâce au transmédia» [7. Entretien de Karen Guillorel réalisé par Pascale Argod en décembre 2011 intitulé : « Karen Guillorel, artiste transmédia et d’arts numériques.»]. Son travail en collaboration avec Yann Minh exploite ce potentiel créatif pour le projet E-Migration [8.«  Colloque poëtique du numérique », Nantes, juin 2011.].
+
+#### Vers l’œuvre évolutive et interactive d’art numérique
+Questionner le statut d’œuvre et en quoi elle participerait au « poème du monde » soulève plusieurs critères de reconnaissance de l’œuvre en soi : participer au *dévoilement du monde*, poursuivre une quête initiatique propre au voyage, réaliser un voyage d’exception ou proposer un regard original sur le monde, partager un témoignage intime de voyageur qui relate une expérience unique, renouveler le genre et introduire une innovation artistique ou médiatique. En effet, la création d’un carnet de voyage numérique à visée communicative, patrimoniale et touristique à partir de l’imaginaire des voyages ou du lieu pourrait être envisagée et offrirait alors une place aux arts graphiques et numériques pour transmettre un imaginaire de la ville afin de mettre en œuvre une territorialité propre au *voyage* (mobilité / fixité / imaginaire / passage). Des carnettistes pourraient apporter leur regard sur le médium mais aussi des artistes d’autres médiums pour renouveler ce genre hybride. Chaque promeneur amateur donnerait son point de point ou participerait à la création artistique numérique du parcours en ligne pour réaliser une *œuvre évolutive* sur l’identité urbaine. Il s’agirait de faire du carnet de voyage *hyper* un *scape* et un *scope*, propos et médium à la fois, en vue d’« habiter le monde en poète afin de dépasser le paradoxe de la territorialité » [9. www.emigation.net].
+
+### Du rendu du déplacement dans l’intermédia *carnet de voyage* au voyage virtuel
+
+#### Le carnet de voyage jeu éducatif cédérom : du déplacement géographique au parcours virtuel
+Trois expériences d’auteur multimédia-responsable pédagogique [10. Pascale Argod, « Voyage interculturel sur la route de la soie », *ARGOS*, *Des pratiques documentaires*, avril 2001, n°27, pp. 81-84.] (dans le cadre des productions : *La route de la soie du XIIIe siècle* par 3001 Multimédia [11. Projet conçu par Florent Aziosmanoff, directeur éditorial de l’association *Art 3000* (créée en 1988) et à l’origine du *Cube – Art 3000* d’Issy-les-Moulineaux dédié aux arts numériques et multimédias depuis 2001 et des *États Généraux de l’Écriture Interactive* lancés en 1995 : **http://www.lecube.com**], Le cédérom « La quête de l’eau : jeu éducatif pour sauver le peuple de l’eau », édité par *Strass Productions* en 2001 et la collection *Terres d’histoire: une terre et des hommes* Bordeaux 3 et l’éditeur* Renaudel Multimédia*) définiraient les quatre objectifs indispensables au rendu du carnet de voyage multimédia :
+-reproduire le cheminement ou le mouvement et rechercher la rencontre d’autres peuples et cultures qui viennent à nous,
+-partir à la recherche de solutions fournies par différents peuples et modes de vie confrontés aux mêmes défis environnementaux que nous,
+-expliquer les mythes des lieux parcourus qui déclenchent l’envie de voyager et qui relient l’histoire à la géographie,
+-expérimenter, découvrir par soi-même, se confronter au terrain et à la réalité pour devenir un *routard débrouillard* dans un environnement différent du quotidien.
+
+####Un voyage vécu retracé en carnet multimédia DVD : une complémentarité entre les média images et textes
+
+La collection réalisée par l’IUT Michel de Montaigne de l’université de Bordeaux 3 et l’éditeur Renaudel Multimédia intitulée *Terres d’histoire : une terre et des hommes* a été pionnière dans la définition de voyage sur les lieux qui jalonnent l’histoire de l’humanité. Tout en décrivant la vie d’aujourd’hui, elle emprunte à deux disciplines : l’histoire et l’anthropologie. Le DVD *Cyclades : Des îles, des dieux, des hommes* [12. Réalisé par Pierre Pommier, directeur du *Centre Multimédia Montaigne* et de l’édition « Renaudel Multimédia » de l’*Université de Bordeaux 3*. Il est diffusé par *Circle Education* et le réseau SCEREN-CRDP : **http://www.circle-education.com/(g5icpluegfa0lir3ruiuke55)/ProductDetails.aspx?productID=37519**] qui est accompagné d’une plateforme éducative en ligne a été réalisé [13. Réalisée par Aurélie Castries et Pascale Argod en juillet 2004, « Renaudel Multimédia », *Bordeaux III*.] en ce sens. Il évoque en effet un voyage multimédia dans les îles grecques divisé en cinq parties : un prologue (localisation, propos croisés sur l’histoire, la vie actuelle et les enjeux des Cyclades), trois chapitres intitulés « Terre de mémoire, Terre d’échanges et Terre d’image » (photos et vidéos), puis un épilogue final « Un jour, les Cyclades » (film de 26 mn). Une forme du carnet de voyage a été envisagée pour que l’utilisateur puisse réaliser *un carnet de route* à partir d’un scénario qui le conduit à chercher des réponses dans le DVD ROM, à récupérer des données, à les illustrer et les mettre en forme afin de réaliser son document original en choisissant croquis, images, photos…accompagnés de l’écriture d’un texte personnel.
+
+#### Des arts numériques et de la quête de l’Autre en second-life
+Karen Guillorel réalise deux projets de voyage multimédia *Projet E-troubadours et Trancybériennes : un cybervoyage au long cours* qui permettent de penser l’Internet dans l’accompagnement du périple pédestre au long cours qu’elle mène. Ainsi, au fil de son voyage réel sur la route, accompagné de Vincent Radix, elle apparaît dans les mondes virtuels sous le nom de son avatar *Nout Eales* en réalisant, selon ses termes, « une jonction entre des sphères que l’on oppose souvent : le monde réel et les mondes virtuels. Nous proposons également aux personnes qui le souhaitent de venir nous rejoindre à l’aide de notre GPS [14. **http://www.etroubadours.com**]. Après le premier voyage, Cyberpunk, en octobre 2008, « Trancybériennes : un cybervoyage au long cours » [15. **http://www.karenguillorel.com**] a pour objectif : « de découvrir quelles sont les ressemblances et dissemblances entre un voyage au long cours à pied à parcourir un coin de notre terre et un voyage long dans les mondes virtuels. Est-ce que les rapprochements sont réellement pertinents et si oui, à quel niveau ? […] Mais qu’en est-il dans les mondes virtuels ? Comment les gens choisissent-ils de vous rencontrer ou non s’ils ne vous connaissent pas ? » [16. Voir « Noonk’sblog » le blog de création digitale de Karen Guillorel, aka « Nout eales » pour le jeu vidéo et le dessin animé. **http://www.digitalarti.com/views/images/87507**].
+
+#### Du voyage virtuel : de la géolocalisation à l’installation d’art générative
+Dans « The road between us »  [17. **http://theroadbetweenus.net/accueil.html**], Emilie Brout et Maxime Marion s’appuient sur l’usage de deux technologies : la géolocalisation proposée par *Google Earth* et la galerie de stockage et de partage de photos en ligne *Flickr*. L’interaction avec l’œuvre permet de générer son *voyage imaginaire* à partir d’une carte interactive des lieux choisis sur l’écran tactile pour lesquels les images sont rassemblées. Chaque image correspond à une photographie déposée en ligne par un auteur qui possède un compte sur la plateforme de partage l’image qu’il a géolocalisée. Le *spect-acteur* peut ainsi lire son carnet de voyage virtuel fictif rassemblant l’itinéraire et les photographies en rapport avec les lieux jalonnant ce voyage. Il crée un carnet de voyage à partir des traces laissées par les internautes de *Flickr* et découvre l’Autre à travers le monde en fonction des images qu’il laisse de son expérience du lieu. Ce carnet de voyage imaginaire est collectif à l’échelle de la plateforme de partage d’images. Il pose la question de l’objectivation et du carnet intime devenu carnet du *spect-acteur* pour tous et des traces laissées sur le web retrouvables, géolocalisées et authentifiées.
+
+#### Des jeux sérieux aux jeux vidéo : de la virtualisation du voyage
+Le voyage virtuel peut être envisagé sous la forme du jeu comme l’avait proposé Strass Productions en 2001 pour le cédérom *La quête de l’eau : jeu éducatif pour sauver le peuple de l’eau.* Des jeux sérieux aux jeux vidéo, nous constatons que le voyage est souvent le propos de la quête initiatique du héros, comme dans « Cursed Mountain » (jeu vidéo *wii*) bien que la découverte géographique devrait en être l’objet principal. Dans ce jeu, le spectateur part à la recherche d’un frère disparu dans l’Himalaya, dans cet environnement réaliste aux parois abruptes il plonge dans des traditions anciennes et les rituels des monastères. Certains jeux sérieux restent ancrés dans le réel comme *chacunsonchemin.com* qui propose un voyage autour du monde ou le *Trans Siberian Railway* qui traverse douze régions à la découverte des lieux pittoresques de la Russie et de la Sibérie à partir de la littérature classique russe, des images du photographe Anton Lange et des histoires anecdotiques qui illustrent chaque lieu au fil du trajet. Alors que le carnet de voyage représenterait une matérialité du voyage dans un monde mondialisé et virtuel et prolonge le voyage devenu *authentique* comme mémoire, esthétique, poétique, nous pourrions nous demander jusqu’où une poétique du carnet de voyage numérique pourrait-elle redéfinir ce genre à la quête d’hybridité, d’artialité et d’intermédialité ? Les caractéristiques des formes multimédias issues de l’hybridation et de l’interaction des genres, des médias ou des écrans sembleraient donc évoluer de la correspondance à la fusion au fil d’une mutation de la nature du média et de l’écran.
+
+### De la création du carnet de voyage multimédia aux multiarts : un essai de typologie
+####L’exposition-installation carnet de voyage : un dialogue inter arts et inter médias
+Le peintre et voyageur Titouan Lamazou a fait connaître le genre éditorial du carnet de voyage en 1998 et en 1999 avec ses deux albums « Carnet I » et « Carnet II », publiés chez *Gallimard*. Dix ans après le succès de son album de voyage en librairie, en 2007, il réalise un carnet de voyage sous la forme audio-visuelle composé de portraits à l’aquarelle et d’interviews de rencontres de femmes d’exception « Zoé, Zoé », « Femmes du monde ». En effet, depuis 2001, il part à la rencontre de femmes au parcours insolite et au destin remarquable. À chaque rencontre, Titouan Lamazou les a peintes, dessinées, photographiées, livrant d’uniques et émouvants portraits de femmes, révélateurs de l’évolution de nos sociétés au-delà des différences culturelles. Récemment, l’exposition de portraits vidéo rapportés des quatre coins de la planète, intitulée *6 milliards d’Autres*, de Yann Arthus Bertrand, a pour scénographie un village de yourtes : il cherche à favoriser les déambulations dans le campement du spectateur nomade en abolissant « ce à quoi il se retrouvait confronté dès qu’il se posait au sol, la réalité des frontières instaurées par les hommes, symbole de cette difficulté de vivre ensemble ». Dans cet exemple, c’est le spectateur qui réalise son périple pour créer son propre carnet de voyage de rencontres filmées.
+
+#### Le carnet de voyage multimédia, inter-iconique et hybride : l’album d’images
+s’insère dans la narration cinématographique La collection « Carnets de voyage : exploration aventure » a repris cette idée de reportages graphiques audio-visuels de voyageurs. La quête artistique de six illustrateurs-voyageurs qui deviennent reporters-dessinateurs nous font découvrir un pays à travers leurs regards, leurs croquis, dessins et aquarelles, insérés dans la narration. Les arts graphiques font ainsi une incursion dans l’oeuvre filmique car le croquis est paradoxalement plus ressemblant à la réalité que d’autres iconographies ; les traits caractéristiques sont en effetrelevés, concentrés, densifiés, voire exagérés à travers le dessin : instants croqués, images collées, témoignages dessinés sont les atouts de l’album-carnet de voyage. Nous pouvons aussi évoquer le métissage artistique de la photographie et du cinéma à travers le film de Jennifer Baichwal qui propose un documentaire à partir des photographies d’Edward Burtynsky, intitulé Paysages manufacturés. Le nouveau genre d’écriture télévisuelle qui utilise l’intermédialité et l’intericonicité, révèle donc un métissage de l’image et une hybridation des genres, par emprunts et citations selon Pierre Beylot. Le carnet de voyage n’est que le reflet de ce vers quoi tend l’image animée et audiovisuelle : tous les supports et les médias semblent ainsi évoluer vers le multimédia et l’intermédialité. En effet, une récente série intitulée *L’aventurière* [18. Elle a été produite par *France5*, *La Compagnie des Taxi-Brousse* et *Lobster Films* en 2006 ; Alain Wieder en est l’auteur, Jean-Claude Guidicelli, le réalisateur et Luc Desportes, l’illustrateur.] propose un genre *fiction documentaire animée*. L’originalité réside dans le traitement iconographique [19. L’incrustation est utilisée : technique de superposition d’images animées par trucage électronique.] qui compile images d’archives inédites, bandes dessinées, dessins animés, photographies ou journaux télévisés authentiques, c’est-à-dire des vignettes d’images fixes insérées dans le documentaire audio-visuel [20. Il ne s’agit en aucun cas d’adaptation de la bande dessinée au cinéma.]. Sur ce principe, le carnet de voyage vidéo, intitulé *Pocket Japan de Kraftfeld* [21. **http://pocketjapan.over-blog.com/article-33456248-6.html**], rend compte de vingt et un jours au Japon et mêle les images vidéo à des dessins de mangas soit des *incorporations filmiques* [22. Roelens N., 2008, « Incorporations filmiques », In *L’hétérogénéité du visuel*, volume 3 :* Intermédialité visuelle*, dir. Sémir Badir, Nathalie Roelens, PULIM, pp. 71-87.] définies par Nathalie Roelens. Le carnet de voyage numérique peut métisser et combiner tous les médiums et diverses incorporations qui démontrent que l’intermédialité, la multimédialité et
+l’hypermédialité sembleraient indissociables.
+
+####Le carnet de voyage, mosaïque de documents authentiques et de créations artistiques
+Le carnet multimédia 6000 Km du couchant au levant : Paris-Istanbul-Jérusalem de Karen Guillorel est un carnet de voyage vidéo dans lequel illustrations, photographies, vidéos, documents de voyage s’insèrent sur l’écran. L’écran est en effet composé en *split screen* [23. « The Aesthetics of Displays : how the Split Screen remediates other media », Malte Hagener, Refratory, a Journal of Entertainement Media, 24 décembre 2008. <http://blogs.arts.unimelb.edu.au/refractory/2008/12/24/the-aesthetics-of-displays-how-the-split-screenremediates-other-media-%E2%80%93-malte-hagener> « Film theory : An Introduction through the senses », Thomas Elsaesser, Malte Hagener.] ou écran divisé, séparé ou polyptyque qui permet de suivre plusieurs actions simultanément. La permanence du point de vue de l’écran en haut à gauche, des pieds de Karen en train de marcher, permet de ne pas perdre le sens de la marche et de la quête initiatique du voyage. De plus, chaque écran propose, avec ses codes, une précision géographique : un panneau de signalisation routière, un ticket ou une couverture de livre, une vue du paysage, le chemin dans son ensemble ; la rencontre effectuée permet de passer alors à un seul écran le temps de la conversation et de l’échange dans une interaction plus intime. Propos objectif sur l’environnement, échanges avec l’Autre et récit intérieur personnel ne cessent de se tisser au fil de la route qui devient alors une expression de *l’ex-time* [24. « Le carnet de voyage de *l’ex-time* au transmédia », Pascale Argod, *Canal Psy*, n°99 « Voyager, partir, (se)découvrir », Trimestriel de l’université Lumière de Lyon 2, n°99, janvier-février, mars 2012 (4 pages). **http://psycho.univ-lyon2.fr/rubrique-279-Parutions.html**] c’est-à-dire la quête de soi à travers la rencontre de l’Autre. Cette forme d’Odyssée personnelle ouvre ainsi à la permanence de la découverte par soi-même et par ses propres moyens sur le terrain.
+
+####Le carnet de voyage d’images animées : plonger dans la narration 3D du voyage
+« Madagascar », carnet de voyage de Bastien Dubois, dont les pages se tournent et les dessins s’animent, propose au lecteur devenu spectateur un carnet de voyage animé et en trois dimensions dans lequel il plonge pour revivre l’ambiance et les rencontres de Bastien Dubois au fil de sa route. Le camera *mapping* est la technique la plus utilisée dans le film et permet de coller un dessin ou une texture sur un volume en 3 D en les projetant grâce à un *projecteur* virtuel et en utilisant la rotoscopie [25. La rotoscopie est une technique cinématographique consistant à relever image par image les contours d’une figure filmée en prise de vue réelle afin de réaliser une image animée.]. L’auteur explique le principe de la rotoscopie dans son livre DVD « Madagascar, carnet de voyage » [26. Invité à la cérémonie des *Oscars* 2011 et Carnet-DVD édité par *Reflets d’ailleurs*, 2011 : **http://www.bastiendubois.com/mada**], un film de Bastien Dubois. David Lopez reprend ce principe pour son carnet numérique « Entre Mexico et Guatemala » [27. **http://creative.arte.tv/fr/space/Rendez-vous_du_Carnet_de_Voyage/messages**] qui alterne au fil de la narration dessin animé, carnet en 3D et carnet classique d’aquarelles. Gauthier Mesnil-Blanc propose une narration du voyage aux frontières de la fiction dans « Ephémérides : petites histoires éphémères dans le Grand Nord » [ 28. **http://www.ephemerides.co**].
+
+###Une performance artistique multiarts et nomade
+
+Une initiative récente s’est inspirée de l’intermédialité du carnet de voyage pour réaliser le fondement de sa démarche artistique : le « Bus de l’Alternative Nomade » [29.Réalisation et diffusion itinérante de documentaires : **http://www.alternativenomade.org/**]. Il s’articule autour du voyage et de la rencontre, et combine cinéma documentaire, art vidéo, carnets de route et chroniques de voyage. En effet, des vidéos de plusieurs pays sont projetées sur le pare-brise et sur les vitres du bus « pour rendre le passager spectateur témoin d’émotions et de rencontres vécues sur la route aux quatre coins du globe ». Il s’agit ici de rendre mobile l’art et de faire voyager les œuvres d’art qui se nourrissent du voyage et du nomadisme artistique ; la mobilité est donc à la fois le mode de diffusion et le principe même de création. L’originalité de ce projet a fédéré un collectif [30. Depuis 2004, *Conteners* est un réseau artistique mobile et le nouveau centre de ressource des arts nomades. Il présente une base de données regroupant près de 100 projets dans le monde : **http://www.conteners.org**] sur les arts nomades. Le carnet de voyage intermédial pourrait aussi évoluer vers *l’installation cinéma* [31. Thierry Lancien, « L’installation cinéma : une expérience du regard », In *Le spectateur introuvable*. Dir. Le blanc, *Médiamorphoses*, n°18, 2006. pp. 63-67.] sur le thème du voyage en favorisant des correspondances entre des regards de cinéastes. Carnet(s) de Chine : je rêvais d’aller à Kashgar primé par le Prix vblog du carnet de voyage numérique n’est, selon les auteurs, Emmanuelle Troy, Virginie Perret, Erik Baron, Tony Petrau et Pablo Jaraute, « Ni ciné-concert, ni connaissance du monde », cette proposition artistique pluridisciplinaire est un carnet de voyage vivant, contemporain et accessible, mêlant cinéma, lectures d’écrivains-voyageurs, musiques et danse. Ce dialogue ouvert entre film, textes, danse et musiques invite à re-parcourir ensemble le chemin». Ce spectacle réalisé à partir d’un voyage vécu part à la découverte des danses et des musiques du Turkestan chinois que le groupe représente sur scène et qu’il accompagne de textes et d’images. Devenu interarts, le carnet de voyage amène à penser le genre comme installation et performance artistique et ouvre sur tout l’espace de création et de l’œuvre d’art, dans son hybridation à la fois genre éditorial, littéraire, artistique et numérique [32. Thèse de Doctorat : « Le carnet de voyage : approches historique et sémiologique ». Pascale Argod (Dir. Thierry Lancien), *Université Michel de Montaigne* – Bordeaux III, décembre 2009 (790 p. + corpus de 800 titres).].
+
+###La création virtuelle ou en arts numériques à partir d’un voyage
+
+Plusieurs créations numériques proposent une promenade ou un voyage dans le patrimoine urbain sur le site de la Fabrique de la BNSA, Bibliothèque numérique du patrimoine en Aquitaine du Conseil Régional d’Aquitaine : Détours jardins : balade numérique dans les jardins de Villeneuve-sur-Lot de la compagnie de danse et arts associés « Sylex », « Street Invaders » de l’association *Lartefact* et « Street Museum » du musée de Londres. Détours jardins propose une balade numérique sonore et visuelle sous la forme d’une carte multimédia via les baladeurs Mp3 reliant plusieurs jardins de la ville de Villeneuve-sur-Lot et donnant accès aux contenus (fonds numériques, images, vidéos et sons) et travaux artistiques débutés par « Sylex » en 2011. Le projet « Street Invaders » se propose d’inviter dans plusieurs villes d’Aquitaine des artistes pour créer des parcours artistiques atypiques et originaux. La découverte de ces œuvres s’effectuera sous forme d’une chasse au trésor à travers le patrimoine urbain Aquitain via une application mobile dédiée. Le Musée de Londres a lancé une application *iPhone* avec *Géo-tagging* et *Google Maps* pour guider les utilisateurs autour de Londres en montrant le passé de la ville à travers ses vastes collections de photos.
+
+### Conclusion
+
+*L’écran mosaïque* (Edmond Couchot, 1998), la *perception kaléidoscopique* (Malte Hagener, 2008) et l’*intermédialité* (J.E. Müller,
+2000) sembleraient définir l’œuvre mosaïque qu’est le carnet de voyage qui met en œuvre une poétique du numérique. Cette œuvre mosaïque qui est issue de l’art du collage est en effet transférable à la page écran du site web ou du blog parfois à plusieurs médias par transposition. Œuvre hybride, elle combine images médiatiques et images artistiques et favorise une *perception kaléidoscopique* qui s’ouvre aussi au vidéo blog. Le témoignage autobiographique, voir *l’extime*, comme la transgression des frontières entre documentaire et fiction sembleraient une spécificité du carnet de voyage qui permettrait peut-être d’envisager un carnet de voyage cross et transmédia. Le rendu du déplacement géographique dans l’intermédia *carnet de voyage* est au cœur de sa définition dès la réalisation des premiers cédéroms – DVD sur le thème du voyage. Le voyage vécu pour être retracé en carnet multimédia nécessite de penser la complémentarité entre des média, notamment images et textes. Tendre vers le voyage virtuel serait une tendance liée au monde *second-life*, à l’installation d’art générative, au jeu sérieux et au jeu vidéo. Aussi définir un essai de typologie est-il complexifié par l’hybridité du genre, son artialité et son intermédialité. En somme, le carnet de voyage numérique et multimédia ouvre les voies d’une hybridité qui, quel que soit l’écran, varie selon la définition accordée au voyage, au regard, à l’œuvre artistique multimédia. L’hybridation en art ou l’artialité serait en effet à l’origine de la naissance des genres qui, ensuite, s’adaptent à tous les médias et se diffusent par le processus *Work in Progress* de l’Intermédialité [33. « Work in Progress » selon les termes de Jürgen E. Müller au sujet de l’intermédialité : article intitulé « Vers l’intermédialité », *Médiamorphoses*, n°16, avril 2006.].
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-du-carnet-de-voyage-numerique-a-lexperience-transmedia.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Pascale Argod
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] Notre réflexion a été guidée par les travaux de recherches (cités en bibliographie) d’Edmond Couchot
+sur *l’écran mosaïque* (1998), de J.E. Müller sur *l’intermédialité* (2000) et de Malte Hagener sur la *perception kaléidoscopique* (2008).
+
+[2.] Cette définition provient de la diffusion de vidéos du tsunami en décembre 2004.
+
+[3.] http://www.vlogeurope.com/blog
+
+[4.] http://www.nat.fr/videoformes/VIDEOFORMES/ total_cadres.html
+
+[5.] http://www.odysseesiberienne.com ou http://www.nicolasvanier.com avec les dossiers pédagogiques du CRDP de Paris : http://www.odysseesiberienne.com/pedagogy.php
+
+[6.] Affiliée au laboratoire ENER mené par F. Garnier et P. Hénon à l’ENSAD, École Nationale Supérieure des Arts Décoratifs de Paris.
+
+[7.] Entretien de Karen Guillorel réalisé par Pascale Argod en décembre 2011 intitulé : « Karen Guillorel, artiste transmédia et d’arts numériques.»
+
+[8.] « Colloque poëtique du numérique », Nantes, juin 2011.
+
+[9.] www.emigation.net
+
+[10.] Pascale Argod, « Voyage interculturel sur la route de la soie », *ARGOS*, *Des pratiques documentaires*, avril 2001, n°27, pp. 81-84.
+
+[11.] Projet conçu par Florent Aziosmanoff, directeur éditorial de l’association *Art 3000* (créée en 1988) et à l’origine du *Cube – Art 3000* d’Issy-les-Moulineaux dédié aux arts numériques et multimédias depuis 2001 et des *États Généraux de l’Écriture Interactive* lancés en 1995 : http://www.lecube.com
+
+[12.] Réalisé par Pierre Pommier, directeur du *Centre Multimédia Montaigne* et de l’édition « Renaudel Multimédia » de l’*Université de Bordeaux 3*. Il est diffusé par *Circle Education* et le réseau SCEREN-CRDP : http://www.circle-education.com/(g5icpluegfa0lir3ruiuke55)/ProductDetails.aspx?productID=37519
+
+[13.] Réalisée par Aurélie Castries et Pascale Argod en juillet 2004, « Renaudel Multimédia », *Bordeaux III*.
+
+[14.] http://www.etroubadours.com
+
+[15.] http://www.karenguillorel.com
+
+[16.] Voir « Noonk’sblog » le blog de création digitale de Karen Guillorel, aka « Nout eales » pour le jeu vidéo et le dessin animé. http://www.digitalarti.com/views/images/87507
+
+[17.] http://theroadbetweenus.net/accueil.html
+
+[18.] Elle a été produite par *France5*, *La Compagnie des Taxi-Brousse* et *Lobster Films* en 2006 ; Alain Wieder en est l’auteur, Jean-Claude Guidicelli, le réalisateur et Luc Desportes, l’illustrateur.
+
+[19.] L’incrustation est utilisée : technique de superposition d’images animées par trucage électronique.
+
+[20.] Il ne s’agit en aucun cas d’adaptation de la bande dessinée au cinéma.
+
+[21.] http://pocketjapan.over-blog.com/article-33456248-6.html
+
+[22.] Roelens N., 2008, « Incorporations filmiques », In *L’hétérogénéité du visuel*, volume 3 :* Intermédialité visuelle*, dir. Sémir Badir, Nathalie Roelens, PULIM, pp. 71-87.
+
+[24.] « Le carnet de voyage de *l’ex-time* au transmédia », Pascale Argod, *Canal Psy*, n°99 « Voyager, partir, (se)découvrir », Trimestriel de l’université Lumière de Lyon 2, n°99, janvier-février, mars 2012 (4 pages). http://psycho.univ-lyon2.fr/rubrique-279-Parutions.html
+
+[25.] La rotoscopie est une technique cinématographique consistant à relever image par image les contours d’une figure filmée en prise de vue réelle afin de réaliser une image animée.
+
+[26.] Invité à la cérémonie des *Oscars* 2011 et Carnet-DVD édité par *Reflets d’ailleurs*, 2011 : http://www.bastiendubois.com/mada
+
+[27.] http://creative.arte.tv/fr/space/Rendez-vous_du_Carnet_de_Voyage/messages
+
+[28.] http://www.ephemerides.co
+
+[29.] Réalisation et diffusion itinérante de
+documentaires : http://www.alternativenomade.org/
+
+[30.] Depuis 2004, Conteners est un réseau artistique mobile et le nouveau centre de ressource des arts nomades. Il présente une base de données regroupant près de 100 projets dans le monde : http://www.conteners.org
+
+[31.] Thierry Lancien, « L’installation cinéma : une expérience du regard », In *Le spectateur introuvable*. Dir. Le blanc, *Médiamorphoses*, n°18, 2006. pp. 63-67.
+
+[32.] Thèse de Doctorat : « Le carnet de voyage : approches historique et sémiologique ». Pascale Argod (Dir. Thierry Lancien), *Université Michel de Montaigne* – Bordeaux III, décembre 2009 (790 p. + corpus de 800 titres).
+
+[33.] « Work in Progress » selon les termes de Jürgen E. Müller au sujet de l’intermédialité : article intitulé « Vers l’intermédialité », *Médiamorphoses*, n°16, avril 2006.

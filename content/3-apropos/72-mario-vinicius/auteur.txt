@@ -1,0 +1,17 @@
+Title: Màrio Vinicius
+
+----
+
+Text-bio: étudiant 2<sup>e</sup> cycle DNSEP / Master 2
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+----
+
+Text-liste-articles: (link: numeros/numero1/le-pouvoir-des-capitales text: n°1 : Le pouvoir des capitales)

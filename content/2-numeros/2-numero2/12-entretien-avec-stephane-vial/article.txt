@@ -1,0 +1,150 @@
+Pagesettings-1: 
+
+----
+
+Title: Entretien avec Stéphane Vial
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: stephane-vial
+- 
+  auteur_uid: corinne-melin
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: Cet entretien conduit par Corinne Melin a été élaboré suite à la lecture de l’ouvrage de Stéphane Vial « L’être et l’écran, comment le numérique change la perception », préface de Pierre Lévy, PUF, Paris, septembre 2013. Dans cet ouvrage, l’auteur développe une phénoménologie techno-transcendantale, rendue visible au moyen des technologies numériques.
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+### Pour commencer, quelle place et quelle fonction vous reconnaissez au philosophe dans les débats sur la technique ? N’est-il que le prophète des angoisses émanant de la société industrielle ? L’analyste de la technophobie contemporaine ?
+
+Si la question de la technique et la question de l’être ne sont qu’une seule et même question, comme j’essaie de le montrer dans « L’être et l’écran », c’est bien que la place du philosophe dans les débats sur la technique me semble essentielle. Malheureusement, celle-ci est souvent négligée ou caricaturée, en raison de cette forme particulière de technophobie qui a longtemps dominé les philosophes du XX<sup>e</sup> siècle et que Jean-Pierre Séris a appelé la *misotechnie*. Le rôle d’un philosophe n’est pas celui d’un historien de la philosophie. C’est celui d’un observateur et d’un analyste du contemporain. À l’heure de la révolution numérique, le philosophe doit tenter d’analyser le phénomène technique comme s’il l’analysait pour la première fois.
+
+### Il est courant d’entendre et / ou de lire que nous vivons actuellement une révolution technique ou révolution numérique. En vous interrogeant sur « de quoi la révolution numérique est elle la révolution ? », vous dites que s’il y a révolution numérique, elle est tout autant technique que philosophique. Qu’est-ce qui motive cette double révolution ?
+
+La révolution numérique correspond à un double bouleversement. Sur le plan de l’histoire, elle est l’avènement d’un nouveau système technique, au sens de Bertrand Gille. C’est ce que j’ai appelé le système technique numérique, fondé sur la trilogie de l’électronique, de l’informatique et du réseau Internet. Sur le plan philosophique, elle renouvelle en profondeur les structures techniques de notre perception, autant qu’elle nous révèle l’existence même de ces structures, que j’ai appelle techno-transcendantales, et dont j’ai essayé de montrer qu’elles ont toujours existé, sous des formes variables, aux différentes époques historiques. C’est en cela que la révolution numérique est un événement philosophique : elle modifie l’acte phénoménologique de percevoir.
+
+###Vous accordez une place centrale au design dans votre étude philosophique et historique des techniques. Selon vous, le design « porte l’alliance créative de plusieurs disciplines autrefois disjointes et se situe au carrefour de la pensée et de l’action ». Quel rôle joue le design en somme ?
+
+Le design permet de jeter un regard nouveau sur la technique, auquel les philosophes traditionnels ne sont pas habitués, faute d’avoir été initiés à la pratique du design, comme j’ai eu la chance de l’être, pendant de longues et passionnantes années, à l’école Boulle, et au cours de mon expérience professionnelle dans le design interactif, au sein de *Lektum*. Les praticiens du design comme les chercheurs en design le savent pourtant depuis longtemps : le design est la naissance d’une nouvelle culture, qui n’est réductible ni à l’art, ni à l’ingénierie, ni au marketing. Depuis une trentaine d’années, Nigel Cross l’appelle la  *troisième culture*. Longtemps réduite à une  *esthétique industrielle* recroquevillée sur l’adage de Sullivan (« form ever follows function »), le design a entamé depuis une vingtaine d’années un  *tournant sémantique* (K. Krippendorff), se préoccupant désormais de trouver du sens aux produits et aux services dans l’intérêt du bien commun, sous l’influence notamment de l’éco-conception, du design numérique ou du design social. Au XX<sup>e</sup> siècle,  *design* rimait avec  *esthétique industrielle* et  *consommation*. Aujourd’hui, il s’attaque aux grands enjeux sociétaux et rime avec  *innovation*. C’est ce que défend par exemple le modèle du  *Design Thinking*.
+
+### Vous défendez l’hypothèse que « le phénomène numérique rend visible la technique en tant que structure de la perception, conditionnant la manière dont le réel ou l’être nous apparaît. » Serait-ce à dire que la technique n’est pas seulement dans les objets mais également dans les sujets ?
+
+Oui, en quelque sorte. Mon approche s’inscrit dans la tradition de la phénoménologie existentielle. Appliquée à l’analyse des techniques, elle cherche à montrer que le processus même de la manifestation (ce que j’ai appelé l’ontophanie, c’est-à-dire le fait même d’apparaître et, par suite, d’être-au-monde) est conditionné par des structures techniques a priori qui modifient l’acte par lequel le sujet perçoit les objets. Ces structures, néanmoins, ne sont pas inscrites dans le sujet lui-même (quoiqu’elles le traversent), mais dans la culture technique dans laquelle ce sujet vient à être-au-monde et à faire l’apprentissage de percevoir, à une époque donnée, toujours historiquement datée. Autrement dit, on ne perçoit pas de la même manière selon l’environnement technique dans lequel on vit.
+
+### Vous consacrez un chapitre au virtuel avec la volonté de sortir du malentendu à son sujet. Vous rappelez d’abord que le terme virtuel est un mot de la langue philosophique et qu’il n’a pas d’origine informatique. Vous relevez ensuite quatre acceptions du terme virtuel dans l’histoire des idées et accordez une place centrale, me semble-t-il, au concept de simulation. La simulation rend compte « de la capacité de l’homme à considérer des réalités situationnelles comme des réalités », et sans doute à prendre conscience que ce n’est pas le néant qu’il a en face de lui mais bien un écran. En ce sens, quel impact ont les interfaces numériques dans la création de ces représentations de la réalité ?
+
+Le terme  *virtuel* n’est pas d’origine informatique mais il a une signification particulière dans le monde des ordinateurs et des interfaces numériques. Il signifie  *informatiquement simulé*, comme lorsqu’on parle de mémoire virtuelle ou de serveur virtuel. Cela est valable aussi pour le courrier électronique, qu’on aurait pu appeler  *courrier virtuel*, au sens où il s’agit de  *courrier informatiquement simulé*, ou pour l’environnement de bureau fenêtré de nos micro-ordinateurs et l’environnement applicatif de nos smartphones, qui constituent des environnements virtuels au sens propre, c’est-à-dire informatiquement simulés. C’est cela la  *culture de la simulation*, au sens de Sherry Turkle. Et c’est parce que nous nous y accoutumons peu à peu depuis une trentaine d’années que cette culture du virtuel, en modifiant nos habitudes et notre culture perceptives, nous fait faire un nouvel apprentissage phénoménologique et nous conduit à étendre notre sens du réel. Nous apprenons à intégrer les êtres informatiquement simulés dans le plan des choses réelles et à considérer comme des choses les choses qui sont sur nos écrans.
+
+### Dans le dernier chapitre, vous abordez la façon dont sont créées les conditions de notre expérience du monde au travers des objets. Ces conditions passent « par la reconnaissance de la technique en tant que mise en forme de ce monde et du design en tant qu’activité essentielle dans sa conception-création ». Vous poursuivez sur l’ontophonie (la manière dont les choses nous apparaissent) et soulignez qu’elle est fabriquée. Pouvez-vous préciser la place et la fonction du designer (numérique) dans la fabrique de l’ontophanie ?
+
+Du point de vue d’une phénoménologie générale des techniques, et en particulier d’une phénoménologie techno-transcendantale comme la mienne, on peut considérer le design comme un processus inventif de production ontophanique, en tant qu’il vise à engendrer des formes innovantes d’apparaître et d’être-au-monde, en vertu de ce que j’ai appelé (en m’inspirant des travaux d’Anne Beyaert-Geslin) une  *intentionnalité factitive*, c’est-à-dire une intention de faire-être et de faire-faire. Cette intentionnalité factitive, qui est au cœur de la logique du projet en design, est fondamentalement orientée-futur. Elle vise à améliorer, selon la belle formule d’Alain Findeli,  *l’habitabilité du monde* dans toutes ses dimensions.
+
+### Je voudrais pour terminer cet entretien aborder votre méthode qu’on peut qualifier de méthode constructiviste appliquée au design et aux SHS. C’est, me semble-t-il, une méthode dégagée de l’empathie, du ressenti vis-à-vis du sujet étudié, une méthode donc rationnalisant expérience du sujet et signification. Est-ce que cette approche ouvre un nouveau terrain de recherche en design et en SHS ?
+
+S’il est vrai que j’ai de l’empathie pour mon objet d’étude et que cela nourrit ma réflexion, je ne définirais pas ma méthode par l’empathie. Je travaille à partir de la phénoménologie de la technique, ou du moins d’une forme particulière de celle-ci que j’appelle phénoménologie techno-transcendantale. Mon expérience professionnelle et personnelle des interfaces numériques me conduit simplement à porter une attention particulière aux usages. C’est pourquoi, pour reprendre une formule qui a été employée récemment au sujet de mon livre « L’être et l’écran » et que je trouve très juste, je dirais que ma méthode est celle d’une  *phénoménologie des usages* numériques. Très peu développée jusqu’ici, voire inexistante en France (on peut penser à la post phénoménologie de Don Ihde ou Peter-Paul Verbeek), je pense qu’il s’agit là, en effet, d’une nouvelle voie de recherche, dont je n’ai esquissé dans ce livre que les fondements. Elle peut être appliquée à l’étude de tous les artefacts et, dans le cas du design, peut s’avérer particulièrement riche. C’est de cette intuition initiale que j’ai tiré mon hypothèse de  *l’effet de design*, considéré comme effet phénoménologique décliné en trois dimensions : callimorphique, socioplastique, ontophanique. Sur ce point, le dernier chapitre de « L’être et l’écran » développe et approfondit mon « Court traité du design ».
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-entretien-avec-stephane-vial.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Corinne Melin
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 

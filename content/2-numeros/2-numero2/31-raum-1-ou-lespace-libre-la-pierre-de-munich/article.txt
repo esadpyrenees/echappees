@@ -1,0 +1,144 @@
+Pagesettings-1: 
+
+----
+
+Title: Raum ou l’espace libre (La pierre de Munich)
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: severine-lepan-vaurs
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+« Voyant partout des chemins, il est lui même à la croisée des chemins. Aucun instant ne peut connaître le suivant. Il démolit ce qui existe, non pour l’amour des décombres, mais pour l’amour des chemins qui le traverse. » 
+Walter Benjamin
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Depuis deux ans je fouille, j’exhume un lieu de guerre, un ancien maquis brûlé en 1944, je l’interroge, je réunis des pierres dispersées dans les décombres de l’incendie, je réinvestis ces matériaux pour interroger mon propre rapport au recouvrement, à la mémoire et à l’exil.
+
+Je pars à Munich avec le moulage en porcelaine d’une pierre de ce lieu. Je l’ai trouvée dans le tas de terre, celui de l’aile Est de la maison écroulée, dans les décombres. Sérigraphiée de la carte subjective, du lieu et de ses seuils, je vais la déposer quelque part dans la ville allemande.
+
+À Munich, il y a aussi forcément un chemin, un arbre, une pierre, un canal ou de l’eau, de la terre à nu, un mur en ruine, une pente qui mène à une berge, pour une expérience anachronique.
+
+À l’instar de Guy Debord qui disait ne pas marcher au hasard, mais en suivant un *relief psychogéographique*, je vais marcher à la recherche d’un lieu dans la ville comme un écho « psychogéographique ». Un point précis à localiser sur la carte où échanger ma *pierre* contre une pierre de Munich. « La fabrication de carte psychogéographique peut contribuer à éclairer certain déplacement d’un caractère non, certes, de gratuité, mais de parfaite insoumission aux sollicitations habituelles. » [1. Guy Debord : « Guide psychogéographique de Paris, discours sur les passions de l’amour, pentes psychogéographiques de la dérive et localisation d’unité d’ambiance ». Dépliant édité par le Bauhaus situationniste mai 1957.]
+
+(image: echappees_2_06.jpg)
+#####Séverine Lepan-Vaurs, Pierre de Munich, photographie. © Séverine Lepan-Vaurs.
+
+Bord du fleuve Isar (Munich, Allemagne) / Garraoutou (Hautes- Pyrénées, France)
+
+Beaucoup de pierres scellées à Munich, peu de *pierre libre* en dehors du fleuve. J’ai suivi les berges jusqu’à trouver ce mur. Travail de décomposition, résonance directe avec le moulage en porcelaine que je tenais dans ma main durant toute ma dérive, j’ai traversé le fleuve jusqu’à ce mur sous la neige.
+
+J’y ai prélevé un fragment de brique et, à la place, ai laissé ma pièce. L’un des films des « Dwellings » de Charles Simonds (1974) était présenté à la *Haus der Kunst* de Munich (au sein de l’exposition « End of the Earth – Land art to 1974 » – une des raisons de notre voyage d’étude dans la capitale bavaroise). Les mots de l’artiste me reviennent : « Le développement d’une mythologie personnelle / universelle est pour moi un point central de même que l’utilisation de cette mythologie en tant qu’outil pour fracturer le présent. » [2. C. Simonds in « catalogue d’exposition », 1987, *Les années mémoires, archéologie du savoir et de l’être*, Abbaye de Saint-André, *Meymac*, p. 26.]
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-raum-ou-lespace-libre-la-pierre-de-munich.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: Raum [1. « Raum » en allemand signifie espace ; son étymologie est la même que « rural », qui signifie à la fois « espace libre » ou « clairière ouverte » par un défrichement dans la forêt.]
+
+----
+
+Nom-auteur: Séverine Lepan-Vaurs
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] Guy Debord : « Guide psychogéographique de Paris, discours sur les passions de l’amour, pentes psychogéographiques de la dérive et localisation d’unité d’ambiance ». Dépliant édité par le Bauhaus situationniste mai 1957.
+
+[2.] C. Simonds in « catalogue d’exposition », 1987, *Les années mémoires, archéologie du savoir et de l’être*, Abbaye de Saint-André, *Meymac*, p. 26.

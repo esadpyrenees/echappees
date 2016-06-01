@@ -1,0 +1,17 @@
+Title: Robin de Mourat
+
+----
+
+Text-bio: Agrégé d’arts appliqués, Robin de Mourat est doctorant en esthétique, humanités numériques et design, sous la direction de Nicolas Thély. Il est par ailleurs chargé de cours en Master 1 Recherche *Arts & Technologies Numériques* et en Master 1 Professionnel *Création et Management Multimédia*, tous deux à l’université de Rennes 2.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+----
+
+Text-liste-articles: (link: numeros/numero3/an-account-of-digital-humanities-from-the-aime-project text: n°3 : An account of Digital Humanities from the AIME Project)

@@ -1,0 +1,135 @@
+Pagesettings-1: 
+
+----
+
+Title: Territoire
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: lyse-fournier
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Territoire
+Espace de travail.
+Mon atelier constitue déjà en soi un territoire, un espace privé. Ce territoire est mouvant, il se resserre ou s’élargit selon mes besoins et mes projets. Il n’a pas de limites fixes ; ce peut être une table, un mur ou une salle.
+
+Construction d’un territoire.
+La « construcouture » est un territoire qui peut s’étendre jusqu’à l’infini ; de nouvelles expériences, de nouveaux travaux s’ajoutent dans une dynamique constante, un cycle infini. Jean-François Chevrier écrit : « Parmi les espèces vivantes, l’être humain a la capacité particulière à se mettre en relation avec l’infini par le fini, de faire apparaître la continuité dans la discontinuité » [1. Jean-François Chevrier (2011), « Des Territoires », éd. *L’Arachnéen*, Paris, p. 81.] ; il cite aussi Nicolas de Cues comme « auteur de la docte ignorance (1440), qui avait le premier défait la représentation d’un monde clos (circonscrit) au profit de la conception d’un univers décentré, sinon infini » [2. *Ibid.*, p. 205.]. Ce nouveau territoire est en expansion. Il va de l’intérieur (mon espace de travail), à l’extérieur (un espace de monstration). « L’autonomie de l’intérieur et l’indépendance de l’extérieur, c’est dans de telles conditions que chacun des deux termes relance l’autre » [3. Gilles Deleuze (1986, 2002), « Le Pli : Leibniz et le Baroque », *Éditions de Minuit*, Paris, p. 40.]. Il s’élargit au fil des tentatives, des expériences, des références ; ses frontières sont poreuses, elles se nourrissent de tous ces éléments comme des racines et s’étendent toujours de plus en plus loin, à la façon du rhizome dont parle Gilles Deleuze... « Tout rhizome comprend des lignes de segmentarité d’après lesquelles il est stratifié, territorialisé, organisé, signifié, attribué, etc. » [4. Gilles Deleuze et Félix Guattari (1980), « Mille plateaux », Paris, *Éditions de Minuit*, p. 16.].
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-territoire.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Lyse Fournier
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] Jean-François Chevrier (2011), « Des Territoires », éd. *L’Arachnéen*, Paris, p. 81.
+
+[2.] *Ibid.*, p. 205.
+
+[3.] Gilles Deleuze (1986, 2002), « Le Pli : Leibniz et le Baroque », *Éditions de Minuit*, Paris, p. 40.
+
+[4.] Gilles Deleuze et Félix Guattari (1980), « Mille plateaux », Paris, *Éditions de Minuit*, p. 16.
+
+----
+
+Article-sito: 

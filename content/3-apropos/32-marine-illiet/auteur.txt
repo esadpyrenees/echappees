@@ -1,0 +1,20 @@
+Title: Marine Illiet
+
+----
+
+Text-bio: Marine Illiet est diplômée de l’École supérieure d'art des Pyrénées – Pau (DNSEP design graphique multimédia, juin 2015). Son mémoire portait sur « Les enjeux de la textualité numérique ». Il a été dirigé par Francesca Cozzolino et Perrine Saint Martin.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: (link: http://marine.illiet.free.fr/index.html text: marine.illiet.free.fr popup: yes)
+
+----
+
+Text-liste-articles: 
+
+(link: numeros/numero3/le-texte-numerique text: n°3 : Le texte numérique)
+(link: numeros/numero3/entretien-de-donato-ricci-sur-la-recherche-en-design text: n°3 : Entretien de Donato Ricci, sur la recherche en design)

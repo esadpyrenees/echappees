@@ -1,0 +1,174 @@
+Pagesettings-1: 
+
+----
+
+Title: Arte Povera & Archéologie – L’éternel retour aux sources
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: dominique-allios
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+« Semblable au conquérant au soir de ses conquêtes, qui se penche sur les terres de l’Empire et découvre l’humble bonheur des hommes. » **Antoine de Saint-Exupéry** [1. Antoine de Saint-Exupéry, 1931, *Vol de Nuit*, éd. Gallimard, Paris.]
+
+« J’honore les morts en pensant, à propos de moi, que je suis un artiste moderne. » Jannis Kounellis [2. Gloria Moures, 1991, *Kounellis*, éd. Cercle d’Art, Paris.]
+
+### Arte Povera
+Né pendant la reconstruction de l’après-guerre, l’Arte Povera prône une démarche révolutionnaire contre le consumérisme et l’académisme. Éphémère et peu structuré — il ne s’agit pas d’une école — ce mouvement, protéiforme, libre et libertaire, a eu un réel impact sur la création du XXe siècle, et constitue un repère fort pour les historiens de l’art. L’art « humble » n’est pas uniquement mu par la simple opposition, dépassant les *Incroyables et merveilleuses* de l’après-révolution ; ses pensées et créations répondent également à une aspiration profonde de toute une civilisation déroutée par sa propre mutation et sa modernité. Les Trente Glorieuses ont transformé l’Europe en économie de marché créant de nombreux phénomènes de réaction ou, plus exactement, un mouvement de réflexion et de mise en perspective dans lequel l’Histoire a une place essentielle.
+
+### L’archéologie dans les années 1960 – 1970
+Or, il est intéressant de constater que, au même moment, dans les années 60, l’archéologie connaît aussi une révolution — certes discrète et académique —, qui touche à la fois ses finalités et ses modalités. Les archéologues découvrent la terre et le bois, le paysage et, plus largement, explorent des territoires délaissés par l’histoire événementielle ou l’histoire de l’art. À partir de la seconde guerre mondiale, *l’École des Annales* renouvelle l’Histoire : les dynasties, les guerres, l’Histoire politique sont désormais mises en relation avec les histoires économiques et sociales, techniques, l’histoire des mentalités, des campagnes et des villes. Les évènements ne créent plus l’Histoire, ils en sont les conséquences.
+
+**« Les évènements sont comme l’écume de l’histoire, des bulles, grosses ou menues, qui crèvent en surface, et dont l’éclatement suscite desremous qui plus ou moins loin se propagent. Celui-ci a laissé des traces très durables : elles ne sont pas aujourd’hui tout à fait effacées. Ces traces seules lui confèrent existence. En dehors d’elles, l’évènement n’est rien. »** [3. George Duby, 1973, *Le dimanche de Bouvines*, éd. Gallimard, Paris.]
+
+Dès les années 60, l’archéologue Jean-Marie Pesez applique directement ces principes lors de fouilles de sites du Moyen Âge en France et en Italie [4. Jean-Marie Pesez, 1978, « Histoire de la culture matérielle», in Jacques Le Goff (dir.), *La nouvelle histoire*, Encyclopédie moderne, Paris, pp. 98 –130.]. Cela constitue donc une nouveauté, les historiens considérant jusque-là que l’archéologie n’apportait pas d’informations sur ces périodes [5. À la différence du Nord de l’Europe, où les recherches archéologiques sur le monde médiéval débutent à partir du XVIIIe siècle.]. Avec son équipe franco-polonaise, Pesez est le premier en France à reconstituer la vie d’un village médiéval [6. En Angleterre, l’expérience avait été déjà réalisée dans les années 1950 sur le site du village médiéval de Wharram Percy, ainsi que dans les pays de l’Est.] : cabanes de bois, poteries domestiques, foyers, fosses dépotoirs, menus objets en os ou en pierre donnent une faible mais tangible lumière sur « l’héroïque quotidien » de ces populations oubliées de l’Histoire. Une autre révolution arrive par le structuralisme. À partir des recherches des linguistes, Claude Lévi-Strauss développe l’analyse structurelle en anthropologie et dans les sciences humaines : les sociétés sont perçues par des combinaisons de systèmes et de relations [7. Claude Lévi-Strauss, 1958, *Anthropologie structurale*, Paris.]. Ces apports profitent largement à l’archéologie, celle-ci se faisant, par certains aspects, une « anthropologie des morts ». Les objets, les contextes, les sites et les environnements sont perçus dans une dimension interactive. Dès lors, on ne peut plus découvrir un palais, une ville, un monument sans aborder l’ensemble de leurs sociétés. De plus, la prédominance de processus dans l’évolution des sociétés humaines impose l’ouverture de l’interdisciplinarité dans la recherche (entre sciences humaines et sciences dures, en particulier).
+
+Les méthodes de fouille privilégient désormais les lectures horizontales et contemporaines. À ce niveau, le moulage du site préhistorique de Pincevent constitue une première en France : André Leroi-Gourhan dégage tous les artefacts contemporains sans les déplacer (ossements, silex taillés, éclats de silex, foyers), donnant non pas une vision d’un moment donné mais d’un temps donné. À partir de là, l’organisation des objets et des artefacts permet une approche sociale du groupe. Le *Geste et la matière* — premier volet des ouvrages de Leroi-Gourhan faisant état de ses recherches [8. André Leroi-Gourhan, 1943, *L’homme et la matière — Évolution et techniques*, vol. 1, Paris.] — aborde la partie technique, privilégiant le faire au fait, le processus de création apparaissant comme une réalité, riche en information de tous ordres [9. Lévi-Strauss et Leroi-Gourhan s’opposent sur de nombreux points et des écoles se revendiquent de l’un ou de l’autre, mais on peut relever un point commun chez les deux auteurs d’une force menant ou conduisant l’humanité : celle de se structurer chez Strauss, la notion de progrès chez Leroi-Gourhan.].
+
+### Arte Povera, Land Art & New Archaeology
+« Le processus de pensée visualisée » est le titre qui a été préféré à « Arte Povera » pour l’exposition tenue à Lucerne en 1970. Ce choix est révélateur : l’orientation prise dans une démarche quasi spiritualiste (les matériaux pauvres indiquant l’ascèse ou le renoncement), mais surtout le primat de la pensée dans la création reprend le célèbre *arte è una cosa mentale* de Léonard de Vinci.
+
+ Aux États-Unis, dans les années 60 toujours, la *New Archeaology* (ou *Archéologie processurale)* cherche à donner une place importante à la théorie et aux processus de pensée. Les concepts d’ethnoarchéologie et d’écologie culturelle s’y développent. La place de l’homme dans la niche écologique, dans l’environnement, y est déterminante [10. Voir notamment Lewis Binfort, 1972, « Archaeology as Anthropology », in *American Antiquity*, n° 28 (2), pp. 217 – 225, et Lewis Binfort, *An Archaeological Perspective*, New York.].
+
+À partir des années 70, les archéologues possèdent ainsi de nouveaux outils d’investigation, et certains d’entre eux explorent des territoires, formes et matériaux jusque-là délaissés : terre crue, poteries communes, fosses dépotoirs, fossés, châteaux de terre, civilisation et cultures barbares, sauvages ou premières, cultures mérovingiennes, néolithiques, épipaléo-lithique, du Bronze et du Fer… La liste est infinie et a pour corollaire un développement spectaculaire des moyens et des méthodes, en particulier dans ce qu’on appelle, en Europe, « l’archéologie de sauvetage ». Plus l’archéologue va se pencher sur des civilisations de terre et de bois, plus ses moyens relèveront de l’industrie ou des travaux publics ; en témoigne également un vocabulaire technique apparu chez les archéologues dans les années 70 – 80 : pelles mécaniques, dumpers, mini-pelles, chargeurs, élévateurs, conditionnements, diagnostics, fouilles préventives… Il n’y a alors qu’un pas pour rapprocher certaines pratiques du Land Art américain de ces moyens… Je pense par exemple à *Double Négative* de Michæl Heizer, œuvre pour laquelle l’artiste fait déplacer, à la force du bulldozer, plus de 240 000 tonnes de terre dans le désert du Nevada [11. Michæl Heizer, 1970, *Double Negative*, Mesa de Virgin River, Nevada, USA.] !
+
+Sans pousser plus avant la considération épistémologique de l’archéo-logie, les similitudes qu’elle offre dans les années 60 et 70 avec des courants et mouvements artistiques contemporains sont tangibles, notamment avec l’Arte Povera en Europe et le Land Art américain [12. Réaliser toute typologie, y compris pour l’art contemporain, est chose difficile et arbitraire. Il s’agit de constructions mentales. Cependant, pour simplifier ici, disons que l’Arte Povera renvoie à une sensibilité européenne et le Land Art, à une sensibilité américaine. Voir notamment, Jean-Marc Poinsot, 1991, *L’atelier sans murs, textes 1978 — 1980*, éd. Art Édition, Villeurbanne, p. 231.].
+
+Parmi les nombreux points communs que l’on peut noter, la réaction à l’académisme est sans doute l’un des plus évidents. En effet, des archéologues, tout comme les artistes de l’époque, prennent leur distance avec l’architecture de pierre, l’urbanisme, les palais, les tombeaux prestigieux — avec la logique du *monument* ou du *monumental* — et, surtout, avec le statut codifié de l’*œuvre d’art*. Les valeurs négatives relèvent de* l’urbs* — la civilisation urbaine domi-nante (qui trouve ses fondements dans le modèle antique gréco-romain).
+
+### Les matériaux pauvres
+À partir de ce moment-là, il est important de comprendre que le rejet simultané par les artistes et par les archéologues des manifestations les plus académiques est assorti par des créations « en négatif ». En contrepoint aux marbres des statues, les artistes font des oeuvres à partir de déchets [13. Tous ces matériaux ne sont pas forcément utilisés en vue de leurs oppositions et dissonances, mais aussi pour leur harmonie. Comme le déclare l’artiste Luciano Fabro : « La forme et toujours le résultat de l’acte », entretien avec Giovanni Lista, octobre 1998, juin 1999, in *Ligea*, n° 25 – 26 – 27 – 28, Paris, p. 46.], à l’airain des armures des guerriers, les archéologues préfèreront la boue et la vannerie. En 1967, *La Vénus aux chiffons* de Pistoletto peut être lue comme une réponse à ce goût pour le « pauvre » contre le « noble ». Mais la démarche ne relève pas d’une simple réaction, elle ouvre et décloisonne l’art et l’enrichit de nouveaux matériaux, espaces et dimensions où la pensée, devenue plastique et délibérément diachronique, prédomine et l’emporte sur une réalité formelle figée tant sur le plan matériel qu’historique.
+**
+« […] le cul d’une Vénus ordinaire et une masse de chiffons réels. Il y avait comme une superposition de deux parties du siècle, la sculpture de la première partie confrontée à celle de la seconde. On constatait alors que la seconde était tout à fait différente de la première, avec un art qui peut même assumer un retour à l’antique. Or, c’est précisément à travers le miroir qu’il est possible de regarder ainsi en arrière, et non pas seulement en avant, c’est-à-dire d’être uniquement lié à cette nécessité de faire du nouveau, de ne progresser que par une nouvelle transformation de la forme […] »** [14. Michelangelo Pistoletto, La *phénoménologie du Rejet*, *op*. *cit*., p. 142.]
+
+### L’homme humble
+Si la démarche n’est pas uniquement sociale ou contestataire, elle redéfinit également le rôle et la place de l’artiste : je travaille avec des chiffons et je suis aussi créateur et artiste que si je travaillais le marbre. Une population rurale ou servile a le droit d’être étudiée comme les élites d’une société. Cette évidente convergence entre recherche et création va plus loin. La redéfinition du statut de l’artiste opérée par les « artepovéristes » passe par une exploration de références anciennes qui, comme le « retour au Moyen Âge » dans l’art et l’architecture de la deuxième moitié du XIXe siècle (tel le mouvement des imagiers [15. Delphine Durand, 2010, *André des Gachons, peintre symboliste (1871–1951) — La création d’une « épiphanie fin de siècle* », Doctorat dactylographié, Université Toulouse II Le Mirail.]), reprend clairement le mythe de Saint-François d’Assise [16. Giovanni Lista, 2006, Arte Povera, éd. des cinq Continents, Milan, p. 28.]. Tandis que Pistoletto parle d’une « attitude presque franciscaine » pour ses *Ogetti in meno* [17. *Idem*.], *L’humilité des sandales*, œuvre réalisée par Gilardi, indique la réelle signification du terme « Arte Povera » — celle de *l’art humble*.
+
+Dans les années 80, on retrouve cette redéfinition des critères en histoire de l’art et en archéologie [18. Xavier Barral I Altet (dir.), 1990, *Artistes, artisans et production artistique au Moyen Âge*. Actes du Colloque international de Rennes 1983, Paris.]. Le colloque *Artistes et Artisans au Moyen Âge* pose alors le problème en ces termes : l’artiste médiéval, qui est anonyme, ne crée pas uniquement mu par l’extase ou le transport divin, mais il suit et respecte tout un ensemble de codes et de règles déterminant sa création, aussi modeste ou humble soit-elle. Aussi, la modestie des moyens n’a pas pour corollaire une pauvreté de pensée ou l’idée d’un art qui surgirait de manière quasi instinctive.
+
+À partir des années 60, la réinvention du passé est donc un phénomène récurrent. Le monde ancien est vu comme un âge d’or où l’Homme Sauvage est en harmonie avec la nature, sa liberté et son animisme s’opposant à la société industrielle, sur-urbanisée, consumériste et prétendument civilisée.
+
+(image: seminaired.jpg caption: Séminaire de L’Observatoire des regards avec Dominique Allios (à droite), novembre 2011, ÉSA Pyrénées — site de Tarbes. À l’arrière-plan : *La Vénus aux chiffons de M.* Pistoletto © Frédéric Delpech)
+
+Chez les Américains, l’âge d’or d’une Humanité vivant en harmonie avec la nature est associé à la mémoire coupable du génocide indien, et dont les photographies prises par Edward Sheriff Curtis au début du XXe siècle sont érigées en véritable mémorial [19. Edward Sheriff Curtis, 1907– 1930, *The North American Indian*, vol. 20, University Press, Cambridge, Massachusetts, vol. 1–5 ; Norwood Massachusetts, vol. 6 –20.]. Chez les artistes de l’Arte Povera, la référence aux mythes antiques est directe : alors, affirme Pistoletto, « La nature n’est pas séparée de l’Homme » [20. M. Pistoletto, entretien avec Giovanni Lista, in *Ligea*, *op*.* cit*., p. 161.]. Aussi, la terre, l’argile, comprises dans leur dimension spirituelle et primitive, sont des matériaux privilégiés. Par exemple, les *Souffles* de Giuseppe Penone forment des sortes de jarre aux formes organiques, et dont la partie supérieure porte l’empreinte en négatif du corps : jambes, bassin, torse, cou y sont esquissés par empreinte, la lèvre inférieure fusionne avec l’encolure du pot. La bouche de l’artiste se mêle ici à la poterie elle-même.Il est important de souligner que l’analogie n’est pas uniquement formelle… Les termes descriptifs des céramiques sont, ô combien, organiques : pied, panse, lèvre [21. Les nomenclatures descriptives des céramiques italiennes et françaises sont identiques.] — un vocabulaire qui désigne les différentes parties de la poterie dans le sens de la *realia*. Ouvertes sur le vide intérieur de la jarre, la respiration figée ou plus exactement pétrifiée, indique la double relation charnelle du créateur — à l’œuvre et à la nature.
+
+**« La nature, le paysage européen qui nous entoure est artifice, il est fait par l’homme, c’est un paysage culturel. »** [22. Anne Cauquelin, 2000, *L’invention du paysage*, éd. PUF, Paris. ]
+
+Parler de l’importance et de la prédominance de la nature dans l’Arte Povera mais surtout dans le Land Art relève évidemment du poncif. Elle apparaît essentiellement sous la forme d’une interaction avec l’homme qui en est issu, qui chemine avec elle, et qui laisse des traces périssables. Pour l’archéologie, le mouvement est similaire et prend même une importance considérable à partir des années 80, comme on l’a déjà dit, avec le développement de l’écologie et de la *New Archaeology*. L’homme est perçu dans un territoire, replacé dans un ensemble vaste où vestiges et artefacts constituent un réseau au sein duquel la nature joue un rôle prépondérant. « l’Archéo-écologie » contient aussi l’idée que les forces naturelles combinées entre elles préfigurent ou conditionnent fortement le devenir des sociétés. Certes, ces théories sous-tendent l’idée que l’homme est nuisible à la nature. Plus l’environnement est altéré par son action (notamment via la pollution), plus l’idée de nature en tant que concept ou entité prend de l’importance. « L’homme en harmonie avec la nature » renvoie alors à une forme de mysticisme, à une démarche spirituelle qui donne aux sociétés humaines une absence d’initiative dans leur évolution ou mutation, pour rejoindre l’idée de paradis perdu, à tout jamais perdu par l’action maléfique de l’homme civilisé qui traverse la modernité. *Le Nid* de Nils Udo [23. Nils Udo, 1978, *Le Nid*, Lüneburger Heide, Allemagne.], à mon avis, résume cette vision édénique et cette appétence au retrait au creux de la Mère Nature : un homme nu est recroquevillé dans un nid d’oiseau gigantesque installé dans une forêt.
+
+### Sauver le passé ou l’éternel retour aux sources
+À l’instar de ce qui se passe dans la plupart des œuvres de l’Arte Povera, le passé idéalisé ou revisité, prend donc des « allures » d’Éden, rend hommage à un monde perdu, souvent primal, l’Homme ne faisant qu’un avec la nature, ou plus exactement agissait dans une culture de symbiose entre le passé et le présent. Les *Mémoria* sensibles et poétiques de Pino Pascali, comme les *Plumes d’Esope* (1968), offrent cette combinaison fragile et quelque peu improbable. La nature et le passé peuvent être victimes des bulldozers. On se souvient encore de la destruction de sites archéologiques lors de travaux d’urbanisme, et dont Fellini avait dressé un saisissant état dans son film *Fellini Roma*. Les archéologues s’émeuvent de cette destruction du passé. Dès lors, des reconstructions de l’après-guerre vont développer, notamment en Europe de l’Est (en particulier en Pologne), une archéologie de sauvetage, et qui en France ne débutera réellement qu’à partir de 1981.
+
+Mais que veut-on sauver ? Le site ? Non… Celui-ci est détruit. Sa mémoire par le biais d’une documentation archivistique précise ? Veut-on se donner bonne conscience ? Un peu de tout cela à la fois, sans doute… Bientôt, le « sauvetage » rencontrera une dimension mercantile, commerciale, privative, qui prendra le dessus. Aujourd’hui, les œuvres de l’Arte Povera atteignent, sur le marché de l’art, des sommes vertigineuses.
+
+### Les manifestations du temps
+L’inexorable du temps constitue encore une réflexion communeaux archéologues et aux artistes de l’Arte Povera. Les « écorchés d’arbres » de Penone, comme *L’arbre de 5 mètres* (1972) ou le *Cèdre de Versailles* (1999), à l’image de la sculpture *Transit* de Germaine Richier ou des vanités baroques, nous renvoient à cette abstraction réelle que constitue le temps. Sur le plan physique, Penone réalise une très belle application de la dendrochronologie — une technique utilisée par les archéologues pour dater un site à l’aide des cercles de croissance des arbres. Mais l’artiste entreprend également, dans ce travail, une véritable fouille archéologique qui révèle un moment donné de la vie, celle de l’arbre. Nature, œuvre, humanité sont prises dans un cycle de vie et de mort. Il s’agit d’un thème de réflexion majeur chez les artistes de l’Arte Povera. Peut alors intervenir la photographie qui, en archéologie comme dans une partie de l’art contemporain « temporel », devient essentielle. Sa nature même permet de figer l’éphémère, voire de donner une intemporalité à l’éphémère. Durant une fouille, qui est une destruction continue, l’archéologue choisit de figer un moment donné dans le temps à l’aide de la photographie. Dans tous les cas, se manifestent, au travers de l’image photographique, des bornes temporelles de processus face auxquelles l’Histoire n’est que vanité. L’œuvre d’Alighiero Boetti réalisée en 1969, *Sans titre*, est la retranscription des *Histoires d’Hérodote* sur une couche de ciment frais. Au fur et à mesure que l’artiste écrit, le texte devient illisible en raison de la prise du ciment : l’histoire s’efface sitôt écrite.
+
+###Arte Povera et archéologie
+Si l’Arte Povera a immédiatement évolué et généré d’autres mouvements, l’archéologie a connu un développement technique et matériel sans précédent à partir des années 1980 mais reste, depuis, figée sur le plan épistémologique et sensible. Mettre en parallèle un mouvement artistique et une science peut, à première vue, flirter avec le paradoxe ou, pour le moins, sembler incongru. Une telle démarche outrepasse les tendances actuelles qui consistent à segmenter le monde de l’art et le monde de la science ce qui, selon moi, relève d’une dichotomie Dionysos par / Apollon où le couple raison / sentiment se sépare encore de manière naïve et stérile. Mais d’autres tentent aussi des rapprochements, et voient que les points de convergence sont nombreux [24. On pense notamment à la récente exposition sur l’art et les mathématiques à la Fondation Cartier : *Mathématiques, un dépaysement soudain*, Paris, hiver 2011 – 2012. Voir également au sujet des relations entre l’art et la science, Jean-Marc Lévy-Leblond, 2010, *La science (n’)e(s)t (pas)l’art*, éd. Hermann, Paris.].
+
+En ce qui concerne les liens entre l’Arte Povera et l’archéologie, on peut donc énoncer plusieurs formes : une démarche processurale est mise en avant afin d’insister plus sur le geste que sur l’objet créé (remise en question de la dichotomie objets / œuvres d’art) ; on assiste à une utilisation de tous les matériaux et de tous les supports, y compris les plus modestes ; les références au passé se manifestent dans une réappropriation de l’Histoire ; enfin, plus généralement, une réflexion sur le temps, ses strates, ses manifestations, son abstraction est menée, et une dimension spirituelle est rappelée comme salut ou réponse à la modernité…
+
+Sans bruit, avec poésie et humilité, les artistes de l’Arte Povera nous ont ainsi offert des œuvres qui, si elles bruissent des strates du passé et interrogent, à l’instar des œuvres du Land Art, les relations entre nature et culture (mais avec des moyens et des questionnements bien différents), continuent d’influencer notre modernité.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: 
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Dominique Allios
+
+----
+
+Article-sito: 

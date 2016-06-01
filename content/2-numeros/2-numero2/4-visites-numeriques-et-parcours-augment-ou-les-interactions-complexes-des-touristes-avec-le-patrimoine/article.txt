@@ -1,0 +1,240 @@
+Pagesettings-1: 
+
+----
+
+Title: Visites numériques et parcours augmenté, ou les interactions complexes des touristes avec le patrimoine
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: jessica-de-bideran
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+(image: detail_papier_01.jpg )
+#####Arc / Écrits d’écran version papier, 2013. 
+
+Le recours aux images de synthèse pour représenter des sites patrimoniaux en partie détruits ou disparus apparaît depuis plusieurs années comme une solution pertinente permettant de gommer les affres du temps tout en construisant une certaine *mythification* des monuments historiques [1. Fèvres-de Bideran, J., « Infographie, images de synthèse et patrimoine monumental. Espace de représentation, espace de médiation », *Université de Bordeaux 3 Michel de Montaigne*, thèse de doctorat en Histoire de l’Art (dactylo), 2012.]. Ces représentations patrimoniales se concrétisent dans des images-objets c’est-à-dire des monuments virtuels interactifs qui s’inscrivent dans une série d’usages. Celle-ci s’étend sur tout le spectre de la communication scientifique, du stade de la recherche où l’image perceptible seulement sur l’écran d’ordinateur s’élabore dans un dialogue plus ou moins informel entre chercheur et infographiste, à la médiatisation patrimoniale qui prend les formes les plus diverses [2. Images fixes diffusées sur site ou via des revues de vulgarisation, émission de télévision, application de visualisation interactive, etc.]. Au sein du panel des outils numériques à disposition, les parcours nomades et multimédias sur tablettes faisant appel à la réalité augmentée [3. D’un point de vue purement conceptuel, la réalité augmentée consiste à superposer en temps réel une image virtuelle en deux ou trois dimensions sur les éléments de notre réalité, le tout médiatisé par une plateforme informatique, tablette tactile, écran d’ordinateur ou téléphone mobile le plus souvent.] construisent des dispositifs de médiation qui permettent d’appréhender différemment le patrimoine. Exploités en contexte urbain, la mise en récit de l’histoire s’appuie alors sur une écriture par l’espace de la cité qui module l’expérience du visiteur en fonction de son positionnement topographique mais aussi de ses actions. Les dispositifs de réalité augmentée s’appuient en effet sur l’interactivité en temps réel avec l’environnement proche filmé par le terminal mobile ; il s’agit de transporter le touriste au sein d’une époque et d’un temps révolus. Cette exigence oblige les réalisateurs à adopter une véritable ligne éditoriale et à créer un design qui immerge le visiteur dans le contenu culturel. L’histoire racontée doit alors prendre en compte les contraintes et les habitudes de visite des touristes tout en étant mise en forme selon un design pertinent et aisément compréhensible. Comment dès lors se construisent ces usages et qu’empruntent-ils de la pratique touristique, fortement marquée par les cultures de l’oral et de l’imprimé ? Quel rôle joue le design dans la création de ces nouvelles pratiques patrimoniales ? L’analyse de la visite augmentée de Bordeaux au XVIII<sup>e</sup> siècle exploitée par l’Office de Tourisme de Bordeaux depuis septembre 2012, peut nous permettre
+de comprendre comment s’élaborent ces mécaniques qui proposent aux visiteurs d’interagir avec l’environnement patrimonial. Cette étude s’appuie sur l’observation des phases de conception du projet ainsi que sur une série d’analyses statistiques réalisées après plusieurs mois d’exploitation [4. Entre mars 2010 et février 2012, nous avons personnellement participé aux recherches historiques accompagnant la phase de conception du scénario de visite. D’autre part, les données statistiques présentées dans le texte sont issues des pratiques effectives de l’ensemble des usagers enregistrées de façon anonyme par l’application *Imayana* entre le 15 septembre 2012, date de sa mise en service, et le 30 septembre 2013. Nous remercions ici Bruno Plantier, directeur R & D d’Heritage Prod, de nous avoir fourni ces données.].
+
+### La réalité augmentée en ville, entre médiation spatiale et exploration patrimoniale
+
+*Imayana* [5. Pour *Ima*, en référence à image et *Yana* qui signifie mémoire en langue Quechua.], dispositif numérique en réalité augmentée inauguré en septembre 2012, se présente comme un spectacle culturel et ludique permettant de plonger dans le passé afin de faire revivre aux visiteurs le Bordeaux du XVIII<sup>e</sup> siècle. Proposant un parcours au cœur du port de la lune, classé depuis 2007 au patrimoine mondial de l’humanité, l’application est implémentée sur un *Ipad2* que les concepteurs nomment *machine* en référence à l’un des thèmes de prédilection de la science fiction, la machine à voyager dans le temps. Issu d’un long processus de recherche et développement soutenu financièrement par la région *Aquitaine*, *Imayana* a été conçu par la société *Heritage Prod* [6. Le projet a été imaginé et développé par un cluster d’entreprises réunies autour de la société d’infographie Axyz qui a créé pour l’occasion la société *Heritage Prod*. L’*École Nationale Supérieure de Cognitique* et le laboratoire *IMS* de Bordeaux tout comme des chercheurs de l’*Université de Bordeaux 3* ont notamment apporté leur expertise sur le projet.] et a demandé à ses créateurs deux ans d’élaboration. La conception de ce dispositif a en effet nécessité de nombreuses compétences ; scénaristes, historiens, ingénieurs en informatique, graphistes et cogniticiens ont ainsi produit un scénario de visite proposant une déambulation d’une durée comprise entre une heure et demie et deux heures et demie sur environ un kilomètre.
+
+D’un point de vue éditorial, cette visite s’inscrit dans un modèle d’appréhension du discours historique exploité par exemple dans les
+systèmes de médiation présencielle théâtralisée [7. Belaën, F., et Blet, M., « La médiation présencielle dans un musée des sciences », *La Lettre de l’OCIM*, n°114, 2007, [En ligne], mis en ligne le 03 février 2011, consulté le 12 octobre 2012. URL : **(link: http://ocim.revues.org/704 text: http://ocim.revues.org/704)**.] : les monuments restitués se peuplent des hommes qui les ont habités, construits ou arpentés. Selon les principes de la patrimonialisation [8. Davallon, J., « Comment se fabrique le patrimoine ? »,* Sciences Humaines*, hors-série n°36, 2002, pp. 74-77.], le patrimoine est en effet pensé comme une réserve de mémoires qui délivre des signes, des fantômes et des ondes provenant du passé.
+
+En outre, et d’un point de vue pragmatique, l’écriture multimédia se base sur deux grandes fonctionnalités, la navigation et les points d’expérience. Les points d’expérience, au nombre de neuf et géographiquement fixes, sont des lieux précis sur le parcours où la machine propose une expérience en réalité augmentée. Concrètement, lorsque qu’un visiteur se trouve sur l’un de ces sites, différentes actions lui permettent de réanimer des statues (fig. 1), de rencontrer des personnages ou encore d’observer les monuments et paysages environnants du XVIII<sup>e</sup> siècle. Au-delà de ce principe de visualisation en réalité augmentée d’édifices détruits, ce dispositif offre en effet tout un panel d’usages qui s’étend de la visite virtuelle en temps réel de lieux fermés au public à l’application tactile permettant de découvrir un tableau du XVIII<sup>e</sup> siècle. Entre deux expériences, l’usager est en mode navigation.
+
+(image: echappees_2_57.jpg)
+#####(fig. 1) Animation de la statue en bronze de Tourny et de mascarons. Capture écran du point d’expérience n°3 du parcours *Imayana*. © *Heritage Prod.*, 2012.
+
+Orienté grâce au GPS intégré à l’*iPad 2*, il accède par l’intermédiaire d’une carte interactive à différents contenus aux fonctions prescriptives
+caractéristiques de l’industrie touristique : signalement et description des monuments proches et dignes d’être vus ou localisation de services divers. Le visiteur déambule donc dans un parcours programmé qu’il peut suivre plus ou moins à sa guise. Le dispositif pensé ici se rapproche, *a priori*, de ce que peut vivre un visiteur au cours d’une visite guidée traditionnelle. Mais la distance avec les objets patrimoniaux n’est plus imposée ici par les logiques de monstration des systèmes de médiation présencielle ; parce que l’observateur est nécessairement en action au sein même de ce parcours et que son regard est médiatisé par un artefact technique, il y a fusion entre les signes du passé observés et le champ de vision de ce dernier. L’application proposant en effet deux types d’activités, l’usager éprouve au cours de sa visite deux attitudes corporelles qui ajustent l’orientation de son regard. En position tête haute, celui-ci scrute son environnement immédiat à travers la machine et interagit avec la simulation informatique qui se déploie sur son écran. À l’inverse, en position tête basse, l’observateur est invité à observer plus tranquillement les contenus audiovisuels complémentaires. Loin d’être anecdotique, chacune de ces postures place le touriste dans une situation de médiation différente.
+
+La position tête basse propose, outre une médiation spatiale assurée par l’interface cartographique, un temps de repos où le visiteur peut
+consulter des contenus optionnels plus classiques tels que des courts films historiques. L’attitude tête haute, quant à elle, plus dynamique, installe l’usager dans une démarche d’exploration. Lunette sur le passé, la machine, si elle est bien exploitée, dévoile alors la face cachée de la cité. Si l’usager bouge en effet trop rapidement la tablette, celle-ci ne lui délivre pas les ondes du passé qu’elle est censée capter et l’image observable à travers cette lunette se brouille. Autrement dit, le scénario intègre volontairement les limitations techniques de la tablette, incapable de calculer en temps réel des mouvements trop rapides. Les concepteurs ont ainsi développé cet artifice visuel empêchant la saturation du processeur informatique et, par la même occasion, suggérant au visiteur d’adopter une gestuelle calme et méticuleuse pour explorer son environnement proche. Il ne s’agit plus seulement de donner à voir des restitutions infographiques, mais aussi et surtout de donner à appréhender une ville et une époque ancienne en stimulant la participation du visiteur et donc son appropriation de ce patrimoine.
+
+### La réalité augmentée en ville, ou la création d’un lexique d’interactions
+L’usager fait ainsi l’apprentissage d’un nouveau regard patrimonial, où il n’est plus question de seulement voir, mais aussi et surtout de regarder et même de savoir regarder. Cette vision du passé aléatoire, presque confuse selon les actions de l’usager, crée une *image actée*[9. Pour reprendre la dénomination proposée par Jean-Louis Weissberg, c’est-à-dire une « image suscitant et exigeant des actes – synonyme d’image interactive, mais qui insiste précisément sur cette dimension d’acte, au sens gestuel. », dans Amato, E.-A., et Weissberg, J.-L., « Le corps à l’épreuve de l’interactivité : interface, narrativité, gestualité », *Interfaces, Anomalie digital arts*, n°3, 2003, pp. 44-45.] dont la réception est intimement liée à la dimension gestuelle. L’acte d’observation du paysage historique joue ici sur ce rapport complexe entre le visible, le patrimoine d’aujourd’hui, et l’invisible, les monuments d’hier, tout en intégrant la présence de l’acteur dans la scène.
+
+Cette incorporation est symbolisée par certaines formes graphiques qui fabriquent autant de liaisons imaginaires entre le mouvement corporel de l’usager et l’image-actée. Ces mécaniques d’intégration ont donné lieu à l’élaboration, par les concepteurs, de tout un vocabulaire spécifique. Arrivé sur un point d’expérience, le visiteur est donc invité à scruter tout autour de lui en recherchant un axe de *syntonisation*, c’est-à-dire un point de visée qui permet à la machine de capter ces fameuses ondes du passé. Les *portes temporelles* donnant accès aux paysages disparus sont, quant à elles, simulées par l’ouverture d’un *vortex* (fig. 2) tandis que l’activation des *passe-murailles*, permettant de pénétrer au cœur de monuments fermés tels que le *Grand Théâtre*, lance le visiteur dans la traversée d’un *tunnel* aboutissant à la visite de ces lieux. Outre la création d’un méta-univers complet et unique, ce travail lexicographique permet de définir précisément les interactions que les explorateurs vivent avec l’espace urbain et historique et d’en proposer une formation par l’intermédiaire d’une aide accessible à tout moment. Le visiteur fait alors l’expérience d’un apprentissage d’usages grâce à la répétition de différentes situations, expérience qui le pousse à être attentif à son environnement mais aussi à ses propres actions sur le dispositif interactif.
+
+(image: echappees_2_58.jpg)
+#####(fig. 2) Activation du *vortex* devant le grand théâtre de Bordeaux. Capture écran du point d’expérience n°4 du parcours *Imayana*. © *Heritage Prod.* 2012.
+
+*Imayana* devient ainsi une véritable machine à communiquer amenant les usagers à rencontrer l’univers pensé par les concepteurs [10. Le Marec, J., « L’interactivité, rencontre entre visiteurs et concepteurs », *Publics et Musées*, n°3, 1993. pp. 91-109.]. Le ton est notamment fortement personnalisé et les narrateurs agrémentent le discours savant de petites histoires et d’anecdotes qui tentent d’éveiller la curiosité de l’utilisateur. Cette relation ludique aux savoirs s’appuie, au-delà de l’interaction avec le patrimoine qu’elle suppose, sur un design pensé* in fine* comme une « activité créatrice d’enchantement des expériences » [11. Vial, S., « La structure de la révolution numérique. Philosophie de la technologie », *Université de Paris Descartes*, thèse de doctorat en Philosophie (dactylo), 2012.].
+
+### La réalité augmentée en ville, un design d’absorption
+
+À la différence des jeux vidéo ou des jeux de rôle en ligne, l’usager est ici physiquement présent dans un monde qui hybride passé et présent mais aussi environnement réel et création numérique. Situé derrière un écran, le corps du touriste est pour autant intégré à cet univers par une série d’artifices qui relève du design numérique, c’est-à-dire qui « recourt à la matière calculée comme matière à modeler en elle-même et pour elle-même, avec l’intention de donner vie à des usages […] en donnant forme avant tout à des matériaux informatisés. » [12. Vial, S., « La structure de la révolution numérique », *op. cit.*, p. 270.]
+
+Les nombreuses interactions que proposent *Imayana* sont en effet intimement liées à la gestuelle du touriste et créent cette instanciation du
+corps non seulement dans l’espace réel de la cité mais aussi dans ce méta-univers numérique. Sur un plan opérationnel, l’efficience de cette projection fonctionne sans avoir recours à un avatar mais en jouant sur la réception sensible du visiteur.
+
+L’audition, la vision et les codes graphiques imaginés construisent en effet un design qui intègre tout autant le visiteur dans l’image-actée que cette même image dans l’expérience intellectuelle et physique du visiteur. En position tête basse par exemple, l’utilisateur accède à des informations topographiques et historiques sur le paysage simulé informatiquement par l’intermédiaire d’une *table d’orientation* dont le design reproduit les codes graphiques de ces petites constructions bien connues des touristes pour leur permettre d’identifier les éléments caractéristiques du panorama qui leur fait face (fig. 3). La *table d’orientation* numérique est ainsi embarquée par le visiteur et tourne sur 360 degrés selon le positionnement de ce dernier afin de lui offrir une vision synthétique de ce qui l’entoure.
+
+(image: echappees_2_59.jpg)
+#####(fig. 3) « Table d’orientation numérique » avec accès à des commentaires audio. Capture écran du point d’expérience n°9 du parcours *Imayana*. © *Heritage Prod*. 2012.
+
+(image: echappees_2_60.jpg)
+#####(fig. 4) Restitution de la place de la Bourse au XVIII<sup>e</sup> siècle. Capture écran du point d’expérience n°9 du parcours *Imayana*. © *Heritage Prod*. 2012.
+
+À l’inverse, en position tête haute, le même paysage est restitué selon un rendu réaliste (fig. 4). Ce rendu simule les lois simples de l’optique en décrivant notamment comment la lumière se réfléchit sur les objets. D’un point de vue technique, la création de ce type de rendus est fortement liée à l’éclairage de la scène tridimensionnelle et des textures exploitées tout comme des effets appliqués sur celles-ci. Ici, l’éclairage des scènes tridimensionnelles restituant les paysages du XVIII<sup>e</sup> siècle est notamment calculé selon la luminosité et le climat bordelais du moment de visite et les textures sont issues de photographies numériques retravaillées par la suite sous un logiciel
+de retouche graphique pour être plaquées sur les modèles numériques du site. Tissant des liens entre monde réel et monde numérique,
+l’exploitation de ces artifices graphiques accentue cette assimilation de l’image comme champ visuel du visiteur, le cerveau de ce dernier réduisant alors ces deux mondes en un seul. Or, là encore ce champ visuel est orienté selon le positionnement et les mouvements de l’usager. En multipliant les points de vue possibles depuis une même zone géographique, les concepteurs offrent l’opportunité à l’observateur de choisir ce qu’il souhaite examiner. Les visions panoramiques, tant en tête basse qu’en tête haute, obligent notamment le touriste à sectionner ses moments de découverte en de multiples unités de temps et de vision. À l’usage, on constate d’ailleurs que ce sont sur les expériences de *portes temporelles* que les visiteurs passent le plus de temps, entre 6 et 8 minutes en moyenne, modulant ainsi leur temps d’observation selon leur désir et leur intérêt. Le design sonore, enfin, joue également un rôle important dans cette absorption de l’observateur. Les différents sons, commentaires historiques ou injonctions de personnages apostrophant le visiteur sont en effet spatialisés
+et autorisent par conséquent celui-ci à s’orienter plus facilement dans l’univers calculé.
+
+L’usager pénètre conséquemment dans un monde ayant ses propres règles et ses propres principes de fonctionnement. Le design projeté ici absorbe véritablement le visiteur et sa vision dans une même immersion et l’ensemble de ces éléments permet à ce dispositif en réalité augmentée de se détacher in fine du paradigme de la représentation à contempler d’un pointde vue fixe tout en intronisant l’acte individuel d’observation.
+
+### La réalité augmentée patrimoniale, un dispositif d’individuation de l’usager
+Cette individuation de la visite est sans doute une des particularités qui recueille le plus de critiques de la part des observateurs extérieurs. À priori, ces outils s’adaptent en effet mal aux visites à plusieurs et font écran à une appréhension globale du site. Cet isolement de l’observateur est d’autant plus marqué par l’exploitation d’un système de portage conçu spécifiquement pour ce dispositif (fig. 5).
+
+(image: echappees_2_61.jpg )
+#####(fig. 5) Principe de portage de la machine *Imayana*. © Heritage Prod. 2012.
+
+Cette sorte de camera obscura luttant contre les (fig. 5) Principe de portage de la machine *Imayana*. © *Heritage Prod*. 2012. rayons du soleil tout en protégeant la machine d’éventuels chocs crée en effet autour des utilisateurs d’*Imayana* un cercle magique [13. Huizinga, J., « Homo Ludens. Essai sur la fonction sociale du jeu », *Gallimard*, Paris, 1988.] qui les maintient dans ce monde hybride. Il est néanmoins intéressant de constater qu’à l’usage, les visiteurs ajustent leurs échanges avec les autres individus et les coupures avec l’environnement. Ainsi, l’introspection est particulièrement recherchée dans les moments de découvertes architecturales et d’immersion dans un espace numérique mais cet isolement momentané se voit rompu par les temps de promenade où l’usager retrouve le lien avec le patrimoine réel et ses acolytes. Les enregistrements des durées de visites montrent notamment que les usagers passent autant de temps, soit en moyenne 1 heure, en déambulation autonome, c’est-à-dire avec la machine fermée et en bandoulière, qu’en découverte des points d’expériences en position tête haute et des contenus supplémentaires consultables en position tête basse. D’autre part, lors des expérimentations menées avec des groupes scolaires, les guides ont pu observer des comportements de groupes de même type ; les jeunes visiteurs s’entraident, cherchent dans l’environnement réel l’objet patrimonial qui s’est animé sur l’écran ou échangent sur des contenus vus au travers du dispositif.
+
+Ces temps de repos et ces usages communautaires ne sont pas sans rappeler les constatations faites par Raph Koster sur les jeux de rôle en
+ligne où les pauses dans les scénarios sont vécues par les joueurs comme un encouragement à être ensemble et à échanger sur leurs pratiques [14. Dans « Lois du design des mondes en ligne », cité dans Lelièvre, E., « Des jeux de rôle en ligne tridimensionnels aux jeux à réalité alternée : expérience esthétique, création et expérimentation », *Université Paris 8 Vincennes Saint-Denis*, thèse en Esthétique, Science et Technologie des Arts, Spécialité : Images Numériques, p. 71.]. Les concepteurs d’*Imayana* parient finalement sur la capacité des visiteurs à augmenter leur autonomie, anticipant l’individuation des usagers dans leur rapport au savoir historique en appliquant certains grands principes du game design à une application de découverte patrimoniale. Les données numériques recueillies par les machines permettent au demeurant de conclure en ce sens et confirment ainsi les hypothèses d’utilisation avancées lors de la phase de conception. Si le parcours est arpenté selon l’ordre mis en place par les concepteurs, tous les usagers ne consultent pas de la même manière l’ensemble des contenus proposés. Avec une durée moyenne de visite de 2h20, avec un minimum de 1h30 et un maximum de 3h00, il semble que chacun *picore* selon son temps et son désir afin de se construire une visite sur mesure. Ce chiffre permet également de souligner que plus 70% des contenus optionnels sont consultés. De même l’apprentissage des différents usages se révèle efficace : « sur des expériences de même typologie, les diverses aides disponibles, automatiques ou manuelles, ne sont plus sollicitées après une première expérience, preuve que le visiteur en a compris et intégré le fonctionnement. » [15. Barbier, T. et Plantier, B., « *Imayana* fait vivre Bordeaux au XVIII<sup>e</sup> siècle », *Espaces*, n°314, 2013, p.34. L’aide n’est en effet consultée que par 7% des visiteurs. On pourra d’ailleurs s’interroger sur le fait que les services proposés par la carte de navigation n’intéressent également que 7% des usagers ; les visiteurs expérimentant *Imayana* ne sont vraisemblablement pas dans la recherche de ce type d’informations, délivrées de façon plus traditionnelle par des guides papier par exemple.] Ces constations ont déjà été faites sur d’autres applications en réalité augmentée, telle la visite du cabinet de travail de
+Charles V conçue en 2009 pour le donjon du château de Vincennes [16. Sur cette dernière expérience, voir en dernier lieu : Fèvres-de Bideran, J., et Fraysse, P., « Modalités de circulation et d’appropriation du patrimoine à travers les ressources numériques : le cas des monuments augmentés », dans « Patrimoines et humanités numériques : quelles formations ? », Colloque international, 21-23 juin 2012, Archives nationales, Université Paris 8 (Actes à paraître). De même : Fèvres, J., et Plantier, B. « Une expérience de réalité augmentée au château de Vincennes : le cabinet de travail de Charles V », dans actes du colloque *Virtual Retrospect 2009, Archéovision* n°4, Bordeaux, Ausonius, 2010, pp.123-127.].
+
+Elles sont, nous semble-t-il, à rapprocher de celles faites par Sophie Deshaye sur un dispositif également nomade bien que beaucoup plus traditionnel mais qui fut aussi en son temps vécu comme une innovation touristique et culturelle, l’audioguide. Tout comme ce type de dispositif, ce dernier est en effet généralement « perçu comme une alternative à la visite guidée, qui peut être, à l’opposé, vécue comme disqualifiante dans la mesure où elle positionne le visiteur dans une logique d’assisté » [17.Deshayes, S., « Audio-guides et musées », *La lettre de l’OCIM*, n°79, 2002, p.26.].
+
+### Conclusion
+
+Pour donner corps à l’immersion indissociable du principe de réalité augmentée, le design d’*Imayana* investit en définitive les ressorts du jeu tels que l’interactivité ou la plongée au sein d’un univers simulé informatiquement. Mais si dans les industries culturelle et touristique traditionnelles, l’usager reste principalement l’objet d’une politique d’anticipation de ses besoins [18. Schafer, V., et Thierry, B., « Le mariage de raison du musée d’art et du web », *Hermès*, n°61, 2011, pp. 102-106.], la particularité consiste ici à projeter de nouvelles formes d’*expériences à vivre* [19. Vial, S., « Court traité du design », Paris, PUF, 2010, p. 115 et suiv.]. D’un point de vue pratique, il s’agissait pour les concepteurs de transformer l’artefact-tablette en instrument-machine, c’est-à-dire en un dispositif ouvrant à une activité cognitive inédite. Cette nécessité conceptuelle a donné lieu à une vaste exploration des capacités de l’Ipad2 confrontée à la mise en place d’une série d’usages de découverte patrimoniale selon deux postures de visite distinctes.
+
+Innovation culturelle et technique, le concept *Imayana* révèle combien le développement de dispositifs interactifs résulte d’un travail hybride mêlant mise en forme des contenus historiques et anticipation des réactions des futurs usagers. En effet, comme dans toute conception d’outils interactifs de médiation, « il y a nécessité pour le concepteur d’une double conscientisation : conscientisation de ses propres objectifs et intentions vis-à-vis des contenus scientifiques, […] [mais] il y a surtout nécessité d’anticiper le déroulement des activités du visiteur dans le temps. » [20. Le Marec, J., « L’interactivité, rencontre entre visiteurs et concepteurs », *op. cit*., p. 101.] Pour cela, le dispositif en cours de développement a dû être confronté à l’univers extérieur. Avant son déploiement grandeur nature, *Imayana* a en effet subi plusieurs tests d’utilisation réalisés par les membres de l’équipe du projet afin de collecter des informations sur la prise en main de l’interface ou la longueur de la visite par exemple, selon une trajectoire d’innovation par *incubation* [21. Mallard, A., « Explorer les usages : un enjeu renouvelé pour l’innovation des TIC », dans *Communiquer à l’ère numérique. Regards croisés sur la sociologie des usages*, Paris, *Presses des Mines*, 2011, pp. 262-265.]. Si ces épreuves ont permis de régler les questions de confort liées à l’exploitation d’une machine au cours d’une visite pédestre, elles ont surtout révélé les difficultés d’aménagement du milieu de l’industrie touristique à ce type d’usage. Location du dispositif et difficulté de gestion de groupes de plus de 10 personnes constituent notamment des freins encore importants.
+
+Ainsi, avec moins de mille usagers sur un an d’exploitation, cette découverte touristique demeure encore anecdotique. L’évolution des outils techniques est à cet égard déterminante et s’il est bien sûr impossible de prédire les systèmes qui feront l’unanimité, il semble cependant évident que seul un contenu adapté à la technique, créatif et inventif sur le plan du récit, intuitif en terme de design d’interaction et pertinent d’un point de vue scientifique, pourra garantir une bonne intégration de ces dispositifs de médiation dans la pratique de la visite patrimoniale.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-visites-numeriques-et-parcours-augmente-ou-les-interactions-complexes-des-touristes-avec-le-patrimoine.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Jessica de Bideran
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] Fèvres-de Bideran, J., « Infographie, images de synthèse et patrimoine monumental. Espace de représentation, espace de médiation », *Université de Bordeaux 3 Michel de Montaigne*, thèse de doctorat en Histoire de l’Art (dactylo), 2012
+
+[2.] Images fixes diffusées sur site ou via des revues de vulgarisation, émission de télévision, application de visualisation interactive, etc.
+
+[3.] D’un point de vue purement conceptuel, la réalité augmentée consiste à superposer en temps réel une image virtuelle en deux ou trois dimensions sur les éléments de notre réalité, le tout médiatisé par une plateforme informatique, tablette tactile, écran d’ordinateur ou téléphone mobile le plus souvent.
+
+[4.] Entre mars 2010 et février 2012, nous avons personnellement participé aux recherches historiques accompagnant la phase de conception du scénario de visite. D’autre part, les données statistiques présentées dans le texte sont issues des pratiques effectives de l’ensemble des usagers enregistrées de façon anonyme par l’application *Imayana* entre le 15 septembre 2012, date de sa mise en service, et le 30 septembre 2013. Nous remercions ici Bruno Plantier, directeur R & D d’Heritage Prod, de nous avoir fourni ces données.
+
+[5.] Pour *Ima*, en référence à image et *Yana* qui signifie mémoire en langue Quechua.
+
+[6.] Le projet a été imaginé et développé par un cluster d’entreprises réunies autour de la société d’infographie Axyz qui a créé pour l’occasion la société *Heritage Prod*. L’*École Nationale Supérieure de Cognitique* et le laboratoire *IMS* de Bordeaux tout comme des chercheurs de l’*Université de Bordeaux 3* ont notamment apporté leur expertise sur le projet.
+
+[7.] Belaën, F., et Blet, M., « La médiation présencielle dans un musée des sciences », *La Lettre de l’OCIM*, n°114, 2007, [En ligne], mis en ligne le 03 février 2011, consulté le 12 octobre 2012. URL : http://ocim.revues.org/704 
+
+[8.] Davallon, J., « Comment se fabrique le patrimoine ? »,* Sciences Humaines*, hors-série n°36, 2002, pp. 74-77.
+
+[9.] Pour reprendre la dénomination proposée par Jean-Louis Weissberg, c’est-à-dire une « image suscitant et exigeant des actes – synonyme d’image interactive, mais qui insiste précisément sur cette dimension d’acte, au sens gestuel. », dans Amato, E.-A., et Weissberg, J.-L., « Le corps à l’épreuve de l’interactivité : interface, narrativité, gestualité », *Interfaces, Anomalie digital arts*, n°3, 2003, pp. 44-45.
+
+[10.] Le Marec, J., « L’interactivité, rencontre entre visiteurs et concepteurs », *Publics et Musées*, n°3, 1993. pp. 91-109.
+
+[11.] Vial, S., « La structure de la révolution numérique. Philosophie de la technologie », *Université de Paris Descartes*, thèse de doctorat en Philosophie (dactylo), 2012.
+
+[12.] Vial, S., « La structure de la révolution numérique », *op. cit.*, p. 270.
+
+[13.] Huizinga, J., « Homo Ludens. Essai sur la fonction sociale du jeu », *Gallimard*, Paris, 1988.
+
+[14.] Dans « Lois du design des mondes en ligne », cité dans Lelièvre, E., « Des jeux de rôle en ligne tridimensionnels aux jeux à réalité alternée : expérience esthétique, création et expérimentation », *Université Paris 8 Vincennes Saint-Denis*, thèse en Esthétique, Science et Technologie des Arts, Spécialité : Images Numériques, p. 71.
+
+[15.] Barbier, T. et Plantier, B., « *Imayana* fait vivre Bordeaux au XVIII<sup>e</sup> siècle », *Espaces*, n°314, 2013, p.34. L’aide n’est en effet consultée que par 7% des visiteurs. On pourra d’ailleurs s’interroger sur le fait que les services proposés par la carte de navigation n’intéressent également que 7% des usagers ; les visiteurs expérimentant *Imayana* ne sont vraisemblablement pas dans la recherche de ce type d’informations, délivrées de façon plus traditionnelle par des guides papier par exemple.
+
+[16.] Sur cette dernière expérience, voir en dernier lieu : Fèvres-de Bideran, J., et Fraysse, P., « Modalités de circulation et d’appropriation du patrimoine à travers les ressources numériques : le cas des monuments augmentés », dans « Patrimoines et humanités numériques : quelles formations ? », Colloque international, 21-23 juin 2012, Archives nationales, Université Paris 8 (Actes à paraître). De même : Fèvres, J., et Plantier, B. « Une expérience de réalité augmentée au château de Vincennes : le cabinet de travail de Charles V », dans actes du colloque *Virtual Retrospect 2009, Archéovision* n°4, Bordeaux, Ausonius, 2010, pp.123-127.
+
+[17.] Deshayes, S., « Audio-guides et musées », *La lettre de l’OCIM*, n°79, 2002, p.26.
+
+[18.] Schafer, V., et Thierry, B., « Le mariage de raison du musée d’art et du web », *Hermès*, n°61, 2011, pp. 102-106.
+
+[19.] Vial, S., « Court traité du design », Paris, PUF, 2010, p. 115 et suiv.
+
+[20.] Le Marec, J., « L’interactivité, rencontre entre visiteurs et concepteurs », *op. cit*., p. 101
+
+[21.] Mallard, A., « Explorer les usages : un enjeu renouvelé pour l’innovation des TIC », dans *Communiquer à l’ère numérique. Regards croisés sur la sociologie des usages*, Paris, *Presses des Mines*, 2011, pp. 262-265.

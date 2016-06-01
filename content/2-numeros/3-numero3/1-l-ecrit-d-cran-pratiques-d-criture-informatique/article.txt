@@ -1,0 +1,263 @@
+Pagesettings-1: 
+
+----
+
+Title: L'écrit d'écran, pratiques d'écriture & informatique
+
+----
+
+Article-date: 1er trimestre 1996
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  article_auteur_nom: emmanuel souchier
+  article_auteur_bio: '(link:aprops#emmanuel-souchier text: link)'
+  article_auteur_lien: ""
+  auteur_uri: emmanuel-souchier
+  auteur_uid: emmanuel-souchier
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: Cet article a été publié dans la revue *Communication & langages*, n° 107 au 1<sup>er</sup> trimestre 1996. Nous remercions Emmanuël Souchier d’avoir accepté que nous le publions de nouveau dans ce numéro ainsi qu’à Jean-Louis Soubret, fondateur et directeur des éditions *NecPlus*. Il est de ces articles qui éclairent notre présent. « L'écrit d'écran, pratiques d'écriture & informatique » est l’un d’eux. Il apporte notamment un éclairage sur nos pratiques de l’écrit d’écran au moment où il se popularise et des adaptations qui en ont découlé.
+
+----
+
+Article-chapeau-redaction-note: 
+
+----
+
+Article-chapeau-auteur: 
+
+Il y a vingt ans, lors de sa sortie, j’avais dédié « L’écrit d’écran, pratiques d’écriture & informatique » à Gérard Blanchard, un « homme de lettres de plomb » pour reprendre l’expression de Balzac, qui fut l’un des premiers à s’intéresser à la *lettre télématique* avant qu’elle ne soit détrônée par la *lettre numérique*. Je suis heureux que cet article soit aujourd’hui repris par l'École supérieure d'art des Pyrénées – Pau Tarbes. C’est au fond un juste retour des choses et un bel hommage après le numéro spécial que nous lui avons consacré pour les cinquante ans de la revue [1. « Gérard Blanchard », *Communication & langages*, numéro coordonné par Samuel Goyet, Elsa Tadier et Virginie Vignon, sous la dir. de Emmanuël Souchier, n°178 décembre 2013.].
+
+« L’écrit d’écran, pratiques d’écriture & informatique » est l’article qui fait l’objet des plus nombreuses consultations sur le site de la revue *Communication & langages* éditée par *NecPlus*. Le sujet intéresse donc toujours autant les internautes ! Depuis sa parution la problématique de *l’écrit d’écran* se pose toujours dans les mêmes termes. Pour peu qu’on lui adjoigne les pratiques liées à l’apparition de l’internet grand public et des *écrits de réseau*, on reviendra sur les mêmes questions fondamentales. En premier lieu sur celles de la lecture et de l’écriture à l’écran considérées en fonction du support et de leurs conditions d’usage ordinaires (sociales, culturelles, économiques). J’ai proposé de réunir lecture et écriture sous le terme *lettrure* emprunté au vocabulaire médiéval, pour ce qu’elles constituent l’activité centrale requise par les médias informatisés [2. Emmanuël Souchier, « La *lettrure* à l’écran. Lire & écrire au regard des médias informatisés », *Communication & langages*, n° 174, décembre 2012, p. 85-108. ]. Mais l’analyse n’a pas changé. Elle repose toujours sur un regard placé dans l’histoire longue afin de rendre compte au mieux de ce que l’informatique – ou le *numérique* – a introduit au sein de l’écriture, cette *technologie de l’intellect* que l’on peut considérer comme l’une des plus belles inventions de l’homme. Celle qui a sans doute métamorphosé son rapport au monde de la façon la plus radicale, lui permettant notamment de *trans-former* le temps en espace… l’espace de l’écrit, précisément.
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+La civilisation de l'image devait bientôt faire disparaître l'écrit (attendu que l'image participe de l'écrit, cette problématique est- elle bien posée ?), la victoire de l'écran sur l'écrit imprimé devait être totale (peut-on confondre l'écrit et la surface de l'un de ses supports?) [1. Il est à cet égard significatif de voir *Le Monde* commenter un sondage *Sofres* pour le compte de *Encyclopaedia Universalis* en titrant « Écrit-écran : match nul » (15 septembre 1995).]... Combien de thèses alarmistes ont ainsi été posées au cours des dernières décennies ? L'arrivée de l'informatique dans le champ du texte et de l'écriture – suivie un peu plus tard par celle des télécommunications – a soulevé autant d'inquiétudes qu'elle a fait naître de rêves et d'utopies (le *tout automatique* n'est-il pas encore l'un des fantasmes techniques les mieux partagés ?). Les stratégies et pratiques d'écriture élaborées avec les nouveaux outils nous permettent toutefois de penser les rapports entre l'écrit et les nouvelles techniques avec un peu plus de sérénité.
+
+L'informatique et les télécommunications touchent désormais la quasi totalité des sphères d'activité humaines, aussi participent-elles nécessairement de l'évolution des pratiques et des modes d'élaboration symboliques. Il nous importe donc de savoir quelle est la part du support, de la technique et de l'outil dans cette évolution, sachant qu'il n'y a pas de transformation technologique qui ne soit accompagnée d'une transformation des modes de *faire* et par là-même des *modes de penser*.
+
+Nous assistons à différents types de modifications portant essentiellement sur la matérialité et les supports, l'acte et les pratiques d'écriture, sur les partenaires de l'écrit, sur la division du travail, sur le temps, l'espace et la diffusion de l'écrit. Le présent article n'ambitionne pas d'aborder l'intégralité de ces aspects, qui méritera d'être traitée en plusieurs mouvements [2. Nous traiterons ultérieurement dans ces mêmes colonnes les points suivants : l'acte et les pratiques d'écriture ; les partenaires de l'écrit ; la division du travail ; le temps, l'espace et la diffusion de récrit : du manuscrit à l'hypertexte.], il tente plus modestement de répondre à quelques-unes des principales interrogations soulevées par les modifications de la matérialité et des supports de l'écriture apportées par les techniques informatiques.
+
+###L'écrit d'écran ou la révélation des Dieux
+
+La *trace*, la *forme* et le *point* ont marqué l'évolution technique de l'écriture alphabétique en Occident. Ces trois temps, nécessairement simplificateurs, n'en sont pas moins révélateurs d'une évolution technologique et des conséquences que cette évolution a entraînées sur la diffusion de l'écrit. La *trace-mouvement* du copiste médiéval, la *forme-surface* du typographe et le *point-coordonné* de l'informaticien marquent des ruptures essentielles dans l'histoire des supports et des outils de l'écrit. Ils sont également placés au cœur de l'évolution des mentalités. L'homme du *pixel* – notre contemporain – ne pense ni ne perçoit son univers ainsi que le percevait l'homme de la trace ou celui de la forme et du poinçon ; son regard et sa perception de l'écrit dans l'espace sont distincts. Ces trois temps coexistent néanmoins dans notre pratique actuelle.
+
+Chaque jour, nous avons en effet recours à la trace et au mouvement du stylo, renouant ainsi avec les pratiques du calame et du pinceau ; le *ductus* de la lettre retrouve alors le chant du corps et l'écriture réapprend l'étoilement du texte à travers l'espace de la page manuscrite [3. Plaisir sensuel de l'écrit manuel, mais également réappropriation de l'espace originel de l'écrit. Sous la reproduction d'un feuillet manuscrit présentant de nombreux repentirs, Barthes note : « Corrections ? Plutôt pour le plaisir d'étoiler le texte. » (« Roland Barthes par Roland Barthes », coll. *Écrivains de toujours*, *Seuil*, 1 975, p. 105.)]. La marque typographique prime quant à elle forme et surface aux frontons des bâtiments publics, des quotidiens ou des ouvrages... Mais l'imprimé n'est pas le seul à subir cette influence : cinéma, télévision, informatique... tout support d'écran affiche ou magnifie l'alphabet en sa graphie. Il n'est pas une parcelle de l'espace social – et par là même de l'espace mental – qui ne soit empreinte d'une lettre, cette *forme* – cette *gestalt* – « infra-ordinaire » élaborée, mise au point, peaufinée durant plus de cinq siècles de typographie. Le pixel, enfin, nous est curieusement étranger. Paradoxe de cette unité de surface omniprésente que nous ne percevons pas, mais sans laquelle l'image n'existerait pas sur nos écrans informatiques.
+
+###La lettre volée
+
+Si pour l'écriture le passage de la trace à la forme entérine une première rupture corporelle (le geste est supplanté par la marque métallurgique de la typographie), le passage au pixel traduit une rupture, plus fondamentale encore, à la fois visuelle et conceptuelle. Numérisée, puis recomposée au seul profit de l'œil, la lettre a perdu sa pérennité matérielle et sa relation corporelle directe. D'une trace inscrite sur un support, nous sommes passés à une trace électronique fugitive qui ne présente plus de matérialité tangible. Trace et support ne vieillissent plus ensemble, seul subsiste désormais – à travers le temps – l'algorithme que l'œil ne peut transcrire sous forme perceptible. L'écriture est arrivée à un degré d'abstraction tel que les sens ne peuvent la percevoir sans intermédiaires. Numérisée, une chaîne de caractères est traitée en dehors de sa forme graphique ; le regard subit dès lors une véritable mutation perceptive. Si le copiste médiéval trace l'espace du parchemin en fonction d'un ensemble de données matérielles, religieuses, esthétiques... s'il élabore le « sens formel » [4. Pour reprendre l'expression de Jacques Roubaud dans « La Fleur inverse, Essai sur l'art formel des troubadours », *Ramsay*, 1986. ] de son écrit – espace où le *sens* et la *forme* sont en écho d'harmonie –, le claviste contemporain frappe en revanche sur un clavier et doit* imaginer* ce que sera le résultat à l'écran ; pour autant il ne saurait préjuger de l'image finale. La lettre du clavier n'est pas celle de l'écran, pas plus qu'elle ne sera celle de l'écrit en sortie d'imprimante. À ces trois temps, correspondent trois regards d'écrit distincts. Certes, l'invention des systèmes *Wysiwyg* [5. Pour *what you see is what you get* ; en d'autres termes, ce qui est affiché à l'écran sera ce que vous obtiendrez sur votre feuille imprimée ; à ceci près que la lettre de lumière n'est pas la lettre d'encre et de papier. Toutes deux sont intrinsèquement distinctes.] a apporté un notable confort d'utilisation en imageant l'espace de la lecture ; mais il n'y a pas dans l'écrit informatique d'équivalence entre le *frappé* et le *tracé* final de l'imprimé.
+
+L'objet qui apparaît à l'écran présente d'autres caractéristiques : luminescent, dynamique, il n'a ni épaisseur ni matérialité. La matérialité de l'écrit s'est déplacée vers l'outil : plus de taches d'encre sur les doigts, mais une boîte, objet d'un certain volume, pourvu d'un écran et d'un clavier ; tout cela n'est que *quincaillerie*, autrement dit *hardware*. L'écriture s'est éloignée du corps et de la matière picturale pour intégrer les circuits de la technique, de l'électronique. Des sens concernés, ne reste que l'œil qui a pris un ascendant certain sur les rapports face-lecture et *main-graphie* [6. Voir Leroi-Gourhan, « Le Geste et la parole », *Albin Michel*, 1 964, 1.1. « Technique et langage » et plus particulièrement le chapitre consacré aux *symboles du langage*, p. 262 sq.]. La mutation corporelle est radicale : l'écrit ne s'adresse plus à la main que pour la *frappe* et la sphère du regard se disperse en trois espaces distincts (écran, clavier et document) [7. L'imprimante intervenant dans une phase ultérieure du travail.] qui ne requièrent pas les mêmes processus cognitifs. Le tracé sensible du calame qui rassemblait l'œil et la main sur le parchemin semble bien lointain ; sans doute est-ce là le prix d'une diffusion infinie et d'une certaine réconciliation de la lettre en son espace.
+
+###L'espace retrouvé
+
+II existe cependant un ensemble d'outils ou d'interfaces susceptibles de réconcilier l'écrit et l'espace, le geste et la trace [8. J'exclus de mon propos les écrans tactiles et les claviers fonctionnels (dialogues par questions-réponses) qui relèvent d'autres pratiques et font intervenir des modalités d'échange d'une autre nature entre la machine et l'utilisateur.]; il n'est que de songer à la palette graphique, par exemple. Mais ces outils de diffusion restreinte s'adressent à un public spécialisé par ailleurs, les techniques de reconnaissance de formes envisagées pour l'enregistrement direct de l'écriture manuscrite sont encore loin d'être performantes, si tant est que l'on ait répondu aux questions théoriques qu'elles soulèvent. La retranscription automatique de l'oral ne va pas non plus sans poser un certain nombre de difficultés théoriques essentielles qui, loin d'être triviales, évoquent le fossé creusé entre la langue, la parole et l'écriture. Supposons toutefois la chose envisageable, c'est alors à une profonde révolution des modes d'échanges humains qu'il faudrait s'attendre et notamment à l'oralisation de l'écrit. Sur ce point, la France a été un terrain d'analyse privilégié avec l'introduction des messageries télématiques, mais le phénomène prend une tout autre ampleur avec le développement des réseaux planétaires comme le très médiatique *Internet* [9. Cf. « Médias et contrôle des esprits », *Manière de voir*, n° 27, *Le Monde Diplomatique*, août 1995.]. L'écrit s'engage vers l'oralisation, mais il le fait en renouant curieusement avec des pratiques d'inscription spatiales de type idéographique [10. Ce point précis mériterait une analyse plus approfondie : signalons simplement deux exemples significatifs. Le curieux emploi de la capitale à des fins injurieuses révèle la culture *spontanéiste* qui pratique le détournement, se réapproprie les usages et s'y oppose en en ignorant manifestement les origines. Quoi qu'il en soit, cet emploi joue sur la dimension idéographique du caractère et les connotations qui lui sont associées. Plus significative encore la création par les utilisateurs d'Internet d'une série d'agrégats idéographiques composés à partir des signes diacritiques disponibles sur les claviers ; pratiques que les minitélistes français ont inaugurées au cours des décennies passées. En faisant pivoter la revue d'un quart de tour, vous pourrez aisément interpréter ce *smiley* :-) qui marque le contentement supposé de votre interlocuteur. En voici un autre qui cligne de l'œil ;-) un autre encore, heureux enrhumé :-) qui n'a rien à envier à son comparse :( également enrhumé, mais moins gai ! On estime déjà à plus de 600 les items élaborés de ce langage idéographique parallèle.], réactivant avec un certain spontanéisme les vieilles utopies de l'écriture universelle chères à Leibniz et reprises par cet autre encyclopédiste qu'était Queneau [11. Cf. Emmanuël Souchier, Raymond Queneau, « Le Rêve de Bouvard et Pécuchet », p. 254-266, Seuil, 1991.].
+
+Que les outils informatiques soient déclinés sous tous les registres auprès du grand public ne satisfera jamais qu'une logique marchande à courte vue. Il conviendrait au contraire qu'ils soient définis selon une perspective à long terme, qu'ils répondent à des besoins réels et à une exigence d'harmonie entre l'homme et son environnement. Si certains outils ont conservé la même ergonomie depuis des siècles, c'est que leur forme, affinée au fil du temps, répondait précisément à la tâche qui leur était assignée et permettait à l'homme de s'insérer en toute intelligence dans son univers. Le médiocre succès du *communicateur* personnel de poche montre par l'absurde qu'un petit carnet et un crayon restent plus maniables, discrets, fiables et économiques que n'importe quel *note book* électronique ne répondant pas à une réelle nécessité, fût-il admirablement sophistiqué. Les pratiques sociales de communication, que l'on a parfois purement et simplement oublié de prendre en compte, peuvent ainsi se révéler être des freins redoutablement efficaces face à des produits imposés par l'utopie technocratique [12. Cf. Pascal Perin & Michel Gensollen (sous la dir. de), « La Communication plurielle, l'interaction dans les téléconférences », *La Documentation française GNET-ENST*, 1992.]. Sans doute y a-t-il un avenir radieux pour l'écriture informatique, mais il sera d'autant plus rayonnant qu'il sera défini en communion avec les intéressés et les hommes de l'art.
+
+En tout état de cause, le scripteur ne maîtrise désormais plus le parcours intégral de l'écrit. Les opérations, outils et processus placés entre la main et l'écran créent une rupture et interdisent la compréhension globale de l'acte d'écriture : espace du rêve, du fantasme ou de la domination, la *boîte noire* [13. La boîte noire d'un avion n'est pas à proprement parler une *boîte noire*. L'engouement médiatique pour cette expression répond seulement aux connotations qui lui sont associées ; la boîte noire définit en fait l'espace du secret.] placée entre l'homme et son écrit est un espace du secret.
+
+Puisque l'écrit est à son tour devenu un travail en miettes, le désir de renouer avec la trace exprimé par certains créateurs ou celui, plus banal, qui consiste à apposer une formule de politesse manuscrite au bas d'un courrier *imprimé* [14. Le terme traduit à sa manière le glissement opéré entre les sphères sociales de la production de l'écrit. ] ont pris tout leur sens. L'homme (anthropologique, social, psychologique, etc.) s'exhibe en affirmant sa domination sur l'imprimé-machine. Être de trace manuscrite, spatiale et corporelle, l'homme revendique ainsi son existence au monde ; au-delà, il révèle le degré de ce que Wilhelm Steckel appelait le « *complexe mission* » [15. « C'est W. Steckel qui a, le premier, isolé ce *complexe* qui existe chez les individus extrêmement médiocres aussi bien que chez d'authentiques génies (...) Un examen attentif de ce complexe montre qu'il comporte deux aspects essentiels ; l'un peut être résumé par ces deux mots *moi seul*, l'autre par cette phrase : “Le monde après moi ne sera pas tel qu'il était avant.” C'est cette dernière phrase qui contient tout ce qu'il y a de caractéristique dans le messianisme et qui peut se formuler de cette autre façon : “je laisserai une trace de mon passage”. » (Raymond Queneau, « Traité des Vertus Démocratiques », *Gallimard*, 1993, note 1, pages 183-186.).].
+
+###La double abstraction : texte & écriture
+
+L'abstraction est double : du texte et de l'écriture informatiques. Le lecteur ne perçoit en effet qu'une page-écran, l'avant et l'après n'ont pas pour lui d'existence sensible. Le texte qui suit et précède sont proprement *illisibles*. Absents de la scène visible, codés par et pour la machine, ils n'existent que virtuellement. L'écrit accède ainsi à un nouveau degré d'abstraction. Son défilement vertical, analogue au *déroulement* horizontal du *volumen* antique ou des *rotuli* médiévaux retrouve des pratiques de lecture ancestrales [16. Voire « Grand Atlas des Littératures », *Encyclopaedia Universalis*, 1990, et plus particulièrement la section consacrée aux *Espaces de l'écrit*, (sous la dir. d'Anne-Marie Christin, p. 124). ]: rythme du rituel sacré qui se *déroule* selon le livre, *contrôle* des archives administratives, écoute de l'acteur qui joue son rôle, enregistrement des soldats fraîchement *enrôlés*... la langue a gardé trace des pratiques liées au *rouleau* [17. *Ibid.*, Jean Vézin, « Les supports de l'écrit. Du volumen au codex », p. 151. ]. Les processus mentaux de lecture et d'écriture s'éloignent de l'espace et de l'écrit-tableau pour s'inscrire dans la logique des listes et des rouleaux. Reste que le *volumen* informatique ne tient pas dans la main. Virtuel, il n'informe pas la mémoire corporelle. Sa trace codée est abstraite.
+
+« *L'écran de l'ordinateur était d'un gris à ce point céruléen qu'il semblait une lucarne donnant sur l'extérieur.* » Éric Laurrent [18. Phrase liminaire de « Coup de foudre », *Éditions de Minuit*, 1995, p. 9.]
+
+Dans les premières versions défilantes des traitements de texte, le texte n'a ni profondeur ni espace. Le regard, paradoxalement enfermé par une *fenêtre*, ouvre sur un univers dont on ne perçoit ni l'avenir ni le passé. C'est le règne du présent sans histoire, domaine privilégié du mythe. La temporalité récit, le rituel incantatoire, le rythme de la prière, etc. Tout concourt à l'absorption de la perspective et de l'espace textuel. Il était logique que la richesse de l’écrit informatique se construise en s’opposant à l’espace restreint de la page-écran. Afin de pallier la difficulté d'accès à l'avant et à l'après de la page ou pour avoir une vision globale du texte, on a élaboré des procédures informatiques adaptées. Les générations actuelles et le développement promis des hypertextes réhabilitent l'histoire du texte à travers l'espace de l'écran. Les grands écrans et la multiplication des fenêtres favorisent quant à eux l'étoilement associatif des écrits. La présentation est analogue à celle des bibles glosées du Moyen Âge. Le texte s'inscrit dans une nouvelle perspective spatiale et dynamique. Dès lors, le regard domine l'univers de l'écrit que notre culture dédiait pourtant au *logos* (*verbe*, *pensée* ou raison de la *Bible*). À défaut de raisonner au fil du verbe, il nous faudra donc nous réapproprier la pensée spatiale, à l'image de nos rêves [19. Voir notamment les nœuds et liens hypertextuels, chevilles macro-textuelles visualisées à l'écran selon des modes associatifs. Voir aussi Emmanuël Souchier et Joanna Pomian, « Les machines écrivantes ou l'écriture virtuelle », *Traverses*, n° 44-45, 1988.].
+
+###L'écrit dual : écran & imprimante
+
+Mais les choses ne sont pas si simples, car l'écrit informatique est dual, partagé entre l'écran et le papier, l'encre et la lumière ; Janus éclaté entre le domaine lumineux du spectacle et l'officine laborieuse de l'imprimante. La situation des terminaux sur les lieux de travail est à cet égard symptomatique : l'écran trône sur les bureaux, tandis que l'imprimante collective est reléguée au secrétariat. Au-delà des hiérarchies sociales qu'elle conforte, la répartition de ces outils dans l'espace de l'entreprise révèle une pratique duelle et paradoxale du texte informatique. D'une part un écrit d'écran socialement glorifié, mais éminemment fragile, de l'autre un écrit d'imprimante dévalorisé et pourtant véhicule de mémoire qui attire le fantasme de cinq siècles d'une histoire sacralisée. L'écran trône sur le bureau du cadre, cache l'employé ou absorbe le regard du guichetier, le spécialiste y décrypte l'image de la science médicale et la secrétaire en fait son plus efficace protecteur... combien de pratiques professionnelles ainsi modifiées, de stratégies sociales élaborées à l'arrivée des écrans ? Dans la relation privilégiée qu'il entretient avec son écran, l'utilisateur exclut l'interlocuteur – l'Autre auquel il est pourtant censé s'adresser –; le rapport social est médiatisé, mieux encore, il est spectacularisé [20. « Le spectacle n'est pas un ensemble d'images, mais un rapport social entre des personnes, médiatisé par des images. » (Guy Debord, « La Société du spectacle », *Gallimard*, 1992, p. 4.). ], mettant en scène un tiers-acteur inanimé, l'écran. Le statut polysémique de ce tiers tour à tour Enfer, Paradis ou simple objet mériterait à lui seul une analyse [21. Si pour Sartre « l'enfer, c'est les autres », la source de tout malheur ou dysfonctionnements aujourd’hui cristallisée dans l'informatique. La machine a une identité, l'ordinateur est personnifié, ils peuvent donc être responsables, agir, commettre des erreurs, etc. L'individu puis l'entité sociale sont ainsi innocentés, car entièrement déresponsabilisé. Désormais, l'enfer, c'est l'écran.], d'autant qu'il renoue avec une pensée fondatrice à l'origine de l'image et donc de l'écriture [22. Voir la thèse particulièrement féconde et novatrice d'Anne-Marie Christin sur la *Pensée de l'écran*, pensée « aussi essentielle à l'aventure humaine que l'ont été celles de la parole et de l'outil. » (« L'Image écrite ou la déraison graphique », op. cit. p. 6 ; voir également p. 17 à 20.). ].
+
+L'outil absorbe la relation sociale ; de ce fait, l'écran, et par là même l'écrit, deviennent objets de spectacle : la relation est médiatisée et c'est l'écran qui en est la scène et l'acteur, cachant et exhibant tout à la fois. Si dans cette spectacularisation la valeur de l'écrit est hypertrophiée, en revanche, l'écran fait de l'écrit un objet éminemment fragile qui disparaît une fois le spectacle terminé : l'ordinateur éteint, l'écrit n'est plus. En outre, le texte informatique a une existence fugace, car la *mémoire* de la page-écran peut être actualisée ou modifiée en permanence [23. Si la notion de dynamique, qui est pluridimensionnelle, caractérise l'écriture informatique et s'oppose à l'aspect statique du livre, le terme interaction est improprement utilisé. Toutefois, son emploi largement médiatisé soulève un voile discret sur les fantasmes de nos contemporains concernant les rapports entre l'homme et la machine. Voir notamment, sur l'emploi de la métaphore dans le champ de l'intelligence artificielle, Yves Jeanneret, « Le Choc des mots : pensée métaphorique et vulgarisation scientifique », *Communication et langages*, n° 93, 3-1992.]. Dans la pratique, l'écrit d'écran s'est affranchi du poids de la mémoire figée – associée au Livre – et a repoussé dans les limbes les limites de son achèvement : il est indéfiniment corrigeable. L'écriture informatique a délégué les pouvoirs de la mémoire à la machine et à la *matière-mémoire* inaccessible à l'homme (bandes, disquettes, disques durs, etc.) au profit de la création et de la diffusion [24. Anne-Marie Christin, « Glissements de l'énonciation : de l'autoportrait au calligramme », *Le Texte en mouvement*, Roger Laufer (sous la dir. de), *Presses Universitaires de Vincennes*, 1987, p. 77.]. Elle a également transformé le statut d'auteur et désacralisé la notion de texte : chaque utilisateur est désormais un auteur potentiel et tout texte devient matière manipulable par n'importe qui.
+
+L'écrit d'imprimante est pour sa part tendu entre les termes contradictoires de l'achèvement glorifié et de l'épreuve prêt-à-jeter. Investi du mythe du Livre - média préféré des Dieux –, l'écrit d'imprimante s'inscrit dans l'aura d'une histoire prestigieuse dont les principaux acteurs ont disparu. Les métiers de l'écrit ont en effet été délégués à la technique et à ses utilisateurs qui en ignorent l'art et la pratique [25. L'utilisateur doit se réapproprier cinq siècles de pratiques professionnelles sans y avoir été formé. Il est donc invité à réinventer le *sens formel* de ses écrits.]. Ce faisant, le temps d'élaboration qui s'étalait de la rédaction à l'imprimé a été absorbé. La décantation alchimique cristallisée par le regard pluriel des différents intervenants (correcteurs, maquettistes, protes, etc.) a disparu. Le rédacteur se retrouve donc souvent seul, n'osant plus affronter la lecture de l'Autre, passage autrefois obligé de toute copie. Combien d'écrits médiocres ont ainsi été figés dans leur tombeau-laser avant d'avoir été corrigés ? L'administration, les entreprises, les Grandes Écoles ... regorgent de ces documents somptueux qui cachent mal leur vacuité ; leurs auteurs les ont naïvement jugés sur leur *belle apparence* – plus ostentatoire qu'esthétique. Le *c'est vrai puisque c'est écrit* et par extension, le  *c'est beau et bon puisque c'est imprimé* confortent la faiblesse et la fatuité écrivante des petits clercs.
+
+Que le support soit une composante déterminante de l'écrit n'est plus un mystère pour personne. Les lignes d'un Alphapage, la commande vidéo d'un distributeur de billets, la page monumentale d'un affichage urbain ou la *grille* d'un *Minitel*, pour ne prendre que des exemples actuels, régentent nécessairement le message affiché, sa graphie, sa syntaxe et son style. La problématique n'a guère varié depuis les origines de l'écriture où forme, support et matérialité ont déterminé l'acte d'écriture lui-même ; l'espace contraint de l'écran n'est du reste pas sans évoquer l'espace de la tablette sumérienne. On comprend ainsi que l'analyse textuelle ne puisse faire abstraction des données matérielles du texte et doive s'orienter vers une véritable sémiologie qui tienne compte aussi bien des caractéristiques linguistiques et graphiques de l'écrit que de ses conditions matérielles de production (supports, matérialité, etc.), ainsi que de l'histoire et de la culture dans lesquelles il a été produit.
+
+L'analyse matérielle de l'écrit ne peut de toute évidence aller sans une analyse des transformations du support, plus fondamentale encore. L'écran caractérise en effet l'écrit informatique, consacre sa dualité et en fait un spectacle. Dualité de supports, mais également dualité de matières qui fonde en partie la perception *mythologique* [26. Au sens où l'entendait Roland Barthes dans « Mythologies », *Seuil*, 1957.] que nous avons de l'écrit d'écran et de son homologue sorti d'imprimante : l'un éclaire de lumière, l'autre est noir d'encre ; l'un est dynamique, l'autre statique ; l'un est fluide et fugace, l'autre solide et stable ; l'un s'allume le temps de la représentation, l'autre conserve la mémoire des formes et des textes au-delà de l'histoire, etc. Tout les sépare et les unit. La pratique de l'écrit serait-elle devenue schizophrène ?
+
+###La scène double : spectacle & secret
+
+La relation sociale à l'écrit est sans doute marquée par la dualité de l'écrire et du *donner à lire*. Il n'y a paradoxalement pas de pratique plus discrète et silencieuse que celle de l'écrit qui s'oppose aux arts d'exposition et à ceux du spectacle, mais il n'y a sans doute pas plus intimement exhibitionniste que celui qui se donne ainsi à lire. La réelle distinction de l'écrit repose sur un fragile équilibre entre l'élaboration et la lecture, exhibition qui suppose une absence du créateur au cours de la lecture. L'acteur de l'écrit traditionnel n'est pas médiatisé, il garde sa part de secret ou, plus modestement, sa part essentielle d'intimité. Dans la scène informatique, tout est exhibé, médiatisé, spectacularisé. Le secret et l'intime ont été repoussés vers la machine ; à l'heure de la *transparence*, l'individu social – et a *fortiori* l'individu d'entreprise – n'a ni secret ni intimité, il doit être *transparent*. Seule la machine peut préserver l'espace du secret, mais cet espace est purement technique et donc inaccessible à l'homme. Le secret, l'intimité de la machine relèvent de l'algorithme ou du fantasme. La distance, parfois fort subtile et souvent d'une grande complexité, établie entre l'auteur et l'écrivain [27. Qu'on ne s'y trompe pas, l'écrivant n'a ici rien à envier à l'écrivain. Tous deux sont confrontés à des difficultés analogues ; le discours médiatique – et cet article en participe se contente seulement d'exposer l'exemplarité de l'écrivain éternellement opposée à la banalité de l'écrivant. ] – le moi intime et l'écrit socialisé –, disparaît de la scène informatique pour laisser place à une transparence d'acteur, à une mise en scène *performante* [28. Contre cette absence, certains *créateurs* ont prôné la *performance* poétique, visuelle, artistique, etc., marquant ainsi le caractère éphémère de la création. Contre cette même absence, la génétique littéraire et certains biographes ont tenté de cerner l'individu ou l'origine du geste créateur ; quête menée par le fantasme d’une possible redécouverte du moment fatidique, de l'acte de création lui-même.]. Si l'écriture élabore une herméneutique du caché-révélé, l'écrit informatique met en scène un couple de voyeur-exhibitionniste.
+
+Au fond, la césure entre l'écrit d'écran et l'écrit d'imprimante met en évidence une distinction plus ancienne qui existe entre le spectacle et l'écriture. Elle rend ainsi compte de l'irréductible résistance de l'écrit qui, toujours, parvient à s'échapper des circuits à la grâce du crayon et du papier, ultime *espace* de liberté non encore spectacularisé.
+
+On annonçait il y a quelques années la possible disparition du papier au profit de l'écran – thèse qui cachait mal la naïveté impérialiste du *tout informatique*. En fait, la sacralité du papier perdure et sa consommation dans le monde du travail a proprement explosé avec l'apparition de la bureautique et de l'informatique [29. Cette problématique mal posée offre toutefois l'avantage de révéler des peurs non y exprimées, non formulées qui peuvent elles-mêmes en cacher d'autres. Le fantasme de la disparition du papier anticipe une autre disparition qui lui est liée, celle des emplois du papier et des métiers qui le servent, réalité sociale plus crue que la problématique théorique ou technique, mais que le politique sait prévoir à défaut de vouloir la juguler (cf. Emmanuël Saint-James, « Une police pour la science », *Alliage*, n° 19, Été 1994, p. 34 sq.).]. Au-delà des raisons d'ordre technique, économique, social, etc. Il en est d'autres qui militent en faveur du support papier. Je n'en retiendrai que trois, souvent ignorées.
+
+La première répond à un besoin de visualisation et de concrétisation de l'écrit caché. Attendu qu'il n'existe que par son support, lorsque l'écran est éteint, l'écrit réclame le papier, condition ontologique nécessaire à sa *visibilité*. Cette concrétisation, cette matérialisation marque la limite entre le brouillon d'écran et l'épreuve d'imprimante. La deuxième relève du corps, du geste et de la matière : par le papier, le corps retrouve le support matériel de ses idées ; il lui donne existence. La troisième est un réflexe irrationnel, geste rassurant de l'homme du pixel, ce saint Thomas de l'ère informatique qui a besoin de voir, de toucher pour croire. Réflexe fétichiste vis-à-vis de la matière qui montre s'il en était besoin que les analyses annonçant un monde *immatériel* devront *aussi* tenir compte de l'homme en sa dimension corporelle.
+
+Double – écrit d'écran et écrit d'imprimante –, à travers sa matérialité et ses supports, l'écrit informatique a élaboré une harmonie entre le spectacle et le secret, la lumière et l'ombre, le noble et le trivial, la matière et une semblance d'esprit... Sans doute, les principales conséquences anthropologiques entraînées par la mutation électronique de l'écriture se traduisent-elles par des phénomènes d'abstraction, de médiatisation, de distanciation, de déréalisation, etc., caractéristiques que l'on retrouve fréquemment dans l'évolution des activités humaines pour lesquelles interviennent l'informatique et les nouvelles technologies qui modèlent – discrètement, mais en profondeur – les rapports sociaux, économiques et symboliques. Mais le plus important peut-être est qu'au-delà de l'écran, à travers le secret, s'ouvre l'espace du sacré : « là aussi il y a des Dieux » disait Héraclite. L'homme a repoussé l'espace de l'intime et du secret au cœur de la machine – dans la *boîte noire* –, il est logique qu'il y retrouve l'essentiel, l'espace des Dieux, c'est-à-dire son propre espace dénué
+ d'enjeux ou cristallisé par les enjeux de pouvoir propres à l'écrit : « là aussi il y a des Hommes ».
+
+----
+
+Article-note: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: Informatique et télécommunication
+
+----
+
+Article-keyword: Revue Communication & langages, écriture, lecture, écrit, lettrure, culture, informatique & télécommunication, écran, Emmanuël Souchier, histoire, média
+
+----
+
+Article-resume: 
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Article-relie: 
+
+----
+
+Pdf: (file: echappees-l-ecrit-d-ecran-pratiques-d-ecriture-informatique.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Print: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Emmanuël Souchier
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+[1.] « Gérard Blanchard », *Communication & langages*, numéro coordonné par Samuel Goyet, Elsa Tadier et Virginie Vignon, sous la dir. de Emmanuël Souchier, n°178 décembre 2013.
+
+[2.] Emmanuël Souchier, « La *lettrure* à l’écran. Lire & écrire au regard des médias informatisés », *Communication & langages*, n° 174, décembre 2012, p. 85-108.
+
+----
+
+Article-note-print: 
+
+[1.] Il est à cet égard significatif de voir *Le Monde* commenter un sondage *Sofres* pour le compte de *Encyclopaedia Universalis* en titrant « Écrit-écran : match nul » (15 septembre 1995).
+
+[2.] Nous traiterons ultérieurement dans ces mêmes colonnes les points suivants : l'acte et les pratiques d'écriture ; les partenaires de l'écrit ; la division du travail ; le temps, l'espace et la diffusion de récrit : du manuscrit à l'hypertexte.
+
+[3.] Plaisir sensuel de l'écrit manuel, mais également réappropriation de l'espace originel de l'écrit. Sous la reproduction d'un feuillet manuscrit présentant de nombreux repentirs, Barthes note : « Corrections ? Plutôt pour le plaisir d'étoiler le texte. » (« Roland Barthes par Roland Barthes », coll. *Écrivains de toujours*, *Seuil*, 1 975, p. 105.).
+
+[4.] Pour reprendre l'expression de Jacques Roubaud dans « La Fleur inverse, Essai sur l'art formel des troubadours », *Ramsay*, 1986. 
+
+[5.] Pour *what you see is what you get* ; en d'autres termes, ce qui est affiché à l'écran sera ce que vous obtiendrez sur votre feuille imprimée ; à ceci près que la lettre de lumière n'est pas la lettre d'encre et de papier. Toutes deux sont intrinsèquement distinctes.
+
+[6.] Voir Leroi-Gourhan, « Le Geste et la parole », *Albin Michel*, 1 964, 1.1. « Technique et langage » et plus particulièrement le chapitre consacré aux *symboles du langage*, p. 262 sq.
+
+[7.] L'imprimante intervenant dans une phase ultérieure du travail.
+
+[8.] J'exclus de mon propos les écrans tactiles et les claviers fonctionnels (dialogues par questions-réponses) qui relèvent d'autres pratiques et font intervenir des modalités d'échange d'une autre nature entre la machine et l'utilisateur.
+
+[9.] Cf. « Médias et contrôle des esprits », *Manière de voir*, n° 27, *Le Monde Diplomatique*, août 1995.
+
+[10.] Ce point précis mériterait une analyse plus approfondie : signalons simplement deux exemples significatifs. Le curieux emploi de la capitale à des fins injurieuses révèle la culture *spontanéiste* qui pratique le détournement, se réapproprie les usages et s'y oppose en en ignorant manifestement les origines. Quoi qu'il en soit, cet emploi joue sur la dimension idéographique du caractère et les connotations qui lui sont associées. Plus significative encore la création par les utilisateurs d'Internet d'une série d'agrégats idéographiques composés à partir des signes diacritiques disponibles sur les claviers ; pratiques que les minitélistes français ont inaugurées au cours des décennies passées. En faisant pivoter la revue d'un quart de tour, vous pourrez aisément interpréter ce *smiley* :-) qui marque le contentement supposé de votre interlocuteur. En voici un autre qui cligne de l'œil ;-) un autre encore, heureux enrhumé :-) qui n'a rien à envier à son comparse :( également enrhumé, mais moins gai ! On estime déjà à plus de 600 les items élaborés de ce langage idéographique parallèle.
+
+[11.] Cf. Emmanuël Souchier, Raymond Queneau, « Le Rêve de Bouvard et Pécuchet », p. 254-266, Seuil, 1991.
+
+[12.] Cf. Pascal Perin & Michel Gensollen (sous la dir. de), « La Communication plurielle, L'Interaction dans les téléconférences », *La Documentation française GNET-ENST*, 1992.
+
+[13.] La boîte noire d'un avion n'est pas à proprement parler une *boîte noire*. L'engouement médiatique pour cette expression répond seulement aux connotations qui lui sont associées ; la boîte noire définit en fait l'espace du secret.
+
+[14.] Le terme traduit à sa manière le glissement opéré entre les sphères sociales de la production de l'écrit.
+
+[15.] « C'est W. Steckel qui a, le premier, isolé ce *complexe* qui existe chez les individus extrêmement médiocres aussi bien que chez d'authentiques génies (...) Un examen attentif de ce complexe montre qu'il comporte deux aspects essentiels ; l'un peut être résumé par ces deux mots *moi seul*, l'autre par cette phrase : “Le monde après moi ne sera pas tel qu'il était avant.” C'est cette dernière phrase qui contient tout ce qu'il y a de caractéristique dans le messianisme et qui peut se formuler de cette autre façon : “je laisserai une trace de mon passage”. » (Raymond Queneau, « Traité des Vertus Démocratiques », *Gallimard*, 1993, note 1, pages 183-186.).
+
+[16.] Voire « Grand Atlas des Littératures », *Encyclopaedia Universalis*, 1990, et plus particulièrement la section consacrée aux *Espaces de l'écrit*, (sous la dir. d'Anne-Marie Christin, p. 124). 
+
+[17.] *Ibid.*, Jean Vézin, « Les supports de l'écrit. Du volumen au codex », p. 151. 
+
+[18.] Phrase liminaire de « Coup de foudre », *Éditions de Minuit*, 1995, p. 9.
+
+[19.] Voir notamment les nœuds et liens hypertextuels, chevilles macro-textuelles visualisées à l'écran selon des modes associatifs. Voir aussi Emmanuël Souchier et Joanna Pomian, « Les machines écrivantes ou l'écriture virtuelle », *Traverses*, n° 44-45, 1988.
+
+[20.] « Le spectacle n'est pas un ensemble d'images, mais un rapport social entre des personnes, médiatisé par des images. » (Guy Debord, « La Société du spectacle », *Gallimard*, 1992, p. 4.).
+
+ [21.] Si pour Sartre « l'enfer, c'est les autres », la source de tout malheur ou dysfonctionnements aujourd’hui cristallisée dans l'informatique. La machine a une identité, l'ordinateur est personnifié, ils peuvent donc être responsables, agir, commettre des erreurs, etc. L'individu puis l'entité sociale sont ainsi innocentés, car entièrement déresponsabilisé. Désormais, l'enfer, c'est l'écran.
+
+[22.] Voir la thèse particulièrement féconde et novatrice d'Anne-Marie Christin sur la *Pensée de l'écran*, pensée « aussi essentielle à l'aventure humaine que l'ont été celles de la parole et de l'outil. » (« L'Image écrite ou la déraison graphique », op. cit. p. 6 ; voir également p. 17 à 20.).
+
+[23.] Si la notion de dynamique, qui est pluridimensionnelle, caractérise l'écriture informatique et s'oppose à l'aspect statique du livre, le terme interaction est improprement utilisé. Toutefois, son emploi largement médiatisé soulève un voile discret sur les fantasmes de nos contemporains concernant les rapports entre l'homme et la machine. Voir notamment, sur l'emploi de la métaphore dans le champ de l'intelligence artificielle, Yves Jeanneret, « Le Choc des mots : pensée métaphorique et vulgarisation scientifique », *Communication et langages*, n° 93, 3-1992.
+
+[24.] Anne-Marie Christin, « Glissements de l'énonciation : de l'autoportrait au calligramme », *Le Texte en mouvement*, Roger Laufer (sous la dir. de), *Presses Universitaires de Vincennes*, 1987, p. 77.
+
+[25.] L'utilisateur doit se réapproprier cinq siècles de pratiques professionnelles sans y avoir été formé. Il est donc invité à réinventer le *sens formel* de ses écrits.
+
+[26.] Au sens où l'entendait Roland Barthes dans « Mythologies », *Seuil*, 1957.
+
+[27.] Qu'on ne s'y trompe pas, l'écrivant n'a ici rien à envier à l'écrivain. Tous deux sont confrontés à des difficultés analogues ; le discours médiatique – et cet article en participe se contente seulement d'exposer l'exemplarité de l'écrivain éternellement opposée à la banalité de l'écrivant. 
+
+[28.] Contre cette absence, certains *créateurs* ont prôné la *performance* poétique, visuelle, artistique, etc., marquant ainsi le caractère éphémère de la création. Contre cette même absence, la génétique littéraire et certains biographes ont tenté de cerner l'individu ou l'origine du geste créateur ; quête menée par le fantasme d’une possible redécouverte du moment fatidique, de l'acte de création lui-même.
+
+[29.] Cette problématique mal posée offre toutefois l'avantage de révéler des peurs non y exprimées, non formulées qui peuvent elles-mêmes en cacher d'autres. Le fantasme de la disparition du papier anticipe une autre disparition qui lui est liée, celle des emplois du papier et des métiers qui le servent, réalité sociale plus crue que la problématique théorique ou technique, mais que le politique sait prévoir à défaut de vouloir la juguler (cf. Emmanuël Saint-James, « Une police pour la science », *Alliage*, n° 19, Été 1994, p. 34 sq.).
+
+----
+
+Article-interviewer: 

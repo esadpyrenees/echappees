@@ -1,0 +1,17 @@
+Title: LUST
+
+----
+
+Text-bio: *LUST* a été créé en 1996 par Jeroen Barendse, Thomas Castro, et Dimitri Nieuwenhuizen, à La Haye, Pays-Bas. *LUST* a recours à un large éventail de média : les imprimés, le livre, la cartographie, la visualisation de données, les installations interactives, etc. Leurs recherches les ont conduits à créer *LUSTlab* à l’été 2010. *LUSTlab* permet d’observer, d’inventer et de produire des connaissances partagées. Les designers s’interrogent notamment sur la façon dont on peut tenter d’humaniser l’inhumain, de trouver le chaînon manquant entre le numérique et le physique.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: (link: http://lust.nl text: lust.nl popup: yes)
+
+----
+
+Text-liste-articles: 

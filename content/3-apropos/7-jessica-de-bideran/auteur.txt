@@ -1,0 +1,21 @@
+Title: Jessica de Bideran
+
+----
+
+Text-bio: 
+
+Jessica de Bideran est Docteure en Histoire de l’Art. Qualifiée en Sciences de l’Information et de la Communication, elle travaille actuellement sur un programme de recherche conjoint entre l’Université de Bordeaux 3 et le ministère de la Culture qui vise à étudier les modalités de circulation et d’appropriation du patrimoine à travers les ressources et les dispositifs info-communicationnels créés sur les réseaux numériques. Ces sujets de recherche s’inscrivent dans le contexte des Humanités Digitales et examinent en particulier les usages des techniques infographiques pour représenter le patrimoine monumental. À ce sujet elle tient un carnet de recherche qui aborde les pratiques de médiation patrimoniales numériques qui s’intitule « L’âge du virtuel ».
+
+Elle enseigne, publie et a participé à plusieurs colloques questionnant le patrimoine et sa numérisation. Chargée des projets patrimoine pendant plusieurs années pour un studio d’infographie bordelais elle a ainsi dirigé de nombreuses recherches historiques et iconographiques lors de diverses restitutions infographiques à visée muséographique. Cette expérience professionnelle nourrit ses réflexions et lui permet d’appréhender l’ensemble des enjeux liés à la numérisation du patrimoine.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+----
+
+Text-liste-articles: (link: numeros/numero2/visites-numeriques-et-parcours-augment-ou-les-interactions-complexes-des-touristes-avec-le-patrimoine text: n°2 : Visites numériques et parcours augmenté, ou les interactions complexes des touristes avec le patrimoine)

@@ -1,0 +1,104 @@
+Info-1: 
+
+----
+
+Pagesettings-1: 
+
+----
+
+Title: Graffiti
+
+----
+
+Articlevisuel-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Articlevisuel-auteur: 
+
+- 
+  auteur_uid: alexandra-menaut
+
+----
+
+Pagesettings-3: 
+
+----
+
+Articlevisuel-medias: 
+
+Alexandra Menaut a mené une micro-enquête sur les graffiti dans l’espace public de la ville de Pau. Elle montre des graffiti placés dans des contextes variés ; ils peuvent être lisibles de suite par le plus grand nombre ou au contraire lisibles si le passant est attentif aux micro changements de son environnement urbain quotidien.  
+
+(image: p1050760.jpg caption:  La poésie n’a pas besoin de vous © Alexandra Menaut)
+
+(image: p1060179.jpg caption:  Détail d’un graffiti © Alexandra Menaut)
+
+(image: p1060221.jpg caption:  Zest © Alexandra Menaut)
+
+(image: p1060221.jpg caption:  Sortie de véhicule © Alexandra Menaut)
+
+(image: p1060276.jpg caption:  Détail d’un graffiti © Alexandra Menaut)
+
+(image: p1060247.jpg caption:  17 octobre 1961 © Alexandra Menaut)
+
+(image: p1060266.jpg caption:  PFM © Alexandra Menaut)
+
+----
+
+Articlevisuel-image-texte: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Articlevisuel-domaine: 
+
+----
+
+Articlevisuel-keyword: 
+
+----
+
+Articlevisuel-biblio: 
+
+----
+
+Articlevisuel-url: 
+
+----
+
+Articlevisuel-pdf: (file: pdf-pau-graffiti1.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Pagesettings-5: 
+
+----
+
+Articlevisuel-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur-visuel: Alexandra Menaut
+
+----
+
+Articlevisuel-sito: 
+
+----
+
+Article-note-print: 
+
+----
+
+Articlevisuel-citer: 

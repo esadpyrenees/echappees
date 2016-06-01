@@ -1,0 +1,17 @@
+Title: Elsa Mazeau
+
+----
+
+Text-bio: Elsa Mazeau, artiste, enseigne à l’École supérieure d'art des Pyrénées – Tarbes.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: (link: http://www.elsamazeau.net text: www.elsamazeau.net popup: yes)
+
+----
+
+Text-liste-articles: (link: numeros/numero2/curriculum-vitae-1998-2013 text: n°2 : Curriculum vitæ)

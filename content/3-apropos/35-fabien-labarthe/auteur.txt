@@ -1,0 +1,17 @@
+Title: Fabien Labarthe
+
+----
+
+Text-bio: Fabien Labarthe est chercheur en sciences de l’information et de la communication et en sociologie des usages. Il est actuellement chargé d’études au sein du Département de sciences économiques et sociales de Télécom Paristech, équipe Deixis-Sophia. Ses recherches se sont d’abord orientées dans trois directions : les processus socio-historiques de reconfiguration des principes de l’action culturelle ; la théorisation de la notion d’*accès public* ; l’étude des usages des *Technologies de l’Information et de la Communication* (TIC), envisagée à partir des compétences développées par les jeunes issus des milieux populaires. Actuellement, ses recherches portent sur deux axes. Le premier prolonge les réflexions engagées précédemment concernant la question de la professionnalisation des publics jeunes dans différents contextes d’usage des TIC, dont la spécificité est de s’apprendre *sur le tas* et en situation. Le second porte sur les enjeux et les portées des formes de la participation des usagers dans les dispositifs d’innovation (*Pôles de compétitivité*, *Living Labs*). Ce qui est visé *in fine*, au travers de ces deux nouveaux axes de recherche, c’est une contribution à une sociologie de l’*innovation par l’usage*. Il a publié en 2013 « Démocratiser la culture multimédia ? Usages et apprentissages en milieu populaire », *Éditions de la Maison des sciences de l’homme*, Paris.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: « Démocratiser la culture multimédia ? Usages et apprentissages en milieu populaire », *Éditions de la Maison des sciences de l’homme*, Paris, 2013.
+
+----
+
+Text-liste-articles: (link: numeros/numero2/design-et-shs-dans-le-processus-dinnovation-centree-usager-quels-apports-r-ciproques text: n°2 : Design et SHS dans le processus d’innovation centrée-usager : quels apports réciproques ?)

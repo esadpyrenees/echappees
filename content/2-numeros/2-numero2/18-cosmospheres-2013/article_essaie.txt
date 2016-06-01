@@ -1,0 +1,92 @@
+Info-1: 
+
+----
+
+Pagesettings-1: 
+
+----
+
+Title: Cosmosphères
+
+----
+
+Articlevisuel-date: 2013
+
+----
+
+Pagesettings-2: 
+
+----
+
+Articlevisuel-auteur: 
+
+- 
+  auteur_uid: carolle-priem-schutz
+
+----
+
+Pagesettings-3: 
+
+----
+
+Articlevisuel-medias: 
+
+(image: echappees_i.jpg)
+#####« Cosmosphères », 2013, détail de l’installation, métal, céramique émaillée, 25 × 145 × 170 cm. Installation de 3 Cosmosphères fixées sur un socle métallique. 
+Travail réalisé dans le cadre du programme de recherche « Sky to Sky » (*L’Observatoire*). © Carolle Priem-Shutz.
+
+----
+
+Articlevisuel-image-texte: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Articlevisuel-domaine: 
+
+----
+
+Articlevisuel-keyword: 
+
+----
+
+Articlevisuel-biblio: 
+
+----
+
+Articlevisuel-url: 
+
+----
+
+Articlevisuel-pdf: (file: echappees-cosmospheres.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Pagesettings-5: 
+
+----
+
+Articlevisuel-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur-visuel: Carolle Priem-Schutz
+
+----
+
+Articlevisuel-sito: 
+
+----
+
+Articlevisuel-citer: 
+
+----
+
+Article-note-print: 

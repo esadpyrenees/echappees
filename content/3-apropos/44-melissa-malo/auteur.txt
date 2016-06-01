@@ -1,0 +1,20 @@
+Title: Mélissa Malo
+
+----
+
+Text-bio: Diplômée en Design Graphique Multimédia depuis juin 2015, l’École supérieure d'art des Pyrénées – Pau, Mélissa Malo s'intéresse à la communication multilingue et aux échanges interculturels. Pendant ses études, elle a pris part à plusieurs projets internationaux comme le projet « Twistjawa » à Yogyakarta (Indonésie) et l'exposition « Las escitas urbanas » de Maputo (Mozambique). Elle poursuit aujourd'hui sa formation en service civique auprès du *Collectif Ding*.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: (link: http://www.banditnet.fr/DING/monSite.php?p=20 text: Melissa Malo sur : www.banditnet.fr popup: yes)
+
+----
+
+Text-liste-articles: 
+
+(link: numeros/numero3/entretien-avec-emmanuel-souchier-sur-lecriture-et-la-lecture-aujourd-hui text: n°3 : Entretien avec Emmanuël Souchier, Sur l’écriture et la lecture aujourd’hui)
+(link: numeros/numero3/reflexion-sur-les-enjeux-des-nouvelles-pratiques-de-lecture text: n°3 : Réflexion sur les enjeux des nouvelles pratiques de lecture)

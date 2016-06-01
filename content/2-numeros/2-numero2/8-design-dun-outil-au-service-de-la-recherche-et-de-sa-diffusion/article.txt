@@ -1,0 +1,138 @@
+Pagesettings-1: 
+
+----
+
+Title: Design d’un outil au service de la recherche et de sa diffusion
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: julien-bidoret
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+(image: echappees_2_65.jpg)
+#####Recherche sur la plateforme numérique « Enquêter l’écrit en situation »
+
+Le développement de la plateforme a été envisagé très tôt comme un élément important du cours de méthodologie de la recherche. Le postulat initial était que l’ensemble de la démarche engagée au sein de cette proposition pédagogique pouvait être structuré et augmenté par l’élaboration et la mise en oeuvre d’un outil spécifique, répondant à la fois aux enjeux de collecte, d’organisation, de synthèse et de diffusion.
+
+Le travail a été engagé avec une équipe de trois étudiants, aux compétences complémentaires et fortement investis dans le projet.
+L’enjeu était de proposer une situation de design numérique nécessitant la collaboration entre différentes composantes de ce champ : conception éditoriale, design d’interface, développement, gestion de projet. Il était indispensable de conserver une grande souplesse dans l’élaboration d’un outil dont il fallait penser les fonctions et les formes en même temps que se développait son usage. La confrontation aux limites techniques (temps restreint, développements complexes) a amené le groupe à opérer des choix et à établir des hiérarchies entre les ambitions initiales afin de mettre en ligne un outil minimum, viable et fonctionnel, qui puisse s’étendre au cours de phases ultérieures. Certains principes des méthodes dites *agiles* [1. Méthodes issues du champ du développement informatique, elles structurent les projets dans des processus collaboratifs lors de phases de travail permettant la mise en œuvre rapide et pragmatique d’un *produit* fonctionnel (objet, outil, service) qui puisse être étendu et amélioré. **https://fr.wikipedia.org/wiki/M%C3%A9thode_agile**] ont pu être expérimentés et confrontés aux pratiques traditionnelles du design : adaptabilité, *user stories*, *sprints*, itérations...
+
+(image: echappees_2_67.jpg)
+#####Plateforme numérique « Enquêter l’écrit en situation »
+
+Sur le plan éditorial, la réflexion a porté sur la définition précise des contenus (textes, images, vidéos, captations sonores, sources documentaires et bibliographiques) et leur organisation. Les capacités de l’outil à faire se croiser et se compléter les démarches et les résultats de chacun des groupes fut une des principales questions auxquelles cette phase de design éditorial devait répondre. Les choix d’interface graphique ont été effectués parmi de nombreuses propositions : interface zoomable, cartographique, *stratifiée*. Les contraintes techniques et temporelles, associées à la variabilité des quantités et qualités des contenus nous ont conduits à adopter des systèmes modulaires, extensibles et suffisamment souples pour couvrir tous les cas de figure. La phase de développement a permis de confronter les ambitions graphiques à la réalité d’une mise en œuvre technique. L’indispensable complémentarité des processus de développement et de design graphique s’est alors fortement révélée, en soulignant l’intérêt de la transversalité dans l’approche du projet. La gestion du projet est un aspect central dans le développement d’un projet de designers, quand sont ainsi associés commanditaires, designers, développeurs et utilisateurs. Si, tout long du projet, la communication a bien fonctionné entre le groupe de travail et les enseignants, le dialogue avec les étudiants-utilisateurs a manqué de régularité. Cela a pénalisé l’un des usages prévus par la plateforme web : elle n’a pas fonctionné comme un outil de structuration du travail en cours, mais comme un lieu d’archivage, de consultation et de diffusion.
+
+Le champ du design numérique demande de repenser la temporalité des objets de design. Les outils qu’il emploie séparent naturellement les contenus de leurs formes et de leurs usages ; le matériau manipulé peut rester infiniment malléable et versatile, en s’adaptant progressivement à différents contextes. De nouvelles formes et de nouveaux usages pourront ainsi venir se greffer sur cet outil lors de propositions ultérieures. La plateforme pourra alors véritablement atteindre son ambition d’outil de structuration de la démarche de recherche.
+
+(image: echappees_2_68.jpg)
+#####Maquettes de l’interface, par Marine Illiet
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-design-dun-outil-au-service-de-la-recherche-et-de-sa-diffusion.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Julien Bidoret
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: [1. Méthodes issues du champ du développement informatique, elles structurent les projets dans des processus collaboratifs lors de phases de travail permettant la mise en œuvre rapide et pragmatique d’un *produit* fonctionnel (objet, outil, service) qui puisse être étendu et amélioré. https://fr.wikipedia.org/wiki/M%C3%A9thode_agile]

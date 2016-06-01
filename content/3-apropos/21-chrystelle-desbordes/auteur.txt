@@ -1,0 +1,33 @@
+Title: Chrystelle Desbordes
+
+----
+
+Text-bio: 
+
+Historienne de l’art, critique d’art, commissaire.
+
+####2005
+Obtient un Doctorat d’histoire de l’art (La notion d’éphémère dans l’art des années 1960 –1970). Membre de l’*Association Internationale des Critiques d’Art*, elle collabore à des revues d’art contemporain (*Hypertexte*, *Papiers Libres*, *Semaine*, *Superstition*…), et participe à la rédaction de catalogues d’exposition (*Urbanités*, *Léger / Différé*, *La Conquête de l’Air*, *Bandits Mages*…).
+
+####2010
+Enseigne l’histoire de l’art et la théorie de l’art à l’École supérieure d'art des Pyrénées – Tarbes. Ses recherches portent sur les questions d’invisible, de réseau, d’archive et de *frictions* dans l’art contemporain.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+----
+
+Text-liste-articles: 
+
+(link: numeros/numero1/presentation-d-chapp-es-n-2 text: n°1 : Présentation d’échappées n°2)
+(link: numeros/numero1/introduction-linvisible-est-reel text: n°1 : Introduction L’invisible est réel)
+(link: numeros/numero1/lettre-a-richard-fauguet text: n°1 : Lettre à Richard Fauguet)
+(link: numeros/numero2/introduction-territoires-mutations-et-archives text: n°2 : Introduction – Territoires, mutations et archives)
+(link: numeros/numero2/histoire-de-lart-et-archive-a-l-ere-du-reseau-vers-une-rupture-pist-mologique text: n°2 : Histoire de l’art et archive à l’ère du réseau : vers une rupture épistémologique ?)
+(link: numeros/numero2/ceramiques-mutantes text: n°2 : Céramiques mutantes)
+(link: numeros/numero2/presentation-d-chapp-es-n-3 text: n°2 : Présentation d’échappées n°3)

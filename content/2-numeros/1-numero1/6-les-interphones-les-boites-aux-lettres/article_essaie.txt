@@ -1,0 +1,102 @@
+Info-1: 
+
+----
+
+Pagesettings-1: 
+
+----
+
+Title: Les interphones & les boîtes aux lettres
+
+----
+
+Articlevisuel-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Articlevisuel-auteur: 
+
+- 
+  auteur_uid: charline-humbert
+
+----
+
+Pagesettings-3: 
+
+----
+
+Articlevisuel-medias: 
+
+Charline Humbert a mené sa micro-enquête en photographiant de nombreux interphones et boîtes aux lettres en marchant dans les rues de la ville de Pau. Ces objets ont été choisis car ils matérialisent la frontière entre les espaces public et privé. Ils rendent compte également de la façon dont les locataires ou les propriétaires utilisent les supports papiers (scotch, plastique, carton…) et écrivent leurs noms et prénoms (à la main surtout, à la machine) ainsi que des messages donnés à lire en plus de leur identité.
+
+(image: p1220998.jpg caption:  Série des boîtes aux lettres : annonce non institutionnelle fixée tsur la porte au-dessus de la boîte aux lettres © Charline Humbert)
+
+(image: p1220927.jpg caption:  Série « Interphones » © Charline Humbert)
+
+(image: p1220995.jpg caption: Série « Interphones » © Charline Humbert)
+
+(image: p1230076.jpg caption: Série « Boites aux lettres » © Charline Humbert)
+
+(image: p1230106.jpg caption: Série « Boites aux lettres » © Charline Humbert)
+
+(image: p1220874.jpg caption: Série « Boites aux lettres » © Charline Humbert)
+
+----
+
+Articlevisuel-image-texte: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Articlevisuel-domaine: 
+
+----
+
+Articlevisuel-keyword: 
+
+----
+
+Articlevisuel-biblio: 
+
+----
+
+Articlevisuel-url: 
+
+----
+
+Articlevisuel-pdf: (file: pdf-pau-lesinterphonesetlesboites.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Pagesettings-5: 
+
+----
+
+Articlevisuel-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur-visuel: Charline Humbert
+
+----
+
+Articlevisuel-sito: 
+
+----
+
+Article-note-print: 
+
+----
+
+Articlevisuel-citer: 

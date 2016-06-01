@@ -1,0 +1,164 @@
+Pagesettings-1: 
+
+----
+
+Title: Le texte numérique
+
+----
+
+Article-date: Mars 2015
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: marine-illiet
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: Marine Illiet aborde la façon dont le texte s’écrit et se donne à lire dans le cadre de publications numériques. Elle en relève les avantages et les inconvénients sur les plans de la mise en forme du contenu et de sa réception : le lecteur.
+
+----
+
+Article-chapeau-redaction-note: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Le transfert d’un texte d’une matérialité papier à une *matérialité numérique* le transforme formellement et physiquement. En effet, l’écran est une technologie qui transforme le texte en fichier et le dote, d’une dimension computationnelle c’est-à-dire d’un ensemble d’instructions définies par le fichier texte ; permettant de concevoir et de produire l’image de celui-ci à l’écran. Il le dote également d’une dimension réticulaire c’est-à-dire de la possibilité de créer des liens visibles et non visibles avec son environnement.
+
+Les supports de diffusions numériques sont multiples et multiformes et induisent de nouvelles pratiques de conception éditoriale. La structuration d’un contenu doit permettre de saisir rapidement l’organisation et la navigation au sein d’une page ou d’un ensemble de pages en prenant compte de l’ensemble des processus de lecture, des caractéristiques techniques et graphiques dont notamment la composition de la page, la hiérarchie et le choix des polices de caractères. C’est ce que l’on nomme l’architecture de l’information c’est-à-dire la création d’un système de catégorisation. Il permet la formation d’une structure rationnelle et ordonnée qui a pour but d’articuler hiérarchiquement l’ensemble des éléments formant le contenu.
+
+Dans cet article, nous partirons du constat que les évolutions du texte numérique ne prennent pas suffisamment en compte la question de la lecture à l’écran. Pourtant, celle-ci a ses propres spécificités sur des questions de lisibilité, structuration, usages, etc. Nous sommes encore aujourd’hui trop souvent dans un *copier-coller* des procédés et processus de conception du papier. Or, des dispositifs et des pensées natives des supports de lecture numérique existent. Nous allons donc essayer de définir les procédés et les pensées de conception qui participent à l’établissement de la lisibilité, des usages et de la compréhension d’un contenu numérique.
+
+###Relation forme contenu
+
+Les écrans ont modifié notre système de reconnaissances du contenu. Les textes ne sont plus inscrits dans des formats séparés physiquement aux dimensions mesurables, mais inscrits dans des types de site, par exemple les *blogs*, les sites vitrine, les applications mobiles, les sites de *e-commerce*, les sites communautaires, etc. Ces formes standardisées mises à disposition des utilisateurs sont des systèmes de traitement de contenu qui par leurs dispositifs techniques déterminent des formes et induisent des pratiques de lecture différentes. Les *CMS* (les *Systèmes de Management de Contenu*) nous proposent des outils qui facilitent la publication éditoriale numérique en proposant une interface d’inscription de contenus sans passer par une phase de programmation. Tout comme la grille, les *CMS* sont des outils d’aide à la conception graphique qui ne sont pas des règles absolues du comportement de contenus.
+
+Les *CMS* peuvent contraindre la conception en proposant un système de grille liée à un type de site. Or, ces grilles sont construites en dehors de la connaissance du contenu et peuvent donc provoquer des incohérences entre le fond et la forme. Nous pouvons prendre l’exemple des revues en ligne en science sociale diffusée par le biais du *CMS* de *(link: http://www.revues.org/ text: revues.org popup: yes)*. Il propose un dispositif organisationnel standardisé dans le but de diffuser numériquement l’ensemble des articles proposés par une revue. Lorsque l’on passe d’une revue à une autre, il n’y a aucune différence structurelle ni organisationnelle entre chaque entité. On peut noter des différences d’ordre esthétique, le choix d’un cadre coloré ou l’insertion d’un logotype.
+
+Les *CMS* sont des outils nécessitant une connaissance des langages de programmation dans le but de pouvoir personnaliser, enrichir les typologies de formes de contenus et ainsi que de concevoir des éditions avec une réflexion sur les usages et les enjeux de la diffusion numérique.
+
+###L'organisation du texte
+
+Dans son article « *Web Design is 95% Typography* », Oliver Reichenstein écrit : « Contrôler la typographie n’est pas seulement une nécessite de base du design, savoir comment traiter un texte en tant qu’interface utilisateur est un facteur-clé pour la réussite d’un site web » [1. Olivier Reichenstein, « Web Design is 95% Typography », **(link: https://ia.net/know-how/the-web-is-all-about-typography-period text: voir le texte online popup: yes)** ; « *Control over typography is not just a basic design necessity, knowing how to treat text as a user interface is the key factor for successful Web design* », traduction du présent auteur] . L’auteur souligne ici que le texte devient un espace d’interaction, une interface utilisateur, qui propose au lecteur un appareil sémantique parsemé d’hypertextes. Les liens hypertextes font partie du paratexte [2. Gérard Genette, *Seuils*, *points*, 1987. Le paratexte est l’ensemble des messages accompagnant un texte et participant à sa bonne compréhension comme par exemple les notes de bas de page, les titres, les renvois, les épigraphes, etc. ] numérique. Il permet de passer du contenu lu à un contenu lié par un clic de souris. Les liens sont des marqueurs d’usage qui organisent, contraignent, orientent et informent de manière non linéaire la navigation au sein d’une page. Ils proposent en cours de lecture de faire des choix qui offrent la possibilité de personnaliser son cheminement et dans le but de répondre au besoin de l’usager. Ils peuvent être de différentes natures : informationnelle (notes de bas de page ou mots clefs) ou structurant (menus de navigation ou liens externes). Il est destiné aussi aux serveurs qui structurent le texte hiérarchiquement selon le sens et l’usage, selon deux échelles : la *macro-structure* et la* micro-structure*. La *macro-structure* est la représentation schématique, cartographique du fonctionnement d’un texte et la *micro-structure*, la formalisation de la hiérarchisation du contenu.
+
+###Choix typographique
+
+Le premier outil de structuration que l’on peut nommer est la grille typographique. Avec la non-standardisation des formes-écrans, cet outil s’est adapté aux contraintes techniques, technologiques de ce support. Mullër Brockmann, dans son ouvrage « *Grid Systems in Graphic Design* » explique que la conception d’une grille implique de prendre en compte les proportions de la page à imprimer. Or la page numérique ne peut avoir de proportions fixes ou standardisées à cause du grand nombre de format d’écran. La définition d’une page papier ou numérique ne dispose pas des mêmes caractéristiques. Une page imprimée propose un format dit *absolu* avec des limites fixes alors qu’une page-écran propose un format dit *relatif* c’est-à-dire qui n’est pas fixe et qui peut être redimensionné. Ce dernier oblige donc le contenu à une grande flexibilité et à des qualités adaptatives. C’est Ethan Marcotte, Web Designer indépendant qui développât le premier la notion de *responsive design*. C’est un processus de conception éditoriale numérique qui propose une optimisation de la lecture et de la navigation, quel que soit le type de format, de navigateur ou encore de système d’exploitation. C’est un principe basé sur un redimensionnement de contenus adapté à la taille de l’écran et à sa gestuelle.
+
+Mark Boulton, designer graphique anglais propose, pour la conception d’une page-écran de se concentrer non pas sur les dimensions des canvas, (élément de programmation *HTML5* pour créer un espace de génération de formes, d’images ou de textes), mais plutôt sur un élément de contenu donnant les proportions de l’espace de la page. Il dit : « Pour concevoir des designs réellement adaptés au web – quel que soit l’appareil – nous devons nous débarrasser de l’idée que nous créons des mises en page pour un canvas donné. Nous devons aborder le problème dans l’autre sens, et créer des mises en page à partir de leur contenu » [3. Mark Boulton, « A Richer Canvas », 2011,  **(link: http://www.markboulton.co.uk/journal/a-richer-canvas text: www.markboulton.co.uk popup: yes)**.]. Il nous semble nécessaire de penser la relation entre le fond et la forme du contenu mais également de prendre en compte le support numérique en tant qu’il implique à la fois des compétences techniques par un apprentissage des langages de programmation et une connaissance des usages et des pratiques de lecture.
+
+###De l'importance d'une police
+
+Une police de caractères a pour fonction première de donner à lire un texte, de communiquer par l’écrit un message. Elle participe à un écosystème constitué de mots, de phrases, de paragraphes, qui doit être maitrisé dans sa forme et sa structure. Les procédés de conception numérique insèrent le texte dans des blocs de proportion prédéfinie que l’utilisateur peut redimensionner en changeant soit de support soit de taille de fenêtre. Ceci a pour conséquence un rétrécissement ou une augmentation du nombre de mots par ligne. L’adaptation des règles typographiques sur écran est de plus en plus maitrisée. Grâce au *HTML5*, nous pouvons maintenant introduire des questions d’espace fine ou encore de césure. Le designer met ainsi en place des stratégies de conception par le langage de programmation dans le but d’anticiper les qualités et proportions d’affichage des différents environnements. Il maitrise l’ensemble des *dispositifs structurants* pour rendre la lecture lisible sur un écran. Il maitrise l’interlignage, le corps, la graisse de la police de caractères, les espaces mots et fine ainsi que le contraste. Ces paramètres sont liés à la distance de lecture entre l’œil de l’usager et la surface éclairée de l’écran. La matérialité des surfaces technologiques ne réfléchit pas la lumière de la même manière que le papier. Les appareils de type  *liseuse*, contrairement aux tablettes ou écrans d’ordinateur qui sont multi-usages utilisent un système de rétro-éclairage ou encore d’émission de photons, proposant un dispositif uniquement orienté sur la lecture. L’utilisation de l’encre électronique en niveau de gris permet une lecture moins fatigante pour l’œil humain en proposant un contraste et une luminosité adaptée à la lecture de texte long. Pour ce qui est de la nécessité d’utiliser des polices de caractères spécifiquement dessinées pour l’écran, ce paramètre peut aujourd’hui être remis en question avec l’augmentation continuelle de la résolution de l’affichage. Les écrans *retina* développés par *Samsung Electronics* en sont un bon exemple. Ils proposent une résolution constituée d’une forte densité de pixels afin que l’œil humain ne soit pas en capacité de discerner ou de constater la pixellisation des contenus iconographiques et/ou textuels. Ce développement technologique remet en question la nécessité d’une police de caractères pour un usage spécifique à l’écran.
+
+En somme, le texte numérique implique des processus de création et de diffusion propre à la culture des écrans. Il nécessite la création d’un vocabulaire lié aux technologies et techniques des supports utilisés, mais aussi une connaissance approfondie des enjeux et usages de la typographie. La mise en espace d’un texte numérique nécessite la maitrise et la compréhension de l’ensemble des processus de lecture et des caractéristiques techniques et graphiques liées au support de diffusion.
+
+----
+
+Article-note: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: design graphique,typographie
+
+----
+
+Article-keyword: Marine Illiet, texte, numérique, lecture, écran, transférer, matérialité, diffuser, lisibilité, support, contenu, typographie, police de caractères
+
+----
+
+Article-resume: 
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Article-relie: 
+
+----
+
+Pdf: (file: echappees-le-texte-numerique.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Print: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Marine Illiet
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] Olivier Reichenstein, « Web Design is 95% Typography », voir : https://ia.net/know-how/the-web-is-all-about-typography-period ; « *Control over typography is not just a basic design necessity, knowing how to treat text as a user interface is the key factor for successful Web design* », traduction du présent auteur
+
+[2.] Gérard Genette, *Seuils*, *points*, 1987. Le paratexte est l’ensemble des messages accompagnant un texte et participant à sa bonne compréhension comme par exemple les notes de bas de page, les titres, les renvois, les épigraphes, etc. 
+
+[3.] Mark Boulton, « A Richer Canvas », 2011,  voir: http://www.markboulton.co.uk/journal/a-richer-canvas

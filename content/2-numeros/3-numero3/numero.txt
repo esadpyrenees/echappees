@@ -1,0 +1,64 @@
+Number: 3
+
+----
+
+Numero-date: Mars 2016
+
+----
+
+Title: Vers de nouvelles formes et pratiques éditoriales
+
+----
+
+Image-couv: (image: fragonard-la-liseuse_portrait-vers-1640-50.jpg)
+
+----
+
+Nom-responsable-numero: Jean-François Dumont, Directeur général de l’ÉSA Pyrénées — Pau Tarbes.
+
+----
+
+Conseils-scientifiques-numero: Ivan Clouteau, Directeur des études et de la recherche, ÉSA Pyrénées – Pau Tarbes.
+
+----
+
+Coordination-revue-numero: Corinne Melin, professeure d’esthétique et théorie des arts, ÉSA Pyrénées – Pau.
+
+----
+
+Comite-redaction-numero: David Coste, Julien Drochon, Corinne Melin, Vincent Meyer, Perrine Saint Martin.
+
+----
+
+Design-graphique-numero: 
+
+Conception et réalisation de la revue numérique *échappées* : 
+(link: http://laetitiaboiteau.com/ text: Laetitia Boiteau popup: yes) et (link: http://marine.illiet.free.fr/index.html text: Marine Illiet popup: yes), diplômées de l’ÉSA Pyrénées – Pau, mention Design Graphique Multimédia, juin 2015.
+<br>
+Julien Bidoret, conseils plateforme numérique, ÉSA Pyrénées – Pau
+
+----
+
+Numero-domaine: 
+
+----
+
+Numero-keyword: 
+
+----
+
+Numero-pdf: 
+
+----
+
+Edito-auteur: Corinne Melin
+
+----
+
+Edito-contenu: 
+
+*échappées* change de support. La revue de l’École Supérieure d’Art des Pyrénées Pau-Tarbes  devient une revue numérique. Cette évolution va de pair avec, d’une part les sujets abordés et d’autre part, les activités de l’ÉSA Pyrénées. Le sujets sont pour la plupart reliés aux technologies les plus récentes que ce soit du point de vue du Design Graphique que des Arts plastiques ; le multimédia étant une des modalités d’expression au croisement de ces champs. La revue participe aussi de la vitrine numérique de l’ÉSA Pyrénées. Elle restitue ses activités de recherche et de pédagogie menées avec les étudiant(e)s de second cycle. Cette plateforme est le fruit d’une sixième année créée en 2015, professionnalisant des étudiants fraichement sortis de l’école.
+
+*échappées* a un nom qui invite au dépassement des frontières disciplinaires et à une croisée de points de vue et de perspectives. La théorie est, en ce sens, envisagée comme une mise en pratique des savoirs et des expériences. Depuis le numéro 1 sorti en décembre 2012, ce parti pris est rendu manifeste par la publication des résultats de recherches actions  associant designers, scientifiques et usagers, d’études phénoménologiques et anthropologiques sur les arts ou encore par le compte-rendu d’observations des interactions entre l’objet numérique et le sujet. Pour le numéro 3, ce sont les nouvelles formes et pratiques éditoriales qui ont été interrogées : Quelles transformations au plan de la création des contenus éditoriaux numériques ? Quelle recherche ? Quels sont les réseaux de distribution et de diffusion ?
+
+Enfin nous ne saurions conclure sans remercier de son soutien sur ce projet la Drac Midi-Pyrénées, aujourd’hui Drac Languedoc-Roussillon, Midi-Pyrénées.

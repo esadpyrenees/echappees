@@ -1,0 +1,20 @@
+Title: Séverine Lepan-Vaurs
+
+----
+
+Text-bio: Étudiante 2<sup>e</sup> cycle DNSEP / Master 1
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+----
+
+Text-liste-articles: 
+
+(link: numeros/numero1/processus-ongle text: n°1: Processus  / Ongle)
+(link: numeros/numero2/raum-1-ou-lespace-libre-la-pierre-de-munich text: n°2 : Raum ou l’espace libre [La pierre de Munich])

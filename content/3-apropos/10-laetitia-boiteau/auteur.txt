@@ -1,0 +1,25 @@
+Title: Laetitia Boiteau
+
+----
+
+Text-bio: Étudiantes en DNSEP Design graphique Multimédia, dans le cadre du séminaire « Les nouvelles formes éditoriales », le 6 mars 2014. Laetitia Boiteau s'intéresse aux projets collaboratifs et participatifs en design. Son mémoire « Déplacement des acteurs dans le projet de design à l'ère numérique », propose une exploration et une réflexion sur des modes de collaboration dans le design ainsi que sur la place et relation que tiennent les systèmes techniques dans ces processus de travail.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+(link: http://laetitiaboiteau.com/ text: www.laetitiaboiteau.com)
+(link: https://issuu.com/laetitiaboiteau text: Publications sur issuu.com/laetitiaboiteau)
+
+Mémoire de DNSEP
+« Déplacement des acteurs dans le projet de design à l'ère numérique »
+<div data-configid="7413777/35256363" style="width:525px; height:371px;" class="issuuembed"></div><script type="text/javascript" src="//e.issuu.com/embed.js" async="true"></script>
+<br>
+
+----
+
+Text-liste-articles: (link: numeros/numero3/entretien-de-donato-ricci-sur-la-recherche-en-design text: n°3 : Entretien de Donato Ricci, sur la recherche en design)

@@ -1,0 +1,52 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>
+Created by FontPrep 20130207 at Wed Jun  1 10:50:11 2016
+ By Julien Bidoret
+Copyright (c) 2011, FontFuror (info@fontfuror), with Reserved Names "Magra" "Magra Pro"
+</metadata>
+<defs>
+<font id="b05f9b358fd70a7ac28b8af2ded63cbe" horiz-adv-x='1024' >
+  <font-face 
+    font-family="Magra-Bold"
+    font-weight="700"
+    font-stretch="normal"
+    units-per-em="2048"
+    panose-1="2 0 8 3 0 0 0 0 0 0"
+    ascent="1638"
+    descent="-410"
+    bbox="31 -403 1028 1575"
+    underline-thickness="102"
+    underline-position="-102"
+    unicode-range="U+0020-00E9"
+  />
+<missing-glyph horiz-adv-x="1024" 
+ />
+    <glyph glyph-name=".notdef" horiz-adv-x="1024" 
+ />
+    <glyph glyph-name=".null" horiz-adv-x="0" 
+ />
+    <glyph glyph-name="nonmarkingreturn" horiz-adv-x="681" 
+ />
+    <glyph glyph-name="space" unicode=" " horiz-adv-x="419" 
+ />
+    <glyph glyph-name="a" unicode="a" horiz-adv-x="985" 
+d="M328 313q0 -100 106 -100q82 0 139 57v193q-129 -18 -188 -49q-57 -33 -57 -101zM571 745q1 66 -27 99t-110 33t-272 -60l-88 193q74 43 192 71q119 35 240 35q250 0 321 -112q37 -59 50 -113q10 -61 10 -139v-385q0 -70 14 -123q20 -53 68 -103l-178 -166q-47 23 -91 68
+q-43 45 -65 84h-8q-121 -152 -301 -152q-295 0 -295 306q0 161 93 241t269 111l178 31v81z" />
+    <glyph glyph-name="c" unicode="c" horiz-adv-x="987" 
+d="M544 1116q228 0 308 -104q76 -106 76 -320l-297 -12q0 121 -21 156q-18 36 -88 36t-100 -73q-29 -80 -29 -253t49 -251q51 -76 163 -76t274 62l65 -187q-170 -119 -414 -119q-471 0 -471 555q0 274 129 428q128 158 356 158z" />
+    <glyph glyph-name="e" unicode="e" 
+d="M530 872q-72 0 -100 -53q-31 -51 -35 -155h250q0 117 -20 163q-23 45 -95 45zM555 1116q207 0 301 -112q80 -92 98 -308q6 -86 7 -215l-146 -20h-422q0 -123 46 -182t160 -59t280 59l63 -193q-193 -111 -405 -111q-477 0 -478 566q0 267 124 421t372 154z" />
+    <glyph glyph-name="h" unicode="h" horiz-adv-x="1079" 
+d="M660 1116q158 0 241 -90q84 -90 84 -254v-772h-315v739q0 133 -127 133q-76 0 -129 -59v-813h-314v1540l314 35v-467l-29 -84l8 -4q109 96 267 96z" />
+    <glyph glyph-name="p" unicode="p" horiz-adv-x="1087" 
+d="M536 219q76 0 116 72t40 253t-28 251q-25 77 -115 77t-135 -61v-559q47 -33 122 -33zM640 1116q178 0 284 -121q104 -121 104 -422q0 -365 -205 -520q-106 -78 -234 -78t-200 45l-8 -6l33 -55v-330l-314 -32v1177l-22 301l244 31l26 -133h8q106 143 284 143z" />
+    <glyph glyph-name="s" unicode="s" horiz-adv-x="935" 
+d="M150 299q203 -88 307 -88q104 1 104 83q0 42 -49 72t-68 35q-200 78 -292 155q-92 76 -92 226t118 242q119 92 300 92t280 -84q100 -80 116 -231l-274 -53q-16 139 -137 139q-47 0 -75 -28q-28 -29 -28 -59t6 -42t23 -33q25 -20 33 -27t90 -43q35 -20 131 -57
+q98 -44 170 -108t72 -190t-113 -225q-112 -99 -320 -99t-415 120z" />
+    <glyph glyph-name="eacute" unicode="&#xe9;" 
+d="M756 1573l114 -211l-460 -199l-97 160zM530 872q-72 0 -100 -53q-31 -51 -35 -155h250q0 117 -20 163q-23 45 -95 45zM555 1116q207 0 301 -112q80 -92 98 -308q6 -86 7 -215l-146 -20h-422q0 -123 46 -182t160 -59t280 59l63 -193q-193 -111 -405 -111q-477 0 -478 566
+q0 267 124 421t372 154z" />
+  </font>
+</defs></svg>

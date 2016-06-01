@@ -1,0 +1,228 @@
+Pagesettings-1: 
+
+----
+
+Title: Les chemins de la pensée / — Entretien de Tim Brown
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: art-kleiner
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: Tim Brown, dirigeant d’*IDEO* et co-auteur avec Barry Katz de l’ouvrage *Change by Design*, 2009 développe une approche du design renouvelant la relation entre le concepteur, celui qui fabrique l’objet et l’usager. Nous publions ici un entretien inédit de Tim Brown conduit par Art Kleiner, rédacteur en chef de la revue new yorkaise *strategy+business*.
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+### Strategy+Business Quelle est l’essence du design thinking ? En quoi peut-il stimuler l’innovation ?
+Il s’agit d’un procédé permettant de créer de nouvelles options. Les managers apprennent des méthodes sophistiquées pour faire des choix et ils s’avèrent souvent très talentueux dans ce domaine. Cependant, il est très contraignant de faire des choix parmi un ensemble d’options ordinaires. Vous pouvez apprendre une nouvelle façon d’exploiter les ressources à bon escient ou de transférer des formes de production dans le monde en consultant des magazines ou des sites Internet d’économie. Et vous pouvez les adopter rapidement — cependant, vos concurrents risquent de vous imiter aussitôt, car ils ont accès aux mêmes informations que vous.
+
+Par conséquent, comment peut-on optimiser la création de nouveaux choix ? D’ordinaire, lorsqu’elles cherchent à innover, la plupart des organisations tendent à se cantonner à la R&D [1. R&D, acronyme de « Recherche & Développement ».Traditionnellement, la R&D désigne l’ensemble des moyens investis dans l’innovation notamment technique (note ajouté par l’auteur du présent numéro).] technologique. Mais si l’on se réfère à Peter Drucker et à son livre *Innovation and Entrepreneurship* (Harper & Row, 1985), on note qu’il décrit sept sources d’opportunités en matière d’innovation, et la technologie n’est qu’un élément parmi
+
+celles-ci. [Les autres sont l’inattendu, les incohérences, l’évaluation, les transformations structurelles de l’industrie, la démogra-phie et les changements de perception.] Dans la plupart des entreprises, les équipes en R&D n’ont pas de dispositifs suffisamment efficaces à leur disposition pour puiser dans
+ces sources alternatives et créer de nouveaux choix de façon constante et durable. Mais les designers — au gré d’accidents heureux, de façon involontaire — ont progressivement découvert un ensemble d’approches fonctionnelles et fiables.
+
+###  À quoi reconnaît-on une organisation qui pratique le design thinking ?
+Son offre répond aux besoins inexprimés du public à qui elle s’adresse. Les meilleurs designers professionnels instaurent des relations entre les gens et les technologies — qu’il s’agisse de technologies courantes telles que l’iPod et l’automobile, de la technologie de notre environnement bâti comme le métro d’une agglomération, ou de la technologie inhérente aux réseaux de communication à l’instar du réseau d’une société. Vous serez en mesure de proposer des choix novateurs et intéressants, avec une meilleure compréhension des besoins de votre public, en exprimant ces besoins sous forme d’intuitions que vous développez et que vous prototypez.
+
+### Cela nécessite-t-il un talent spécifique, ou peut-on y parvenir à travers des procédés et des pratiques ?
+Dans ce débat sur l’innovation et la créativité, je pencherais plutôt vers le « procédé » que vers le « génie » s’il faut choisir entre les deux. À l’école maternelle, tout le monde était très bon à ça. Nous sommes tous capables de créer, même si nous n’avons pas réponse à tout ; nous pouvons interpréter les choses, raconter des histoires, observer le monde qui nous entoure et y puiser des idées. Toutes ces choses sont des capacités humaines élémentaires. Lorsqu’ils bâtissent une tour avec un jeu de construction, la plupart des enfants savent parfaitement à quel moment s’arrêter pour éviter qu’elle ne s’effondre. Ils dessinent
+pour visualiser leurs idées. Ils se comportent en permanence en designers.
+
+Bien sûr, beaucoup de gens perdent toute leur créativité quand ils passent par l’école traditionnelle. L’enseignement professionnel investit des sommes considérables — à juste titre — pour former de grands penseurs analytiques. Mais il n’investit pas dans la formation de penseurs créatifs. Bon nombre de designers ne réussissent pas particulièrement bien dans les écoles conventionnelles, et finissent par les quitter pour s’inscrire en école d’art, par exemple.
+
+### Pouvez-vous nous en dire plus sur les procédés à l’oeuvre dans le design thinking ?
+Toutes les méthodes permettent d’améliorer la réflexion, qu’il s’agisse de la méthode scientifique ou de l’approche analytique ; elles sont des procédés. Les utiliser ne nécessite pas de talents analytiques. Le design thinking est une de ces méthodes. Il peut être utilisé de manière relativement fiable par des gens qui ne sont pas nécessairement tenus pour créatifs.
+
+Mais à la différence des méthodes plus analytiques, celle du design thinking touche autant à l’intuition qu’au raisonnement. Votre processus n’est pas un ensemble de cases prédéterminées que vous cochez au fur et à mesure, et c’est là l’un des défis, posé par toute méthodologie créative.
+
+En fait, on retrouve le même défi dans la méthode scientifique. Comment parvient-on à formuler une hypothèse ? Souvent par un bond créatif. Les meilleurs scientifiques se fient à leurs intuitions pour bâtir leurs hypothèses avant de les confirmer ou les infirmer par l’expérimentation et l’analyse.
+
+Par le passé, certains ont tenté de définir les méthodes de design comme étant soit purement créatives — comme si le seul fait de « sortir du cadre » était suffisant —, soit purement analytiques. Dans les années soixante, le design était devenu tellement fastidieux qu’il ne laissait plus la moindre place à l’intuition. Généralement, quand on choisit l’un des deux extrêmes, on obtient des solutions moins efficaces.
+
+### Un parcours design thinking
+
+### Par définition, une méthode est un ensemble d’étapes consécutives. Pouvez-vous décrire quelques-uns de ces jalons, propres au processus du design thinking ? Le premier est le brief design : quelle est la question que vous allez aborder ? Ces dernières années, on formulait généralement cela d’une manière plus large et stratégique. Au début de ma carrière de designer, on me demandait souvent d’habiller des appareils ou des progiciels informatiques avec une interface : « Quelque chose qui plaira au public ». Aujourd’hui, chez IDEO, les clients ont tendance à nous demander comment réinventer un marché spécifique.
+
+Un deuxième jalon est l’observation du monde avec un regard neuf. La légende veut que les personnes créatives aient des idées géniales plein la tête qu’il suffit de faire sortir. Je ne connais personne qui fonctionne ainsi. Les bonnes idées viennent lorsqu’on remarque les choses et lorsqu’on regarde le monde différemment. Chez IDEO, nous utilisons fréquemment des techniques inspirées de l’ethnographie : nous observons les gens dans des situations adéquates ou prenons le temps de
+parler avec eux de leur univers — qu’il s’agisse d’un magasin, d’une salle des urgences ou d’une aire de détente. Plus on est observateur, plus les questions deviennent intéressantes, de sorte que vous êtes en mesure d’effectuer votre itération entre l’élaboration du brief et la phase d’observation. Par exemple : lorsqu’Amtrak nous a chargés d’enquêter sur les usagers de l’Acela, leur train à grande vitesse, nous avons commencé par nous demander : « Quelles sont les différentes étapes qu’empruntent les voyageurs, du début à la fin ? » Nous nous sommes rendus compte que la majeure partie des interactions se déroulaient avant même de monter à bord : se rendre à la gare, acheter les billets, trouver le quai. Tout cela est très important pour les passagers, mais cela risque de vous échapper si vous n’êtes pas préparé à les observer avec attention.
+
+Cette perspective représentait un défi pour les ingénieurs ferroviaires. Amtrak n’est propriétaire que d’une infime partie des équipements qu’utilisent les passagers. Les gares ou les compagnies de taxi ne leur appartiennent pas. Il en va de même pour les compagnies aériennes. Les installations, la sécurité, la restauration et le transport au sol y sont assurés par d’autres sociétés. Un ensemble complexe d’intervenants est censé — en théorie — acheminer la clientèle de façon agréable et irréprochable. Pour cela, concevoir une interface est extrêmement difficile. Quand vous y parvenez, il y a généralement un groupe qui est prêt à dire : « Ok, je sais que je ne suis pas vraiment responsable de tous ces éléments, mais je me porte garant pour l’ensemble ».
+
+Richard Branson agit de la sorte avec Virgin Airways. Autant que je sache, Virgin est toujours la seule compagnie aérienne internationale qui vous amène, à bord d’une voiture à l’effigie de la marque, dans une zone réservée de l’aéroport, et où tout le processus fait partie de l’expérience Virgin. La British Airports Authority est responsable d’une bonne partie de l’infrastructure, mais j’en déduis que Branson a déboursé une belle somme pour diriger toute l’expérience de vol et l’offrir à ses clients.
+
+### Comment le design thinking peut-il s’appliquer à un produit indépendant ?
+Aucun produit n’est indépendant. En 2004, Shimano voulait concevoir des cycles pour adultes. En observant les cyclistes potentiels, ils ont découvert que bon nombre de clients étaient dissuadés par l’ambiance high-tech et exclusive du magasin. Ils craignaient aussi de rouler en ville. La compagnie a dû penser non seulement au design de ses cycles, mais aussi à l’ambiance de la boutique et au sentiment de sécurité. Dans certains marchés, Shimano va même jusqu’à retarder la commercialisation de ses cycles et attendre que les autorités locales s’engagent pour la sécurité des cyclistes le jour du lancement.
+
+Il en va de même pour un nouveau shampoing : la complexité ne provient pas de l’emballage qui est visible, mais des systèmes de fabrication et de distribution auxquels le consommateur n’a pas accès. Un designer doit être en mesure de s’engager dans le durable en analysant les cycles de vie des différents matériaux utilisés pour fabriquer le produit, et parvenir à influencer les différents fournisseurs intervenant dans la chaîne de valeur, afin de réduire le poids du produit ou utiliser de nouveaux matériaux.
+
+Cela nous mène à un troisième jalon : la nécessité de trouver un procédé systématique pour développer vos intuitions. La première phase de réflexion tend à être relativement progressive et simple. Kristian Simsarian, l’un des designers d’*IDEO*, s’est chargé du nouveau design de la salle des urgences d’un hôpital. Il y a été admis comme patient et a filmé l’expérience sous tous les angles — et l’unedes premières choses que nous avons remarquée en visionnant la vidéo, était le temps qu’il passait allonger sur son brancard à roulette, à patienter en regardant les tuiles de plafond insono-risées. Ces tuiles sont devenues le symbole de l’ambiance générale : un mélange d’ennui et d’anxiété, confusion provenant d’un manque d’information et d’un sentiment d’abandon. Nous aurions pu répondre en disant : « Donnons un peu de couleur à ces tuiles » ou — comme le font beaucoup d’hôpitaux — « Installons des téléviseurs un peu partout pour distraire les patients ».
+
+À la place, nous avons volontairement initié une série de discussions au sujet de nos découvertes, et nous avons pu grâce à cela aborder la nécessité d’améliorer l’approche générale de la logistique des salles des urgences pour que l’on cesse de traiter les patients comme des objets et qu’on les considère davantage comme des individus en proie au stress et à la douleur.
+
+Le prototypage, quatrième jalon, consiste en la visualisation de vos idées. Je m’étends longuement sur le sujet dans *Change by Design* car c’est un élément vital. L’alternative consiste à tout penser à l’avance et, une fois votre approche choisie, vous empresser de la mettre en application à l’échelle. C’est une idée profondément limitée, parce que vous n’avez pas le droit à l’erreur. Par conséquent, vous êtes tenté de choisir des approches progressives et relativement sûres. J’ai entendu parler de certaines compagnies où personne ne voulait présenter de prototype inachevé au PDG de peur de s’exposer à la critique. Ce genre de culture d’entreprise ne favorise pas vraiment l’innovation.
+
+Tous mes héros dans le domaine du design — Thomas Edison, Akio Morita, Steve Jobs et bien d’autres — concevaient souvent des objets que personne n’avait créés avant eux. C’est pourquoi ils réalisaient systématiquement des prototypes, les testaient, identifiaient leurs imperfections, et revoyaient leur design pour les améliorer. Il nous faut être plus à l’aise avec la phase de fabrication pour apprendre, autrement dit, il nous faut créer des objets pour trouver comment ils peuvent être améliorés, et non pour montrer à quel point ils sont performants. À mes yeux, on reconnaît une culture de l’innovation quand la direction examine régulièrement les prototypes pour suivre l’évolution des idées.
+
+### Une culture du prototypage
+
+### IDEO est désormais une multinationale et a pris une ampleur qu’Edison n’aurait probablement jamais imaginée. Comment parvenez-vous à entretenir une telle culture d’entreprise à une si grande échelle ?
+
+Nous ne sommes pas si grands et nous faisons généralement en sorte de faire venir nos collaborateurs à proximité de nos bureaux [situés à Chicago, Boston, New York, Londres, Munich, Shanghai et la Baie de San Francisco]. Plus important, nous nous sommes rendus compte, il y a quelques années, que nos meilleures
+réflexions venaient de l’intérieur de la firme, et non des cadres supérieurs. Nous avons donc mis au point ce que nous appelons le Tube : une plate-forme indépendante dédiée au partage des connaissances. C’est un système basé sur la collaboration.
+
+Son centre névralgique est un site Internet sur lequel chaque employé d’*IDEO* possède sa propre page. Sur la mienne, par exemple, vous pouvez consulter tous mes travaux, mon expérience, mes projets pour les trois mois à venir et mon blog. Nous postons des billets pour chaque projet et chaque client : comment nous avons abordé telle question, les enseignements que nous en avons retirés, la manière dont nous avons travaillé. Ensuite, via le wiki, ceux qui s’intéressent à certains sujets partagent leurs idées et réalisent des prototypes ensemble. Notre forum de discussion interne, centré sur l’impact social du design, compte des dizaines de milliers de pages.
+
+Nous expérimentons de nouvelles méthodes de collaboration pour élaborer de nouveaux produits. L’année dernière, nous avons travaillé sur un projet pour Product (RED), une organisation qui lève des fonds pour faire reculer le sida en Afrique. Nous avons contribué au design et aidé à lancer un nouveau service musical exclusif, destiné à générer des revenus durables, et à établir une marque (RED) indépendante des entreprises partenaires. Pour accéder à l’expertise médiatique autour de notre propre compagnie, nous avons lancé le projet simultanément dans tous nos bureaux, mais avec un délai très court. Les gens se sont connectés virtuellement pour mettre leurs idées en commun, puis une équipe de design a recueilli les éléments pour produire le concept définitif. Le produit (RED)Wire a été lancé en décembre 2008.
+
+Lors d’une autre expérience collaborative, nous avons élaboré une série de machines inspirées de Rube Goldberg depuis les quatre coins du globe — des exercices virtuels dans lesquels chaque action devait provoquer un autre mouvement à des milliers de kilomètres. Par exemple, la chute d’une peluche Elmo sur une souris d’ordinateur à Palo Alto active un serveur d’impression à Shanghai, où la feuille qui sort de l’imprimante provoque la chute d’une balle placée au sommet de l’appareil, qui à son tour déclenche un signal téléphonique à Londres. Les gens ont dû travailler ensemble à distance pour faire fonctionner tout cela.
+
+### Que vous apportent ces prototypes collaboratifs ?
+Nous mettons explicitement l’accent sur la collaboration en équipe, d’une manière transdisciplinaire et, autant que possible, par-delà les frontières, et cela s’est avéré payant tout au long de notre histoire. L’un des mythes les plus répandus au sujet du design est qu’il abrite des super-stars pleines de talent qui pondent des idées merveilleuses seules dans leur coin, mais je ne pense pas que ce soit le cas. Je pense qu’il faut des équipes extrêmement talentueuses pour aborder des idées complexes.
+
+Cela ne veut pas dire qu’il n’y a pas de place pour les initiatives individuelles. Je pense que le design de beaux fauteuils ou de superbes montres peut souvent provenir d’un seul designer. Mais il faudra toujours une armée de personnes pour les fabriquer. Et pour être honnête, la grande majorité des questions de design auxquelles on doit répondre aujourd’hui sont très complexes, et on a besoin d’une équipe si l’on veut innover, et ce dès la phase de conception.
+
+### Particulièrement lorsque le résultat final est censé être simple.
+Nous croyons dur comme fer en la simplicité, quand l’utilisateur est concerné. Il y a des limites à la complexité, et même lorsque les gens utilisent des appareils complexes, il faut leur présenter ces derniers de manière intelligente et simple. Le Macintosh dans les années quatre-vingt et le Palm Pilot dans les années quatre-vingtdix avaient initialement des fonctionnalités limitées qui se sont développées avec le temps, et le public a évolué avec eux.
+
+L’une des raisons pour lesquelles j’adore la Wii de Nintendo est que les jeux vidéo traditionnels sont terriblement intimidants. Les connaissances requises pour y jouer me dépassent. Peut-être que les jeunes, plus enthousiastes, s’y plongeront avec bonheur, mais ce n’est pas mon cas. La Wii a réintroduit la simplicité dans les jeux vidéo ; pour moi et pour bien d’autres qui ne s’y seraient pas intéressés en temps normal, elle a permis d’entrer dans cet univers.
+
+La simplicité en design provient de la recherche de zones où les gens ont besoin d’entretenir une relation de compréhension avec la technologie. Les solutions en matière de design ne doivent pas toutes être intrinsèquement simples. Mais les points d’interaction doivent souvent être simples pour nous permettre de participer. La PlayStation 3 de Sony est bien plus avancée que la Wii, mais elle est aussi trop compliquée pour beaucoup de gens.
+
+### L’avenir du design thinking
+
+### La société industrielle se dirige-t-elle vers un meilleur design ?
+Absolument. Les automobiles, par exemple, sont bien plus performantes qu’elles ne l’étaient il y a vingt ans. Mais en même temps, l’humanité produit à tour de bras une quantité de gadgets au design médiocre et à l’utilité discutable. Ce qui est sûr, c’est qu’il faut s’attendre à une forte hausse du consumérisme dans des pays comme la Chine et l’Inde ces quarante prochaines années. Cela représente une chance inouïe pour ces économies ; la population accèdera à un meilleur niveau de vie, elle sera en meilleure santé et pourra mieux communiquer. Mais gérer cela vis-à-vis des ressources et des émissions de carbone est une toute autre chose ; le design fera inévitablement partie de la solution, mais très peu de gens ont commencé à concevoir les produits, les services et les infrastructures nécessaires.
+
+En tant que designers, nous continuons à observer une réorientation des produits vers les services et les biens immatériels. Or, pendant que les fabricants dépensent des sommes considérables dans le design de leurs produits et dans l’expérience de l’utilisateur, la plupart des industries de service ne possèdent pas une tradition de R&D ou d’innovation. Leurs efforts en termes de recherche et développement sont dédiés aux services d’assistance aux infrastructures tels que les échanges par téléphone et les algorithmes financiers, et non à l’expérience du client. Cette situation va changer, et ce changement sera bienvenu.
+
+### Comment peut-on appliquer le design thinking à des systèmes plus larges, comme les organisations et les sociétés ?
+Un design social se compose de règles, d’outils et de normes, et ces trois éléments doivent être coordonnés. « Keep the Change », le service financier de Bank of America, est un bel exemple du fonctionnement satisfaisant de ces trois aspects. Ce produit offre aux clients un moyen facile d’épargner en arrondissant le montant de leurs achats par carte au dollar supérieur et de transférer la différence vers un compte épargne. La banque wa fourni l’outil et les règles qui le régissent. Mais son utilisation exige aussi un changement d’attitude face à une norme reposant sur une épargne quotidienne.
+
+Pour les designers, il est facile de se focaliser sur les outils en négligeant le rôle des règles et des normes. Mais le design thinking peut grandement contribuer à une meilleure élaboration des règles. L’année dernière, quand la FIA a modifié la réglementation de la Formule 1 [en matière, par exemple, de précisions pour les pneus et l’aérodynamique], trois écuries ont interprété ces changements de telle sorte qu’elles en ont retiré un avantage de performance considérable et qu’elles ont gagné toutes les courses de la saison 2009 jusqu’à aujourd’hui. Toutes les autres écuries se plaignent et demandent une nouvelle modification des règles. Au bout du compte, ces va-et-vient sont sains pour le sport ; cet environnement favorise le prototypage et permet ainsi de tester des nouvelles règles.
+
+### Vers où se dirige le design thinking selon vous ?
+L’une des problématiques les plus intéressantes à prendre place dans le design d’aujourd’hui est celle qui oppose les contraintes de coût — accentuées par la crise économique — et les contraintes de durabilité ou les conséquences environnementales. Certaines des solutions de design les plus séduisantes sont mues par ces deux contraintes. Elles sont moins chères parce qu’elles sont plus durables et vice-versa. Cela provient souvent du fait que leur design est plus élégant.
+
+Par exemple, la Tata Nano coûte moins de 3000 $ et apparemment, elle est plus durable écologiquement que les motos que conduisent les familles indiennes. Un autre exemple est l’hôpital Aravind. L’établissement n’offre pas de lits à ses patients, mais pour certains d’entre eux, qui viennent de l’Inde rurale, un tapis de jonc posé sur le sol en béton est plus confortable que ce qu’ils ont chez eux. Les membres du personnel ne se considèrent peut-être pas comme des designers, mais ils prototypent et expérimentent continuellement leurs procédés, en tentant de mieux cerner les besoins de leurs clients, à la manière de tout bon designer.
+
+### En d’autres termes, les designers se concentreront sur la conception d’objets qui ont plus de sens.
+Tout à fait. L’une des choses les plus excitantes à mes yeux au sujet du design aujourd’hui, ce sont les questions que soulèvent les types d’objets et de services qui ont vraiment du sens. Dans Objectified, un documentaire de Gary Hustwit consacré au design industriel, on demande à des personnes d’imaginer qu’un cyclone est sur le point de s’abattre. « Vous avez vingt minutes pour emporter les objets de votre maison qui vous sont les plus chers. Que prenez-vous en premier ? » Il montre ensuite les réponses en images, et aucun produit, même de valeur, n’y figure. À la place, on voit des photographies ou d’autres objets précieux car pleins de sens. Ces choses ont une signification, elles renvoient à des relations sociales et des souvenirs.
+
+Pendant ce temps, nous, les innovateurs et spécialistes du marketing, déployons une énergie folle pour concevoir, fabriquer et vendre des choses dont les gens ne se soucient pas tant que ça au bout du compte. Que se passerait-il si nous nous mettions à réfléchir à tout cela différemment ?
+
+### Comment cela se traduit-il dans les prises de décision d’un dirigeant de société ?
+Tout d’abord, cela modifie sa manière de gérer son entreprise. Si tout ce que vous avez à offrir est un salaire plus élevé, vous privez vos employés de beaucoup d’opportunités. Bon nombre d’employés d’*IDEO* pourraient nous quitter pour un meilleur salaire, et pourtant ils choisissent de rester parce qu’ils adorent travailler ici : au bénéfice économique s’ajoute du sens, des expériences et des liens. Je pense que beaucoup d’organisations qui parviennent à conserver leurs talents ou leurs clients vous diraient la même chose. Elles sont à même de facturer leur travail plus cher, de conserver leurs employés ou de saisir un marché plus vaste parce qu’elles ont une meilleure réputation.
+
+De plus, cela transforme votre appréhension du public qui achète vos produits et vos services. Aujourd’hui, il existe peu ou prou deux modèles économiques pour une compagnie. Le premier est l’approche consumériste conventionnelle, qui offre des biens et des services sans autres engagements que la production et le marketing. Ce modèle consumériste a encouragé une relation passive avec les consommateurs ; le public paye des produits et des services, et rien de plus, sans effort ni implication de la part de l’individu.
+
+Toutefois, les produits et les services les plus séduisants exigent une participation active. Par exemple, vous ne pouvez pas rejoindre un réseau social sur Internet sans communiquer avec d’autres gens qui en font partie. Dans mon livre, je baptise ce second modèle l’« économie participative » — il s’agit d’une économie basée sur des gens qui s’impliquent, qui recherchent des influences, et qui prennent part d’une manière plus volontaire dans leur mode de consommation. Les compagnies ont besoin de fournir des plates-formes qui supportent cela — en laissant les gens contribuer plus activement aux objectifs qu’ils recherchent, à savoir une société plus saine et productive et une vie relativement épanouie et longue.
+
+Nous percevons beaucoup d’opportunités cette approche dans le domaine des soins de santé. Par exemple, si je possédais une plate-forme électronique de gestion de mes dossiers médicaux, elle me fournissait de meilleures informations sur ma santé et me permettait de connecter différents services entre eux. Je pourrais former une équipe composée de personnes qui m’ont soigné par le passé et qui auraient accès aux messages que chacun d’entre eux m’adressent. Ce serait une sorte de plateforme participative. Les politiques fiscales pourraient encourager ce type de plates-formes de santé. Et cela permettrait de focaliser les ressources non plus sur la résolution, mais sur la prévention des problèmes.
+
+Il est relativement facile d’imaginer ce genre d’outil dans le domaine des soins de santé (cf. *A Better Model for Health Care* de Gary D. Ahlquist, Minoo Javanmardian et Sanjay B. Saxena, s+b, automne 2009). Et des plates-formes similaires pourraient être mises au service des consommateurs dans de nombreux domaines, dont les transports et l’alimentation. Dans chacun de ces cas, lorsqu’il est plus aisé pour les gens d’identifier les options qui s’offrent à eux, ils tendent à prendre de meilleures décisions. Atteindre cet objectif n’est pas une simple question économique ou politique ; cela nécessite un meilleur design.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: pdf-pau-lescheminsdelapensee.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Art Kleiner
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 

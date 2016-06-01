@@ -1,0 +1,17 @@
+Title: Fabrice Papy
+
+----
+
+Text-bio: Fabrice Papy est Professeur des *Universités en Sciences de l’Information et de la Communication*, il participe aux programmes de recherche de l’*ESCoM* et s’intéresse plus particulièrement aux problématiques d’interopérabilité épistémique, de médiation numérique et d’usages dans les dispositifs technodocumentaires. Il est le concepteur du *Visual Catalog*, catalogue en ligne de nouvelle génération utilisé par les six universités du Nord Pas de Calais. Ses derniers ouvrages : « Recherches ouvertes sur le numérique », 2013, « Évolutions sociotechniques des bibliothèques numériques », 2010, « Information Science », 2010, « Technodocumentation », 2009
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+----
+
+Text-liste-articles: (link: numeros/numero2/archives-audiovisuelles text: n°2 : Archives audiovisuelles numériques de la recherche en SHS et Digital Information Design : rencontre entre sémiotique de l’audiovisuelle numérique et nouvelles interfaces documentaires)

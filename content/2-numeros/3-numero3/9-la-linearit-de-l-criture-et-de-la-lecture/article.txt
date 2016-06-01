@@ -1,0 +1,170 @@
+Pagesettings-1: 
+
+----
+
+Title: La linéarité de l'écriture et de la lecture
+
+----
+
+Article-date: Mars 2015
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: celine-blancou
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: Céline Blancou rend compte du moment où la lecture et l’écriture linéaires basculent vers celles non linéaires ; ce renversement étant dû aux outils et supports numériques.
+
+----
+
+Article-chapeau-redaction-note: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+« L'écriture est le prolongement de la lecture. Il faut cesser de supposer une césure qualitative entre l'acte de lire et celui d'écrire. Le premier est créativité silencieuse, investie dans l'usage qu'on fait d'un texte ; le second est cette même créativité, mais explicitée dans la production d'un nouveau texte. Lecture et écriture sont inséparables. Tout le monde lit et tout le monde écrit. La vie quotidienne, domestique, est jalonnée de menus textes écrits, de billets, de listes de commissions, de lettres destinées à l'administration ou à la famille, de lettres d'amour [1. Chantal Horellou-Lafarge et Monique Segré, « Sociologie de la lecture », édition *La découverte*, 2007]. »
+
+La linéarité de l'écriture est en lien étroit avec la linéarité de la lecture. L'une engendre l'autre. Elles sont ancrées dans notre culture et nos habitudes. En ce sens, la moindre tentative de renversement de cette linéarité entraîne une désorientation ; le lecteur étant obligé de changer ses habitudes. Avec le développement de la lecture sur le web, de nouveaux modes de lecture sont apparus. Cela a provoqué de vives réactions et débats dans le domaine du livre. Des théoriciens, ingénieurs et historiens - comme Claire Belisle, Roger Chartier ou encore Frédéric Kaplan - ont cherché à confronter les supports papier et écran et à interroger la domination de l’un par l’autre. Avant d’en discuter, revenons sur l’apparition de l’écriture linéaire dans notre quotidien et les habitudes de lecture qui y sont attenantes. Nous nous appuierons sur deux moments historiques forts : l’imprimé et le web.
+
+###La linéarité de l'écriture et de la lecture
+
+L'écriture ainsi que ses supports ont connu plusieurs phases déterminantes dans l’histoire de leur création à aujourd'hui. L'une des plus importantes est probablement le passage à l'écriture linéaire. On observe quasi-simultanément l'apparition de la mythographie qui provoque un changement au niveau du mode de répartition des signes sur leur support. Ces signes qui s'organisaient de façon assez primitive et dont le placement dans l'espace pouvait paraître assez libre, prennent alors la *forme* d'un enchaînement linéaire strict. Au Moyen-âge, cette ligne d'écriture a été appelée *Linea vitae sacrae*. Selon Anne-Marie Christin, celle-ci « était la raison suprême, le Verbe de Dieu [...] » [2. Anne-Marie Christin, « L'Image écrite ou la déraison graphique », *Flammarion*, coll. *Idées et recherches*, 1995, (rééd. coll. *Champs*, 2001, 252 p., réédition augmentée *Champs-arts* 2009). Les citations suivantes sont extraites du même ouvrage. L’auteure est directrice et fondatrice du *Centre d'Étude de l'Écriture et de l'Image* (CEEI).]. Leroi-Gourhan disait à propos de cette linéarité que « la ligne lui paraissait constitutive de l'écrit parce qu'elle était pour lui la représentation évidente et comme naturelle du pouvoir : en montrant les effets graphiques de la dynamique gestuelle, elle suggérait celle de la parole [...] ». Aujourd'hui, comme le souligne Claire Belisle, les livres imposent globalement ce mode de lecture linéaire. 
+
+Cette linéarité profondément inscrite dans notre patrimoine culturel est mise en question au moins depuis le tout début du 20è siècle notamment par les artistes d’avant-garde. Par exemple, le littérateur Stéphane Mallarmé avec « Un coup de dés jamais n'abolira le hasard » [3. Stéphane Mallarmé, « Un coup de dés jamais n'abolira le hasard », paru en 1897 dans la revue *Cosmopolis* puis en 1914 dans *La nouvelle revue française*, et republié en 2004 par Michel Pierson et Ptyx.] provoque une rupture avec la linéarité de la lecture traditionnelle. Anne-Marie Christin dit à ce propos : « pour la première fois de leur histoire, les héritiers de l'alphabet que nous sommes ont pris conscience du fait qu'ils ne disposaient pas simplement, avec ces quelques signes, d'un moyen plus ou moins commode de transcrire graphiquement leur parole mais d'un instrument complexe, double, auquel il suffisait de réintégrer la part visuelle – spatiale – dont il avait été privé pour lui restituer sa plénitude active d'écriture. » Au Moyen-âge, des tentatives de ce genre avaient déjà été expérimentées. L'apparition de la page glosée et des lettrines démontrait déjà un désir de développement du texte pour varier les reproductions et développer une lecture originale et agréable. Hélas, elles ont disparu presque aussitôt étant donné leurs coûts élevés et une durée de réalisation trop longue. L'imprimerie va lors de son développement bouleverser les codes graphiques du livre grâce, notamment, à des techniques d'impression rapides.
+
+###Les nouveaux modes de lecture avec l'apparition du web
+
+Selon Roger Chartier le livre propose une lecture dans sa totalité ; la matérialité du livre mettant le lecteur face au texte dans son intégralité tandis que le web offre une lecture discontinue et segmentée. En effet, le web favorise l'immédiateté et apporte au lecteur une masse d'informations. D'après Cédric Biagini et Guillaume Carnino, « le numérique, *hypertexte* et multimédia, induit une *hyper-attention* que des psychologues américains opposent à la *deep attention* (l'attention profonde) que nécessite la lecture linéaire sur papier. » Cette discontinuité dans la lecture favorise les lectures brèves notamment celles liées à l'information et aux faits divers. On remarque qu’avec le développement du web, les supports papier évoluent et en conséquence la lecture également. Par exemple, des magazines papier vont proposer à l’instar du web des lectures furtives par le biais d’une succession de courts articles. Ainsi, le support papier, tout en gardant son rôle de lecture *attentive* via le livre, se met au diapason du web et propose, des revues adaptées aux lectures furtives. On remarque encore l’usage dans les magazines papier de *couleurs tape-à-l’œil* telles que le fluo et de nouvelles façons *d'accrocher* le regard du lecteur à travers des titrages parfois démesurés. La prolifération du web étant fulgurante, le monde de l'imprimé s’est mis au diapason du web, notamment dans le secteur des magazines.
+
+###Les limites des bouleversements du Web
+
+Michel Melot, dans « Livre » [4. Michel Melot, « Livre », Paris, *l'Œil neuf éd.*, 2006.] parle du rapport « intime et ubiquiste » que le lecteur entretient avec ce support. L’apparition du web et de l'ordinateur portable comme support de lecture crée un tout nouveau lien entre l'utilisateur et l'objet. Par exemple et même si cela peut paraître dérisoire, l'utilisateur est contraint par l'autonomie de la batterie qui conditionne le temps et l'espace de lecture, et nécessite une prise électrique à proximité.
+
+Chantal Horellou-Lafarge et Monique Segré soulignent dans leur ouvrage « Sociologie de la lecture » que « l'arrivée de la communication par internet pose de nouveaux problèmes dans le contrôle de la circulation internationale de l'écrit » [5. *Ibid*. Chantal Horellou-Lafarge et Monique Segré, « Sociologie de la lecture».]. Cette prolifération de l'écrit par le biais du web laisse à la fois place à des problèmes de gestion de droits, des problèmes de véracité de l'information diffusée et des problèmes de lisibilité graphique, notamment dans la gestion des différentes langues pour un même contenu.
+
+Un problème d'accès à cette culture entre aussi en jeu. Une fois sortie du système scolaire qui a pris en charge cet élément d’apprentissage, l'accès à cette culture du web est limité aux moyens de l'utilisateur. Lors d'un entretien à l'École supérieure d'art des Pyrénées – Pau en 2014, Emmanuël Souchier le souligne : « La dimension publicitaire du marketing est *au service de* et consiste à dire que ces outils sont des outils de démocratisation de l'écriture. C'est faux. Pourquoi ? Parce que quand on dit cela, on balaye toute la complexité que l'on demande aux usagers. On oublie de penser la dimension éducative. On oublie de penser la dimension des différences sociales et culturelles. Et on les réduit à l'idée selon laquelle la technologie nous amènerait la démocratie. Il n'y a pas plus difficile d'accès que ces objets. Il faut les apprendre et on ne les apprend pas tous n'importe où, ni n'importe comment. Il faut avoir accès à une culture. »
+
+###Pour conclure
+
+La linéarité de l'écriture et par conséquent, la linéarité de la lecture, dépendent à la fois de leur support, de l'utilisateur ou du lecteur, du contexte de lecture et du contenu qui est lu. Le web et le livre proposent des façons de lire différentes sans pour autant que l'une soit plus adaptée que l'autre. Il est réducteur de confronter le livre au support numérique ; ces deux supports ayant leurs propres caractéristiques et proposant des types de lecture foncièrement différents. Malgré l'apparition et le développement exponentiel du web, le livre subsiste car à l'heure actuelle, il reste un symbole de culture et d'éducation que l'État s'empare pour l'apprentissage de la lecture en milieu scolaire (le taux d'impression de livre a même augmenté depuis l'apparition du web) ; ceci étant la preuve que les deux supports peuvent cœxister sans empiéter l'un sur l'autre, parfois même en étant complémentaire l'un de l'autre. Beaucoup d'écrits, comme celui de l'ingénieur/chercheur en intelligence artificielle, Frédéric Kaplan dans « Futur 2.0 : si les livres pouvaient parler » [6. Philippe Bultez Adams, Maxence Layet et Frédéric Kaplan, « Futur 2.0 », édition *FYP*, 2007.], sous-entendent que, face au développement du web, le livre devrait *s'adapter* aux modes de fonctionnement du web. Bien-sûr, prendre en compte leurs évolutions mutuelles est nécessaire au développement du monde de la lecture, mais ces évolutions ne peuvent-elles pas être simultanées et indépendantes ?
+
+----
+
+Article-note: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: Céline Blancou,linéarité de l'écriture,linéarité de la lecture,non linéarité de l'écriture,non linéarité de la lecture,lecteur,histoire,hypertexte,utilisateur,culture
+
+----
+
+Article-resume: 
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Article-relie: 
+
+----
+
+Pdf: (file: echappees-la-linearite-de-l-ecriture-et-de-la-lecture.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Print: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Céline Blancou
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] Chantal Horellou-Lafarge et Monique Segré, « Sociologie de la lecture », édition *La découverte*, 2007.
+
+[2.] Anne-Marie Christin, « L'Image écrite ou la déraison graphique », *Flammarion*, coll. *Idées et recherches*, 1995, (rééd. coll. *Champs*, 2001, 252 p., réédition augmentée *Champs-arts* 2009). Les citations suivantes sont extraites du même ouvrage. L’auteure est directrice et fondatrice du *Centre d'Étude de l'Écriture et de l'Image* (CEEI).
+
+[3.] Stéphane Mallarmé, « Un coup de dés jamais n'abolira le hasard », paru en 1897 dans la revue *Cosmopolis* puis en 1914 dans *La nouvelle revue française*, et republié en 2004 par Michel Pierson et Ptyx.
+
+[4.] Michel Melot, « Livre », Paris, *l'Œil neuf éd.*, 2006.
+
+[5.] *Ibid*. Chantal Horellou-Lafarge et Monique Segré, « Sociologie de la lecture».
+
+[6.] Philippe Bultez Adams, Maxence Layet et Frédéric Kaplan, « Futur 2.0 », édition *FYP*, 2007.
+
+----
+
+Article-interviewer: 

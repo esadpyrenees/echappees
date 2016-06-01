@@ -1,0 +1,257 @@
+Pagesettings-1: 
+
+----
+
+Title: Archives audiovisuelles numériques de la recherche en SHS et Digital Information Design : rencontre entre sémiotique de l’audiovisuelle numérique et nouvelles interfaces documentaires
+
+----
+
+Title-note: 
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Nom-auteur: Fabrice Papy & Peter Stockinger
+
+----
+
+Info-1: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: fabrice-papy
+- 
+  auteur_uid: peter-stockinger
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-3: 
+
+----
+
+Info-3: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-text: 
+
+### Des dispositifs numériques conçus pour l’usage
+L’omniprésence des *Technologies de l’Information et de la Communication* dans les activités humaines d’une « société de l’information, de la connaissance et du savoir » [1. « À présent, la diffusion des nouvelles technologies et l’avènement de l’Internet comme réseau public paraissent ouvrir de nouvelles chances pour élargir cet espace public du savoir » (p. 17) *Vers les sociétés du savoir*, Éditions *UNESCO*, 2005, 232 pages.] n’est plus à démontrer [2. Bigot R., Croutte P., 2012, « La diffusion des technologies de l’information et de la communication dans la société française », *CREDOC*, 290 pages.]. Depuis plus d’une décennie, les discours politiques et technoscientifiques, minimisant les risques de fracture numérique, relaient avec vigueur des orientations économiques résolument numériques, gages de croissance, de suprématie et de leadership dans une concurrence mondiale exacerbée [3. *Plans France Numérique* 2012 et 2020.]. Les activités humaines professionnelles, collectives, managériales, sociales, ludiques, personnelles, informationnelles, éducatives, etc. sont ainsi pénétrées au quotidien par des technologies numériques intrusives qui dessinent dorénavant un *continuum* circulaire du foyer à l’école, du foyer à l’université ou du foyer à l’entreprise [4. Doueihi M., 2008, La « grande conversion numérique », *Édition du Seuil*.]. Amplifiée par une normalisation technologique [5. Berry G., 2008, « Pourquoi et comment le monde devient numérique », Paris : *Collège de France : Fayard*.] orchestrée par des consortiums économiques, gouvernementaux et technologiques puissants [6. *World Wide Web Consortium* (W3C), *International Organization for Standardization* (ISO), *Internet Engineering Task Force* (IETF), *Internet Corporation for Assigned Names and Numbers* (ICANN), etc.], la vague numérique homogénéise les pratiques professionnelles et se positionne comme un support / vecteur d’une redoutable plasticité, propre à s’adapter à toutes les tâches cognitives des utilisateurs / usagers engagés dans des processus d’éducation ou de formation tout au long de la vie [7. Meyer T. « L’apprenant digital », *Médium* 1 / 2009, n°18, pp. 89-99.]. Accompagnant ce phénomène, de vastes champs de connaissances scientifiques et techniques, considérées comme patrimoine scientifique et culturel de l’humanité, font l’objet d’une mise en ligne au sein de bibliothèques numériques [8. *GALLICA*, *ArXiv*, *HAL*, *EUROPEANA*, *PERSÉE*, *WIKIPEDIA*, etc.] textuelles et multimédia financées par les Etats, pour répondre aux attentes et aux besoins de tous les internautes naturellement [9. Rensky M., « Digital Natives , Digital Immigrants », *On the Horizon*, *NCB University Press*, vol 9, n° 5, octobre 2001.] rompus aux techniques de la *Recherche d’Information* [10. Dinet J., (coord.), 2008, « Usages, usagers et compétences informationnelles au XXI<sup>e</sup> siècle », *Hermes-Lavoisier*.]. Les ressources documentaires de plus en plus hétérogènes [11. Rappelons qu’*Europeana* rassemble plus de 26 millions d’objets documentaires de toutes natures (textes, images fixes et animées, documents audio et vidéo, objets 3D).], diffusées à travers le Web s’appuient et reproduisent à l’infini des modalités standardisées de visualisation et de représentation de l’information (*HTML*, *XHTML*, *CSS*), des mécanismes de lecture marqués par l’associativité hypertextuelle et le furetage, et enfin des procédés de recherche fortement influencés par la logique élémentaire des moteurs de recherches et annuaires commerciaux [12. *Yahoo!*, *Google*, *Bing*, *Exalead*, *Baidu*, *Ask*, *Yandex*, etc.].
+
+Ce contexte technologique fortement normalisé des objets documentaires numériques, en influant directement sur les conditions de production, de diffusion, de réception et de valorisation de l’information numérique laisse supposer que les usages et les pratiques numériques s’en trouvent, de fait, eux aussi normalisés, quelle que soit la vocation de l’environnement numérique utilisé. De là émerge la question centrale des relations entre les propositions technologiques et ce qu’elles portent de présupposés en matière [13. Folcher V., Sander E., « Usages, appropriation : analyse sémantique a priori et analyse de l’activité instrumenté ». in *Modèles du sujet pour la conception*, P. Rabardel et P. Pastré (dir), Octares editions, pp. 129-155, 2005.] d’usage. Les travaux de Pierre Rabardel [14. Rabardel P., 1995, « Les hommes et les technologies : approche cognitive des instruments contemporains », Armand Colin.] en psychologie cognitive mettent précisément en évidence qu’un dispositif technique (artefact) ne peut être dissocié de l’activité (et du contexte de celle-ci) d’un sujet. Un tel artefact, matériel ou non, identifié comme outil par ses concepteurs, ne peut prétendre à un autre statut que celui de dispositif symbolique tant qu’une genèse instrumentale effective n’a pas confirmé la transformation de l’outil en instrument au service des activités des sujets et des finalités qu’ils y construisent. Cette mutation d’un usage superficiel à l’appropriation effective des artefacts révèle l’activité des sujets sous la forme d’un développement des dimensions d’atteinte de buts et de réalisation de tâches de l’activité productive qui s’articulent aux dimensions d’élaboration de ressources externes et internes de l’activité constructive (médiation épistémique, médiation pragmatique, médiation réflexive, médiation interpersonnelle) [15. Cerf M., « Intégrer les usages dans la conception ou concevoir dans l’usage ? Construire la participation des utilisateurs dans les projets de conception », *Congrès SELF*, 2004.]. Cette logique d’usage vient quelque peu bousculer le paradigme système qui s’impose néanmoins comme le paradigme dominant dans la grande majorité des dispositifs technologiques numériques, au détriment de l’utilisateur [16. Pignier N., « Le plaisir de l’interaction entre l’usager et les objets TIC numériques »,* Interfaces numériques*, Vol. 1 n°1 / 2012, pp. 123-152.], pourtant destinataire des fonctionnalités de ces dispositifs [17. Gardey D., « De la domination à l’action. Quel genre d’usage des technologies de l’information ? », *Réseaux*, n°120, pp. 87-117, 2003.]. L’inutilisabilité, l’inacceptabilité [18. Barcenilla J., « De l’utilisabilité à l’acceptabilité : une approche multidimensionnelle de l’ergonomie des produits », *42e congrès de la SELF*, pp. 423-429, 2007.] voire le rejet des dispositifs numériques par leurs utilisateurs-destinataires trouvent fréquemment leur origine dans des logiques d’usage délibérément ignorées [19. Papy F., Sidir M., Stockinger P., « Le portail institutionnel Persée à l’épreuve des usages. Croiser les approches méthodologiques en Sciences Humaines pour améliorer le partage de connaissances scientifiques en libre accès », *CAIS / ACSI conference*, Université McGill, Montréal, Canada, 2007.] ou insuffisamment prises en compte lors du processus de conception [20. Papy F., Folcher V., Sidir M., Cerratto Pargman T., « *E-Learning* et technologies pour la coopération : inadéquations artefactuelles et logiques des activités instrumentées »,* ERGO-IA*, 17-19 novembre 2004.].
+
+### Visual Catalog : interface de recherche documentaire orientée usager
+Les systèmes de recherche bibliographique (OPAC [21. *Online Public Access Catalog*]) utilisés dans les bibliothèques universitaires et destinés principalement aux usagers (étudiants, enseignant-chercheur, chercheur, administratif, etc.) se trouvent dans cette configuration du paradigme système qui ignore magistralement la situation de l’usager [22. Favier L., Matrin-Juchat F., « La science de l’information face à de nouveaux paradigmes : prise en compte de la dimensions sociale de la recherche d’information et remise en cause de la figure de l’usager » in actes du colloque « Recherches récentes en Sciences de l’information », V. Couzinet et G. Régimbeau (dir), ADBS, pp. 255-268, 2002.] :
+
+La formation des usagers aux grands principes d’organisation de l’univers de la bibliothèque est indispensable pour qu’ils puissent exploiter correctement ce système documentaire indissociable de l’activité de travail intellectuel. La situation actuelle de la bibliothèque et de l’Université (technique, organisationnelle et financière) ne permet de former qu’un très petit effectif d’étudiants. La nature de ces formations est extrêmement variable d’un établissement à l’autre et porte, lorsqu’elle existe, trop fréquemment sur les systèmes informatiques et les ressources onéreuses (bases de données). L’OPAC constitue souvent une pièce mal taillée qui associe des principes banalisés de manipulations instrumentales héritées du Web (et donc utilisables par tous) à une terminologie de spécialité relevant de la bibliothèque (UNIMARC, notice, collections, monographies, périodiques, réserve, classifications, autorités-matières, usuels, etc.) Les bibliothèques généralisent le libre-accès aux ouvrages en reversant dans les rayonnages la plus grande partie des collections. Or l’espace physique de la bibliothèque, malgré les efforts des personnels qui y exercent, ne structure pas l’offre, et les usagers adoptent rapidement des postures d’habitudes les confinant dans certains secteurs de la bibliothèque. Le furetage dans les rayonnages ne conduit pas à une compréhension globale des principes d’organisation des connaissances et d’indexation. Lorsque les bibliothèques sont dispersées sur différents sites physiques, la logique du libre accès trouve rapidement ses limites. Fonctionnellement, l’OPAC se présente comme une excroissance fonctionnelle du *Système Intégré de Gestion des Bibliothèques* (SIGB), progiciel métier permettant aux professionnels de la bibliothèque de traiter toute la chaîne du livre (de la commande à la mise en rayon). Face à cet outil, l’usager est fréquemment désorienté, ne comprend pas les principes de fonctionnement d’un dispositif qu’il utilisera pauvrement en limitant son utilisation aux seules informations de disponibilité des ouvrages [23. Papy F., « Organisation intellectuelle et architecture des bibliothèques », actes du 53<sup>e</sup> congrès de l’ABF, Nantes, 2007.]. C’est toute la raison d’être du « Visual Catalog », OPAC « conçu pour l’usage et par l’usage » [24. Folcher V., « Appropriating artifacts as instruments : when design-for-use meets design-inuse » in *Interacting with Computers : the Interdisciplinary Journal of Human-Computer Interaction*, Vol. 15, pp. 647-663, 2003.]. Il scénarise les données bibliographiques et, en exploitant les principes associatifs de l’hypertexte, joue un rôle de médiation entre usagers et bibliothécaires afin de faire appréhender aux premiers la cohérence globale de la bibliothèque et l’organisation intellectuelle (des connaissances) sous-jacente [25. Avec comme point de départ une hypothèse forte selon laquelle une compréhension systémique améliorée de la bibliothèque pourrait être réinvestie par les usagers dans une utilisation plus efficace des moyens que la bibliothèque met à leurs dispositions. Cette expérience sociotechnique a été couplée à des cours de méthodologie de la recherche et du traitement de l’information dispensés à des étudiants de L1 en Communication.].
+
+Conçu et expérimenté à l’Université Paris 8 en 2004 [26. Les résultats d’une enquête menée auprès des étudiants est disponible dans Papy F., « Au-delà de la transfiguration du catalogue », *BBF*, n° 4, pp. 5-12, 2005.], puis intégré au portail de l’Université d’Artois en 2006, le dispositif a été adopté depuis 2011 par les bibliothèques des 6 universités du PRES Lille Nord de France (Artois, Valenciennes, Lille 1, Lille 2, Lille 3 et Littoral-Côte d’Armor) [27. (link: http://visualcatalog.pres-ulnf.fr text: visualcatalog.pres-ulnf.fr) ; (link: http://visualcatalog.univ-artois.fr text: visualcatalog.univ-artois.fr)]. L’interface du dispositif a été co-construite par une ancienne élève de l’École Nationale Supérieure de Création Industrielle (ENSCI – Les Ateliers) [28. Chauvin S., « Visualisations heuristiques pour la recherche et l’exploration de données dynamiques », thèse de doctorat, Université Paris 8, 2006.], en intégrant les technologies graphiques du Web les plus pointues (*CSS*, *SVG*, *Flash*, *Ajax*). Les évaluations menées avec l’aide des chercheurs en psychologie-ergonomie [29. Qualité perçue, respect des critères ergonomiques de Bastien et Scapin, etc. voir Folcher V., « Usage comparé d’outils de recherche documentaire : premiers résultats et pistes d’analyses ouvertes ». in *La bibliothèque entre physique et virtuel : objet complexe de sens, objet d’usages complexes*, journée d’étude du 11 mai, Université Paris 8, 2006.] ont démontré que le « Visual Catalog » résolvait de nombreuses carences des OPAC traditionnels et améliorait, notamment grâce à ses métaphores visuelles, l’exploration documentaire (cf. figure 1, figure 2, figure 3).
+
+Au-delà du (simple) dispositif automatisé de recherche bibliographique s’appuyant sur des artifices technologiques largement employés dans la conception des sites Web grand public, le « Visual Catalog » s’inscrit dans un processus d’explicitation et de compréhension de la complexité plurielle des bibliothèques. Cette complexité rejaillit inévitablement sur l’organisation des collections et sur les usagers qui ne peuvent alors, sans formation documentaire adéquate (qui finalement touche très peu d’entre eux) exploiter pleinement les multiples services proposés par les services de documentation des universités. Rendre visible les lignes de force de la bibliothèque en matière d’organisation des connaissances, révéler la proximité productive des indexations analytique et systématique, faciliter l’apprentissage des langages documentaires et enfin synthétiser sur un seul écran la cohérence globale d’un système d’organisation des connaissances pour contribuer au développement de réelles compétences documentaires concourant à l’autonomie des usagers, étaient les résultats les plus saillants évoqués antérieurement à la conception du dispositif.
+
+Si, dans la conception même du « Visual Catalog », la dimension de la médiation sociale instrumentée par les *TIC* a été envisagée pour réinscrire les dispositifs informatiques dans la boucle de l’activité humaine, l’appropriation rapide et spécifique de cet outil par les bibliothécaires du *SCD* de l’Université d’Artois a été une réelle surprise. Ils ont manifesté un réel plaisir à bénéficier d’un outil qui leur permet d’entrer différemment en contact avec les usagers et de leur proposer une solution souvent mieux adaptée à leurs attentes que l’interface du portail documentaire [30. Papy F., Leblond C., « L’interface de recherche d’information du *Visual Catalog* : un outil innovant à double détente », *Documentaliste-SI*, Vol. 44, n°4-5, pp. 288-298, 2007.] associé au SIGB.
+
+L’adaptation des principes du Visual Catalog aux Archives Audiovisuelles de la Recherche (AAR) a été envisagée en raison de fortes similitudes entre la complexité du « système documentaire » des AAR (considérée ici comme une bibliothèque numérique) et la bibliothèque physique. En effet, comme pour la bibliothèque physique, les AAR se structurent sur un « processus métier » de la recherche scientifique lié à la sémiotique du document audiovisuel [31. Stockinger P., 2012, Analyse des contenus audiovisuels : métalangage et modèles de description, Hermes-lavoisier, 380 pages et Stockinger P., 2003, *Le document audiovisuel : procédures de description et exploitation*, Hermes-Lavoisier, 272 pages.]. Ce processus métier, riche et complexe en matière d’analyse, de structuration et de description du document audiovisuel n’est pas réellement visible dans le portail de diffusion (link: http://www.archivesaudiovisuelles.fr/ text: http://www.archivesaudiovisuelles.fr/) malgré les efforts des concepteurs pour tenter de faciliter la recherche au sein de la vidéothèque. C’est tout un pan d’organisation des connaissances qui se trouve finalement dissimulé dans le modèle commun de publication Web du portail et qui n’est pas exploité pour augmenter l’accessibilité cognitive des ressources auprès d’un très large public dont les profils cognitifs [32. Chen S. Y., Magoula G.D., Macredie R. D., « Cognitive styles and users’ responses to structured information representation », *Int. Journal Digital Library*, 4 : pp. 93 – 107, 2004.] et informationnels sont variables.
+
+### Les archives audiovisuelles de la recherche en sciences humaines et sociales
+Créées dans une logique de corpus organisés par des ontologies de domaines spécifiques aux SHS, les 6000 heures de vidéo en ligne des Archives Audiovisuelles de la Recherche sont confrontées à l’inféodation technologique et cognitive de fait qu’imposent les moteurs de recherche et annuaires les plus visibles (et les plus massivement utilisés) du Web (Yahoo !, Google, Bing, Exalead, etc.) dont les mécanismes algorithmiques restent conçus pour fournir les réponses les plus pertinentes. Cette emprise des grands moteurs commerciaux sur la *manière d’interroger* les sites Web dont les structures sont élémentaires [33. « Google : Search Engine Optimization. Starter Guide », 32 pages.] fixe l’utilisateur dans des pratiques numériques stéréotypées [34. Assadi H., Beaudouin V., « Comment utilise-t-on les moteurs de recherche sur Internet ? », Réseaux, n° 116, pp. 171-198, 2002.] qui vont limiter d’une part l’*expérience utilisateur* (UX) [35.Barcenilla J., Bastien J.-M.-C., « L’acceptabilité des nouvelles technologies : quelles relations avec l’ergonomie, l’utilisabilité et l’expérience utilisateur ? », *Le travail humain*, 2009 / 4 (vol. 72), pp. 311-331.] et d’autre part empêcher les procédés de navigation innovants au sein de systèmes documentaires numériques conceptuellement complexes [36. Baccino T., Colombi T., « Exploration visuelle et navigation dans les hypertextes : quelles stratégies ? », Ergo’IA, Biarritz, 2004.].
+
+C’est le cas des AAR dont la vidéothèque en ligne constitue la partie visible d’un édifice sémiotique complexe qui permet à chaque ressource audiovisuelle de s’inscrire dans des collections dynamiques. C’est une véritable rupture sémiotique et conceptuelle qui s’est installée entre le dispositif en ligne de valorisation du corpus audiovisuel des AAR (site Web) et l’organisation structurale des modèles de description des ressources vidéo (environnement du *studio ASA* [37. Le Studio ASA (Atelier de Sémiotique Audiovisuelle) est un environnement de travail numérique qui repose sur des applications informatiques développées par l’ESCoM : Interview (segmentation et description), ffCoder (encodage), OntoEditor (modélisation des ressources métalinguistiques), SemioscapeData (ontologies de domaine, thesaurii, modèles de description).]).
+
+En effet, sur le site portail, les possibilités de recherche de vidéos reposent sur les mécanismes triviaux disponibles dans les moteurs de recherche et annuaires :
+
+-l’interrogation simple ou avancée. Pour l’interrogation simple, l’utilisateur saisi uniquement le(s) terme(s) de sa requête sans préciser de champs de recherche. Pour l’interrogation avancée, il est invité à saisir / sélectionner une valeur dans les champs : mot(s) clé(s) (saisie libre), langue (menu déroulant), collection (menu déroulant), nom d’auteur (saisie libre) et thème de recherche (menu déroulant) ;
+
+-l’exploration par domaine (SHS, Histoire des Sciences et des techniques, Science de la santé, Agronomie, etc.), par discipline scientifique (40 disciplines distribuées dans les domaines précédant), par auteur ou par collection (parmi ceux-ci : Entretiens, Séminaires, Colloques, Reportages, Documentations audiovisuelles).
+
+-Ces possibilités de recherche s’avèrent extrêmement frustes par rapport à la subtilité et la précision de l’analyse sémiotique du texte audiovisuel des AAR. Indissociable de la notion de modèles de description, la sémiotique du texte représente la partie explicitée et formalisée (au sens large) d’une théorie ou d’une vision qui guide le travail d’analyse d’un corpus textuel et / ou audiovisuel et qui peut se formuler par ces questions :
+
+-Comment un sujet sélectionné, interprété et mis en scène par son auteur se développe-t-il en un tout cohérent pour former une ressource (de connaissances, d’informations, etc.) potentielle pour un public d’usagers et des contextes d’usagers plus ou moins bien identifiés ?
+
+-Étant donné d’une part le cadre de référence culturel d’un public donné ainsi que ses attentes / besoins et d’autre part le profil spécifique (l’identité auctoriale) du texte, quelles sont les opérations nécessaires à effectuer pour rapprocher le texte et les usagers (c’est-à-dire quelles sont les activités identifiées pour transformer le texte au sens d’une ressource (intellectuelle) potentielle en une ressource (intellectuelle) réelle ?
+
+Pour répondre à ces questionnements fondamentaux, un scénario sémiotique est défini qui servira alors de *guide* pour les différentes activités de définition, production, implémentation, diffusion et maintenance d’un produit ou service d’information. Ce scénario sémiotique pourra être plus ou moins informel (comme toute sorte de descriptions sémiotiques) ou se présenter sous la forme de scénario codé [38. Une description sémiotique codée est une description interprétée dans le langage (la syntaxe d’un standard technologique particulier ou encore conformément aux contraintes technologiques d’un environnement logiciel).], respectant les plans, contextes et dimensions de description associés à une ressource : dimension textuelle (modèle de segmentation), dimension paratextuelle (modèle d’identification), plan audiovisuel (modèle du plan visuel, modèle du plan acoustique), plan topique (modèle du sujet), plan discursif (modèles des genres utilisés), plan narratif (modèle de l’enchainement des segments), contexte d’origine (modèles de la génétique textuelle), contexte d’usage (modèle d’exploitation et de mise en relation) et contexte d’archivage et de pérennisation (modèle de stockage et de conservation).
+
+La mise en oeuvre de ces différents plans, contextes et dimensions est régulée par un métalangage de description constitué d’éléments et de règles : hiérarchie de concepts, objets d’analyse, procédure d’indexation, relations entre les concepts, thesaurus à facettes, etc.
+
+La ressource audiovisuelle accessible sur le portail des AAR se présente alors comme l’expression finalisée (et simplifiée) de ce processus complexe d’analyse et de traitement, dépouillée d’une grande partie des précieuses données descriptives jalonnant le processus d’analyse sémiotique. Les techniques actuelles de publication Web ne permettent pas de conserver ces données procédurales de façon satisfaisante [39. À moins bien entendu de mobiliser des technologies sémantiques bien plus sophistiquées s’appuyant sur le Resource Description Framework (RDF).] dans l’optique de leur utilisation optimisée par les mécanismes (simplistes) de recherche fondés sur l’interrogation et l’exploration. La traduction de ce processus en scénarios visuels, à l’instar de ce que le Visual Catalog propose avec les données bibliographiques, constitue la piste que nous explorons actuellement pour repenser et améliorer la consultation des ressources des AAR. Il s’agit désormais d’offrir à l’utilisateur, sous une forme transposée, le regard sémiotique de l’analyste afin d’enrichir ce que, voici peu, on appelait la navigation hypertextuelle et qui répond davantage aujourd’hui à l’expression *expérience utilisateur*.
+
+« … Nous devons considérer la fonction première du virtuel : réduire la complexité. Le problème de la complexité des masses numériques est révolu par l’apparition des interfaces synesthésiques : les environnements virtuels (…) Les besoins de gestion du complexe supplantent les besoins de stabilité perceptuelle (…) Une des fonctions du virtuel est de créer une interface sensible qui permette la manipulation de masses d’informations importantes et complexes. »[40. Chance M., 2001, Les penseurs de fer. Les sirènes de la cyberculture, Trait d’Union, Spirale, p. 128.]
+
+----
+
+Article-note-print: 
+
+[1.] « À présent, la diffusion des nouvelles technologies et l’avènement de l’Internet comme réseau public paraissent ouvrir de nouvelles chances pour élargir cet espace public du savoir » (p. 17) *Vers les sociétés du savoir*, Éditions *UNESCO*, 2005, 232 pages.
+
+[2.] Bigot R., Croutte P., 2012, « La diffusion des technologies de l’information et de la communication dans la société française », *CREDOC*, 290 pages.
+
+[3.] *Plans France Numérique* 2012 et 2020.
+
+[4.] Doueihi M., 2008, La « grande conversion numérique », *Édition du Seuil*.
+
+[5.] Berry G., 2008, « Pourquoi et comment le monde devient numérique », Paris : *Collège de France : Fayard*. 
+
+[6.] *World Wide Web Consortium* (W3C), *International Organization for Standardization* (ISO), *Internet Engineering Task Force* (IETF), *Internet Corporation for Assigned Names and Numbers* (ICANN), etc.
+
+[7.] Meyer T. « L’apprenant digital », *Médium* 1 / 2009, n°18, pp. 89-99.
+
+[8.] *GALLICA*, *ArXiv*, *HAL*, *EUROPEANA*, *PERSÉE*, *WIKIPEDIA*, etc. 
+
+[9.] Rensky M., « Digital Natives , Digital Immigrants », *On the Horizon*, *NCB University Press*, vol 9, n° 5, octobre 2001. 
+
+[10.] Dinet J., (coord.), 2008, « Usages, usagers et compétences informationnelles au XXI<sup>e</sup> siècle », *Hermes-Lavoisier*.
+
+[11.] Rappelons qu’*Europeana* rassemble plus de 26 millions d’objets documentaires de toutes natures (textes, images fixes et animées, documents audio et vidéo, objets 3D).
+
+[12.] *Yahoo!*, *Google*, *Bing*, *Exalead*, *Baidu*, *Ask*, *Yandex*, etc.
+
+[13.] Folcher V., Sander E., « Usages, appropriation : analyse sémantique a priori et analyse de l’activité instrumenté ». in *Modèles du sujet pour la conception*, P. Rabardel et P. Pastré (dir), Octares editions, pp. 129-155, 2005.
+
+[14.] Rabardel P., 1995, « Les hommes et les technologies : approche cognitive des instruments contemporains », Armand Colin.
+
+[15.] Cerf M., « Intégrer les usages dans la conception ou concevoir dans l’usage ? Construire la participation des utilisateurs dans les projets de conception », *Congrès SELF*, 2004.
+
+[16.] Pignier N., « Le plaisir de l’interaction entre l’usager et les objets TIC numériques »,* Interfaces numériques*, Vol. 1 n°1 / 2012, pp. 123-152.
+
+[17.] Gardey D., « De la domination à l’action. Quel genre d’usage des technologies de l’information ? », *Réseaux*, n°120, pp. 87-117, 2003.
+
+[18.] Barcenilla J., « De l’utilisabilité à l’acceptabilité : une approche multidimensionnelle de l’ergonomie des produits », *42<sup>e</sup> congrès de la SELF*, pp. 423-429, 2007. 
+
+[19.] Papy F., Sidir M., Stockinger P., « Le portail institutionnel Persée à l’épreuve des usages. Croiser les approches méthodologiques en Sciences Humaines pour améliorer le partage de connaissances scientifiques en libre accès », *CAIS / ACSI conference*, Université McGill, Montréal, Canada, 2007.
+
+[20.] Papy F., Folcher V., Sidir M., Cerratto Pargman T., « *E-Learning* et technologies pour la coopération : inadéquations artefactuelles et logiques des activités instrumentées »,* ERGO-IA*, 17-19 novembre 2004.
+
+[21.] *Online Public Access Catalog*
+
+[22.] Favier L., Matrin-Juchat F., « La science de l’information face à de nouveaux paradigmes : prise en compte de la dimensions sociale de la recherche d’information et remise en cause de la figure de l’usager » in actes du colloque « Recherches récentes en Sciences de l’information », V. Couzinet et G. Régimbeau (dir), ADBS, pp. 255-268, 2002.
+
+[23.] Papy F., « Organisation intellectuelle et architecture des bibliothèques », actes du 53<sup>e</sup> congrès de l’ABF, Nantes, 2007.
+
+[24.] Folcher V., « Appropriating artifacts as instruments : when design-for-use meets design-inuse » in *Interacting with Computers : the Interdisciplinary Journal of Human-Computer Interaction*, Vol. 15, pp. 647-663, 2003.
+
+[25.] Avec comme point de départ une hypothèse forte selon laquelle une compréhension systémique améliorée de la bibliothèque pourrait être réinvestie par les usagers dans une utilisation plus efficace des moyens que la bibliothèque met à leurs dispositions. Cette expérience sociotechnique a été couplée à des cours de méthodologie de la recherche et du traitement de l’information dispensés à des étudiants de L1 en Communication.
+
+[26.] Les résultats d’une enquête menée auprès des étudiants est disponible dans Papy F., « Au-delà de la transfiguration du catalogue », *BBF*, n° 4, pp. 5-12, 2005.
+
+[27.] (link: http://visualcatalog.pres-ulnf.fr text: visualcatalog.pres-ulnf.fr) ; (link: http://visualcatalog.univ-artois.fr text: visualcatalog.univ-artois.fr)
+
+[28.] Chauvin S., « Visualisations heuristiques pour la recherche et l’exploration de données dynamiques », thèse de doctorat, Université Paris 8, 2006.
+
+[29.] Qualité perçue, respect des critères ergonomiques de Bastien et Scapin, etc. voir Folcher V., « Usage comparé d’outils de recherche documentaire : premiers résultats et pistes d’analyses ouvertes ». in *La bibliothèque entre physique et virtuel : objet complexe de sens, objet d’usages complexes*, journée d’étude du 11 mai, Université Paris 8, 2006.
+
+[30.] Papy F., Leblond C., « L’interface de recherche d’information du *Visual Catalog* : un outil innovant à double détente », *Documentaliste-SI*, Vol. 44, n°4-5, pp. 288-298, 2007.
+
+[31.] Stockinger P., 2012, Analyse des contenus audiovisuels : métalangage et modèles de description, Hermes-lavoisier, 380 pages et Stockinger P., 2003, *Le document audiovisuel : procédures de description et exploitation*, Hermes-Lavoisier, 272 pages.
+
+[32.] Chen S. Y., Magoula G.D., Macredie R. D., « Cognitive styles and users’ responses to structured information representation », *Int. Journal Digital Library*, 4 : pp. 93 – 107, 2004.
+
+[33.] « Google : Search Engine Optimization. Starter Guide », 32 pages.
+
+[34.] Assadi H., Beaudouin V., « Comment utilise-t-on les moteurs de recherche sur Internet ? », Réseaux, n° 116, pp. 171-198, 2002. 
+
+[35.]Barcenilla J., Bastien J.-M.-C., « L’acceptabilité des nouvelles technologies : quelles relations avec l’ergonomie, l’utilisabilité et l’expérience utilisateur ? », *Le travail humain*, 2009 / 4 (vol. 72), pp. 311-331.
+
+[36.] Baccino T., Colombi T., « Exploration visuelle et navigation dans les hypertextes : quelles stratégies ? », Ergo’IA, Biarritz, 2004.
+
+[37.] Le Studio ASA (Atelier de Sémiotique Audiovisuelle) est un environnement de travail numérique qui repose sur des applications informatiques développées par l’ESCoM : Interview (segmentation et description), ffCoder (encodage), OntoEditor (modélisation des ressources métalinguistiques), SemioscapeData (ontologies de domaine, thesaurii, modèles de description).
+
+[38.] Une description sémiotique codée est une description interprétée dans le langage (la syntaxe d’un standard technologique particulier ou encore conformément aux contraintes technologiques d’un environnement logiciel).
+
+[39.] À moins bien entendu de mobiliser des technologies sémantiques bien plus sophistiquées s’appuyant sur le Resource Description Framework (RDF).
+
+[40.] Chance M., 2001, Les penseurs de fer. Les sirènes de la cyberculture, Trait d’Union, Spirale, p. 128.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-4: 
+
+----
+
+Pdf: (file: echappees-archives-audiovisuelles-numeriques.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Pagesettings-5: 
+
+----
+
+Info-5: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Article-biblio: 
+
+----
+
+Article-sito: 
+
+----
+
+Article-citer: 
+
+----
+
+Line-4: 
+
+----
+
+Info-6: 
+
+----
+
+Article-relie: 

@@ -1,0 +1,23 @@
+Title: Carolle Priem-Schutz
+
+----
+
+Text-bio: étudiante 2<sup>e</sup> cycle DNSEP / Master 1
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+----
+
+Text-liste-articles: 
+
+(link: numeros/numero1/luminoscope-a-visee-observation-du-secteur-l-28-02 text: n°1 : Luminoscope à visée – Observation du secteur L )
+(link: numeros/numero1/objectif-rome-n9 text: n°1 : Objectif Rome N9)
+(link: numeros/numero1/objectif-rome-n11 text: n°1 : Objectif Rome N11)
+(link: numeros/numero1/constellation-du-lion text: n°1 : Constellation du lion)
+(link: numeros/numero2/cosmospheres-2013 text: n°2 : Cosmosphères)

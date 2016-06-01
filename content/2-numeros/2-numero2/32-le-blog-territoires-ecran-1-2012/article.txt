@@ -1,0 +1,163 @@
+Pagesettings-1: 
+
+----
+
+Title: Le blog territoires-écran
+
+----
+
+Article-date: 2012-...
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: andrea-damase
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+### Le blog [1. Le blog territoires-ecran a été initié dans le cadre du programme de recherches « Territoires, mutations et archives ». Il a été construit et discuté dans le cadre du cours de séminaire de Chrystelle Desbordes, à l’automne 2012, avec les étudiants de 4<sup>e</sup> et 5<sup>e</sup> années. Le projet se poursuit aujourd’hui dans le même contexte.**(link:  http: territoires-ecran.tumblr.com text: territoires-ecran.tumblr.com popup: yes)**.] territoires-écran
+
+Partout, des images. Dans les livres, je ne lis plus, je ne prends presque plus le temps de lire, je regarde les images. Dans les musées, des images sous verre, des images encadrées, des cartels sous les images. À la télé, 1000 images à la minute. Sur les cartes mémoire, sur les disques durs, sur le bureau des ordinateurs, des dossiers entiers d’images. Des images de voyages, des images d’autres, et des images de soi.
+
+Et comme il y en a trop, il est difficile de s’en saisir, les images sont là mais on les perd de vue, elles s’évaporent de notre mémoire, comme des fantômes.
+
+Dans les familles, il y a les albums de famille. Les images y sont chronologiquement classées. On en prend soin, comme des reliques, parce qu’il y a de l’affect dans les images de famille.
+
+Mais il y a de l’affect ailleurs, dans d’autres images. Mais ces images là, on oublie souvent de s’en saisir et de les classer. Et si on ne le fait pas, d’autres arrivent déjà. Elles se superposent aux précédentes et finissent par les remplacer.
+
+Sur Internet, l’égarement est aussi de mise. La recherche précise d’une information conduit souvent à de nombreuses digressions.
+
+Le blog territoires-écran est une autre manière d’appréhender ce flux de données numériques qui caractérise aujourd’hui l’histoire de l’art. Par grappillages, anachronismes, par jeux de télescopages, il permet de retisser des liens, de stratifier les images. Ce système de classification devient alors une manière intuitive, décomplexée, de faire de l’histoire de l’art.
+Dans ces différentes strates, dans un classement relevant de l’analogie, il y a des *surprises*, des rencontres improbables voient le jour.
+Comme quand la trouée de Gordon Matta-Clark dans un bâtiment parisien se transforme en nuisance sonore pour un habitant, victime de cette percée architecturale dans le mur de sa propre chambre.
+
+(image: echappees_2_39.jpg)
+#####Gordon Matta Clark, « Conical Intersect », 1975. © Mnam, Centre Georges Pompidou.
+
+(image: echappees_2_40.jpg)
+#####Glen Baxter, Sans titre (« Retour à la normale »), 1992. © Glen Baxter.
+
+Ou lorsque les citrons d’une nature morte de la fin du XVII<sup>e</sup> siècle se décrochent de l’arbre, de la toile, du canevas, pour devenir une avalanche de pierre qui dévale une colline et qui poursuit Buster Keaton dans son film « Les fiancées en folie » de 1925.
+
+(image: echappees_2_41.jpg)
+#####Anonyme (École espagnole), *Nature morte aux citrons*, vers 1800. © Musée Reina Sofia, Madrid
+
+(image: echappees_2_42.jpg)
+#####Buster Keaton, « Les fiancées en folie », 1925.
+
+Il y a les trois aliens d’une scène du film « Mars Attacks » de Tim Burton, trois aliens qui ont d’abord rencontré « Les trois Grâces » de Rubens.
+La fusée dans l’œil de la Lune devient une balle perdue d’un tir de Niki de Saint-Phalle.
+
+(image: lune.jpg)
+#####Georges Méliès, « Voyage dans la lune », 1902.
+(image: echappees_2_43.jpg)
+#####Niki de Saint-Phalle, « Tirs », 1961.
+
+« Depuis 7 ans, mon corps et moi avons entamé une migration dont le papillon monarque est l’aiguilleur. J’ai croisé la trajectoire de ces lépidoptères lors d’une visite à l’insectarium de Montréal en 2004. L’aventure annuelle trans-frontalière de ce peuple d’insectes colorés m’a fascinée. Cette migration m’a semblé d’une richesse métaphorique, symbolique et plastique telle que j’en ai fait mon terrain de recherches privilégié. Lors de mes déplacements, je me fais tatouer toujours le même motif : un papillon monarque femelle à échelle 1.
+Dans chacune des villes où je me rends (pour des raisons familiales, professionnelles, amoureuses, secrètes, touristiques, inimaginables), un artiste tatoueur local encre sur la partie gauche de mon corps ce motif récurrent. Chaque tatoueur travaille avec le même modèle de base : une planche entomologique du Danau Plexippus, qu’il adapte sur ma peau à son style, de la façon la plus fidèle. Je porte à ce jour 36 de ces papillons. » Lydie Jean-Dit-Pannel.
+
+Ou lorsque la poésie du travail de Lydie Jean-Dit-Pannel et son corps aux tatouages-archivages, ses 36 déplacements et 36 monarques encrés deviennent soudain des papillons nuisibles. Ils reprennent vie dans ce jeu de rencontres d’images, hantent, au passage, ce personnage grisonnant d’une peinture de Neo Rauch. Avec le blog territoire-écrans s’engage un jeu de frictions / fictions qui fait naître des rapprochements inattendus et riches de sens, parfois jubilatoires. La phrase de Daniel Arasse prend alors tout son sens : « Faire joyeusement de l’histoire de l’art, en artiste ».
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-le-blog-territoires-ecran.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Andréa Damase
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: [1.] Le blog territoires-ecran a été initié dans le cadre du programme de recherches « Territoires, mutations et archives ». Il a été construit et discuté dans le cadre du cours de séminaire de Chrystelle Desbordes, à l’automne 2012, avec les étudiants de 4<sup>e</sup> et 5<sup>e</sup> années. Le projet se poursuit aujourd’hui dans le même contexte.(link:  http: territoires-ecran.tumblr.com).

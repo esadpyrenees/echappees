@@ -1,0 +1,17 @@
+Title: Kapwani Kiwanga
+
+----
+
+Text-bio: Kapwani Kiwanga, artiste, vit et travaille à Paris. Son œuvre, « Afrogalactica », premier volet d’un triptyque, a notamment été présentée à la *Fondation d’Entreprise Ricard / Art Contemporain* (printemps 2013, Paris) et au *Centre Pompidou* (novembre 2013, Paris).
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: (link: http://www.kapwanikiwanga.org text: www.kapwanikiwanga.org popup: yes)
+
+----
+
+Text-liste-articles: (link: numeros/numero2/afrogalactica-un-abreg-du-futur-2011 text: n°2 : Afrogalactica, un abrégé du futur)

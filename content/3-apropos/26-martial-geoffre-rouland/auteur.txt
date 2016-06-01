@@ -1,0 +1,17 @@
+Title: Martial Geoffre-Rouland
+
+----
+
+Text-bio: Martial Geoffre-Rouland a mené de nombreux projets alliant programmation et interactivité au carrefour du design, de l’architecture et des arts numériques. Particulièrement attentif au rapport de la programmation avec les arts de la scène, il a développé des dispositifs scéniques lumineux interactifs innovants (*Modular Ship*, *Starfox*, *Lightfield*) s’inscrivant dans le cadre de divers festivals Européens tels les « Nuits Sonores » à Lyon. Il a également mené différents projets expérimentaux sur la dégradation numérique de l’image (*YouGlitch*, *2 vs*). Il est actuellement développeur informatique dans le studio Superscript2 basé à Lyon.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: (link: http://www.super-script.com text: www.super-script.com popup: yes)
+
+----
+
+Text-liste-articles: 

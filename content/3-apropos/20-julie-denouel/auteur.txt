@@ -1,0 +1,28 @@
+Title: Julie Denouël
+
+----
+
+Text-bio: 
+
+Maître de conférences en sciences du langage et membre du laboratoire *Praxiling*, Université Montpellier III – CNRS. 
+
+#### Axes de recherche 
+Usages sociaux des TNIC (analyse des relations entre la configuration du dispositif technique et l’agencement des pratiques discursives, interactionnelles et relationnelles). – Identité numérique (analyse des processus d’expression, de production et de reconnaissance de soi en ligne) – Nouveaux médias, culture participative et production d’information en ligne – Culture des écrans et présence numérique.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+Denouël, J., F. Granjon, M. Amar et V. Mesguich (dir.), « Lien social, sociabilités numériques et sites de réseaux sociaux » in *Bibliothèques 2.0 : À l’heure des médias sociaux*, Paris, *Éditions du Cercle de la librairie*, pp. 23 – 31.
+
+« Identité », Communications (n° thématique « Les cultures du numérique »), n° 88, pp. 75 – 81.
+
+Denouël, J., Granjon, F., (dir.), « Communiquer à l’ère numérique. Regards croisés sur la sociologie des usages », Paris, *Collection Sciences sociales*, *Presse de l’École des Mines*, p. 322.
+
+----
+
+Text-liste-articles: (link: numeros/numero1/de-lusager-au-concepteur-et-retour-quelques-el-ments-sur-l-int-gration-de-l-exp-rience-des-usagers-dans-les-processus-d-innovation text: n°1 : De l’usager au concepteur, et retour. Quelques éléments sur l’intégration de l’expérience des usagers dans les processus d’innovation)

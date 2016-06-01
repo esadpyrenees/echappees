@@ -1,0 +1,162 @@
+Pagesettings-1: 
+
+----
+
+Title: Cartes blanches (fragments)
+
+----
+
+Article-date: 2004
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: emmanuel-hocquard
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+### Cartes blanches (fragments)[1. Les fragments qui suivent sont extraits de « Jeu de cartes à Tanger » (2004), éd. Esact, Tarbes. Cette édition appartient à la collection « Les aventures de L.I.É », en lien avec l’atelier du même nom créé par Juliette Valéry (enseignante de culture générale) à l'École supérieure d'art des Pyrénées – Tarbes. C’est dans le cadre de cet atelier (« Langage, Image, Écriture ») que Juliette Valéry a invité l’écrivain Emmanuel Hocquard à mettre en place un travail cartographique sur Tanger avec les étudiants de l’école.]
+
+Ici,
+il faut comprendre que Deleuze appelle un calque ce que dans le langage ordinaire on désigne habituellement par le mot carte : la représentation, généralement réduite et plane, d’un espace ou d’une portion d’espace. Une telle représentation obéit à des critères normalisés et chiffrés de réduction (échelle), de situation (longitude, latitude) et d’orientation (points cardinaux).
+
+Aussi
+nommerons-nous calques les cartes qui figurent dans les atlas, les livres de géographie : cartes topographiques, cartes géologiques, cartes routières ou ferrovières, plans de villes, cartes marines, relevés de cadastre, etc.
+
+Ainsi
+sur les plans de la ville ou du quartier affichés à la sortie du métro ou au carrefour de rues, signalée par un fond rouge, la mention
+
+(image: echappees_2_02.jpg)
+(maintenant) [2. p. VII. ]
+
+[…]
+
+La carte est projective (celui qui la crée la fait évoluer en fonction d’un projet, surtout quand le projet s’élabore en même temps que la carte, ou que le carte et le projet ne font qu’un). C’est en ce sens que Deleuze parle de la carte comme d’une *performance*. [3. p. X.]
+
+[…]
+
+« Relier et séparer »
+tel est le (double) paradigme du détroit, qui sépare l’Afrique de l’Europe, tant en faisant communiquer la Méditerranée avec l’Atlantique. Pour aller d’un continent à l’autre et d’une mer à un océan, on passe par le même détroit. Entre est le lieu du passage. [4. p. XI.]
+
+[…]
+
+« La règle du jeu »
+À l’exception de Juliette Valéry et de moi-même (qui y ai passé mes seize premières années), aucun des joueurs cartographes n’est jamais allé à Tanger. Ils n’en connaissaient que les récits que nous leur avons faits, les images que nous leur avons montrées, les livres et les films que nous leur avons apportés.
+
+Il a été demandé que chacun dresse sa propre carte de Tanger en puisant dans les mêmes matériaux mis à la disposition de tous : cartes postales, diapositives, photographies, documents et textes divers. Ces sources ont été livrées en vrac, sans souci de chronologie ou d’histoire. Elles concernent différents moments du XXe siècle, de 1910 à nos jours.
+
+La forme imposée a été celle du photoroman ou de la BD : construire, à raison de quatre pages par auteur, dans le même miroir (surface utile), une carte récit à partir de 1°) des images et des textes fournis : 2°) des affects de chacune et chacun. Pour le reste tout le monde avait carte blanche. [5. p. XI.]
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-cartes-blanches-fragments.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Emmanuel Hocquard
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] Les fragments qui suivent sont extraits de « Jeu de cartes à Tanger » (2004), éd. Esact, Tarbes. Cette édition appartient à la collection « Les aventures de L.I.É », en lien avec l’atelier du même nom créé par Juliette Valéry (enseignante de culture générale) à l'École supérieure d'art des Pyrénées – Tarbes. C’est dans le cadre de cet atelier (« Langage, Image, Écriture ») que Juliette Valéry a invité l’écrivain Emmanuel Hocquard à mettre en place un travail cartographique sur Tanger avec les étudiants de l’école.
+
+[2.] p. VII.
+
+[3.] p. X.
+
+[4.] p. XI.
+
+[5.] p. XI.

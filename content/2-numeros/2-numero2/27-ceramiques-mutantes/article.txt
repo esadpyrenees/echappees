@@ -1,0 +1,137 @@
+Pagesettings-1: 
+
+----
+
+Title: Céramiques mutantes
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: chrystelle-desbordes
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Depuis à peine deux ou trois ans, la céramique réapparaît clairement sur la scène de l’art contemporain, notamment en France où le médium a longtemps été rejeté du côté de l’artisanat et de l’esthétique *low*. Poussant le kitsch à son paroxysme en travaillant avec jubilation le potentiel plastique infini de la terre, comme celui de ses surfaces d’émail polychrome ou d’une blancheur à la froideur inquiétante, Cécile Noguès nous invite à mesurer une véritable mutation dans la pratique du médium. Les pièces exposées l’été dernier à la galerie Sémiose (Paris) prennent ainsi chacune l’aspect d’un mutant à la fois étrange et drolatique, d’une étonnante beauté.
+
+(image: image_n_2_-2.jpg)
+#####Cécile Noguès, « Le Mythe de la Tale », 2011, céramique émaillée, 23 × 23× 37 cm. © Cécile Noguès.
+
+(image: echappees_2_22.jpg)
+#####À gauche : Cécile Noguès, Christophe Bruno, « Fantastical Bow Tie Topology of Network Capitalism », 2013, céramique émaillée, 25 × 19 × 45 cm.
+#####À droite : Cécile Noguès, Christophe Bruno, « Graft of Bow Tie Network Topology » (*Continuous Regeneration of Capital Gain*), 2013, céramique émaillée, 32 × 30 × 45 cm. © Christophe Bruno.
+
+Plus récemment, Cécile Noguès a travaillé en collaboration avec Christophe Bruno, artiste du Web [1. Invité dans le cadre du séminaire de l’an dernier (conduit par Chrystelle Desbordes) « L’invisible est réel », l’artiste a participé au n° 1 d’*échappées* (pp. 53-63).]. Croisant leur pratique respective, les deux artistes ont réalisé deux sculptures en céramique, aux courbes généreuses, autour de la *tragédie informationnelle* [2. Pour plus de détails au sujet de ce travail collaboratif, voir : **(link: http://informationtragedy.blogspot.fr/2013/10/concept.html text: informationtragedy.blogspot.fr popup: yes)**.]. En octobre dernier, les œuvres ont été présentées dans le cadre du *show off* de l’art numérique à l’espace Pierre Cardin. Inattendues au sein de ce contexte où dispositifs *High Tech*, écrans plats et impressions 3D se côtoyaient massivement, elles ont offert une matérialisation subtile des enjeux politiques du Web (2.0 et 3.0). Dans l’un des matériaux des plus pérennes de l’histoire de l’humanité, ces pièces incarnent, au passage, un détour(nement) de l’Internet des objets, tout en manifestant le renouveau artistique de la céramique [3. « Signe des temps ? » Le hors-série d’*art press* de novembre dernier était consacré à la céramique... Voir : *art press 2*, « La céramique au-delà de la céramique », n° 31, Paris.].
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-ceramiques-mutantes.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Chrystelle Desbordes
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] Invité dans le cadre du séminaire de l’an dernier (conduit par Chrystelle Desbordes) « L’invisible est réel », l’artiste a participé au n° 1 d’*échappées* (pp. 53-63).
+
+[2.] Pour plus de détails au sujet de ce travail collaboratif, voir : http://informationtragedy.blogspot.fr/2013/10/concept.html
+
+[3.] « Signe des temps ? » Le hors-série d’*art press* de novembre dernier était consacré à la céramique... Voir : *art press 2*, « La céramique au-delà de la céramique », n° 31, Paris.

@@ -1,0 +1,26 @@
+Title: Donato Ricci
+
+----
+
+Text-bio: 
+
+In 2005 Donato Ricci graduated in *Industrial Design* at *Politecnico di Milano*. In 2010 he obtained a PhD degree summa cum laude in *Industrial Design and Multimedia Communication* at *Politecnico di Milano* with the dissertation « Seeing what they are saying : Diagrams for social complexity and controversies ».
+After two years as research fellow and senior designer at *DensityDesign Lab* where he carried out scientific researches, design project and teaching activities in the field of visual epistemology, he joined, as Post-Doc reseach fellow the Bruno Latour’s *AIME* project [1.founded by ERC Grant IDEAS 2010 n° 269567 under the EC - FP7/2007-2013]. He is Research Assistant Professor of *Digital tools and methods for visualization* at the *Politecnico di Milano* and Assistant Professor of *Representação e Conhecimento* (Knowledge and Representation) at the *Universidade de Aveiro*.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+(link: http://www.medialab.sciences-po.fr/fr/people/donato-ricci/ text: www.medialab.sciences-po.fr/donato-ricci popup: yes)
+(link: http://www.densitydesign.org/person/donato-ricci/ text: www.densitydesign.org popup: yes)
+
+----
+
+Text-liste-articles: 
+
+(link: numeros/numero3/an-account-of-digital-humanities-from-the-aime-project text: n°3 : Entretien de Donato Ricci, sur la recherche en design)
+(link: numeros/des-contenus-editoriaux-numerique/an-account-of-digital-humanities-from-the-aime-project text: n°3 : An account of Digital Humanities from the AIME Project)

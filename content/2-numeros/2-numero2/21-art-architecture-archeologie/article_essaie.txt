@@ -1,0 +1,94 @@
+Info-1: 
+
+----
+
+Pagesettings-1: 
+
+----
+
+Title: Art / Architecture / Archéologie
+
+----
+
+Articlevisuel-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Articlevisuel-auteur: 
+
+- 
+  auteur_uid: bertrand-parinet
+
+----
+
+Pagesettings-3: 
+
+----
+
+Articlevisuel-medias: 
+
+(image: image_n_2_-4.jpg)
+#####« Franz Jurgens Str. 8 – Düsseldorf », 2011, encre sur papier. © Bertrand Parinet
+
+(image: image_n_2_-5.jpg)
+#####« Sans titre », 2008, bois, équerres métalliques, dimensions variables. Exposition Bertrand Parinet / Rachel Garcia, Espace III Croix Baragnon, Toulouse. © Bertrand Parinet.
+
+----
+
+Articlevisuel-image-texte: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Articlevisuel-domaine: 
+
+----
+
+Articlevisuel-keyword: 
+
+----
+
+Articlevisuel-biblio: 
+
+----
+
+Articlevisuel-url: 
+
+----
+
+Articlevisuel-pdf: (file: echappees-art-architecture-archeologie.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Pagesettings-5: 
+
+----
+
+Articlevisuel-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur-visuel: Bertrand Parinet
+
+----
+
+Articlevisuel-sito: 
+
+----
+
+Articlevisuel-citer: 
+
+----
+
+Article-note-print: 

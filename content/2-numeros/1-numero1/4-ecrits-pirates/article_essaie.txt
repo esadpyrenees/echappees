@@ -1,0 +1,102 @@
+Info-1: 
+
+----
+
+Pagesettings-1: 
+
+----
+
+Title: Écrits pirates
+
+----
+
+Articlevisuel-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Articlevisuel-auteur: 
+
+- 
+  auteur_uid: lanlan-su
+
+----
+
+Pagesettings-3: 
+
+----
+
+Articlevisuel-medias: 
+
+Lanlan Su a mené une micro-enquête dans sa ville natale à Puyan en Chine. Elle s’est tout particulièrement intéressée aux annonces interdites par l’état et diffusées par des particuliers sans le contrôle institutionnel. Souvent écrites à la main et sur des supports non réglementés, ces annonces offrent des services en tout genre : acheter de faux papiers (certificat, diplôme, permis de conduire), résoudre des problèmes d’ordre sexuel, trouver un hôpital clandestin, installer des conditionneurs d’air, louer un appartement ou encore interdire le stationnement.
+
+(image: p1060687.jpg caption:  Publicité d’un hôpital clandestin pour soigner les maladies d’ordre sexuel © Lanlan Su)
+
+(image: p1060822.jpg caption:  Offre d’emploi : recherche un serveur © Lanlan Su)
+
+(image: img_0193.jpg caption:  Panneau du magasin présentant ses services : laver, coudre, repasser... © Lanlan Su)
+
+(image: p1060754interieure.jpg caption:  Petites annonces : recherche d’un travail, tatouages © Lanlan Su)
+
+(image: p1060589.jpg caption:  Petites annonces © Lanlan Su)
+
+(image: faire-le-certificat-4.jpg caption: 6 Publicité interdite par l’État : Acheter un diplôme, un permis de conduire... © Lanlan Su)
+
+----
+
+Articlevisuel-image-texte: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Articlevisuel-domaine: 
+
+----
+
+Articlevisuel-keyword: 
+
+----
+
+Articlevisuel-biblio: 
+
+----
+
+Articlevisuel-url: 
+
+----
+
+Articlevisuel-pdf: (file: pdf-pau-ecritspirates.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Pagesettings-5: 
+
+----
+
+Articlevisuel-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur-visuel: Lanlan Su
+
+----
+
+Articlevisuel-sito: 
+
+----
+
+Article-note-print: 
+
+----
+
+Articlevisuel-citer: 

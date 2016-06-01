@@ -1,0 +1,26 @@
+Title: Perrine Saint Martin
+
+----
+
+Text-bio: 
+
+Designer graphique et typographe, enseigne le design graphique et la typographie. Née en 1980, vit et travaille à Bordeaux.
+Perrine Saint Martin est designer graphique free-lance diplômée de l’École des beaux-arts de Toulouse. Après une année à Londres,  elle poursuit ses recherches en dessin de caractères au sein de l’*EnsadLab / Type* de l’École supérieure des arts décoratifs de Paris. Son travail se situe principalement dans le champ de la conception éditoriale et de la typographie, du papier à l’écran. Depuis 2011, elle enseigne le design graphique et le dessin de caractères à l’École supérieure d’art des Pyrénées – Pau Tarbes après avoir été directrice artistique de l’agence *(link: http://www.maquetteetmiseenpage.fr/ text: Maquette & mise en page popup: yes)* à Paris. En parallèle, elle développe un travail de commande et une recherche en dessin de caractères. Elle intervient également régulièrement lors de workshops en écoles d’art sur des questions d’édition, de diffusion et de typographie  et a participé à des conférences internationales comme l’*ATypI* 2010 ou la *13<sup>e</sup> Journée Romande de la Typographie*.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+(link: http://www.perrinesaintmartin.fr/ text: www.perrinesaintmartin.fr popup:yes)
+(link: http://typomorpho.fr/ text: Typomorpho.fr popup:yes)
+
+----
+
+Text-liste-articles: 
+
+(link: numeros/numero3/lecteur-lecture-ecriture-a-lere-num-rique text: n°3 : Lecteur, lecture, écriture à l’ère numérique)
+(link: numeros/numero2/du-papier-a-lecran-place-et-fonction-de-l-ipad text: n°2 : Du papier à l’écran, place et fonction de l’*iPad*)

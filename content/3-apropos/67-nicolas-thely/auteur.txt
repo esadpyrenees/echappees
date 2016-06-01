@@ -1,0 +1,29 @@
+Title: Nicolas Thély
+
+----
+
+Text-bio: Nicolas Thély est philosophe et critique d’art. Il est Professeur des Universités en art, esthétique et humanités numériques à l’Université de Rennes 2 (département arts plastiques). De 2003 à 2011, il est Maître de Conférence à l’UFR d’Arts Plastiques et Sciences de l’Art de l’Université Panthéon-Sorbonne Paris 1. Depuis 2012, il est membre du conseil scientifique de l’Université Rennes 2 ; membre du conseil de l’équipe *Arts : Pratiques et Poétiques* ; membre du conseil scientifique de l’école nationale supérieure de création industrielle (Ensci / Les ateliers) ; co-responsable, avec Bruno Bossis, du Master *Arts Technologies et Numérique* (ATN).
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+Publications (sélection)
+**2011**
+Le tournant numérique de l’esthétique, collection *Art, pensée & Cie*, *Publie. net*, Paris ; 
+**2010**
+« La Culture distribuée », (co-dir. Hélène Sirven), éd. *Sceren-Cndp*, Paris ; 2008 : « Mes Favoris », *éd. MIX*, Paris ; 
+**2007**
+« Basse Def : Partage de données », (avec Stéphane Sauzède), éd.* Les presses du réel*, Dijon ; 
+**2005**
+« Corps, art vidéo et numérique », éd. *Sceren-Cndp*, Paris ; 
+**2002**
+« Vu à la Webcam (essai sur la web-intimité) », éd. *Les Presses du réel*, Dijon.
+
+----
+
+Text-liste-articles: (link: numeros/numero2/les-digital-humanities-dans-le-champ-des-arts-dun-thatcamp-a-l-autre text: n°2 : Les Digital Humanities dans le champ des arts : d’un THATCamp à l’autre)

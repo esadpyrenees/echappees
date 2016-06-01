@@ -1,0 +1,17 @@
+Title: Garance Rousseau
+
+----
+
+Text-bio: Étudiante 2<sup>e</sup> cycle DNSEP / Master 1
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+----
+
+Text-liste-articles: (link:  numeros/numero1/fantomes text: n°1 : Fantômes)

@@ -1,0 +1,20 @@
+Title: Céline Blancou
+
+----
+
+Text-bio: Diplômée de l’École supérieure d'art des Pyrénées – Pau (DNSEP design graphique et multimédia, juin 2015), Céline Blancou apprécie les mots, leur visualisation, leur signification et s'intéresse à la manière de donner à voir et à lire un texte. S'inspirant de l'univers de Vincent Perrottet, Fanette Mellier ou encore Joël Guenoun, elle apprécie écrire et faire parler les mots par des jeux graphiques en s'attachant à souligner la poésie ou le sens humoristique qui s’en dégagent. Son mémoire de DNSEP avait pour objet d’étude : « Donner à voir. Donner à lire. Quand le texte devient prétexte » sous la direction de Francesca Cozzolino et Laurent Agut.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: (link: http://www.celineblancou.com/ text: www.celineblancou.com popup: yes)
+
+----
+
+Text-liste-articles: 
+
+(link: numeros/numero3/entretien-avec-emmanuel-souchier-sur-lecriture-et-la-lecture-aujourd-hui text: n°3 : Entretien avec Emmanuël Souchier, Sur l’écriture et la lecture aujourd’hui)
+(link: numeros/numero3/la-linearit-de-l-criture-et-de-la-lecture text: n°3 : La linéarité de l'écriture et de la lecture)

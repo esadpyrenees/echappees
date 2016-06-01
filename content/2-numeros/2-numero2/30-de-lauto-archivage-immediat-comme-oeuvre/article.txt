@@ -1,0 +1,197 @@
+Pagesettings-1: 
+
+----
+
+Title: De l’auto-archivage immédiat comme  œuvre
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: julie-morel
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Notre société se caractérise par une relation complexe à la mémoire et développe de plus en plus une hypermnésie. Que ce soit sous la forme de textes, d’images ou de sons, jamais auparavant l’homme n’avait disposé d’une telle variété de médias pour raconter ses histoires et son histoire. Depuis les années soixante, cette hypertrophie de la mémoire s’est trouvée  accentuée par la démocratisation de supports d’enregistrement et de conservation telles que la photographie et la vidéo. Plus récemment encore l’enregistrement de la mémoire a pris à nouveau de l’ampleur, et s’est accéléré grâce à l’émergence de supports de mémoire artificiels *fermés et limités* (l’ordinateur) et *ouverts* (Internet).
+
+Si nous produisons et conservons de plus en plus d’archives, nous ne le faisons pas de la même façon qu’auparavant. L’émergence du *Web 2.0* a profondément transformé le principe et les modalités de l’enregistrement, de l’écriture, et du partage de ces données, transformant ainsi notre rapport à l’archive publique ou privée. Désormais, nous avons partout et immédiatement [1. À condition que l’on sache comment y accéder.] accès à un stock de données et d’archives (de nature différente : informationnelle, réflexive, sensible, etc.) interconnectées. Nos perception, relation et utilisation de celles-ci en sont modifiées, car « la nature duelle de ces relations est liée, d’un côté, aux flux (dynamiques) et aux stocks (figés) d’enregistrement de ces flux, et, d’un autre côté, à l’aspect sensible de la perception de ces flux et stocks (le *Web 2.0* étant le nouvel agencement des deux). »[2. Jérome Joy, « Questions d’archives » – *Flux et circuits*, dans *Revue Pratiques*, numéro spécial consacré au projet de recherche « De l’auto-archivage immédiat comme œuvre », *Presses universitaires de Rennes 2*.]
+
+Il est bien évident que ce contexte et cette manière d’être des archives produisent de nouveaux paradigmes, de nouvelles esthétiques et formes plastiques. Le projet de recherche « De l’auto-archivage immédiat comme œuvre » explore ces nouvelles formes qui se fondent sur le réseau, l’interactivité, le flux, le fragment, la pluralité des discours. Développé au sein d’une école d’art [3. Le projet de recherche « De l’auto-archivage immédiat comme œuvre » a été portée par l’École Européenne Supérieure d’Art de Bretagne et le Conseil scientifique de la recherche en école d’art (DGCA, Ministère de la Culture). Direction scientifique : Julie Morel, en collaboration avec une équipe d’artistes, critiques, enseignants et étudiants : Gwenola Wagon, Grégory Chatonsky, Karine Lebrun, Reynald Drouhin, Sylvie Ungauer, Dominique Moulon, Thomas Daveluy).] par des artistes, ce projet de recherche fait dans un premier temps le constat que de nombreux supports artificiels de mémoire, le blog notamment, ont été investis par des artistes numériques et contemporains, jusqu’à en faire œuvre.
+
+Les blogs (comme les autres supports artificiels de mémoire [4. *Weblog*, *Vidéolog*, *Wiki*, etc, mais aussi ceux plus *mainstream* : *Instagram*, *Facebook*, ou autres applications pour *Smartphone*.]) tendent à réduire la distance qui sépare l’acte de création et sa restitution finale.
+L’archive n’y est plus uniquement un stock exhaustif mais devient une forme qui se modifie et se définit au moment de sa production, et qui, non figée, se reconstitue en permanence.
+
+En cela le blog est à la fois interface et atelier ouvert ; c’est un processus de création partagé qui se rapproche d’une pratique de notation quotidienne comme ont pu l’expérimenter depuis les années soixante un grand nombre d’artistes qui utilisaient des images d’archives, ou les fabriquaient avec des médias *finis* comme le film ou la photographie. En premier lieu Jonas Mekas (« Movie Journal », « Notes for Jerome »…), Nobuyoshi Araki (« Xerox Photo Albums ») mais aussi, pour de nombreuses œuvres, Gordon Matta-Clark, Chris Marker, John Baldessari, John Miller, Dieter Roth...
+
+De même ce carnet de notation ouvert qu’est le blog est à rapprocher, dans son fonctionnement (mais aussi dans quelques cas à la philosophie [5. Il faut rappeler que les *hupomnêmata* dans la culture gréco-romaine du I<sup>er</sup> et II<sup>e</sup> siècle sont en premier lieu liés à un rapport particulier au monde, à une esthétique de l’existence : « une technologie de la constitution de soi » (Michel Foucault, « À propos de la généalogie de l’éthique : un aperçu du travail en cours », *Dits et écrits*, p. 1228).] adoptée par certains des artistes qui l’utilisent ou le détournent), des *hupomnêmata* [6. Voir Michel Foucault – « L’écriture de soi », texte reproduit dans la partie *Théorie* de la *Revue Pratiques* consacrée à : « De l’auto archivage immédiat comme œuvre », *Presses universitaires de Rennes 2*.] » tels qu’évoqués par Michel Foucault dans « L’écriture de soi ».
+
+En effet, ces supports artificiels de mémoire, qui émergent dans la culture gréco-romaine du I<sup>er</sup> et du II<sup>e</sup> siècle, intègrent de la même manière la re-collection de choses dites ou lues et leur partage :
+
+« Les *hupomnêmata*, au sens technique, pouvaient être des livres de compte, des registres publics, des carnets individuels servant d’aide mémoire. Leur usage comme livre de vie, guide de conduite, semble être devenu chose courante dans tout un public cultivé. On y consignait des citations, des fragments d’ouvrages, des exemples et des actions dont on avait été témoin ou dont on avait lu le récit, des réflexions ou des raisonnements qu’on avait entendus ou qui étaient venus à l’esprit. Ils constituaient une mémoire matérielle des choses lues, entendues ou pensées ; ils les offraient ainsi comme un trésor accumulé à la relecture et à la méditation ultérieures. (…) Il ne faudrait pas envisager ces *hupomnêmata* comme un simple support de mémoire, qu’on pourrait consulter de temps à autre, si l’occasion s’en présentait. Ils ne sont pas destinés à se substituer au souvenir éventuellement défaillant. Ils constituent plutôt un matériel et un cadre pour des exercices à effectuer fréquemment : lire, relire, méditer, s’entretenir avec soi-même et avec d’autres, etc. [7. Michel Foucault – « L’écriture de soi », *Revue Pratiques*, *Presses universitaires de Rennes 2*.] »
+
+Ce texte de Foucault, dans ces deux parties (les* hupomnêmata* et la *correspondance*) est fondateur pour la première phase du projet de recherche, permettant un ancrage de la réflexion, avant de nous poser la question des supports artificiels de mémoire et leur transformation par les flux en des termes artistiques. Le deuxième temps de recherche, plus conséquent, a été consacré à une série de propositions plastiques, graphiques, où l’archive dans sa relation aux flux devient un matériau à expérimenter, une norme à questionner, un modèle à transgresser. Il m’est apparu que *auto-archivage immédiat* pouvait être le terme juste pour définir notre pratique, une pratique basée sur la cœxistence des archives et des f lux et sur la relation que nous, artistes établissions avec celle-ci.
+
+D’une part le terme auto renvoyait à *l’automatisation* du traitement des médias et données, son stockage et son archivage par l’éditeur en ligne et, d’autre part, à* autonome* : dans ce qu’elles pouvaient être augmentées (commentaires), reprises (flux RSS par exemple) et / ou réutilisées (*Mashups* [8. En français application composite. C’est-à-dire une application qui combine des contenus provenant de plusieurs sources déjà existantes. Par exemple dans le cas du site Internet, le fait d’agréger des contenus provenant d’autres sites afin d’en créer un nouveau.]). Ce terme *auto* n’était donc pas à prendre en premier lieu comme relatif à une pratique personnelle (comme dans *auto-portrait* par exemple), il n’était pas question ici de faire un *récit de soi-même* [9. « Aussi personnels qu’ils soient, ces *hupomnêmata* ne doivent pas cependant être pris comme des journaux intimes […]. Il ne constitue pas un *récit de soi-même* ; ils n’ont pas pour objectif de faire venir à la lumière du jour les *arcana conscientiæ* dont l’aveu – oral ou écrit – a valeur purificatrice. Le mouvement qu’ils cherchent à effectuer est inverse de celui-là : il s’agit non poursuivre l’indicible, non de révéler le caché, non de dire le non-dit, mais de capter au contraire le déjà dit, rassembler ce qu’on a pu entendre ou lire, et cela pour une fin qui n’est rien de moins que la constitution de soi. » (Michel Foucault – « L’écriture de soi », dans *Dits et écrits*, p.1238).] ».
+
+Ainsi, jour après jour, nous avons constaté que nous étions face à un nouveau type d’œuvre-archive qui peut inclure sa genèse, ses hésitations, son partage, ses retours, ses commentaires, sa réception. Cette archive, objet-média immédiatement échangeable, consultable parfois contributive et donc modifiable (si ce choix est fait, dans le cas d’éditeurs de textes à plusieurs contributeurs [10. Dans les cas des *pad*, éditeurs de textes collaboratifs en ligne. Par exemple : *Framapad*, *Your world of text*, etc.], ou dans la possibilité d’ajouter des commentaires), est devenue une archive à caractère performatif : une archive-action.
+
+Les propositions plastiques développées par les artistes participants à la recherche ont intégré cette dimension dynamique de l’archive soumise aux flux. Nous proposons ici une sélection d’images tirées des différentes œuvres produites (accessible depuis la plateforme en ligne : (link:  http://incident.net/recherche text: incident.net popup: yes), ainsi que des images de l’édition « Autoarchive » (Éditions de l’EESAB, 2013), un livre d’artiste qui interroge le passage d’archives-action en ligne vers un support papier.
+
+Ces images se présentent bien sûr comme décontextualisées de leur support d’origine et, pour les trois premières, il s’agit d’une simulation statique de projets qui se déroulent et évoluent dans une temporalité spécifique à chacun.
+
+###Julie Morel, « Blog », (link: http://julie.incident.net/index11.html text: julie.incident.net popup: yes)
+(image: image_n_2_-47.jpg)
+#####« Blog », Julie Morel
+Présent en ligne depuis 2004, ce blog est le point de départ du projet de recherche de l’Auto-archivage immédiat comme œuvre. Il est envisagé comme une mémoire matérielle ouverte ; il est utilisé comme une boîte à outils pour la réflexion sur une pratique en train de se construire. Ce blog a pour fonction l’échange avec soi-même et avec d’autres. Pour cela, il développe une écriture non figée, partageable immédiatement : il ne fait pas l’économie de la fragilité d’une réflexion émergente et assume les retours qu’elle suscite une fois livrée.
+Au fur et à mesure, et en même temps, il inscrit une pratique en cours et fait émerger une forme liée à celle-ci.
+
+###Reynald Drouhin, « GridFlow »
+(image: image_n_2_-50.jpg)
+#####« GridFlow », Reynald Drouhin
+Le projet « GridFlow » est archive de lui-même (*autoarchive*) des images d’articles de blogs dont les adresses sont enregistrées sur le site. Tout le monde peut ajouter l’adresse de son choix afin d’alimenter la grille. La mosaïque ainsi constituée permet une visualisation, sans début ni fin, qui révèle l’humeur du temps – un *Zeitgeist* – parfois de manière évidente dans l’accumulation ou la répétition d’éléments marquants de l’actualité du net.
+La grille est en perpétuelle remise à jour. À chaque nouvelle image, elle se complète et se redessine, suivant un fil, comme un jeu de pousse-pousse infini. L’état de l’archive telle qu’elle est à présent n’est déjà plus ; elle est par essence éphémère, par la rapidité d’affichage des images et leur disparition.
+« Mais ce qui me frappe avec *GridFlow* c’est la sensation de vertige qu’il engendre, comme un tourbillon dans un torrent. Il rend tangible un Web qui n’est que surface (même si on peut cliquer sur chaque image pour accéder au site d’où elle provient, on tend à rester devant le flux) ; suite d’images sans identité, sans ancrage, qui se substituent les unes aux autres dans une équivalence indifférente, d’où l’épaisseur des mots aurait disparu, d’où le sens, s’il émerge, est immédiatement emporté, où l’important n’est pas de lire mais de publier, le plus vite possible. Edmond Couchot (« À la recherche du Temps réel », revue *Traverses* n°35, septembre 1985) parlait d’*imMediat*. »
+Annick Bureaud
+
+### Thomas Daveluy, « Display : none »
+(image: image_n_2_-71.jpg)
+##### « Display : none », Thomas Daveluy
+« Display : none » est un projet d’agrégateur de liens et références adapté pour un usage de groupe. La particularité de cet agrégateur est sa modularité : chaque nouvelle entrée reconfigure totalement l’affichage du site. Par défaut, le site affiche en premier la dernière entrée publiée, suivie de tous les articles qui y sont en relation (via des mots clés). L’utilisateur peut entrer des mots clés dans un champ de recherche ou cliquer sur chaque image, ce qui restructurera l’affichage des articles en temps réel. Il existe donc deux type de restructurations : par mot clé, ou par sélection d’un post.
+Lorsqu’on arrive sur le site c’est le dernier article posté qui s’affiche par défaut, en premier : le site change donc entièrement de page d’accueil à chaque nouvelle entrée.
+
+###Julie Morel, extraits du livre « Auto-archive » (Éditions de l’EESAB-Lorient)
+(image: image_n_2_-49.jpg)
+#####Partie 1 : « Flux » (pp .60-61 : Conversation entre Karine Lebrun et Gwenola Wagon).
+
+(image: image_n_2_-48.jpg)
+##### Partie 2 : « Appendice » (pp .104-105 : La bibliothèque mondiale, Karine Lebrun).
+
+(image: image_n_2_-46.jpg)
+#####Partie 3 : « Annexe » (pp .132-133: A Thousand Leaves, Christophe Lemaitre).
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-de-lauto-archivage-immediat-comme-oeuvre.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Julie Morel
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] À condition que l’on sache comment y accéder. 
+
+[2.] Jérome Joy, « Questions d’archives » – *Flux et circuits*, dans *Revue Pratiques*, numéro spécial consacré au projet de recherche « De l’auto-archivage immédiat comme œuvre », *Presses universitaires de Rennes 2*.
+
+[3.] Le projet de recherche « De l’auto-archivage immédiat comme œuvre » a été portée par l’École Européenne Supérieure d’Art de Bretagne et le Conseil scientifique de la recherche en école d’art (DGCA, Ministère de la Culture). Direction scientifique : Julie Morel, en collaboration avec une équipe d’artistes, critiques, enseignants et étudiants : Gwenola Wagon, Grégory Chatonsky, Karine Lebrun, Reynald Drouhin, Sylvie Ungauer, Dominique Moulon, Thomas Daveluy). 
+
+[4.] *Weblog*, *Vidéolog*, *Wiki*, etc, mais aussi ceux plus *mainstream* : *Instagram*, *Facebook*, ou autres applications pour *Smartphone*.
+
+[5.] Il faut rappeler que les *hupomnêmata* dans la culture gréco-romaine du I<sup>er</sup> et II<sup>e</sup> siècle sont en premier lieu liés à un rapport particulier au monde, à une esthétique de l’existence : « une technologie de la constitution de soi » (Michel Foucault, « À propos de la généalogie de l’éthique : un aperçu du travail en cours », *Dits et écrits*, p. 1228). 
+
+[6.] Voir Michel Foucault – « L’écriture de soi », texte reproduit dans la partie *Théorie* de la *Revue Pratiques* consacrée à : « De l’auto archivage immédiat comme œuvre », *Presses universitaires de Rennes 2*. 
+
+[7.] Michel Foucault – « L’écriture de soi », *Revue Pratiques*, *Presses universitaires de Rennes 2*. 
+
+[8.] En français application composite. C’est-à-dire une application qui combine des contenus provenant de plusieurs sources déjà existantes. Par exemple dans le cas du site Internet, le fait d’agréger des contenus provenant d’autres sites afin d’en créer un nouveau.
+
+[9.] « Aussi personnels qu’ils soient, ces *hupomnêmata* ne doivent pas cependant être pris comme des journaux intimes […. Il ne constitue pas un *récit de soi-même* ; ils n’ont pas pour objectif de faire venir à la lumière du jour les *arcana conscientiæ* dont l’aveu – oral ou écrit – a valeur purificatrice. Le mouvement qu’ils cherchent à effectuer est inverse de celui-là : il s’agit non poursuivre l’indicible, non de révéler le caché, non de dire le non-dit, mais de capter au contraire le déjà dit, rassembler ce qu’on a pu entendre ou lire, et cela pour une fin qui n’est rien de moins que la constitution de soi. » (Michel Foucault – « L’écriture de soi », dans *Dits et écrits*, p.1238).
+
+[10.] Dans les cas des *pad*, éditeurs de textes collaboratifs en ligne. Par exemple : *Framapad*, *Your world of text*, etc.

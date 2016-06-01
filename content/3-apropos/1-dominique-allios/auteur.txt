@@ -1,0 +1,20 @@
+Title: Dominique Allios
+
+----
+
+Text-bio: Maître de conférence en Histoire de l’art et Archéologie médiévales à l’Université de Rennes 2. Rattaché au CNRS UMR 6566 en tant qu’archéologue, il a réalisé des fouilles dans le monde entier, de Matera (Italie) à Pétra (Jordanie), en passant par Alexandrie d’Égypte. Directeur de la fouille franco-bangladaise de Mahasthan. Il participe à des colloques internationaux et contribue régulièrement à des revues scientifiques d’archéologie ; il a notamment publié, en 2004, « Le vilain et son pot – Céramiques et vie quotidienne au Moyen Âge » aux *Presses universitaires de Rennes*.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+----
+
+Text-liste-articles: 
+
+(link: numeros/numero1/le-silence-des-signes-une-archeologie-de-la-c-ramique text: n°1 : « Le silence des signes – une archéologie de la céramique »)
+(link: numeros/numero1/arte-povera-archeologie-l-ternel-retour-aux-sources text: n°1 : Arte Povera & Archéologie – L’éternel retour aux sources)

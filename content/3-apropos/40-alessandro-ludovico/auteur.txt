@@ -1,0 +1,22 @@
+Title: Alessandro Ludovico
+
+----
+
+Text-bio: Alessandro Ludovico est un artiste et critique des nouveaux médias. Il est aussi enseignant à l’Académie des arts de Carrare (Italie). Depuis 1993 il dirige la revue *Neural*, dont il est le rédacteur en chef. Il y développe un point de vue critique sur la culture numérique et les arts médiatiques. De 2012 à 2014 il est le commissaire de l’exposition en ligne au Jeu de Paume « Erreur d’impression. Publier à l’ère du numérique ». En 2013 il publie « Post-digital Print. The mutation of publishing since 1894 » où il examine la métamorphose radicale des médias imprimés et comment les médias numériques revitalisent le livre, plutôt qu’ils en annoncent la fin.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+(link: http://espacevirtuel.jeudepaume.org/erreur-dimpression-1674 text: Voir sur espacevirtuel.jeudepaume.org popup: yes)
+(link: http://gaite-lyrique.net/rencontre/impression-et-innovation text: Voir sur gaite-lyrique.net popup: yes)
+(link: http://postdigitalprint.org text: postdigitalprint.org popup: yes)
+(link: http://neural.it text: neural.it popup: yes)
+
+----
+
+Text-liste-articles: (link: numeros/numero3/networks-as-agents-in-the-clash-between-personal-and-industrial-post-digital-print text: n°3 : Networks as agents in the clash between personal and industrial post-digital print)

@@ -1,0 +1,17 @@
+Title: Bertrand Parinet
+
+----
+
+Text-bio: L’activité de plasticien de Bertrand Parinet opère une synthèse entre de multiples champs d’investigation et s’inscrit délibérément dans une histoire. Les *strates conceptuelles* qu’il travaille prennent racine dans les contextes de leur mise en œuvre. Les formations et activités qui jalonnent son parcours d’artiste – commissaire d’exposition, archéologue, architecte – enrichissent sa démarche et constituent tout autant une remise en question des perspectives inhérentes à chacun des champs qu’il investit.
+
+----
+
+Text-contact: (link: http://bertrandparinet.com text: bertrandparinet.com)
+
+----
+
+Text-liens: 
+
+----
+
+Text-liste-articles: (link: numeros/numero2/art-architecture-archeologie text: n°2 : Art / Architecture / Archéologie)

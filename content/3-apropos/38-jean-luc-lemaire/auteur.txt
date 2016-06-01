@@ -1,0 +1,17 @@
+Title: Jean-Luc Lemaire
+
+----
+
+Text-bio: Jean-Luc Lemaire est fondateur associé et directeur de projets dans la librairie numérique *Art book magazine*, application gratuite disponible sur *iPad*. Elle est spécialisée dans l’art contemporain, la photographie, le design graphique, les sciences humaines, la culture numérique, etc.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: (link: http://www.artbookmagazine.com/fr text: www.artbookmagazine.com popup: yes)
+
+----
+
+Text-liste-articles: (link: numeros/numero3/entretien-avec-jean-luc-lemaire-art-book-magazine-librairie-numerique-en-ligne text: n°3 : Entretien avec Jean-Luc Lemaire, Art Book Magazine librairie numérique en ligne)

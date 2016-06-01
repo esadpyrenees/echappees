@@ -1,0 +1,20 @@
+Title: Jérémie Baboukhian
+
+----
+
+Text-bio: Jérémie Baboukhian est interactive et web designer. Il a suivi des études à l’École d’architecture de la Villette puis à l’Université Paris 8. Sous l’impulsion de son professeur Félix Müller, il rejoint l’organisation de mrcrcdsgn, cycle de conférences axées sur les problématiques du design et de la typographie. De 2008 à 2012, il fait partie de l’équipe rédactionnelle du Typographe.com dirigé par Jean-François Porchez. Suite à sa fermeture, Pauline Nuñez, Jean-Baptiste Levée et Jérémie Baboukhian s’associèrent pour monter une nouvelle plateforme, le pointypo.com. Il fonde avec Michèle Wang l’atelier de conception graphique Marz + Chew en 2008 à Paris / Belleville. Leur expertise couvre les problématiques liées à l’architecture d’information et au design. Ils sont spécialisés dans la création et le développement de solutions multi-supports.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+(link: http://marz-chew.fr text: marz-chew.fr popup: yes)
+(link: http://www.pointypo.com text: http://www.pointypo.com popup: yes)
+
+----
+
+Text-liste-articles: 

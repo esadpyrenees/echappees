@@ -1,0 +1,198 @@
+Pagesettings-1: 
+
+----
+
+Title: La fabrique scripturale du monde
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: jerome-denis
+- 
+  auteur_uid: david-pontille
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Le domaine de l’écriture est généralement saisi par les sciences sociales d’une manière très restrictive. En schématisant, les études consacrées à l’écrit s’intéressent essentiellement à deux aspects : d’un côté, sa dimension textuelle, en privilégiant l’analyse des grandes oeuvres de la littérature (ses formes, ses auteurs, ses professions...) ; de l’autre, sa dimension cognitive articulée aux politiques d’éducation tournées vers le développement des personnes. Il existe pourtant une quantité d’autres modes d’existence de l’écrit, beaucoup plus anodins et apparemment futiles, qui méritent d’être au centre d’explorations scientifiques tout aussi approfondies, même s’ils obligent à examiner des objets moins nobles que les « textes » au sens traditionnel du terme.
+
+### Un monde d’écrits
+Interroger la place de l’écrit dans notre monde passe par un double déplacement. Sur un plan théorique, il consiste dans un premier temps à se débarrasser d’une définition étriquée qui en réduit la portée et l’épaisseur. Cette définition peut prendre plusieurs formes. Elle fait par exemple de l’écrit le support d’une langue dont le siège originel serait la parole, et résume ainsi l’écriture à un acte de transcription, appréhendé surtout par ses faiblesses et son manque de profondeur : l’écrit serait ici une sorte d’ersatz de la parole. La réduction peut aussi se jouer à un niveau plus général en rabattant l’écrit sur le symbolique, c’est-à-dire des signes qui n’existent qu’à la place d’autre chose, un réel dont ils ne forment qu’une représentation forcément insatisfaisante, voire trompeuse. Face à ces conceptions appauvries, l’enjeu est au contraire d’explorer la force pragmatique de l’écriture, de reconnaître à la fois la variété des actes de langage spécifiques à la pratique de l’écrit et l’agentivité même des objets graphiques. Autrement dit, le premier mouvement consiste à enquêter sur la performativité de l’écrit.
+
+Le second déplacement est affaire d’observation. Pour saisir ce que l’on fait avec et par l’écrit, et ce que les écrits nous font faire très régulièrement, il s’avère indispensable de porter le regard ailleurs que sur les grands objets traditionnels des sciences sociales. Il faut assumer une certaine myopie — pour reprendre les termes de Bruno Latour [1. Latour, B., 2006, *Changer de société, refaire de la sociologie*, Paris, La Découverte.], et focaliser son attention sur des choses anodines, suivre la trace de petits objets, prendre au sérieux des pratiques et des outils d’écriture qui paraissent à d’autres anecdotiques. Assumer, comme Georges Perec, que c’est dans l’infra-ordinaire, littéralement sous nos yeux, que se jouent des dimensions cruciales de ce que l’on appelle avec beaucoup trop de pompe la société, ou le plutôt le social, et notre histoire [2. Artières, P., 2007, *Rêves d’histoire. Pour une histoire de l’ordinaire*, Paris, Les Prairies Ordinaires.].
+
+Dès lors que l’on accepte de concentrer l’attention sur tel document, tel petit papier, telle case d’un formulaire, telle inscription murale, telle petite marque faite par un ouvrier sur la chaussée ou sur le bord de son atelier, telle opération d’effacement, l’anecdotique laisse la place à la richesse d’objets graphiques que l’on découvre innombrables et dont les modes d’existence apparaissent dans une grande variété [3. Artières, P., 2012, *La Ville Écrite*, Paris, Éditions Georges Pompidou.]. Et l’on s’aperçoit vite que notre monde n’est pas seulement peuplé d’écrits qui l’habiteraient comme autant de traces extérieures de l’activité humaine, mais qu’il repose littéralement sur certains d’entre eux, qui le façonnent, l’organisent, le structurent... Le monde tient en partie sur des infrastructures scripturales qui, des marques sur la route aux lignes de codes informatiques, en assurent la marche quotidienne.
+
+Comment rendre compte de ce foisonnement ? Comment documenter les actions de l’écrit ? Plutôt que de viser l’exhaustivité, nous proposons de recenser ici quelques pistes pour un travail de description et d’analyse de la fabrique scripturale du monde, en insistant sur des aspects les moins évidents ou plutôt sur ceux qui passent souvent inaperçus à côté de domaines maintes et maintes fois étudiés comme l’écriture littéraire ou journalistique. Nous avons développé certaines de ces pistes dans différents articles, chapitres et ouvrages académiques, mais nous nous appuierons essentiellement ici sur des extraits de notre blog scientifique « Scriptopolis » [4. www.scriptopolis.fr]. Ce dernier est une production collective (avec Philippe Artières, historien) dédiée à l’exploration des pratiques ordinaires d’écriture et de lecture par l’usage de la photographie et de courts textes. À travers cette entreprise de publication collective (les articles ne sont pas attribués à un auteur, hormis ceux des invités), nous cherchons à documenter, et à coder en continu, l’immense variété des formes d’action de l’écrit.
+
+###Ordonnancements
+Une grande part des objets graphiques qui peuplent notre monde contribue à l’ordonnancer. Il suffit de focaliser son regard quelques instants dans une rue ou à l’intérieur de n’importe quel bâtiment pour mesurer l’ampleur du phénomène. Les formes que prend cet ordonnancement scriptural sont très variées. On peut retenir tout une série de marquages qui inscrivent, à même les lieux, certains traits distinctifs. Ces marquages opèrent différents niveaux d’identification. Les enseignes signalent par exemple des lieux en indiquant à distance un nom et parfois la nature de l’activité qu’ils accueillent. Au sol, on trouve de très nombreuses sortes de marques qui, pour la plupart, spécifient l’usage d’espaces qu’elles rendent intelligibles, délimitant ainsi des zones réservées à des entités particulières : piétons, cyclistes, personnes à mobilité réduite, bus ou fourgons par exemple. 
+
+(image: 1.jpg caption: Entités © Jérôme Denis et David Pontille)
+
+Une autre forme d’ordonnancement tient dans des objets d’écriture plus « bavards », qui exposent dans des sites divers ce que l’on pourrait appeler des modes d’emploi. Sous la forme d’affiches, de panneaux à l’extérieur, ou de notes plus éphémères dans les espaces de travail ou les hôtels par exemple, ces écrits prennent la forme de textes qui rappellent explicitement un série de règles dont l’exposition semble faire office de rappel, voire de renforcement.
+
+Tandis que les marquages reposent essentiellement sur des conventions et la capacité de chacun à reconnaître telle forme de trait ou telle couleur, les modes d’emploi agissent sur le mode de la référence, renvoyant parfois directement à un texte de loi ou un décret. Comme en témoigne la photographie prise dans une station balnéaire , leur installation soulève d’innombrables questions, au premier rang desquelles celle du choix des règles qui doivent faire l’objet d’une exposition parmi toutes celles qui concernent un lieu et que personne « n’est censé ignorer ».
+
+(image: 2.jpg caption: Règles © Jérôme Denis et David Pontille)
+
+Enfin, on trouve parmi les dispositifs d’ordonnancement graphique ce que Deleuze et Guattari ont appelé des « mots d’ordre » [5. Deleuze G. et Guattari F., 1980, *Mille Plateaux — Capitalisme et schizophrénie 2*, Paris, Éditions de Minuit.] : des signes a-représentationnels tout entiers tournés vers l’action de ceux qui les contemplent. Ces signes, dont la flèche est l’exemple canonique, ne représentent rien, ils ne sont pas présents à la place d’un quelconque « signifié ». Au contraire, ils opèrent un aménagement graphique de l’espace, se mêlant à l’architecture et au mobilier pour composer un dispositif d’orientation hybride.
+
+### Infrastructures
+L’écrit tient également une place primordiale dans l’organisation quotidienne de nos activités lorsqu’il n’est plus exposé dans des sites qu’il participe à ordonner, mais qu’il circule, généralement en coulisses, dans des bureaux et des services administratifs de secteurs très différents. Des objets foisonnants tels que les dossiers, les formulaires, les notes, les circulaires, les fichiers, etc. composent une infrastructure scripturale essentielle à la vie des entreprises et des institutions dont ils constituent à la fois l’ossature (juridique, économique, managériale...) et le véhicule de la plupart des échanges. Si dans les cas précédents la fixité et l’emplacement précis des objets graphiques sont des dimensions importantes de leur performativité, c’est ici la circulation qui fait la force de l’écrit. Cette circulation opère généralement en deux temps. Un premier cycle voit les documents se transformer au fil d’une série plus ou moins longue d’étapes : les éléments qui composent un dossier sont par exemple annotés, agencés entre eux et progressivement réordonnés ; les textes juridiques ou normatifs sont corrigés, amendés, biffés... Au cours d’un second cycle, ils sont ensuite figés dans leur forme, dupliqués, archivés et, pour certains, réactivés pour faire preuve par exemple.
+
+(image: 3.jpg caption: Candidats © Jérôme Denis et David Pontille)
+
+Au même titre que celui de la signalétique et des marquages urbains, ce monde de la paperasse demeure mal connu et peu considéré, même si de nombreuses recherches se sont penchées sur les pratiques d’écriture au travail. Il est d’autant plus important à étudier aujourd’hui que l’informatisation généralisée a décuplé les formes et les capacités d’action de ces écrits souterrains, voués à ne circuler presque exclusivement qu’à l’intérieur des administrations et des entreprises. Parmi les infrastructures scripturales qui façonnent une part importante de nos vies, les standards de communication électronique et les évolutions du code informatique lui-même constituent des sites de recherche stratégiques pour documenter l’extension du domaine de la performativité de l’écrit.
+
+Ces deux premiers domaines d’écriture, très rapidement mis en lumière ici, n’orientent pas uniquement le regard vers une série d’objets graphiques qui méritent un examen tout particulier. Ils pointent également des enjeux de recherche plus généraux, notamment quant aux conditions de félicité de l’écrit. L’attention aux dispositifs d’ordonnancement graphique invite ainsi à élargir la focale de l’observation et à comprendre par quelles voies et quelles formes de relation avec d’autres écrits passe la capacité de certains objets graphiques à organiser le monde. De même, l’étude des infrastructures scripturales nécessite de ne pas se concentrer sur les documents uniquement, mais de prendre en considération la pluralité des opérations qui permettent leur circulation et assurent leur entrée en vigueur itérative. Enfin, prendre au sérieux l’action d’écrits habituellement considérés comme anodins suppose d’en interroger les propriétés matérielles et de ne pas s’arrêter aux évidences de ce que certains ont décrit comme les fondements d’une « culture » matérielle.
+
+### Écologies
+On peut insister sur de nombreuses qualités propres aux artefacts graphiques destinés à ordonner le monde pour en expliquer la force. La fabrique de l’efficacité des dispositifs de marquage passe, dans la majorité des cas, par un certain niveau de standardisation (des couleurs, des matières, des gabarits...). L’installation de déictiques, destinés à indiquer et désigner des entités en situation, ne peut être heureuse que si le choix de leur emplacement répond à certaines exigences. Mais à ces différentes qualités internes, il faut ajouter l’importance des relations beaucoup plus générales qu’entretiennent les objets de ce type avec ce qui les entoure et notamment avec d’autres formes scripturales.
+
+Dans les lieux publics, les espèces d’écrits pullulent. Les espaces d’exposition sont limités et leur occupation prend la forme d’une véritable écologie graphique, chaque espèce coopérant ou luttant à sa manière contre les autres à des degrés différents. Cela est particulièrement visible dès lors que l’on suit l’installation et l’entretien de dispositifs d’ordonnancement dont la conception même suppose, parfois implicitement, qu’une partie au moins des espèces concurrentes qui cohabitent dans les mêmes espaces soient contrôlées. C’est par exemple le cas des graffiti, dont l’enlèvement constitue un postulat évident à l’action souhaitée de la signalétique du métro. Mais, comme nous avons pu le montrer à propos de la RATP, c’est aussi le cas de la publicité dont une trop grande présence est considérée comme une menace pour les panneaux directionnels et autres plans du réseau [6. Denis J. et Pontille D., 2010, *Petite sociologie de la signalétique. Les coulisses des panneaux du métro*, Paris, Les Presses Mines ParisTech.] Dans ces deux cas, l’important est de souligner que les luttes ne sont pas gagnées une fois pour toutes [d].
+
+(image: 4.jpg caption: Stationnement © Jérôme Denis et David Pontille)
+
+Elles passent par un travail d’entretien continu et une supervision de l’environnement qui montrent à quel point la performativité graphique ne peut se rabattre sur les seules qualités internes des objets graphiques.
+
+Parler d’écologie graphique permet par ailleurs de diriger l’attention sur la grande variété des formes scripturales qui occupent les lieux publics et de considérer plus directement des préoccupations relativement récentes dans les villes. Les espaces urbains semblent en effet traversés par des problématiques proches de celles de l’économie de l’attention (où une explosion de l’offre engendre une saturation de la demande) qui sont traduites dans des termes écologiques, au sens cette fois-ci de l’écologie politique. Les débats sont aujourd’hui nombreux pour faire émerger de nouvelles exigences de régulation des formes de marquage de la ville. Ces exigences débordent les seuls aspects esthétiques et sécuritaires qui prévalaient jusque-là, pour souligner les risques de saturation visuelle et informationnelle des espaces urbains. La ville de São Paulo est un exemple radical en la matière, puisqu’elle a mis en place en 2006 une loi municipale « pour une ville propre » conduisant à une régulation drastique des formats publicitaires et à une vaste campagne de désaffichage.
+
+### Travail
+Pour élargir encore l’horizon d’analyse de l’écrit, il est essentiel d’appréhender le travail spécifique sur lequel repose la performativité des objets graphiques. Nous le rappelions à l’instant, l’écologie graphique des lieux publics passe par le déploiement d’opérations de supervision et d’entretien. Ce travail est constant et constitue l’une des conditions de félicité des objets qui visent à ordonner les espaces. C’est le cas de la maintenance plus généralement : les panneaux doivent être remplacés régulièrement, les marquages rénovés, et les néons des enseignes changés. Si ces tâches ne sont pas accomplies au jour le jour, l’action même d’ordonnancement graphique est mise à mal.
+
+Ceci revient à dire que la performativité graphique ne tient pas toute entière dans les objets scripturaux, mais qu’elle est en quelque sorte répartie le long d’une chaîne sociotechnique où sont agencés des objets, des métiers, des outils, des règles et des valeurs. Cette dimension est plus sensible encore lorsque l’on étudie les infrastructures scripturales. Les activités qui concourent à la fabrique des objets graphiques, puis qui assurent les conditions de leur circulation, sont variées et tiennent une place primordiale à chaque étape du cycle de vie des écrits. Pour les prendre pleinement en compte, un déplacement s’impose vis-à-vis de la plupart des recherches en sociologie et en psychologie consacrées aux pratiques d’écriture au travail, circonscrites aux façons d’agir « avec » des documents. Au contraire, l’enquête est orientée vers les spécificités du « travail de l’écrit », entendu comme l’ensemble des opérations qui sont directement tournées vers l’action « des » objets scripturaux, c’est-à-dire qui alimentent leur fabrique, leur circulation et leur maintenance.
+
+Des possibilités d’enquête inédites s’ouvrent alors qui sont sensibles à des aspects souvent négligés au sein des infrastructures scripturales, comme l’importance des manipulations. Le traitement des dossiers, les saisies informatiques, la vérification, les classements sont autant d’opérations où le maniement des objets graphiques prime sur la lecture des textes. Dès lors qu’on s’y attarde, des formes de rapport à l’écrit émergent qui s’éloignent donc de la dichotomie standard entre lecture et écriture. Le travail de l’écrit suppose diverses formes d’engagement avec les objets scripturaux qui ne se résument pas à ces deux actions, beaucoup plus intriquées qu’il n’y paraît, comme dans les tâches consistant à annoter, surligner, raturer, saisir .
+
+(image: 5.jpg caption: Désagraffage © Jérôme Denis et David Pontille)
+
+Et l’éventail des pratiques est bien plus large que l’on pourrait l’imaginer au premier abord : pour des opérateurs, lire un document in extenso ou procéder à une lecture d’écrémage, c’est inscrire leur action dans différents horizons d’attente et c’est mobiliser des conceptions différenciées de leur activité.
+
+Observer le travail de l’écrit dans des secteurs où il est essentiellement considéré comme de la « paperasserie » permet également d’appréhender sa richesse cognitive. Les tâches de saisie et de vérification, cruciales dans l’alimentation des bases de données dans une multitude de secteurs d’activités, reposent en effet toujours sur le jugement des opérateurs, face aux doutes et aux questions que soulève tout document écrit.Interpréter des traces peu nettes, comprendre les raisons d’une case vide, prendre l’initiative de corriger des incohérences sont autant de tâches généralement pas reconnues, voire prohibées, mais qui font malgré tout le quotidien des opérateurs et sans lesquelles la mécanique du « traitement » (des dossiers, des données...) se gripperait.
+
+En miroir, ce type d’enquêtes invite aussi à explorer les raisons qui incitent de nombreuses entreprises à investir dans des formes d’organisation du travail centrées sur le « tout écrit ». Ces modèles d’organisation, qui ont cours aussi bien dans le secteur privé que public, font de la transparence et de l’immédiateté des propriétés intrinsèques des infrastructures scripturales. Ce faisant, ils dessinent des conditions de travail particulièrement difficiles pour les petites mains de la société de l’information, qui s’évertuent malgré tout à garantir la fiabilité des écrits dont ils assurent la circulation. Associés aux nouvelles formes d’automatisation de la relation client, ils organisent une véritable « back offisation » du monde dont il reste à mesurer toutes les conséquences [7. Denis J. et Pontille D., 2012, « Travailleurs de l’écrit, matières de l’information », *Revue d’Anthropologie des Connaissances*, vol. 6, n° 1, p. 1– 20.].
+
+### Matières
+L’attention aux différents aspects esquissés jusqu’ici ouvre des pistes encore insuffisamment explorées. Ils reposent sur une dimension cruciale que nous n’avons pas encore mentionnée : la prise en compte des divers matériaux dont sont composés les objets graphiques et qui, agencés les uns aux autres, contribuent eux aussi à la performativité de l’écrit. Dès lors que l’on explore les écologies graphiques et les situations de travail scriptural, il est en effet impossible de s’en tenir à une posture exclusivement herméneutique qui ne cesse de renvoyer la signification et la valeur des textes au-delà de la matière.
+
+Les matériaux sont des ingrédients essentiels des conditions de félicité de l’écrit : le dessin d’un passage piéton passe par exemple par des composants de peinture particuliers, une couleur standardisée,  etc., au même titre que certains actes juridiques qui requièrent l’usage d’encres wwv, ou que les formulaires administratifs qui, s’ils ne sont pas remplis avec la bonne couleur, ne peuvent passer l’épreuve de leur traitement optique automatisé. Ce sont ces agencements matériels qui donnent aux objets graphiques leur pleine consistance et qui en garantissent la valeur. Stabilisés, ils leurs assurent la capacité de s’inscrire dans divers réseaux, opérant l’une des principales force de l’écrit comme instanciation langagière qui circule dans le temps et l’espace au-delà de la présence de ses initiateurs (designer, graphiste, typographe, concepteur, auteur...).
+
+Se préoccuper de la matière des écrits ne se résume toutefois pas à l’exploration de leurs forces tangibles, comme c’est encore aujourd’hui trop souvent le cas. Aussi solides et standardisés soient-ils, les objets graphiques ne sont ni éternels, ni à l’abri d’une défaillance : les matériaux s’usent, se cassent, perdent en résistance. C’est une dimension importante de la part écologique de la performativité de l’écrit, et tout particulièrement des écrits exposés dans les lieux publics. Leur exposition, par exemple au soleil, fait à la fois leur puissance et leur faiblesse.
+
+(image: 6.jpg caption: Coup de soleil © Jérôme Denis et David Pontille)
+
+En d’autres termes, l’intérêt pour les propriétés matérielles de l’écrit passe aussi par l’observation des conditions de leur fragilité et par l’acceptation de leur vivacité : même s’ils sont stables à l’oeil nu pendant un certain temps (variable selon les situations), les matériaux de l’écrit demeurent vivants et se transforment sans cesse, jusqu’à disparaître.
+
+(image: 7.jpg caption: Vie et mort © Jérôme Denis et David Pontille)
+
+Ce point est crucial dans la posture que nous défendons ici. Les conséquences d’une entrée dans la matière des objets graphiques sont en effet assez radicales. Elle assume d’abord que les écrits ne se résument pas à des textes graphiquement figés en attente d’une pluralité d’interprétations.
+
+Surtout, elle renforce encore les deux points que nous avons décrits plus haut : l’écrit est affaire d’écologie graphique et de travail. Ces deux dimensions essentielles de la performativité de l’écrit se cristallisent dans un domaine d’activités qui demeurent largement inconnu et qu’il est crucial d’étudier de plus près : la maintenance et l’entretien. Assuré par des métiers au sein desquels se développent des savoir faire et des formes de connaissances dédiés aux propriétés matérielles des objets graphiques et à leur fragilité, le travail de maintenance s’apparente à une forme de soin (de care) dont l’étude reste largement à faire.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: pdf-pau-lafabriquescripturaledumonde.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Jérôme Denis & David Pontille
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 

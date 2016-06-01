@@ -1,0 +1,17 @@
+Title: Art Kleiner
+
+----
+
+Text-bio: Art Kleiner est écrivain, conférencier et journaliste. Il est rédacteur en chef de *strategy + business, magazine* dédié au management publié par *Booz & Company*. Il est l’auteur de « The Age of Heretics : A History of the Radical Thinkers Who Reinvented Corporate Management », 2<sup>e</sup> édition *Jossey-Bass*, 2008 et de « Who Really Matters : The Core Group Theory of Power, Privilege, and Success », *Doubleday*, 2003. Il est directeur éditorial de la série « Fifth Discipline Fieldbook » avec Peter Senge et co-auteur de Schools « That Learn », *Doubleday*, 2000, et « The Dance of Change », *Doubleday* 1999.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: (link: http://www.well.com/user/art /index.html text: www.well.com popup: yes)
+
+----
+
+Text-liste-articles: (link: numeros/numero1/les-chemins-de-la-pensee-entretien-de-tim-brown text: n°1 : Les chemins de la pensée / — Entretien de Tim Brown)

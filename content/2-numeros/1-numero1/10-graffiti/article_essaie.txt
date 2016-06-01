@@ -1,0 +1,106 @@
+Info-1: 
+
+----
+
+Pagesettings-1: 
+
+----
+
+Title: Graffiti
+
+----
+
+Articlevisuel-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Articlevisuel-auteur: 
+
+- 
+  auteur_uid: oxana-andreeva
+
+----
+
+Pagesettings-3: 
+
+----
+
+Articlevisuel-medias: 
+
+Oxana Andreeva a mené une micro-enquête sur les graffiti disséminés dans les gares d’un train de banlieue qui se dirigeait vers Moscou. Elle s’est particulièrement intéressée aux messages défendant des idées politiques, supportant une équipe de football ou des déclarations d’amour. Elle a également porté son attention sur l’alphabet employé pour écrire ces messages et constatât qu’ils étaient majoritairement rédigés en latin et peu en cyrillique.
+
+(image: dsc04635.jpg caption: Supporters de football contre une équipe adversaire  _détournant leur logo_, banlieue de Moscou © Oxana Andreeva)
+
+(image: dsc04646.jpg caption: Mots de soutien à un parti russe, banlieue de Moscou © Oxana Andreeva)
+
+(image: dsc04647.jpg caption: Déclaration d’amour sur le mur, banlieue de Moscou © Oxana Andreeva)
+
+(image: dsc04650.jpg caption: Graffiti (signifiant mercure) en cyrillique, banlieue de Moscou © Oxana Andreeva)
+
+(image: dsc04644.jpg caption: Amorces de dialogue entre plusieurs personnes rédigées à la main, banlieue de Moscou © Oxana Andreeva)
+
+(image: dsc04639.jpg caption: Graffiti en cyrillique, banlieue de Moscou © Oxana Andreeva)
+
+(image: dsc04643.jpg caption: Prénom d’un homme politique en cyrillique, banlieue de Moscou © Oxana Andreeva)
+
+(image: dsc04645.jpg caption: Message de supporters d’une équipe de football en utilisant le logo, banlieue de Moscou © Oxana Andreeva)
+
+----
+
+Articlevisuel-image-texte: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Articlevisuel-domaine: 
+
+----
+
+Articlevisuel-keyword: 
+
+----
+
+Articlevisuel-biblio: 
+
+----
+
+Articlevisuel-url: 
+
+----
+
+Articlevisuel-pdf: (file: pdf-pau-graffiti2.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Pagesettings-5: 
+
+----
+
+Articlevisuel-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur-visuel: Oxana Andreeva
+
+----
+
+Articlevisuel-sito: 
+
+----
+
+Article-note-print: 
+
+----
+
+Articlevisuel-citer: 

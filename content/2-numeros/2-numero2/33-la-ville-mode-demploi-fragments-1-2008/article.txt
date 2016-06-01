@@ -1,0 +1,139 @@
+Pagesettings-1: 
+
+----
+
+Title: La ville mode d’emploi (fragments)
+
+----
+
+Article-date: 2008
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: emmanuel-hocquard
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+###La ville mode d’emploi (fragments)[1. Les fragments qui suivent sont extraits de Emmanuel Hocquard, Juliette Valéry (2008), Jeu de cartes à Tarbes, éd. Esact, Tarbes. Cette édition appartient à la collection « Les aventures de L.I.É », en lien avec l’atelier du même nom créé par Juliette Valéry (enseignante de culture générale) à l’ÉSA des Pyrénées – site de Tarbes. C’est dans le cadre de cet atelier (« Langage, Image, Écriture ») que Juliette Valéry a invité l’écrivain Emmanuel Hocquard à mettre en place un travail cartographique sur Tarbes avec les étudiants de l’école.]
+
+« If I were to describe reality as I found it, I would have to include my arm. » 
+Bertrand Russel
+
+[…]
+
+Pour Jeu de cartes à Tarbes, la procédure a été différente. Il s’est agi pour chacun de fabriquer ses propres matériaux (images et textes) avant de les organiser, ou au fur et à mesure de leur organisation. Or il a vite paru évident qu’il est beaucoup plus difficile de cartographier ce qu’on a quotidiennement sous les yeux ou autour de soi que ce qu’on ne connaît que de loin ou qu’on n’a même jamais vu. L’abondance, voire l’excès d’informations, nécessite que soient opérés des choix. Et ces choix dépendent des réponses à deux séries de questions : « Comment je vois la ville de Tarbes ? Comment faire voir comment je la vois ? [2. p. 5.]
+
+[…]
+
+Comme dans Jeu de cartes à Tanger, les cartes de Tarbes ont la forme de brefs photoromans, comportant image et texte. Autrement dit, il s’agit de faire la part de ce qui est dit (écrit) et de ce qui est montré. Les images sont des images, le texte relève du langage. Leur rencontre ne va pas de soi. Là aussi, il y a des décisions à prendre, des équilibres à trouver, des passages à inventer. [3. p. 7.]
+
+[…]
+
+Chaque carte est autonome, elle a sa logique, contient ses interrogations singulières, dessine sa propre ligne de fuite. [4. p. 8.]
+(image: image_n_2_-7.jpg)
+#####« Carte de la page 33 », Faustine Desperrois.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-la-ville-mode-demploi-fragments.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Emmanuel Hocquard & Juliette Valéry
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: [1.] Les fragments qui suivent sont extraits de Emmanuel Hocquard, Juliette Valéry (2008), Jeu de cartes à Tarbes, éd. Esact, Tarbes. Cette édition appartient à la collection « Les aventures de L.I.É », en lien avec l’atelier du même nom créé par Juliette Valéry (enseignante de culture générale) à l’ÉSA des Pyrénées – site de Tarbes. C’est dans le cadre de cet atelier (« Langage, Image, Écriture ») que Juliette Valéry a invité l’écrivain Emmanuel Hocquard à mettre en place un travail cartographique sur Tarbes avec les étudiants de l’école.

@@ -1,0 +1,97 @@
+Info-1: 
+
+----
+
+Pagesettings-1: 
+
+----
+
+Title: Touching Reality
+
+----
+
+Articlevisuel-date: 2012
+
+----
+
+Pagesettings-2: 
+
+----
+
+Articlevisuel-auteur: 
+
+- 
+  auteur_uid: thomas-hirschhorn
+
+----
+
+Pagesettings-3: 
+
+----
+
+Articlevisuel-medias: 
+
+(image: echappees_2_36.jpg)
+#####« Vidéo en boucle (sans son) », 2012, 4 minutes 45 secondes. © Courtesy de l’artiste et Galerie Chantal Crousel, Paris
+
+(image: echappees_2_37.jpg)
+#####« Vidéo en boucle (sans son) », 2012, 4 minutes 45 secondes. © Courtesy de l’artiste et Galerie Chantal Crousel, Paris
+
+(image: echappees_2_38.jpg)
+#####« Vidéo en boucle (sans son) », 2012, 4 minutes 45 secondes. © Courtesy de l’artiste et Galerie Chantal Crousel, Paris
+
+----
+
+Articlevisuel-image-texte: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Articlevisuel-domaine: 
+
+----
+
+Articlevisuel-keyword: 
+
+----
+
+Articlevisuel-biblio: 
+
+----
+
+Articlevisuel-url: 
+
+----
+
+Articlevisuel-pdf: (file: echappees-touching-reality.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Pagesettings-5: 
+
+----
+
+Articlevisuel-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur-visuel: Thomas Hirschhorn
+
+----
+
+Articlevisuel-sito: 
+
+----
+
+Article-note-print: 
+
+----
+
+Articlevisuel-citer: 

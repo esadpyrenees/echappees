@@ -1,0 +1,161 @@
+Pagesettings-1: 
+
+----
+
+Title: Histoire de l’art et archive à l’ère du réseau : vers une rupture épistémologique ?
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: chrystelle-desbordes
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+« Quelle épistémologie culturelle un nouvel ordre numérique pourrait-il garantir à la pratique artistique, au musée et à l’histoire de l’art ? »
+Hal Foster
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Tommaso Venturini, sociologue des médias, a récemment rappelé qu’Internet n’est pas seulement, comme on a eu tendance à le penser à sa création, un simple outil à verser à l’histoire des progrès de l’humanité, mais qu’il modifie en profondeur l’ensemble de nos relations au monde. [1. T. Venturini, « Changer de focale : la navigation dans les paysages de données », communication à la *BnF* dans le cadre des journées d’étude « Cartographies de l’invisible – Art, réseau *big data *», Paris, 19.04.2013.] Cet environnement manifeste ainsi une phase déterminante dans l’histoire éthologique humaine, dont nous commençons à peine à mesurer la portée. Dans cette perspective, les méthodes mêmes de la recherche se trouvent bouleversées.
+
+Qu’en est-il de la recherche en histoire de l’art, dont l’une des spécificités modernes est de pouvoir travailler à partir de reproductions d’œuvres – autant d’archives iconiques qui sont, en premier lieu, photographiques et qui, sur Internet, se déversent en flux à une échelle planétaire ? Le *Web 2.0* s’apparente à un gigantesque réservoir de représentations des œuvres, photographiques ou vidéographiques, se constituant, en tant qu’indices et matériel manipulable à l’envi, en archive (numérique). Au sein de cet espace formant un immense musée de la reproductibilité technique de l’art, où il n’y a en apparence pas de véritable tri, comment l’historien d’art peut-il se saisir, questionner, voire analyser ce matériel archivistique aux fins d’interpréter l’art ?
+
+Déjà, le concept de *Musée Imaginaire pensé* par Malraux à l’orée des années 1950 et le vaste projet de l’« Atlas Mnémosyne » de Warburg (1924-1929) prennent acte du bouleversement qu’opère l’archive photographique pour l’interprétation des œuvres. Tous deux manipulent un important *corpus* d’images reproductibles pour composer une nouvelle épistémologie de l’histoire de l’art. Outre qu’ils ont en commun le matériel utilisé (relativement massif), comme la méthodologie du montage, l’on remarque que chacun cherche à dépasser les frontières de l’art occidental pour mieux le lire, et n’hésite pas à faire appel à une certaine subjectivité dans leur herméneutique respective.
+
+D’un côté, Malraux élabore un espace mental au sein duquel les « objets sont utilisés pour produire, ainsi que l’a remarqué Mouna Mekouar, « *un monde autre* – un nouvel espace à l’imaginaire » [2. Mouna Mekouar, 2012, « André Malraux, l’invention du Musée Imaginaire », *in art press* 2, n° 24, p. 13.]. De l’autre côté, écrit Philippe-Alain Michaud, « Au grand récit téléologique instauré par Vasari, Warburg oppose d’emblée la fertilité des anachronismes. […]
+Écrire l’histoire de l’art, c’est non seulement confronter des objets hétérogènes, mais repérer dans l’œuvre même les lignes de fracture, les tensions, les contradictions, les énergies au travail […] » [3. P.-A. Michaud, 1998, *Aby Warburg ou l’image en mouvement*, éd. Macula, Paris, p. 42.].
+
+(image: echappees_2_35.jpg)
+#####Aby Warburg, « Atlas Mnémosyne » Planche 39, 1924-1929.
+
+Ces brèves analyses résonnent avec les possibilités qu’offre le matériel archivistique des banques de données iconographiques au chercheur en histoire de l’art, qui y puise son fonds d’images. Dans ce contexte, la 4 M. Foucault, 1967, « L’archéologie du savoir », éd. *Gallimard*, Paris, p. 16. Aby Warburg, « Atlas Mnémosyne » (Planche 39), 1924-1929. recherche en histoire de l’art, sans doute moins académique qu’heuristique (et où le texte se fait moins essentiel voire marginal), semble pouvoir être envisagée selon une approche discontinue ou disséminée de l’histoire – telle celle qui fut décrite par Foucault dans L’archéologie du savoir : « ([…] sont apparues, à la place de la chronologie continue de la raison, qu’on faisait invariablement remonter à l’inaccessible origine, […], des échelles parfois brèves, distinctes les unes des autres, rebelles à une loi unique, porteuses souvent d’un type d’histoire qui est propre à chacune, et irréductibles au modèle général d’une conscience qui acquiert, progresse et se souvient . » [4. M. Foucault, 1967, « L’archéologie du savoir », éd. *Gallimard*, Paris, p. 16.]
+
+À la manière de Warburg qui crée des liens inattendus entre des images venues de cultures fort diverses, l’historien d’art a ici accès à des documents *autorisés* de nature académique, tout comme à un *corpus* inédit produit, lui, par des pratiques amateur. Sur le *Web 2.0*, ce sont précisément ces pratiques amateur qui posent ce que l’on pourrait appeler une *normativité par le bas* (on parle de *bottom-up* pour désigner le fait que l’information circule également du *bas* vers le *haut* du réseau, c’est-à-dire depuis les pratiques amateur non normées vers les positions dites *légitimes*), et dont les publications ont une accessibilité au moins aussi (sinon plus) importante que celles réalisées par les *spécialistes*.
+
+En créant des associations entre ces deux types de matériel archivistique issus du Web, l’historien d’art peut questionner la *friction* – au sens warburgien du terme. De plus, dans la mesure où les artistes (en particulier les plus jeunes) puisent leurs références au sein des archives de Google Images (ils passent plus de temps sur Internet que dans les musées), un tel chercheur aurait des chances de mettre en place une herméneutique plus en rapport avec un processus créatif contemporain. Enfin, l’historien d’art a ici l’opportunité de rompre ses outils archivistiques via des communautés constituées, non seulement pour prendre la mesure d’une mutation, mais encore pour dépasser les limites de la recherche en solitaire.
+
+C’est au carrefour de toutes ces réflexions, avec pour projet d’interroger l’épistémologie de l’histoire de l’art à l’ère du réseau (voire de la « décomplexer »), que le blog territoires-ecran est né. Mis en place en octobre 2012 avec des étudiants de l’École supérieure d'art des Pyrénées – Pau Tarbes (4<sup>e</sup> et 5<sup>e</sup> années), ce format s’est développé, dans le contexte des recherches menées au sein de « Territoires, mutations et archives », pour construire une archive collective ayant pour fonction de lire les œuvres d’art [5. Programme « Territoires, mutations et archives » (responsables : Chrystelle Desbordes, Delphine Gigoux-Martin, Corinne Melin, Juliette Valéry, ÉSA Pyrénées – Tarbes). www.territoiresecran.tumblr.com].
+
+Les archives provenant du Web, essentiellement photographiques et vidéographiques, ont été postées à partir des reproductions d’œuvres mises en ligne sur la première page du blog (choisies par chacun des acteurs à partir de la lecture du statement « Territoires, mutations et archives »). Par strates, les documents (un petit nombre est de nature textuelle), composent des sortes d’« Atlas Mnémosyne » mettant au jour des liens sans précédent, des correspondances (souvent inattendues), des intervalles, à même d’interpréter les œuvres de la première page. De clic en clic, l’on découvre, sans ordre canonique de discours, une multiplicité d’objets s’incarnant en corps d’archives. Des *mosaïques-atlas* se forment ainsi, par montages de rapports d’analogies et d’anachronismes, invitant à une singulière histoire de l’art, contribuant à la naissance de nouvelles frictions, de survivances aussi, à d’étonnantes relations dialectiques entre les formes, et dont la méthodologie de dissémination par montages successifs rappelle, au passage, que « les montages d’artistes sont les outils d’une connaissance très féconde.» [6. G. Didi-Huberman,2012, « L’ *ajoie* des images – entretien avec G. Didi-Huberman, par Jean-Marc Adolphe et Valérie de Costa », *in Mouvement*, n° 65, p. 14.]
+
+Dans la filiation d’un Burckhardt ou d’un Warburg, l’histoire de l’art se veut ici moins une discipline autonome qu’une histoire culturelle de l’art ; son matériau privilégié en est l’image archivée postée par de jeunes artistes et des enseignants qui expriment, à leur échelle, une certaine diversité des sources du *Web 2.0*.
+
+La manipulation de l’archive numérique sur Internet, permettant de croiser des savoirs hétérogènes (voire antinomiques), offre ici la possibilité de relier l’histoire de l’art à la formation des œuvres, d’assumer l’anachronisme comme une méthode d’herméneutique et de donner, sur le plan de l’épistémologie, un nouveau souffle à une discipline dont la mort fut annoncée par Belting, en 1983, en tant que grande théorie unitaire. Reste à savoir quelles sont les limites d’une telle méthode, à en écrire l’histoire, et peut-être imaginer ses éventuels prolongements à l’ère du *Web 3.0*.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-histoire-de-lart-et-archive-a-lere-du-reseau-vers-une-rupture-epistemologique.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Chrystelle Desbordes
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] T. Venturini, « Changer de focale : la navigation dans les paysages de données », communication à la *BnF* dans le cadre des journées d’étude « Cartographies de l’invisible – Art, réseau *big data *», Paris, 19.04.2013.
+
+[2.] Mouna Mekouar, 2012, « André Malraux, l’invention du Musée Imaginaire », *in art press* 2, n° 24, p. 13.
+
+[3.] P.-A. Michaud, 1998, *Aby Warburg ou l’image en mouvement*, éd. Macula, Paris, p. 42.
+
+[4.] M. Foucault, 1967, « L’archéologie du savoir », éd. *Gallimard*, Paris, p. 16.
+
+[5.] Programme « Territoires, mutations et archives » (responsables : Chrystelle Desbordes, Delphine Gigoux-Martin, Corinne Melin, Juliette Valéry, ÉSA Pyrénées – Tarbes). www.territoiresecran.tumblr.com.
+
+[6.] G. Didi-Huberman,2012, « L’ *ajoie* des images – entretien avec G. Didi-Huberman, par Jean-Marc Adolphe et Valérie de Costa », *in Mouvement*, n° 65, p. 14.

@@ -1,0 +1,159 @@
+Pagesettings-1: 
+
+----
+
+Title: Écrits d’écran
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: marie-lafourcade
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+« Écrits d’écran » est le résultat d’une semaine d’expérimentations sur la relation papier / écran et plus spécifiquement sur l’*iPad* [1. Cette semaine s’est déroulée en février 2013 dans le cadre de l’« Atelier de Recherche et de Création » coordonnée par Corinne Melin, Perrine Saint Martin et Jérémie Baboukhian à l’École supérieure d'art des Pyrénées — Pau.]. Après analyse des choix graphiques et éditoriaux de quotidiens français, nous avons examiné leur version numérique (ordinateur, tablette, *smartphone*) et tenté des comparaisons. Nous avons pu constater un fouillis typographique, une hiérarchisation du texte difficile à cerner, une certaine anarchie dans les rubriques, voire même un contenu différent sous des titres identiques. Cependant même si certains éléments relevaient parfois de vrais choix notamment au niveau du contenu éditorial qui peut varier selon les supports et donc le public visé, il est trop souvent apparu que la structure même de ces publications numériques paraissait mal maîtrisée, et semblait être pensée de manière totalement indépendante par rapport à leur version imprimée. La seconde partie de la semaine a été consacrée à l’élaboration d’une revue, pour laquelle nous avons travaillé simultanément sur un support papier et numérique.
+
+« Écrits d’écran » regroupe donc une série de textes traitant à la fois de la question de l’évolution des techniques et de notre rapport à ces nouveaux outils. Dans ses deux versions l’enchaînement des textes se fait de manière chronologique, de façon à souligner l’évolution des différents points de vue sur ce sujet, qu’ils soient historique, sociologique, technique ou scientifique. Les choix graphiques reposent sur des principes simples, qui permettent des allers-retours entre les deux supports dans une unité de l’identité visuelle globale. Sur l’*iPad* la circulation d’un article à l’autre se fait de manière horizontale et la navigation à l’intérieur de ceux-ci de manière verticale. Le format long et étroit de la revue papier tend à rappeler ce déroulement vertical. L’insertion des notes dans le texte évoque quant à elle le principe des fenêtres *pop-up* qui abondent sur le net et figurent dans le même encadré rouge que les fenêtres *scrollables* de la version numérique.
+
+Il nous paraît essentiel de poursuivre ces expérimentations afin de trouver les moyens pertinents d’enrichir le contenu textuel tant par des procédés imprimés que numériques ainsi que d’ajouter régulièrement des articles, des images au corpus initial.
+
+(image: arc_ipad_01.jpg)
+#####Arc / Écrits d’écran version *iPad*, par Marjolaine Beney, Justine Ducros, Yu Li, 2013.
+
+(image: arc_ipad_04.jpg)
+#####Arc / Écrits d’écran version *iPad*, par Marjolaine Beney, Justine Ducros, Yu Li, 2013.
+
+(image: arc_ipad_03.jpg)
+#####Arc / Écrits d’écran version *iPad*, par Marjolaine Beney, Justine Ducros, Yu Li, 2013.
+
+(image: arc_ipad_05.jpg)
+#####Arc / Écrits d’écran version *iPad*, par Marjolaine Beney, Justine Ducros, Yu Li, 2013.
+
+(image: arc_ecrit_ecran_01.jpg)
+#####Arc / Écrits d’écran version *iPad*, par Romina Gutiérrez, Marie Lafourcade, Anais Lacombe, 2013.
+
+(image: arc_ecrit_ecran_03.jpg)
+#####Arc / Écrits d’écran version *iPad*, par Romina Gutiérrez, Marie Lafourcade, Anais Lacombe, 2013.
+
+(image: arc_ecrit_ecran_02.jpg)
+#####Arc / Écrits d’écran version *iPad*, par Romina Gutiérrez, Marie Lafourcade, Anais Lacombe, 2013.
+
+(image: arc_ecrit_ecran_04.jpg)
+#####Arc / Écrits d’écran version *iPad*, par Romina Gutiérrez, Marie Lafourcade, Anais Lacombe, 2013.
+
+(image: ecrit_ecran_papier_02.jpg)
+#####Arc / Écrits d’écran version papier, par Romina Gutiérrez, Marie Lafourcade, Anais Lacombe, 2013.
+
+(image: ecrit_ecran_papier_05.jpg)
+#####Arc / Écrits d’écran version papier, par Romina Gutiérrez, Marie Lafourcade, Anais Lacombe, 2013.
+
+(image: ecrit_ecran_papier_06.jpg )
+#####Arc / Écrits d’écran version papier, par Romina Gutiérrez, Marie Lafourcade, Anais Lacombe, 2013.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-ecrits-decran.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Marie Lafourcade
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: [1.] Cette semaine s’est déroulée en février 2013 dans le cadre de l’« Atelier de Recherche et de Création » coordonnée par Corinne Melin, Perrine Saint Martin et Jérémie Baboukhian à l’École supérieure d'art des Pyrénées — Pau.

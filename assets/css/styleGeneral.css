@@ -22,7 +22,7 @@
         /* jb /**/
         color: rgba(0, 0, 0, 0.9);
         
-        font-family: 'Work Sans', sans-serif;
+        /* base font *//*font-family: 'Work Sans', sans-serif;*/
         font-feature-settings: "liga";
         text-rendering: optimizelegibility;  
         font-feature-settings: "kern" on, "liga" on, "ss02" on;
@@ -45,7 +45,7 @@
     }
     /* h1 =logo echappes*/
     h1{
-        font-family: 'Magra', sans-serif;
+        // font-family: 'Magra', sans-serif;
         /*taille*/
         font-size: 2.5em;
         padding: 0px;
@@ -55,7 +55,7 @@
     h2{
         font-size: 2.5em;
         line-height: 1.1;
-        font-family: "Work Sans", "Yo", sans-serif;
+        /* accent font *//*font-family: "Work Sans", "Yo", sans-serif;*/
         font-weight: 700;
         padding: 0px;
         margin: 0px;
@@ -73,7 +73,7 @@
         font-size: 1.6em;
         margin-top: 20px;
         margin-bottom: 20px;
-        font-family: "Work Sans", "Yo", sans-serif;
+        /* accent font *//*font-family: "Work Sans", "Yo", sans-serif;*/
         font-weight: bold;
     }
 
@@ -86,7 +86,7 @@
         font-size: 1.2em;
         margin-top: 20px;
         margin-bottom: 20px;
-        font-family: "Work Sans", "Yo", sans-serif;
+        /* accent font *//*font-family: "Work Sans", "Yo", sans-serif;*/
     }
 
     /*légendes images*/
@@ -97,7 +97,7 @@
         margin-bottom: 20px;
         /* jb /**/
         max-width: 50rem;
-        font-family: "Work Sans", "Yo", sans-serif;
+        /* accent font *//*font-family: "Work Sans", "Yo", sans-serif;*/
         letter-spacing: 0.025em;
     }
 
@@ -483,7 +483,7 @@
         /*sa taille*/
         font-size: 1.5em; /*///////////////////*/
         /*sa police de caractères*/
-        font-family: 'Work Sans', sans-serif; 
+        /* base font *//*font-family: 'Work Sans', sans-serif;*/ 
         /*rotation adpter au principau navigateur*/
     }
 
@@ -577,7 +577,7 @@
         margin-right: 16.66%; 
         color: #fff;
         text-align: center;
-        font-family: "Work Sans", "Yo",sans-serif;
+        /* accent font *//*font-family: "Work Sans", "Yo", sans-serif;*/
         font-size: 1.4em;
         line-height: 1.4;
         font-weight: 400; 
@@ -681,7 +681,7 @@
         /*sa taille*/
         font-size: 1.5em; /*///////////////////*/
         /*sa police de caractères*/
-        font-family: 'Work Sans', sans-serif; 
+        /* base font *//*font-family: 'Work Sans', sans-serif;*/ 
         /*rotation adpter au principau navigateur*/
         color: #ff7d4f;
         position: absolute;
@@ -763,7 +763,7 @@
         color: #fff;
         /*centré*/
         text-align: center;
-        font-family: "Work Sans", "Yo",sans-serif;
+        /* accent font *//*font-family: "Work Sans", "Yo", sans-serif;*/
         font-size: 1.5em;
         line-height: 1.5;
         font-weight: 700; 
@@ -825,6 +825,8 @@
         padding: 30px;
         padding-bottom: 10px;
         max-width: 50rem;
+        margin-left: auto;
+        margin-right: auto;
     }
 
      #meta2, #meta3 {
@@ -961,6 +963,9 @@
         /*padding-bottom: 100px;*/
         padding-top: 75px;
         /*font-size: 1.2em;*/
+        max-width: 50rem;
+        margin-left: auto;
+        margin-right: auto;
     }
     #edito > :first-child{ margin-top: 0}
 
@@ -1020,7 +1025,7 @@
         width: 33.3333%;
         top: 10px;
         z-index: 803;
-        font-family: 'Magra', sans-serif; 
+        
         /*background-color: green;*/
         
         /*/////////////////////////////////*/
@@ -1180,7 +1185,7 @@
         display: block;
         margin-bottom: 30px;
         /*sa police de caractères*/
-        font-family: 'Work Sans', sans-serif; 
+        /* base font *//*font-family: 'Work Sans', sans-serif;*/ 
         /*la graisse*/
         font-weight: 700;
         /*sa taille*/

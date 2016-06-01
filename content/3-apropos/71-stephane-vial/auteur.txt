@@ -1,0 +1,17 @@
+Title: Stéphane Vial
+
+----
+
+Text-bio: Stéphane Vial est Docteur en philosophie de l’Université Paris Descartes. Il est maître de conférences en design à l’Université de Nîmes et chercheur à l’Institut *ACTE* (UMR 8218), équipe de *Sémiotique des Arts et du Design*, Université Paris 1 Panthéon Sorbonne. Fondateur et directeur de création de *Lektum*, agence de design interactif, il a été pendant huit ans professeur de philosophie à l’École Boulle, à Paris. Ses recherches relèvent de la philosophie de la technique et de la philosophie du design, et portent principalement sur le numérique. Il est également l’auteur, aux PUF, de « Court traité du design » (2010, rééd. 2014, collection Quadrige).
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: (link: http://www.stephane-vial.net/ text: www.stephane-vial.net)
+
+----
+
+Text-liste-articles: (link: numeros/numero2/entretien-avec-stephane-vial text: n°2 : Entretien avec Stéphane Vial)

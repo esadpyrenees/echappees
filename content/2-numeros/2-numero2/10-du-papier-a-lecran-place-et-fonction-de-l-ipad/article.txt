@@ -1,0 +1,151 @@
+Pagesettings-1: 
+
+----
+
+Title: Du papier à l’écran, place et fonction de l’« iPad »
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: perrine-saint-martin
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+L’Atelier de Recherche et de Création / ARC « Du papier à l’écran : place et fonction de l’*iPad* » a été mené par Jérémie Baboukhian, interactive et web designer invité, Corinne Melin, enseignante en histoire de l’art et esthétique et Perrine Saint Martin, enseignante en design graphique et dessin de caractères, en partenariat avec le magasin iConcept de Pau en février 2013 avec les étudiants de 4e année design graphique multimédia de l’ÉSA Pyrénées — site de Pau.
+
+Cet espace de recherche avait pour ambition de sensibiliser les étudiants aux usages des objets numériques contemporains en portant un intérêt aux pratiques sociales qui naissent de et autour de la manipulation d’un certain nombre de technologies émergentes [1. Voir notamment Françoise Massit-Folléa, École Normale Supérieure Lettres et Sciences Humaines, Lyon, « Usages des Technologies de l’Information et de la Communication: acquis et perspectives de la recherche » paru in *Le Français dans le Monde*, n° spécial de janvier 2002 « Apprentissage des langues et technologies : des usages en émergence »] [2. Julie Denouël et Fabien Granjon (dir.), « Communiquer à l’ère numérique Regards croisés sur la sociologie des usages », Paris, *Presses des mines*, 2011.] et d’interroger les formes textuelles et iconographiques dans leur organisation ainsi que les moyens de diffusion au travers de la création d’une application.
+
+Nous avons pu expérimenter pendant cette semaine les logiques de design écran spécifiques à l’*iPad* tout en les confrontant à la relation papier et aux conséquences visuelles de ce changement d’outil à partir d’un même contenu. Cette étape a permis d’interroger à la fois notre relation à l’écran, de l’ordinateur domestique aux différents terminaux mobiles et à l’objet imprimé. Quelles sont ainsi les conséquences de cette confrontation dans le domaine du design graphique et de la typographie ? L’information disponible sur Internet est principalement textuelle et utilise le langage *html*, l’espace de la page d’un navigateur est essentiellement lié à une organisation typographique [3. Voir notamment le travail d’*Information Architects / iA* (www.informationarchitects.jp) et plus spécifiquement leur article provocateur « Web design is 95% Typography », où ils font appel à l’histoire de l’objet imprimé pour développer leur pratique de conception pour l’écran, mais également « Responsive Typography : The Basics ».]. La maîtrise des problèmes de lisibilité à l’écran implique donc une connaissance minimum de la typographie et de son histoire.
+
+Lors de l’atelier, les étudiants ont pu se rendre compte que la complémentarité qui existe entre l’objet papier et l’écran, démontre l’importance de la typographie et d’une approche visuelle globale. Si l’objet papier et l’écran ont, en effet, chacun des spécificités et des scénographies propres, le principe qui permet de penser les outils de la communication visuelle est identique. Il est toujours question de transmission visuelle d’informations, de gestion d’espace, d’un contenu explorant la relation texte / image, amenant des réflexions récurrentes comme la lisibilité, la capacité à hiérarchiser une information.
+
+Après avoir analysé différents médias proposant au lecteur à la fois une version papier et une version numérique, les étudiants se sont confrontés aux questions de composition et à l’évolution du contenu dans le passage du papier à l’écran, publication numérique / publication imprimée et à la possibilité, voire à la nécessité de gérer un contenu augmenté (son, vidéo, site, etc.). Aujourd’hui, de nouveaux outils permettent d’envisager la création d’applications pour tablette numérique sans être nécessairement programmeur. Cette démocratisation des outils amène une simplification du rapport à la question du code et permet de se focaliser sur les questions spécifiques de composition et de lecture.
+
+Un travail de séminaire a été réalisé au préalable par Corinne Melin abordant la façon dont les usagers étaient considérés dans la conception d’outils numériques, puis les représentations et les croyances *fabriquées* à partir et autour du téléphone mobile interactif. Perrine Saint Martin a quant à elle proposé une réflexion sur la mise en espace des logiques de lecture (structuration du contenu, relation fond / forme) à partir de la découverte d’une sélection de textes sur la place et les enjeux du design graphique numérique dans une société contemporaine [4. Oliver Reichenstein / iA, Emmanuel Souchier, etc.] . À l’issue de cette phase d’analyse, un corpus de textes et d’images a été constitué et directement exploité pendant l’atelier. Ce corpus sert également le contenu du programme de recherche « Design graphique multimédia, les usages, les usagers à l’ère numérique » mené au sein de l’unité de l’ÉSA Pyrénées – Pau *L’observatoire* auquel cet atelier se rattache [5. URL pour accéder à l’unité de recherche *L’observatoire* : **http://www.esapyrenees.fr/fr/recherche/l-observation** ainsi qu’à la revue *échappées*, n°1, décembre 2012, accessible dans son intégralité en suivant l’URL : **http://recherche.esapyrenees.fr/echappees/fr/index.php**].
+
+(image: arc-02.jpg)
+#####Jérémie Baboukhian et Romina Gutiérrez, étudiante, 2013.
+
+(image: arc-01.jpg)
+#####Tests de lisibilité à l’écran, 2013.
+
+(image: image_2-1.jpg)
+#####Tests de lisibilité à l’écran, 2013.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-du-papier-a-lecran-place-et-fonction-de-l-ipad.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Perrine Saint Martin
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] Voir notamment Françoise Massit-Folléa, École Normale Supérieure Lettres et Sciences Humaines, Lyon, « Usages des Technologies de l’Information et de la Communication: acquis et perspectives de la recherche » paru in *Le Français dans le Monde*, n° spécial de janvier 2002 « Apprentissage des langues et technologies : des usages en émergence »» 
+
+[2.] Julie Denouël et Fabien Granjon (dir.), « Communiquer à l’ère numérique Regards croisés sur la sociologie des usages », Paris, *Presses des mines*, 2011.
+
+[3.] Voir notamment le travail d’*Information Architects / iA* (www.informationarchitects.jp) et plus spécifiquement leur article provocateur « Web design is 95% Typography », où ils font appel à l’histoire de l’objet imprimé pour développer leur pratique de conception pour l’écran, mais également « Responsive Typography : The Basics ».
+
+[4.] Oliver Reichenstein / iA, Emmanuel Souchier, etc.
+
+[5.] URL pour accéder à l’unité de recherche *L’observatoire* : http://www.esapyrenees.fr/fr/recherche/l-observation ainsi qu’à la revue *échappées*, n°1, décembre 2012, accessible dans son intégralité en suivant l’URL : http://recherche.esapyrenees.fr/echappees/fr/index.php

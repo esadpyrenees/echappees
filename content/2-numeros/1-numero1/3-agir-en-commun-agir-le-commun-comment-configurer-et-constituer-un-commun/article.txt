@@ -1,0 +1,168 @@
+Pagesettings-1: 
+
+----
+
+Title: Agir en commun / Agir le commun. Comment configurer et constituer un « commun » ?
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: pascal-nicolas-le-strat
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: contenu?
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+L’*agir en commun* est un questionnement relativement balisé avec des analyses portant sur la coopération, la co-création ou le partenariat, même s’il reste en ce domaine encore beaucoup à faire et à penser. Par contre, les manières d’*agir le commun* demeurent certainement beaucoup plus incertaines. Que peut recouvrir cette mise au / en *travail du commun*, ce « travail du commun » ? À quelles logiques d’action ou de pensée nous renvoie une telle volonté d’agir sur la matière, l’agencement ou la chair du commun ? Est-ce que cette préoccupation ouvre réellement de nouvelles perspectives, professionnelles, intellectuelles et politiques, dans les champs du social, de la culture, de l’art, ou encore de l’urbain... ?
+
+L’enjeu est triple. Il convient en effet de réfléchir conjointement à la question de l’agir en commun (comment agir en nombre ? comment faire collectif ?), à la question de la *constitution d’un commun* (qu’est-ce qui nous réunit, nous associe ? qu’est-ce que nousdétenons en partage ? de quoi disposons-nous en commun ?) et à la question d’un *travail du commun* (comment agir sur ce commun qui nous humanise ? comment le développer, le déployer ? comment renforcer sa portée émancipatrice ?).
+
+Les politiques publiques ont multiplié les « modes d’agir » sur l’individu (contrat, récit de vie, projet d’insertion, bilan de compétence...) et sur les territoires (développement social local, diagnostic territorial partagé, démocratie participative...) mais fort peu sur / avec le commun (l’être-à plusieurs, l’être-ensemble). Est-ce que ce *travail du commun* offre des alternatives politiques et intellectuelles à l’action publique dans ses formes classiques, héritées de la période fordiste ? Est-ce qu’il peut contribuer à transformer de l’intérieur et par l’intérieur une action publique désormais essentiellement déterminée par les logiques néolibérales et sécuritaires ?
+
+Est-ce que des transversalités nouvelles peuvent émerger entre professionnels d’horizons différents, partageant une même préoccupation pour l’être-en-commun ? Est-ce qu’un travail du commun serait en capacité d’inventer de nouvelles coopérations et collégialités avec les usagers et les concernés, avec toutes les personnes qui ont à faire avec une proposition culturelle ou une intervention sociale ?
+
+### 1 La constitution d’un commun
+*Constitution* doit être entendu dans les termes de Michel Foucault lorsqu’il écrit : « il s’agit de retrouver quelque chose qui a donc consistance et situation historique ; qui n’est pas tant de l’ordre de la loi, que de l’ordre de la force ; qui n’est pas tellement de l’ordre de l’écrit que de l’ordre de l’équilibre. Quelque chose qui est une constitution, mais presque comme l’entendraient les médecins, c’est-à-dire : rapport de force, équilibre et jeux de proportions, dissymétrie stable, inégalité congruente » [1. Foucault, M., 1997, *Il faut défendre la société* (Cours au Collège de France, 1976), Paris, Gallimard-Seuil, p. 172.]. Lorsque j’aborde la *constitution du commun*, je ne la pense pas immédiatement et prioritairement en tant qu’armature juridique (ce que pourrait recouvrir un droit du commun [2. Cf. à ce propos la contribution de Paolo Napoli, 6 avril 2011, ainsi que la contribution d’Antonio Negri et Nicolas Guilhot à la séance du 9 février 2011, « L’histoire du droit et le commun. Quelques éléments de réflexion » au séminaire « Du public au commun ». Ces deux contributions sont en ligne sur le site du séminaire : www.dupublicaucommun.com [consulté le 18 juin 2012].]), même si elle peut impliquer la formulation d’un ensemble explicite de règles. Je la considère avant tout sous l’angle des rapports politiques, théoriques et sociaux qui l’affectent et qui contribuent à la délimiter, en particulier dans son articulation polémique avec le domaine du public et avec l’espace du privé. Le commun n’a pas d’attributions ou d’attributs impératifs, inévitables, naturels. Qu’est-ce qui relève du commun ? Quelles sont ses qualités et spécificités ? À ces questions, nul ne peut apporter une réponse évidente et définitive. La* constitution du commun* est la résultante d’un compromis provisoire, déterminé par les forcessociales en présence, par les perspectives théoriques engagées, par la dynamique des collectifs professionnels ou militants.
+
+Il en est allé de même, historiquement, pour la constitution du secteur public (les biens et services publics), au cours du XXe siècle, pendant la période fordiste ; son périmètre s’est élargi, et s’est renforcé qualitativement, sous la pression des luttes ouvrières. Les salariés ont fait valoir leurs aspirations et ont fait entrer dans le champ des services publics, et ont donc soustrait à l’appropriation privée, nombre de services touchant au soin, à la santé, à l’éducation ou encore à la culture. Cet élargissement du service public a été aussi la conséquence des luttes féministes qui ont, par exemple, obtenu la création d’un service public de la petite enfance, condition de l’émancipation du cadre familial et de l’accès à une vie professionnelle, ou des luttes écologistes avec la création du conservatoire du littoral ou des parcs naturels qui ont préservé l’accès de tous à ces espaces et ont évité leur urbanisation spéculative. Aujourd’hui cette veine historique s’est largement épuisée. L’accès aux biens et services publics dépend d’une gestion étatique, guère différente d’une gestion d’entreprise, dont les citoyens et les concernés sont largement exclus.
+
+La *constitution du commun* relève, aujourd’hui, du même type de luttes, mais des luttes qui doivent s’engager sur deux fronts, à la fois contre l’appropriation privée et la marchandisation, à la fois contre l’emprise étatique et managériale sur les biens et services publics, car le citoyen est bien confronté à une double exclusion, à une double expropriation — une exclusion sociale en raison des inégalités introduites par les logiques de marché qui limitent l’accès à nombre de biens et services, une exclusion politique provoquée par la gestion bureaucratique et managériale des affaires publiques qui entrave toute velléité de contrôle démocratique. La* constitution du commun* confirmera son authentique portée émancipatrice si elle assume pleinement cette double critique. Elle doit marquer sa différence tant vis-à-vis du privé que du public (dans sa forme héritée du XXe siècle). Sur ce second plan, la *constitution du commun* peut renouer avec l’aspiration autogestionnaire qui n’a cessé d’émerger tout au long des luttes du XXe siècle sans réussir à s’imposer durablement.
+
+Le commun est une donnée tout à fait relative ; son périmètre et son contenu s’établissent dans un rapport nécessairement conflictuel au privé et au public, et ils dépendent des perspectives politiques et intellectuelles que les différentes communautés de vie (un collectif de quartier) et d’activité (une coopération de travail) investissent en lui. La *constitution du commun* s’apparente donc bien à un champ de force avec ses avancées (par exemple, aujourd’hui sur internet avec les communautés du logiciel libre) et ses reculs (quand un collectif ne parvient pas à maintenir sa vitalité critique et démocratique et qu’il se bureaucratise). Cette *constitution du commun* engage aujourd’hui la responsabilité de nombreux professionnels et collectifs. Comment sur le terrain de l’art, du social ou encore de l’urbain, penser la question du commun ? Comment, sur ces terrains de création et d’activité, contribuer à l’émergence d’un commun ? Comment le faire avec les personnes concernées ? Comment y parvenir à l’échelle d’un quartier ou d’une institution ?
+
+### 2 Penser & agir le commun
+Cette *constitution du commun* se pose au moins sur trois plans.
+#### Sur le plan de notre environnement de vie
+Le commun englobe dans ce cas de nombreuses ressources nécessaires : l’eau, l’air, l’espace... Mais, au-delà, notre environnement nous ouvre de nombreuses opportunités et disponibilités, qui peuvent être pensées et agies en tant que commun, dès lors que nous en prenons conscience et que nous les formulons politiquement en ces termes. Notre environnement est composé d’imaginaires, de sensibilités, d’idéaux. Il inclut aussi des rues, des espaces publics, du bâti. Ces ressources environnementales sont quasiment infinies. Elles nous sont si familières et si évidentes que nous les négligeons, que nous omettons de les interroger et de les discuter. Leur caractère ordinaire les fait oublier — les fait oublier surtout politiquement. Les entreprises, elles, ne s’y trompent pas ; elles savent parfaitement capter à leur profit ces ressources matérielles et immatérielles, ces nécessités et ces disponibilités. Elles s’approprient à des fins productives privées des réalités que nous partageons pourtant tous, en commun. Les économistes parlent à ce propos d’externalités positives, à savoir des « matières premières » (matérielles ou immatérielles) qui sont intégrées au processus productif tout en échappent à tout calcul économique et financier. D’où proviennent les idées et les formes sensibles que les entreprises culturelles intègrent à leurs productions et diffusent ensuite en tant que services et biens marchands, si ce n’est de l’environnement que nous partageons, indissociablement.
+
+Commun est le mot qui peut désigner cette extraordinaire disponibilité, ces multiples ressources et opportunités que nous réserve notre environnement de vie. Qui est en droit de les investir et de les mobiliser ? À quelles fins ? Est-ce que nous y accédons sans discrimination ? Est-ce que nous en disposons égalitairement ?
+
+Sur ce premier plan, le commun est principalement un enjeu de disponibilité. Qui accède à quoi ? Certes, nous respirons tous mais, pour quelqu’un qui vit à Paris, il est préférable de ne pas résider sous les vents dominants. La qualité de l’air n’est pas équivalente, que l’on vive à Aubervilliers ou à Neuilly. En ce domaine aussi, la disponibilité et l’accès sont des questions éminemment politiques, d’où l’importance de concevoir et construire cette question en termes de commun, pour pouvoir imaginer collectivement la gestion et la répartition de cette ressource. Le commun renvoie alors à une pensée écosophique [3. Cf. Guattari, F., 1989, *Les trois écologies*, Paris, Galilée.], une pensée en capacité de formuler notre rapport individuel et collectif à ces disponibilités, à ces ressources matérielles et immatérielles, à ces productions de sens et d’imaginaire, à ces formes langagières et symboliques indissociables de la vie quotidienne...
+
+#### Sur le plan de notre puissance (collective) à agir
+Que partageons-nous en commun, de plus intimement, si ce n’est une aptitude langagière ? La langue est emblématique de ce qui construit notre être-à-plusieurs. Elle échappe à l’intention de chacun de nous, pris isolément, mais elle est indissociable de l’ensemble humain que nous constituons. « Une langue n’existe en effet nulle part en dehors des corps et des esprits individuels de ceux qui la parlent ; que ces corps individuels disparaissent un à un et la langue disparaîtra avec eux [4. Yves Citton et Dominique Quessada, « Du commun au commeun », revue *Multitude*s n° 45, été 2011, p. 15.]. » Pourtant, la langue excède [5. Judith Revel insiste sur « l’excédence » de la langue dans son analyse du commun. Cf. sa contribution « Produire de la subjectivité, produire du commun (Trois difficultés et post-scriptum un peu long sur ce que le commun n’est pas) » pour la séance du 15 décembre 2010 du séminaire « Du public au commun », en ligne sur le site du séminaire : www.dupublicaucommun.com (consulté le 18 juin 2012).] toujours, radicalement, la somme des actes de paroles car elle est avant tout une capacité, une faculté, un empowerment. Même si nous tentions, sur un monde fantasmé, d’additionner l’ensemble des énoncés existants, nous n’approcherions jamais l’essence de la langue.Ce que nous partageons en commun n’est donc pas un ensemble de réalisations (des énoncés, des mots, des actes de paroles et de pensée, ce que la sociologie et la théorie des organisations désignent comme une culture commune ou un langage commun) mais, avant tout, une aptitude générique : la capacité indéterminée de dire, designifier, de formuler. Notre être-en-nombre se nourrit de ce type d’aptitude : la langue, l’imaginaire, l’intellect, la sexualité... Nous sommes en capacité de parler, d’imaginer, de penser, d’aimer..., mais, aussi, si nous persistons à généraliser ce commun, en capacité de délibérer, d’argumenter, d’analyser... Le travail ducommun pourrait donc correspondre à cet effort pour inventer et investir le maximum de facultés, pour les exercer le plus intensément possible, pour les vivre sur le mode le plus égalitaire et le plus autonome. Les conditions d’exercice de ces aptitudes, devenues génériques, deviennent donc un enjeu majeur. Ce registre du commun est souvent désigné aujourd’hui, dans la littérature des sciences humaines et sociales, comme une pensée et un agir de l’empowerment [6. Cf. Vidal, J., 2008, *La fabrique de l’impuissance (La gauche, les intellectuels et le libéralisme sécuritaire)*, Paris, éditions Agir en commun / Agir le commun...
+Amsterdam.]. Il est important de souligner également que le décompte de ces facultés n’est jamais définitif et qu’il est toujours possible pour un ensemble humain de se doter d’une nouvelle aptitude, qui lui deviendra alors générique. Le commun est, de ce point de vue, toujours en devenir.
+
+Les professionnels de l’art, du social ou de l’urbain, pour ne citer qu’eux, sont fortement impliqués par cet enjeu ; ce sont des domaines privilégiés où il est possible, en commun, d’expérimenter de nouvelles facultés — des facultés de pensée, de langage, de sensibilité que nous partagerons d’autant mieux qu’elles auront été explorées et légitimées collégialement, en coopération.
+
+#### Sur le plan d’un processus instituant (constituant)
+« Nos existences sont enfin structurées, orientées, canalisées, alimentées par des *communs institutionnalisés*, dont nous pouvons retracer l’émergence et les évolutions au fil de décisions humaines et de projets de maîtrises (plus ou moins) rationnelles. [...] Le *commun institutionnalisé* doit avant tout être envisagé comme un horizon d’avenir : bien moins comme un territoire à occuper (eninévitable rivalité avec des occupants antérieurs) que comme un bâtiment à construire, dont la disposition, le partage et le nombre d’étages restent encore presque complètement à inventer [7. Yves Citton et Dominique Quessada, « Du commun au comme-un », op. cit., p. 18.]. » Fréquemment, lorsque nous sollicitons un commun, nous le recherchons en arrière de nous ; nous pensons l’apercevoir dans lerétroviseur, comme si le commun s’apparentait principalement à une antériorité. Cette orientation est aujourd’hui très présente à l’école avec le discours sur les socles communs de connaissance. Le commun est pourtant ce que nous tenons en ligne de mire et concevons comme horizon. Il se définit par ce que nous cherchons à construire ensemble, et non par ce dont nous disposerions dès à présent. Quand un travail d’équipe débute, les protagonistes s’interrogent souvent sur ce qui les réunit (une culture partagée, un langage commun) au risque de se focaliser sur l’existant, au détriment des processus qui s’amorcent. Certes, au fur et à mesure de l’avancée du processus, certains acquis prennent forme, se sédimentent et rejoignent le corpus dont nous disposons ; effectivement, ils s’institutionnalisent. Mais ils ne doivent pas, pour autant, être disjoints ou dissociés des processus qui leur ontpermis d’émerger. Le commun éprouve sa vitalité et sa force cohésive dans ces mouvements d’élaboration et de constitution, dans ce rapport instituant (constituant) au réel. Ce qui nous est commun, ce qui fait commun, ce sont bien les processus de réinvention du réel que nous amorçons ensemble [8. Ce que Cornélius Castoriadis nomme* L’institution imaginaire de la société*, 1975, Paris, éd. du Seuil.] et qui, en retour, nous obligent collectivement, nous sollicitent réciproquement, nous rapportent les uns aux autres. Le travail du commun correspond à cette prise de risque, à ce pari politique et intellectuel — le pari de l’ouverture, du devenir, du processuel. C’est une façon d’éprouver (ensemble) une situation (qui nous concerne les uns et les autres), de l’explorer et de l’expérimenter. Commun est le nom possible pour désigner ce mouvement. Il relève, alors, en conséquence, d’une pensée et d’un agir du processus (de l’instituant et du constituant).
+
+Les activités d’art et d’éducation, comme celles du social ou de l’urbain, peuvent être l’occasion de réattester et de vérifier en commun que la réalité se maintient fondamentalement en devenir et que l’émergeant nous implique collectivement ; il reste fondamentalement à notre portée. Lorsque des artistes ou des intervenants sociaux collaborent avec des habitants, ils peuvent, en tout premier lieu, contribuer à ce réinvestissement du processus et de l’instituant. Ils prouvent en acte et en pensée que le réel reste en devenir et qu’il est possible de le réengager dans une perspective nouvelle, de l’explorer à nouveau compte, avec d’autres mots, par l’entremise d’agencements inhabituels, avec une sensibilité visuelle,intellectuelle ou physique différente.
+
+Lorsque nous évoquons le commun, nous sommes donc renvoyés à *une pensée et un agir écosophique*. En effet, nous questionnons et transformons le rapport que nous engageons collectivement avec notre contexte de vie et d’activité (une existence de quartier, unecommunauté de pratiques...), le rapport que nous entretenons à nous-mêmes en tant que groupe (les micro-politiques de groupes), le rapport qui s’établit avec les nombreuses antériorités qui nous constituent collégialement (l’histoire de notre collectif, ses expériences antérieures, ses acquis).
+
+Nous sommes renvoyés pareillement à une pensée et un agir de *l’empowerment*. Le commun porte avant tout témoignage de notre faculté à construire et à instituer ensemble, collégialement, durablement.
+
+La *constitution du commun* réserve bel et bien une portée émancipatrice dès lors qu’elle nous engage dans un rapport distancié et créatif avec nos expériences de vie et d’activité, dès lors qu’elle nous implique dans une perspective écosophique et qu’il interpelle notre empowerment de groupe et de communauté.
+
+### 3 Travail du commun et politique du récit
+Un groupe ou une communauté progresse dans son « travail ensemble » en s’appuyant sur de nombreux « arts de faire (micro) politiques ». Parmi eux [9. J’ai étudié plusieurs de ces « arts de faire (micro) politiques » dans deux ouvrages : *Expérimentations politiques*, Fulenn, 2007 et *Moments de l’expérimentation*, Fulenn, 2009, en particulier les logiques de mutualisation des connaissances, l’agir dans et par les interstices, la capacité d’expérimentation...], je retiens ici plus particulièrement le storytelling ou l’art du récit.
+
+Le storytelling se définit comme l’art de raconter une histoire et de la scénariser, en s’efforçant d’accrocher l’attention et de susciter l’intérêt. Il construit un récit tout à la fois « inspirant » (pour la réflexion) et « mobilisant » (pour l’action). Dans son ouvrage* Mythocratie, Storytelling et imaginaire de gauche* [10. Citton, Y., 2010, Mythocratie, Storytelling et imaginaire de gauche, Paris, Éd. Amsterdam, p. 221], Yves Citton souligne l’incapacité de la « gauche d’aujourd’hui » à construire des récits porteurs d’espoir et de perspectives — des storytelling tout à la fois ressources pour des expérimentations et recours pour les luttes. La défiance qui s’est installée vis-à-vis des grands récits (le communisme, la décolonisation, la lutte des classes...), a provoqué à gauche une profonde allergie envers toute forme d’histoire. « Pendant que ‹ la gauche › s’appliquait vertueusement à ne plus se raconter des histoires, une bonne partie de sa base se convertissait aux histoires simplistes mais terriblement efficaces que lui racontaient les grands maîtres des petits récits néolibéraux, néoconservateurs ou néofascistes [11. *Idem*, p. 68.]. » Cette inhibition est également très forte dans les champs professionnels ; les collectifs d’artistes ou d’intervenants sociaux n’osent plus se raconter et nous raconter de « belles histoires » : des histoires d’émancipation, de promotion sociale, de conquête d’une autonomie de vie ou de luttes contre les discriminations. L’imaginaire professionnel est trop souvent bridé. À la suite d’Yves Citton, nous pensons pourtant qu’il est indispensable de renouer avec cette capacité à mettre en mots et en récit nos espoirs et nos désirs. Les artistes sont particulièrement interpellés par cet enjeu.
+
+En effet, chaque projet dans les champs urbain, social et culturel est aussi une espérance : introduire un changement, apporter un « mieux », susciter une initiative, lutter contre une injustice... Cette espérance, il s’agit d’en parler. Il s’agit de trouver les mots pour la faire partager. Il s’agit d’en proposer le récit. Le storytelling est donc une composante à part entière de la constitution d’un « commun » car un commun est aussi un récit ; un commun nous fait bel et bien entrer dans une « histoire » (une recherche d’autonomie, d’égalité, de respect...). Chaque collectif d’artistes engage donc également sa responsabilité sur ce plan-là : quelle histoire est-il en train de nous proposer ? Dans quelle perspective nous engage-t-il ? Quelles valeurs met-il en action ?
+
+Un récit s’apparente à « une action sur l’action » qui nous aide à nous orienter dans notre propre expérience. Il nous offre l’opportunité de reparcourir ce que nous avons entrepris et d’avancer de nouvelles hypothèses, de dégager d’autres perspectives, de donner sens à certains événements...
+
+Dans une perspective écosophique, le récit ne vise pas à rehausser en généralité une expérience singulière, mais à mettre en rapport une multiplicité d’expériences, sur un mode transversal et latéral. Les actions ne sont pas simplement juxtaposées, elles communiquent entre elles par l’intermédiaire des récits qui en sont faits. Chaque récit fonctionne, en quelque sorte, comme un intercalaire qui se glisse entre les actions et facilite le passage de l’une à l’autre. Il devient alors possible de « feuilleter » une sorte d’album collectif composé d’une multiplicité d’expériences. La lecture des situations et des événements n’opère pas en surplomb, par le haut, à la manière d’un récit universalisant, mais sur un mode latéral par l’interpellation réciproque des actions entre elles, chacune introduisant à la lecture de l’autre, chacune sollicitant l’interprétation de l’autre.
+
+La conception classique du commun laisse entendre que les personnes qui s’engagent le font sur la base d’un intérêt commun. Un accord préalable serait indispensable. Un compromis devrait être posé avant toute chose. À l’inverse, je pense qu’un commun n’a de chance d’aboutir que si des personnes aux intérêts divers [12. Dans son analyse du commun, Judith Revel insiste sur l’importance d’un *vivre en commun des différences*, janvier 2011. Voir, par exemple, son article « Construire le commun : une ontologie », www.eipcp.net / transversal / 0811 / revel / fr (consulté le 18 juin 2012).], voire disparates, acceptent de s’impliquer collégialement dans un processus, en ayant conscience qu’il leur appartiendra de définir et de délimiter ce processus, de le caractériser et de le négocier. Les partenaires s’engagent d’un commun accord mais sans nécessairement s’accorder sur l’ensemble d’une perspective. « S’il fallait que tous les acteurs s’accordent sans ambiguïté sur la définition de ce qu’il faut faire, alors la probabilité de réalisation serait très faible, car le réel demeure longtemps polymorphe [...]. Pour ses débuts, il convient, au contraire, que des groupes différents, aux intérêts divergents, conspirent dans un certain flou pour un projet qui leur apparaît commun, projet qui constitue alors une bonne agence de traduction, un bon échangeur de but [13. Latour, B., 1993, *Aramis ou l’amour des techniques*, Paris, La Découverte, p. 47.]. » L’intérêt (commun) n’existe pas au démarrage de l’action mais il émergera progressivement, par effets d’intéressement mutuel, au fur et à mesure de l’avancée des activités. Ce n’est donc ni un acquis, ni un préalable mais un construit. Le commun est quelque chose qui advient, qu’il s’agit collectivement de faire advenir, et de les faire en situation, dans une conjoncture donnée, en ferraillant avec chaque réalité. Le commun ne se manifeste pas à froid, sur la base d’on-ne-sait quel arbitrage ou arrangement, mais se détermine toujours à chaud, en prise avec la dynamique de l’expérience collective.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: 
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Pascal Nicolas-Le Strat
+
+----
+
+Article-sito: 

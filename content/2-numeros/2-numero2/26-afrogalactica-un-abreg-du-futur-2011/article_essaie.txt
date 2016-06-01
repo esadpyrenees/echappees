@@ -1,0 +1,115 @@
+Info-1: 
+
+----
+
+Pagesettings-1: 
+
+----
+
+Title: Afrogalactica, un abrégé du futur
+
+----
+
+Articlevisuel-date: 2011-...
+
+----
+
+Pagesettings-2: 
+
+----
+
+Articlevisuel-auteur: 
+
+- 
+  auteur_uid: kapwani-kiwanga
+
+----
+
+Pagesettings-3: 
+
+----
+
+Articlevisuel-medias: 
+
+(image: image_n_2_-4.jpg )
+#####« Le 8 décembre 2058, sont nés Les États-Unis d’Afrique. Cette date a été choisie pour commémorer le 100<sup>e</sup> anniversaire de la première Conférence panafricaine qui eu lieu à Accra au Ghana en 1958. Lors de cette rencontre, le Président Kwame Nkrumah promut les États-Unis d’Afrique comme modèle et appela à la fédération des États africains. »
+
+(image: image_n_2_-8.jpg)
+#####(de haut en bas) 
+#####1 – « Kwame Nkrumah » : (link:  http://nkrumah.allissarichardson.com text: nkrumah.allissarichardson.com popup: yes)
+ #####2 – « Image originale ; Kenyatta Centre International de Conférence (KICC) » Nairobi, Kenya, Jorgé Lascar : (link: http://commons.wikimedia.org/wiki/File:Auditorium_-_Kenyatta_International_Conference_Center.jpg text: Auditorium Kenyatta sur wikimedia.org popup: yes)
+#####3 – *Artist’s concept of Nigeria « Sat 2 in orbit over Africa »* / Conception d’artiste du Nigera « Sat 2 en orbite ». Crédit : SSTL (Surrey Satellite Technology Ltd) (link: http://www.space.com/12667-rocket-launches-7-satellites-earth-orbit.html text: consulter ici popup: yes)
+
+(image: image_n_2_-9.jpg)
+#####« Humain > Extraterrestre »
+
+(image: image_n_2_-14.jpg)
+#####(de haut en bas) 
+#####1 – Ernest C. Withers, « I Am A Man », *Sanitation Workers Strike*, Memphis, Tennessee, 28 mars 1968. 
+#####2 – Capture d’écran d’une image de Sun Ra dans le film de John Coney, « Space is the Place », 1973, 1974. 
+#####3 – « De la même façon,  je veux porter des costumes spatiaux parce que je me sens *chez moi* dans l’espace. Je ne me sens pas  *chez moi* sur cette planète. Je me sens comme un extra-terrestre ici. » Sun Ra
+
+(image: image_n_2_-16.jpg)
+#####« Char céleste > négrier > vaisseau spatial »
+
+(image: image_n_2_-17.jpg)
+#####(de gauche à droite et de haut en bas)
+#####1 – Détail de la couverture de l’album de « Parliament, Mothership Connection », 1975. 
+#####2 – Image religieuse russe du Prophète Eli et son char céleste. (link: http://www.holy-transfiguration.org/poetry/poetry_general.html text: consulter online popup: yes)
+#####3 – William Turner, « Le Bateau négrier », 1840.
+
+----
+
+Articlevisuel-image-texte: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Articlevisuel-domaine: 
+
+----
+
+Articlevisuel-keyword: 
+
+----
+
+Articlevisuel-biblio: 
+
+----
+
+Articlevisuel-url: 
+
+----
+
+Articlevisuel-pdf: (file: echappees-afrogalactica-un-abrege-du-futur.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Pagesettings-5: 
+
+----
+
+Articlevisuel-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur-visuel: Kapwani Kiwanga
+
+----
+
+Articlevisuel-sito: 
+
+----
+
+Article-note-print: 
+
+----
+
+Articlevisuel-citer: 

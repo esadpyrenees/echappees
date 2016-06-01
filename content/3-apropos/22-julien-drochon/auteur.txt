@@ -1,0 +1,17 @@
+Title: Julien Drochon
+
+----
+
+Text-bio: Julien Drochon est designer et enseigne le design graphique des nouveaux médias. Directeur du studio raphique *Docile*, il y aborde depuis 2004 les relations entretenues entre le design des nouveaux média (site Internet, mobile, installation…) et celui des objets imprimés (catalogue, programme, scénographies) dans le cadre de la commande. Son approche implique l’utilisation quotidienne du design génératif et programmé. Membre de la *fabrique Pola*, il co-porte ce projet de fabrique artistique et culturelle depuis 2007. Dans un but de recherche, de développement et de veille, il anime le *LABX*, *hacklab / hackerspace*.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+----
+
+Text-liste-articles: (link: numeros/numero2/interfaces-interactions-et-internet-of-spaces-retour-sur-deux-workshops text: n°2 : Interfaces / interactions et  Internet of spaces, retour sur deux workshops)

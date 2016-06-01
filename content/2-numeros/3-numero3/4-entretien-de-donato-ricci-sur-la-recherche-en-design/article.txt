@@ -1,0 +1,214 @@
+Pagesettings-1: 
+
+----
+
+Title: Entretien de Donato Ricci, sur la recherche en design
+
+----
+
+Article-date: 10 avril 2014
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: donato-ricci
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: Donato Ricci est chercheur en design. Il participe notamment aux activités de recherche du *Médialab* de Sciences Po et du laboratoire milanais *DensityDesign*. L’entretien porte sur la recherche en design et comment le designer y participe. Cet entretien a été conduit par Laetitia Boiteau, Leslie Darné, Marine Illiet, Ye Ye Han étudiantes inscrites alors en DNSEP Design Graphique Multimédia, dans le cadre du séminaire « Les nouvelles formes éditoriales », le 10 avril 2014.
+
+----
+
+Article-chapeau-redaction-note: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+(image: ricci-4-the-map-of-the-future-wired-italia-2009-coordinateur-scientifique-paolo-ciuccarelli-project-leader-donato-ricci.jpg)
+#####« The map of the future » designer par Donato Ricci pour *The wired italia* en 2009.
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+### Nous avons remarqué que vous travaillez souvent en équipe. Comment s'organisent les projets ? Comment se passe le choix, la répartition du travail et des outils ?
+
+Cela dépend beaucoup de la typologie du projet. J'ai l'expérience de deux façons très distinctes de gérer cette question. À Milan (*Density Design*, laboratoire de recherche du département *Design* de l'École polytechnique de Milan – *Politecnico di Milano*) nous étions plutôt organisés en groupes de travail en fonction de la spécificité des projets, chacun engagé dans des rôles précis. Et à Paris (au *Médialab* de Sciences Po) cela se passe légèrement différemment, d'une certaine manière c'est un peu plus cloisonné puisque sur certains projets de recherche nous avons des équipes uniquement constituées des chercheurs sans relation avec un *commanditaire* par exemple. Mais il y a aussi des designers qui travaillent avec des statisticiens ou des sociologues. C’est donc un peu moins fluide comme cheminement.
+
+Expliquer ce qu’est la recherche en design est relativement délicat. C'est peut-être d'ailleurs pour cela que les commanditaires formulent des projets. Si la recherche en design n’est pas aussi claire que dans les sciences humaines où l’on a une histoire plus ancienne et plus sédimentée, et une gestion des équipes plus simple. Néanmoins les approches méthodologiques en place dans le domaine du design sont très développées.
+
+À Milan on travaille sur des projets de recherche en design dans une université de design, et on implique souvent des étudiants pour insuffler de nouvelles dynamiques et énergies. On a toujours cherché à leur faire développer certaines compétences, en orientant les uns vers un côté expressif et d'autres vers une approche plus abstraite, plus focalisée sur les données, sur le traitement des informations. Tout en reconnaissant à ces étudiants leur capacité à gérer quelque chose on leur apprend à mieux maîtriser leurs compétences.
+
+La configuration d’une équipe nécessite une certaine capacité à changer selon l’évolution du projet, sans exclure quelqu’un du projet ou que ces changements soient vécus comme négatif ; surtout dans un environnement qui serait mixte : chercheurs, professeurs, étudiants ou professionnels. Le mélange entre ces quatre données doit bien être géré. Il y a ainsi beaucoup de travail au niveau de la gestion du projet, de la gestion de la formulation du projet.
+
+### Et l’équipe peut évoluer en cours de projet ?
+
+Oui, c’est arrivé souvent...
+
+### Avec des étudiants ou même avec des spécialistes ?
+
+Les deux ! Car un grand nombre des projets peuvent se segmenter en phases. Voici un cas de figure classique, il y a par exemple une première phase de création du projet, puis une seconde phase de traitement des données. Il en résulte une base de données à traiter ou à visualiser. À ce moment là, certaines compétences peuvent se dégager pour aller sur d’autres projets. On essaye toujours d'avoir un designer dès le début du projet, pour avoir une certaine continuité dans l'échange avec les chercheurs et aussi les étudiants qui sont engagés du début à la fin du projet. Mais il y a aussi des compétences qui sont un peu plus ponctuelles qui impliquent une certaine mobilité d'activité de la part de certains collaborateurs qui rejoignent une équipe selon les tâches et les besoins. Quoi qu'il en soit certaines personnes sont toujours là, comme celle qui gère le projet, ou bien le designer qui développe un langage spécifique.
+
+### Justement, vous parliez de la difficulté de définir la recherche en design graphique. Nous nous sommes rendues compte que vous aviez un profil atypique, et on se demande comment vous vous définissez par rapport à ça ?
+
+Mon profil est un peu bizarre. J’ai fait cinq ans de design produit, et ensuite mon mémoire était un mélange entre du design graphique et du design produit. Car entre temps j’avais arrêté mes études pour travailler dans une entreprise qui faisait des études de marché et d'analyses des *tendances*. Et ensuite, j’ai travaillé pour une entreprise de publicité qui mettait en forme des informations d'études de marché, via des scénarisations de propositions, pour les rendre explicites et plus attrayantes. Je me suis alors rendu compte pour première fois que j’étais plutôt intéressé par le produit industriel et pas tant par la question du graphisme en lui même. En fait plutôt par le mélange entre industrie, marché, étude de marché répondant à un langage visuel.
+
+Ensuite j’ai commencé à être de plus en plus engagé dans le champ des sciences sociales, et donc je pouvais mieux envisager sa relation au design et à la communication. La question de la visualisation s’est véritablement imposée à partir de là. Si mon parcours (en zigzag d’expériences) est donc un peu particulier, je crois que c’est un peu ce qui m’a donné un regard différent sur la recherche.
+
+Mon identité n’est pas liée à des méthodes, des méthodologies, ou des processus de recherche, mais plutôt à la capacité pratique de faire voir les choses.
+
+La recherche aujourd’hui est complètement différente si elle est menée dans un environnement universitaire, dans une école-université de design ou de sciences sociales et politiques. Il y a des façons bien distinctes d’écrire les choses. Les utilisations de la parole avec la visualisation sont différentes si on se situe dans le champ du design ou de l’industrie. Mais ce qui est transversal c’est la capacité de mettre en forme, de faire voir aux autres certaines choses. Où comment le design peut aider les différents acteurs dans leurs typologies de recherche et à les faire dialoguer au sein d'un projet.
+
+Comment fait-on de la recherche en design, c’est encore une autre question. S’il existe de nombreuses approches, je pense qu'il ne faut pas voir l’activité de design comme un objet de spéculation. Ni produire de la théorie a posteriori dans un projet de recherche. Ma façon de faire est plutôt d'assumer un regard critique sur les activités, les relations avec les autres pour analyser les processus d’évolution de la pensée et les constructions théoriques durant le projet.
+
+### C’est votre façon d’articuler la théorie et la pratique alors ?
+
+La réponse est évidente : le design c’est une pratique et il en est indissociable, sinon cela ne s’appelle plus du design mais de la critique du design ou de l'art du design, ou encore de la sociologie du design, anthropologie du design... Comme chercheur on peut avoir cette distance à la fin du projet, pour ensuite développer une activité de design plus informée, basée sur une expérience qui n’a pas été formalisée mais qui a été rationalisée pour être transmissible. Le fait que chaque projet soit unique, tout comme les situations dans lesquelles il se développe est un des grands enjeux de la recherche en design. On ne peut pas véritablement s’imaginer codifier l’activité du designer. Mais ce niveau de détachement du projet est nécessaire pour partager des expériences et raconter de toute évidence ce que l’on a fait, et enfin de ne pas porter uniquement un objet final mais tout un parcours.
+
+### Comme un outil de communication en fait ?
+
+Oui, tout à fait. Et c’est pour ça qu'à *Density Design* ou au *Médialab*, la question de transversalité est très importante. Notre pratique du design se rapproche de celle du laboratoire, où l'on annote sur son cahier tous les jours l'activité et le résultat des expériences. Spontanément je suis toujours poussé à faire les choses sans décrire ce que je suis en train de faire, mais c'est la combinaison des deux qui fait la caractéristique distinctive de toutes les recherches. Écrire et être capable de parler de ce que nous sommes en train de faire, le décrire aux autres est important, que ce soit dans les mémoires et thèses que je suis toujours à Milan, mais aussi dans l’activité même de *laboratoire*. Car il faut partager, montrer le résultat de ses activités jour après jour avec les autres chercheurs en sociologie, en ingénierie, en informatique... de son équipe.
+
+Concernant les outils de la pratique, c’est un peu la même chose, cela reste des outils d’expériences. Dans le sens où nous sommes toujours en train de regarder les résultats d'essais. L'approche est expérimentale, puisque l'on tente puis observe et enfin tire des conclusions. Si la direction d'un projet peut être infléchie par le choix d'outils différents, jamais on ne présente un projet comme « fait avec tel ou tel logiciel ». S’ils sont bien on continue sinon on en change, on les change.
+
+### Dans vos projets de design d’information, quelles sont les différentes étapes dans votre pratique ? Quelle est la méthodologie que vous employez entre la récolte des données jusqu’à la finalisation du projet ?
+
+Dans un cas de figure classique, très simple, il y a un commanditaire qui a déjà ses données, qui est déjà capable de les questionner et d’imaginer ce qu’il y a dedans : « voilà les données, je voudrais voir ça ». Mais cela ne se passe jamais ainsi, parce que si quelqu’un a besoin de visualiser, cela veut bien dire qu’il cherche à en savoir plus sur son domaine. Et donc, en fait j’ai l’impression que si je regarde ce phénomène de façon différente je peux mieux agir. C'est donc là qu'apparait la première *loop*, on travaille beaucoup sur cette question de boucle, c’est-à-dire : soit on réinterroge la question de la recherche en la modifiant, « tu ne peux pas répondre à ça avec ces données là, est ce que tu veux qu’on reformule ensemble quelque chose qui soit plus approprié aux données que tu as ? ». C’est un parcours intéressant, un peu comme une maïeutique où l'on chercherait à faire sortir les bonnes questions à son commanditaire.
+
+Soit on fait le constat que les données ne sont pas suffisantes, pas appropriées, et qu'il faut aller les *chercher*. Et là il faut mettre en place un accompagnement sur la construction de la base de données. Ce point est absolument crucial parce qu'aujourd’hui on a trop communément un regard sur le design comme étant le dernier maillon du processus de transformation de l’information, de l’objet ou de la matière. Pour nous, pour moi du moins, les données ne sont rien d’autre que de la matière, comme du bois, du plastique, du verre, etc. On imagine que le designer arrive toujours au dernier moment, qu’il fait la mise en forme et que c’est fini. Mais si l'on réfléchit bien enfin de compte c’est tout à fait l'inverse. Il faut connaître toute la démarche pour imaginer au fur et à mesure les améliorations des modalités de la recherche pour produire des données plus appropriées et arriver à la forme finale.
+
+La deuxième* loop* se situe au niveau des artefacts intermédiaires. On essaie de ne jamais avoir de saut direct des données à la visualisation finale, c’est-à-dire qu’on a toujours des expérimentations sur lesquelles se construit un dialogue avec les autres partenaires. On procède de la sorte où chaque étape est quelque part le début de la suivante mais aussi l'occasion de regarder celle d'avant. Mais ce processus prend beaucoup de temps, et bien souvent on ne peut le mettre place que dans un environnement de recherche. Ce n’est pas un fonctionnement adapté au marché ni à l’industrie. On n’en a eu l’expérience avec *Il Corriere della serra*, où il fallait sortir chaque semaine une visualisation, et donc cela veut dire que tous ces processus dont on a parlé ne peuvent pas avoir lieu à cause des contraintes temporelles si fortes que l’on ne peut pas vraiment questionner les données.
+
+### Avez-vous une méthodologie différente selon les types de données, leurs natures abstraites ou concrètes ?
+
+Il y a là, il y a une question de taille. Il me semble qu'elle pourrait être ramenée à la question des données quantitatives et qualitatives. S’il y a des chercheurs, des penseurs qui font la distinction entre informations et données, entre les données qualitatives et quantitatives – ce que l'on pourrait aussi appeler concret et abstrait – je crois que l'on arrive de plus en plus à tout quantifier. Donc que la distinction entre les deux devient de plus en plus faible et à tendance à disparaître. Prenons un exemple très simple : à un moment donné, dans les sciences sociales on avait la statistique c’était en quelque sorte une façon de faire devenir celles-ci plus *exactes*. La statistique s’est installée avec ses méthodes, ses méthodologies, et dans un second temps elle s’est transformée un peu en étude d’opinion (les sondages) et là on a ce passage des données quantitatives aux données qualitatives. Maintenant si vous regardez, vous pouvez voir des choses plus qualitatives de façon quantitative grâce au numérique. La question n’est pas de quantifier votre opinion avec le *thumbs up (Facebook)* ou le *thumbs up / down (Youtube)*, mais d’être capable de récolter des traces de la qualité. Si je suis en train d’acheter une certaine typologie de vêtement sur internet (ce qui concerne ma sphère qualitative puisque qu’il s’agit de la façon dont je m’exprime au monde). Au fur à mesure, on a dans ce parcours des traces qui sont quantifiables. Il s’agit d’un des grands enjeux de la visualisation et des sciences sociales. Car bien évidemment, la question devient un terrain sensible parce que l'on parle ici de traces personnelles, plus ou moins volontairement cédées, comme les numéros de carte de crédits... C’est aussi, quelque part, une contre révolution des méthodes de Durkheim, qui ont gagnées contre un français qui s’appelait Tarde [1. Jean-Gabriel Tarde (1843-1904), juriste, sociologue et philosophe français. Ce n'est pas cette polémique qui le rend célèbre mais la parution de ses « Lois de l'imitation » en 1890.]. Celui-ci avait déjà en tête qu’il n’y avait pas vraiment de distinction entre le groupe et le singulier, la société et l’individu, et donc entre la quantité et la qualité. Ces débats entre Durkheim et Tarde qui ont donné naissance à la sociologie moderne française au début du 20<sup>e</sup> siècle sont ici en train d'être revitalisés.
+
+On a de plus en plus la possibilité de travailler de la même façon les données qualitatives et quantitatives, mais par rapport à la question, c’est aussi vrai qu’il faut veiller à toujours respecter la nature de la donnée. Plus que la nature de la donnée, il faut respecter la nature du phénomène et aussi la nature de l’audience : *qui est mon lecteur ?*. Et c’est là le vrai enjeu. Voici un exemple célèbre, dans un journal on trouve une photographie de quelqu’un en train de manger un hamburger et à sa suite un histogramme, vous pouvez demander à n’importe qui « quel est l'objet de cette visualisation ? » tout le monde répondra que « c’est en rapport avec les calories de cette nourriture ou de la quantité de hamburger que les gens mangent... » alors qu’en réalité la question abordée est sur le coût de la vie, basé sur l’index *Mcdonald's*. Quand j'évoque le respect des données et du phénomène c'est de la précision du langage qui est en question. Sinon on détourne notre lecteur, et là c’est un point très important, on va commencer à faire des interférences et construire une pensée qui n’est pas basée sur le phénomène. Ces deux choses sont à conserver précieusement : connaître la nature du problème que l’on est en train de décrire et pour qui on va le décrire. Les designers le savent très bien et sont très habitués à le faire.
+
+À Milan on apprend aux étudiants de première année à regarder l’utilisateur, le connaître, se mettre à sa place, envisager la manière dont il peut réagir en situation. C’est une des raisons pour lesquelles le design est dans cette arène de la visualisation avec les statisticiens, les sociologues, les politiciens, les scientifiques. Nous avons les capacités pour comprendre un phénomène, pour choisir un langage et de les lier un public. Si on reprend l’exemple *The Map of the Future* (réalisé pour *Wired Italia* en 2009 [2. Voir : **(link: http://www.densitydesign.org/research/map-of-the-future text: Map of the future online popup: yes)**.]), on parlait à un public très large et donc il fallait parler un langage très expressif, graphiquement riche. Dans d’autres situations, on parle avec des éditeurs, et là, la quantité de temps qu’il faut utiliser pour extraire l’information doit être réduite au maximum. Le langage plus *artistique* n’est pas mis de côté mais il est moins intéressant de le développer parce que l'on connait le lecteur, et l'on sait qu’il s’intéresse à autre chose, à la rapidité avec laquelle il peut extraire les informations et ne pas passer du temps à être dans la visualisation. Donc la fonction est autre. La fonction de cette visualisation n’est plus *regarder et découvrir* mais la question des données elles-mêmes.
+
+###Justement, par rapport à la question du *storytelling* comme dans *Map of the future* vous proposez une pensée narrative comme étant plus efficace dans la transmission d'un message ?
+
+Tout à fait, on connaît le principe de mémorabilité depuis très longtemps, comme quand nous étions enfant et que l’on nous racontait une histoire. Elle s’installe dans la mémoire, elle va faire partie de notre quotidien comme les histoires, les moments vécus. Donc l'idée est d'utiliser le *storytelling* en faisant intervenir la question de la mémorabilité dans la visualisation des phénomènes et des données dans un but d'appropriation par le public. Cela demande un gros travail puisqu’il faut être en même temps le metteur en scène, le narrateur, l’acteur et la personne qui écrit le récit. Il faut assumer, comme designer, plusieurs rôles et les mélanger les uns avec les autres. Surtout il faut assumer la responsabilité des choses qu’on est en train d’écrire. Tout particulièrement dans le projet *Map of the futur*, il ne faut pas raconter une vérité parce que le lecteur est en capacité de trouver sa propre voie dans son histoire mais il faut assumer la responsabilité d’avoir tracé, d’avoir limité les choix parmi lesquels il va falloir trouver un chemin, sa propre vérité.
+
+Le designer, avant d’être acteur et metteur en scène, doit toujours reconnaître la responsabilité d’auteur qu'il prend et reconnaître la capacité du lecteur à développer son propre regard, sa propre position par rapport à un phénomène, une situation, un problème. Et ce, quel que soit son niveau d'engagement sur des questions *sensibles* comme les questions de société qui concernent l’environnement, la science, le futur, etc.
+
+Cette approche de mise en récit n'a rien à voir avec le *storytelling* à l’américaine où pour garder l’attention du lecteur il faut raconter une histoire avec les données.
+
+Dans la tradition italienne, il me semble que le *storytelling* est plutôt une prise de conscience de l’action du designer ou des effets que le design a dans la société avec ses outils, ses produits. Quelle histoire tu fais faire aux autres ? Comme tous les objets, outils, ils te permettent de faire des choses et ils t’empêchent d’en faire d’autres. Choisir, c’est faire l’histoire.
+
+----
+
+Article-note: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: design d'information,Recherche en design
+
+----
+
+Article-keyword: Donato ricci,Designer,chercheur,densitydesign,medialab,données,projet,transversalité,pratique et théorie,information,visualisation,mémorabilité
+
+----
+
+Article-resume: 
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Article-relie: 
+
+----
+
+Pdf: (file: echappees-entretien-de-donato-ricci-sur-la-recherche-en-design.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Print: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Donato Ricci
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] Jean-Gabriel Tarde (1843-1904), juriste, sociologue et philosophe français. Ce n'est pas cette polémique qui le rend célèbre mais la parution de ses « Lois de l'imitation » en 1890.
+
+[2.] Voir : http://www.densitydesign.org/research/map-of-the-future
+
+----
+
+Article-interviewer: 
+
+- 
+  auteur_uid: laetitia-boiteau
+- 
+  auteur_uid: leslie-darne
+- 
+  auteur_uid: marine-illiet
+- 
+  auteur_uid: yeye-han

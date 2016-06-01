@@ -1,0 +1,179 @@
+Pagesettings-1: 
+
+----
+
+Title: Place de l’usager et appropriation du monde fictionnel de « League of Legends »
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: marion-rollandin
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+(image: pong.jpg)
+#####*Workshop* « Interfaces interactions», « Pong 2.0 », 2012.
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Avec l’accès à Internet qui se généralise, de plus en plus d’individus s’adonnent au jeu en ligne. Qu’il se joue à travers un navigateur ou via un dispositif spécifique, cette activité donne une place très importante aux interfaces, à leur design graphique et multimédia. La manière dont est construit un jeu va présupposer des usages et établir des liens spécifiques avec les joueurs. Pour cet article, nous nous proposons d’analyser la place de l’usager dans un univers particulier, le *MOBA* [1. Un *MOBA* (*Multiplayer online battle arena*) est une arène de bataille en ligne multijoueurs où deux groupes de joueurs, généralement par cinq, vont s’affronter par l’intermédiaire de personnages sur une carte qui représente le champ de bataille. L’objectif de chaque équipe est la destruction de la structure possédée par l’équipe adverse.] *League of Legends* [2. *League of Legends* est un jeu édité en 2009 par *RiotBGames*. Il fonctionne sur le principe du* free-to-play* : l’accès est gratuit mais il est possible d’acheter avec de l’argent réel, dans la boutique du jeu, des objets utilisables durant les parties. Cela permet de faire vivre le jeu. La constitution des équipes se fait de manière aléatoire par une fonctionnalité du dispositif ou par les joueurs qui choisissent eux-mêmes leurs coéquipiers. Ils peuvent s’entrainer à maitriser leur personnage dans le mode de jeu *normal*, avant de se confronter au mode de jeu *classé* où le résultat contribue à les situer dans un classement général. L’usager accède à deux interfaces : celle de jeu durant la partie et celle de gestion en amont et en aval de la partie.], à partir d’une enquête menée dans le cadre d’une thèse en *Sciences de l’Information et de la Communication* portant sur la réflexivité communicationnelle dans les échanges en ligne. L’objectif est de cerner par quels processus le design graphique et multimédia incite le joueur à s’approprier le monde fictionnel proposé par le dispositif et d’estimer en quoi la place de l’usager est centrale. Les résultats communiqués ici sont obtenus via une méthodologie ethno-sémiotique [3. Le Marec, J., Babou, I., dans Souchier, E., Jeanneret, Y., Le Marec, J. (dir.), 2003, « Lire, écrire, récrire : objets, signes et pratique des médias informatisés », Paris, *BPI*, p. 237.]. Elle allie une analyse sémio-pragmatique du dispositif à une analyse interactionnelle de terrain composée d’une phase d’observation participante sur plusieurs mois couplée à des entretiens avec des joueurs menés en auto-confrontation.
+
+Dans un premier temps, une réflexion sur le phénomène d’insertion dans l’univers fictionnel sera menée. Comment l’usager amorce-t-il sa séquence de vie médiatisée ? Quels éléments graphiques et multimédias lui permettent de se saisir de cette nouvelle identité ? Dans un second temps, il sera question de la liberté d’action de l’usager face au dispositif. En effet, de nombreuses informations lui sont communiquées afin qu’il mesure toutes les possibilités offertes pour mieux s’approprier l’espace de jeu. Nous traiterons également de l’influence que peuvent avoir les interactions avec les autres usagers vis-à-vis de cette appropriation. Dans un troisième et dernier temps, le processus de séduction lié à la stratégie commerciale à l’œuvre dans les jeux vidéo, en perpétuelle évolution, sera questionné. Ces univers sont attractifs par leur potentiel graphique à proposer un monde fictionnel et concret qui se matérialise à l’écran et arrivent à maintenir leurs usagers dans une attente de nouveauté, parfois payante pour l’usager. Le rôle des joueurs professionnels sera pris en compte ainsi que celui de la médiatisation de l’*eSport* dans ce processus de séduction.
+
+###Quels processus pour faire sa place dans un univers fictionnel ?
+
+Un jeu vidéo multijoueur a la spécificité d’avoir besoin d’un certain nombre de participants afin de pouvoir fonctionner. L’objectif pour l’éditeur est de trouver des utilisateurs et de leur donner les moyens de s’approprier le dispositif afin de participer à l’activité vidéoludique. Pour cela, l’usager doit développer un lien certain avec l’univers fictionnel. Trois étapes concourant à l’intégrer à la pratique peuvent être mises en évidence : la définition de la promesse du dispositif et du cadre de l’activité, l’attribution d’un rôle et le dévoilement de l’univers fictionnel durant la pratique.
+
+Jouer en ligne est une activité qui repose sur la volonté de l’usager. En effet, il doit tout d’abord éprouver le désir de participer afin d’effectuer l’installation du logiciel permettant d’accéder à l’univers numérique. Dans le cas de* League of Legends*, l’individu doit se rendre sur le site Internet officiel afin de télécharger le client d’installation. Cette volonté de prendre part à une activité ludique implique qu’il ait déjà une vague idée de ce qu’il va trouver en participant, en réfléchissant au contexte de participation. « Le *contexte* pourrait être défini comme l’ensemble des informations permettant de restreindre le nombre des significations possibles d’un mot, d’un acte, d’un évènement. Le contexte est nécessairement incomplet et extensible : il y a toujours un contexte supérieur et plus vaste. À quelque degré, la signification reste nécessairement indéterminée, imprévisible. » [4. Winkin, Y., 1996, « Anthropologie de la communication : de la théorie au terrain », Bruxelles, *Éditions De Boeck Université*, p.61.]. Ainsi, le futur joueur s’inscrit dans un contexte de participation où il se représente, avant même d’avoir joué, ce qu’il va pouvoir trouver. Il s’appuie pour cela sur des avis qu’il a pu consulter sur Internet, sur des incitations d’autres joueurs à venir les rejoindre ou tout simplement sur le site officiel du jeu [5. (En ligne) **(link: http://gameinfo.euw.leagueoflegends.com/fr/game-info/get-started/what-is-lol/ text: http://gameinfo.euw.leagueoflegends.com/fr/game-info/get-started/what-is-lol/)** (Consulté le 01.01.2014)]. En effet, la promesse du dispositif y est décrite dans un paragraphe expliquant au joueur qu’il peut participer à une activité vidéoludique dynamique, variée, compétitive et épique, accessible à tout public. Une représentation de l’univers fictionnel du jeu se construit petit à petit grâce à ces informations mais aussi par la proposition d’un *guide du débutant* illustré, présentant l’univers et donnant des conseils pour commencer à jouer. L’usager va donc prendre sa place dans le scénario fictionnel selon un processus qui s’amorce dès le téléchargement du jeu où l’éditeur l’invite à participer par l’incitation « Rejoignez la *League* ». Les illustrations sont exhaustives, présentant des décors, des personnages en train de s’affronter et des copies d’écran d’éléments de l’interface à laquelle il sera confronté. La présence d’une vidéo de présentation du jeu le projettera directement sur le champ de bataille, où ont lieu divers affrontements entre les champions.
+
+Ces éléments permettent au futur joueur de décrypter le cadre primaire de l’activité, « cadre qui nous permet, dans une situation donnée, d’accorder du sens à tel ou tel de ses aspects, lequel autrement serait dépourvu de signification » [6. Goffman, E., 1991, *Les cadres de l’expérience*, Paris, les Éditions de Minuit, p.30.]. Ce cadre se définit en amont de l’activité car « le moindre coup d’œil sur quelque chose implique donc que l’on mobilise un cadre primaire et que l’on fasse des conjectures sur la situation antérieure et sur la suite des évènements » [7. Goffman, E., 1991, *Les cadres de l’expérience*, p.47.]. Une fois le jeu installé et son compte créé, le joueur peut alors se lancer dans l’aventure que le site semble lui proposer afin de confronter son expérience en devenir avec ses propres attentes qui se sont construites lors de cette première étape d’insertion dans l’univers de jeu.
+
+La seconde étape du processus se situe lors de la première connexion au jeu où l’individu se voit attribuer un rôle particulier, celui d’invocateur. La notion de rôle chez Goffman correspond à un « modèle d’action préétabli que l’on développe durant une représentation et que l’on peut présenter ou utiliser en d’autres occasions » [8. Goffman, E., 1973, *La mise en scène de la vie quotidienne*. Tome 1 : *La présentation de soi*. Paris, Les Éditions de Minuit, p.23.]. Le dispositif propose donc à l’usager de devenir joueur en lui donnant une place dans l’univers fictionnel qui se matérialise par le choix d’un nom d’invocateur. Ainsi le joueur se voit doté de pouvoirs permettant d’invoquer un personnage – appelé champion – afin de mener un combat dans l’arène. En choisissant un pseudonyme, le joueur amorce sa séquence de vie médiatisée parallèle à la séquence de vie quotidienne qui avait commencé à la naissance lors de l’attribution du prénom. Ce rôle renforce les attentes du joueur qui s’étaient construites lors de la définition du cadre primaire de l’activité.
+
+La troisième étape du processus d’insertion s’effectue au fil de la pratique.En effet, l’univers fictionnel continue de se montrer à l’individu à chaque utilisation du dispositif par des éléments multimédias cohérents avec le scénario de jeu comme les animations des personnages durant les parties et leur histoire consultable à travers l’interface de gestion. Ils semblent avoir chacun une personnalité et ont développé des rivalités. Chaque fiction développée autour d’un personnage trouve son écho dans sa représentation à l’écran. Par exemple, un récit explique pourquoi un personnage se bat avec un lampadaire et non pas une épée ou pourquoi certains personnages portent une armure particulière en référence à leur milieu d’origine. La cohérence entre le scénario du jeu et les personnages ne se fait pas seulement sur le plan visuel mais aussi sur le plan sonore à travers des répliques particulières qui dépendent de la situation dans laquelle le personnage se trouve et de l’action demandée par le joueur. Ces éléments graphiques et sonores n’ont pas d’intérêt pour la performance de combat des personnages mais permettent au joueur de s’immerger encore plus dans l’univers fictionnel. Ainsi, le phénomène d’insertion de l’usager dans l’univers fictionnel du jeu repose sur des éléments mêlant récits épiques, illustrations de l’univers et animations multimédias. Intéressons-nous à présent à la liberté d’action du joueur face au dispositif.
+
+### Dispositif et liberté d’action pour l’usager
+*League of Legends* met à disposition de l’usager un espace reposant sur un univers fictionnel que ce dernier va s’approprier à travers l’inscription dans le dispositif. Il peut sembler libre dans ses actions mais va être orienté sur ce qu’il peut faire ou ne pas faire mais également sur sa manière de communiquer en tant qu’usager. En effet, des espaces de sociabilité sont proposés afin d’interagir avec d’autres participants à l’activité, présupposant  la nécessité d’échanger afin d’améliorer son expérience de jeu à travers une activité qui se veut multijoueurs. L’usager a donc une liberté d’action conditionnée par le dispositif lui-même et par les autres joueurs, ce dont nous traiterons en trois points : le conditionnement de l’image du joueur par le dispositif, la gestion de la communication et des relations à travers des formes graphiques et textuelles, et l’expérience de jeu construite via les réactions et attentes des autres usagers.
+
+L’identification par un nom d’invocateur permet au joueur d’accéder à une interface de gestion contenant son profil. Celui-ci présente des
+informations sur la pratique du jeu, comme les champions les plus fréquemment joués, le nombre de victoires, etc., et représente des traces d’usages que le dispositif met en scène graphiquement. Il a aussi accès aux pages de *runes* et de *maîtrises*, éléments qu’il construit en amont de la partie, permettant une personnalisation de la manière de jouer en choisissant d’influer sur certaines caractéristiques des personnages. Ces éléments construits partiellement par le joueur et mis en scène par le dispositif vont être visibles par les autres participants. Ainsi, certains regardent *le profil* d’un autre afin de se faire une idée de son style de jeu, de ses performances, informations utiles lorsque les joueurs sont amenés à jouer ensemble sans se connaître au préalable. En rendant possible la consultation du profil, le dispositif présuppose que les membres d’une équipe ont besoin d’arriver à déterminer les capacités de leurs coéquipiers à travers ces différents éléments. L’image qui en résulte va conditionner les échanges entre les usagers. L’exemple qui ressort le plus de notre enquête est lié au classement. En effet, en prenant part à des matchs dits classés, les joueurs vont entrer en compétition et être classés par le dispositif à travers des paliers censés renseigner sur le niveau de jeu du joueur : bronze, argent, or, platine, diamant et challenger ; le plus bas niveau étant le bronze. Chaque palier est mentionné textuellement et s’accompagne d’une illustration évoquant une médaille dont la couleur varie en fonction du classement. Au cours de plusieurs entretiens, les joueurs ont mentionné que le fait de voir afficher un classement en bronze sur le profil d’un joueur ou bien d’être soi-même dans cette catégorie constituait un frein à l’intégration dans certains groupes. Initialement, ce système de classement se veut stimulant afin d’inciter les joueurs à progresser. Or, cela entraîne des usages inattendus, notamment lorsque le classement est réinitialisé et que les joueurs obtiennent une récompense en adéquation avec leur positionnement, signalant ainsi le niveau atteint. Nous avons découvert qu’une partie des joueurs bronze demandaient à des joueurs d’un niveau supérieur d’utiliser leur compte afin d’essayer de les faire progresser dans le classement, espérant ainsi obtenir une récompense supérieure et améliorer l’image préalable que les autres auront d’eux.
+
+Le dispositif propose des outils différents permettant à l’individu de communiquer pendant et autour des parties, mais aussi de gérer ses interactions et de développer des liens récurrents avec les autres. L’usager se voit proposer la possibilité de dialoguer par écrit avec d’autres joueurs par l’intermédiaire d’une fenêtre de discussion. Il est ainsi libre de dire ce qu’il souhaite dans la limite d’un certain nombre de caractères à inscrire dans la zone de texte. Durant une partie, il peut discuter avec les membres de son équipe. Or, malgré l’existence de cet outil, dans le cadre d’une partie effectuée avec d’autres joueurs jamais rencontrés auparavant, écrire des messages dans le canal de discussion peut être très mal perçu et générer des réactions agressives de la part des autres sous prétexte qu’il faut se concentrer sur la partie plutôt que de discuter. Ce prétexte prend d’ailleurs tout son sens lorsque l’on sait qu’il n’est pas possible de contrôler le personnage et d’écrire en même temps. Cela donne lieu à des situations insolites comme un personnage ne bougeant pas lors d’un combat et se faisant exécuter car le joueur est en train d’écrire. Le jeu nécessitant tout de même un certain échange afin que le groupe se coordonne, l’éditeur a intégré un outil parallèle au canal de discussion, permettant de communiquer sans prendre le risque de perdre du temps en écrivant de longs messages : quatre icônes différentes permettent de signaler un danger, l’absence d’un ennemi, un lieu de rencontre ou un repli, accessibles par un simple clic de la souris. Ces éléments constituent des petites formes. Elles « sont des formes écrites de la médiation ; formes écrites dans le sens où une médiation […] ne peut se passer d’elles à l’écran et se constitue à travers elles. » [9. Davallon, J. (dir.), 2012, « L’économie des écritures sur le web », Cachan, *Lavoisier*, p.168.] Leur rôle est d’informer les joueurs. Elles sont signifiantes et vont connoter des actions et des attitudes à adopter récurrentes dans la pratique et permettent de s’adapter à la temporalité des actions en jeu. D’autres petites formes vont prémunir les joueurs d’éventuelles réactions écrites déplacées par un outil de contrôle qui permet d’ignorer les messages d’une personne en cliquant sur une icône représentant une bulle de communication. Celle-ci se substitue à une icône similaire rayée d’un trait rouge symbolisant que les messages du joueur sont ignorés. Le dispositif permet aussi aux joueurs de se contacter facilement en s’ajoutant mutuellement dans leur *liste d’amis* où s’affiche le nom des joueurs connectés, facilitant ainsi la communication entre eux. Ainsi, par cette fonctionnalité, l’usager aura une trace des autres utilisateurs qu’il aura appréciés. Le dispositif suppose ainsi une pratique du jeu basée sur la récurrence des interactions avec des coéquipiers réguliers. L’usager doit apprendre à décrypter ces ensembles de codes graphiques et textuels qui lui sont présentés afin de gérer au mieux ses relations et sa pratique. Cependant, l’interprétation n’est pas toujours aisée, comme c’est le cas en ce qui concerne le signalement de la connexion d’un individu, indiqué par l’expression *en ligne* accompagnée d’un symbole correspondant, un rond vert. Le dispositif signifie ainsi que le joueur est connecté au dispositif et qu’il est censé être disponible pour éventuellement faire une partie. Or, nous avons constaté que ce dernier n’est pas toujours présent derrière l’écran. Certains se connectent uniquement afin de pouvoir visualiser rapidement si quelqu’un est en ligne, tout en réalisant d’autres tâches en parallèle. C’est le cas d’une joueuse qui nous explique qu’elle se connecte le matin et reste en ligne, tout en vaquant à ses tâches quotidiennes, si bien que d’autres essaient de la contacter sans succès car elle n’est pas constamment derrière l’écran. Ce phénomène entraîne parfois des erreurs d’interprétation et est vécu comme un rejet de communiquer de la part de la personne qui ne reçoit pas de réponse à ses messages.
+
+Enfin, prendre part à l’activité ludique permet d’acquérir une expérience de jeu en développant des stratégies et en s’inspirant des conseils donnés par le dispositif. Certains éléments sont recommandés mais le joueur a la liberté de faire ce que bon lui semble sans être restreint dans ses choix. Or, si cette restriction de liberté d’usage ne vient pas du dispositif, elle peut cependant venir des interactions avec les autres joueurs. Par exemple, chacun va devoir choisir son rôle et son personnage dans la phase préliminaire de la partie. Une négociation s’engage via l’espace d’énonciation disponible. La liberté d’action qui paraît grande si l’on se contente de poser son regard sur le dispositif se voit soudain restreinte par les interactions avec les joueurs. En effet, il est possible que le personnage désiré par l’usager soit déjà sélectionné par un autre, que les équipiers écrivent des recommandations ou critiques. Une fois en jeu, il se peut aussi que les ennemis s’acharnent sur son personnage pour une raison insaisissable. Les comportements des autres utilisateurs peuvent nuire à l’expérience du joueur, tout comme l’entraide ou la collaboration avec les autres peuvent améliorer ses connaissances et sa satisfaction liée au jeu d’équipe. Ainsi, la liberté de l’usager dans la pratique du jeu peut sembler importante au regard des outils permettant de gérer ses interactions. Or, son expérience de jeu peut se voir limiter par l’aspect compétitif et par le comportement des autres joueurs que le dispositif ne peut réellement anticiper, si ce n’est en proposant des fonctionnalités permettant de signaler les bons et mauvais comportements. Après de nombreuses heures de jeu, l’usager peut ressentir de la lassitude et arrêter progressivement l’activité. Afin de pallier ce sentiment, analysons le processus de séduction évolutif permettant de conserver des joueurs actifs dans la pratique.
+
+### Un processus de séduction à l’œuvre dans le jeu vidéo
+
+Après plusieurs centaines d’heures de jeu, parfois dans des conditions laissant entrevoir des comportements déplorables, il est possible de s’interroger sur les éléments qui continuent de séduire les joueurs une fois que l’effet de surprise lié à la découverte d’un nouvel univers est passé. Il est ici question des mises à jour techniques et graphiques du jeu et de la mobilisation des joueurs autour des compétitions d’*eSport*.
+
+Le premier aspect à prendre en compte dans le processus de séduction serait la perpétuelle évolution des environnements sur des aspects techniques ou graphiques. En effet, l’éditeur propose des mises à jour variées toutes les deux semaines et intègre un nouveau personnage une fois par mois, ce qui permet de maintenir les usagers dans une constante attente de nouveauté, parfois payante. Ces dernières concernent principalement l’introduction de nouvelles apparences ou skins, c’est-à-dire qu’un champion pourra avoir en jeu un aspect visuel, des animations et des répliques différentes en fonction du skin sélectionné. Certains ont un coût plus élevé car les modifications sont plus importantes et peuvent atteindre les 15 euros comme par exemple les skins évolutifs au fil de la partie. Récemment, la boutique s’est vue enrichie d’un skin évolutif très esthétique pour un personnage dont les quatre techniques sont liées à l’apparence d’animaux. Pour la première fois, la proposition d’achat de cet élément s’est accompagnée d’une mise en scène des différents effets graphiques à travers une bande dessinée interactive, montrant le personnage dans un contexte de bataille toujours lié au contexte fictionnel, faire office de ses pouvoirs afin de présenter les nouveaux visuels. Le joueur est invité à effectuer des mouvements avec la souris symbolisant chaque technique du champion afin de passer à la page suivante. Cela contribua sans doute à l’engouement pour l’achat de ce skin. Ainsi, l’aspect commercial ne semble pas réfréner les joueurs qui n’ont pas d’objection à jouir de ces nouveautés si elles s’accompagnent d’une annonce mobilisant fortement le design graphique et multimédia. Notons cependant que l’éditeur propose régulièrement des refontes gratuites de l’apparence des champions les plus anciens afin de les rendre plus cohérents avec leur histoire ; certains étant même totalement repensés du point de vue de leurs mécanismes en jeu. En début d’année 2013, une nouvelle carte de jeu fut introduite sur la thématique de la période glaciaire. Sa sortie fut accompagnée d’un site Internet mettant en scène différents personnages, ajoutant un pan de récit au scénario fictionnel.
+
+Ainsi, il est possible de voir que la société productrice du jeu semble apporter un grand nombre de modifications régulières dans le but de continuer à séduire les joueurs et de leur proposer une immersion et une appropriation du scénario toujours plus grandes. Les développeurs semblent accorder un intérêt croissant aux aspects graphiques qu’ils mobilisent de plus en plus afin de surprendre les usagers, ce qui s’intègre dans une stratégie commerciale plus générale.
+
+La médiatisation de l’*eSport* et le lien avec les joueurs professionnels concourent aussi au processus de séduction. En effet, en parallèle à la pratique s’est développé un monde professionnel dont la médiatisation des activités mobilise les usagers à l’intérieur et à l’extérieur de l’activité. Prenons pour exemple le championnat mondial qui se déroule au moment même de l’écriture de cet article. Cet évènement a lieu dans une salle de spectacle et est retransmis en *streaming*. Des éléments techniques et graphiques ont été intégrés afin de faciliter la compréhension des spectateurs comme l’utilisation d’un système d’écran géant permettant de projeter dans la salle les choix des personnages de manière dynamique, augmentant ainsi la spectacularisation de l’évènement. Des outils sont également affichés sur l’écran de *streaming* afin de faciliter pour les spectateurs la compréhension du match en train de se dérouler. L’éditeur du jeu encourage les joueurs professionnels à *streamer* leur session d’entrainement en leur offrant des comptes de jeu, afin de tisser des liens avec les usagers pour les inciter à se mobiliser en soutenant leur équipe lorsque ce type de compétition est organisé. Il fut d’ailleurs possible pour les usagers de choisir gratuitement une icône pour leur profil d’invocateur à l’effigie de l’équipe qu’ils souhaitaient soutenir. L’organisation et la médiatisation de ce type d’évènement rendent la pratique du jeu encore plus dynamique, projetant l’usager dans un univers de spectacle lié à son activité.
+
+Pour conclure, le design graphique et multimédia est indispensable dans le cas des jeux vidéo en ligne et s’articule à une stratégie commerciale, nécessitant dans certains cas un investissement financier de la part du joueur s’il souhaite accéder à certaines nouveautés. Cela permet d’attirer l’usager, de le séduire et de l’inciter à fréquenter le monde numérique sur le long terme. À travers le dispositif, des usages sont présupposés ainsi que les attentes des usagers. L’enjeu est de laisser aux joueurs des moyens symboliques permettant de se faire une place dans la pratique afin de leur donner une certaine autonomie tout en sachant que celle-ci sera mise à l’épreuve au cours des différentes interactions avec les autres participants. Tout contribue à projeter l’usager au centre du processus, de l’action, du jeu même car, sans sa présence, l’univers fictionnel ne pourrait trouver les moyens de persister.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: (file: echappees-place-de-lusager-et-appropriation-du-monde-fictionnel-de-8239league-of-legends-8239.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Marion Rollandin
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 
+
+[1.] Un *MOBA* (*Multiplayer online battle arena*) est une arène de bataille en ligne multijoueurs où deux groupes de joueurs, généralement par cinq, vont s’affronter par l’intermédiaire de personnages sur une carte qui représente le champ de bataille. L’objectif de chaque équipe est la destruction de la structure possédée par l’équipe adverse.
+
+[2.] *League of Legends* est un jeu édité en 2009 par *RiotBGames*. Il fonctionne sur le principe du* free-to-play* : l’accès est gratuit mais il est possible d’acheter avec de l’argent réel, dans la boutique du jeu, des objets utilisables durant les parties. Cela permet de faire vivre le jeu. La constitution des équipes se fait de manière aléatoire par une fonctionnalité du dispositif ou par les joueurs qui choisissent eux-mêmes leurs coéquipiers. Ils peuvent s’entrainer à maitriser leur personnage dans le mode de jeu *normal*, avant de se confronter au mode de jeu *classé* où le résultat contribue à les situer dans un classement général. L’usager accède à deux interfaces : celle de jeu durant la partie et celle de gestion en amont et en aval de la partie.
+
+[3.] Le Marec, J., Babou, I., dans Souchier, E., Jeanneret, Y., Le Marec, J. (dir.), 2003, « Lire, écrire, récrire : objets, signes et pratique des médias informatisés », Paris, *BPI*, p. 237.
+
+[4.] Winkin, Y., 1996, « Anthropologie de la communication : de la théorie au terrain », Bruxelles, *Éditions De Boeck Université*, p.61.
+
+[5.] (En ligne) (link: http://gameinfo.euw.leagueoflegends.com/fr/game-info/get-started/what-is-lol/ text: http://gameinfo.euw.leagueoflegends.com/fr/game-info/get-started/what-is-lol/) (Consulté le 01.01.2014)
+
+[6.] Goffman, E., 1991, *Les cadres de l’expérience*, Paris, les Éditions de Minuit, p.30.
+
+[7.] Goffman, E., 1991, *Les cadres de l’expérience*, p.47.
+
+[8.] Goffman, E., 1973, *La mise en scène de la vie quotidienne*. Tome 1 : *La présentation de soi*. Paris, Les Éditions de Minuit, p.23.
+
+[9.] Davallon, J. (dir.), 2012, « L’économie des écritures sur le web », Cachan, *Lavoisier*, p.168.

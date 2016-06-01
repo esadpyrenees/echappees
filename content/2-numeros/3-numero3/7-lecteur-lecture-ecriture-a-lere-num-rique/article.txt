@@ -1,0 +1,147 @@
+Pagesettings-1: 
+
+----
+
+Title: Lecteur, lecture, écriture à l’ère numérique
+
+----
+
+Article-date: 6 mars 2014
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: corinne-melin
+- 
+  auteur_uid: perrine-saint-martin
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: Depuis 2012, sont interrogées les modalités de la lecture et de l’écriture sur les supports numériques et l’influence de ces derniers sur les pratiques du lecteur. La recherche se fait en alternant interrogation théorique et mise en pratique et mutualisation des découvertes
+
+----
+
+Article-chapeau-redaction-note: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+Depuis 2012, Corinne Melin et Perrine Saint Martin interrogent leurs disciplines respectives : l’esthétique et la typographie édition à partir des modes de transmission qui leur sont propres et qui sont mis en commun. Elles associent leurs réflexions et pratiques à celles de chercheurs, de professionnels au travers de temps forts, d’ateliers intensifs d'une semaine, de conférences et de séminaires, et à destination des étudiants du second cycle. Ceux-ci sont conduits à appliquer à un projet précis, certains concepts abordés pendant les temps de recherche. L’objet d’interrogation était l'influence exercée par les nouvelles Technologies de l’Information et de la Communication sur notre façon de lire et d’écrire. En quoi, les outils influencent-ils notre pratique de la lecture : relation à l'écran, déplacement, relation texte et image, hyperlien, etc. ? Comment le designer qui œuvre au service d'un contenu le donne à voir, à lire ? Comment peut-il en faciliter la transmission ?
+
+Les trois articles ci-après ont été rédigés par des étudiantes alors en DNSEP option Design Graphique et Multimédia à l’ÉSA Pyrénées – Pau en 2014-2015. Elles ont participé aux ateliers séminaires « Lecteur, lecture les enjeux de la conception éditoriale à l’ère numérique » et y ont rencontré notamment Julie Denouël, spécialiste des usages et de la communication numérique. Les trois articles rendent compte des vues réflexives et / ou personnelles des étudiantes, diplômées depuis juin 2015. Ces vues ont été forgées à partir de questions soulevées lors des ateliers et mises en pratique notamment dans leur projet de diplôme. 
+
+(image: atelier-seminaire-invitee-julie-denouel-oct-2014.jpg)
+#####Julie Denouel, invitée du séminaire « Lecteur, lecture les enjeux de la conception éditoriale à l’ère numérique » en octobre 2014.
+(image: yeye-han-atelier-seminaire-mars-2014.jpg)
+#####Recherches lors du séminaire, Han Yeye, étudiante.
+
+----
+
+Article-note: 
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: Technologies de l’Information & de la Communication
+
+----
+
+Article-keyword: Corinne Melin, Perrine Saint Martin, lecteur, lecture, écriture, numérique, recherche, édition, usage, séminaire atelier, ÉSA Pyrénées – Pau
+
+----
+
+Article-resume: 
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Article-relie: 
+
+----
+
+Pdf: (file: echappees-lecteur-lecture-ecriture-a-lere-numerique.pdf text: Voir et télécharger le PDF de l'article popup: yes)
+
+----
+
+Label: 
+
+----
+
+Print: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: 
+
+Corinne Melin 
+<br>
+& Perrine Saint Martin
+
+----
+
+Article-sito: 
+
+----
+
+Chapeau-note-print: 
+
+----
+
+Article-note-print: 

@@ -1,0 +1,153 @@
+Pagesettings-1: 
+
+----
+
+Title: Le silence des signes – une archéologie de la céramique
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: dominique-allios
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+La céramique, combinaison d’argile, de sable, d’eau et de feu, est la première matière créée par l’homme. Ses applications sont infinies : l’écriture, l’architecture, l’équipement domestique, culinaire, sanitaire, religieux, militaire, aérospatial. Bref, la céramique occupe une place privilégiée dans tous les domaines de l’activité humaine et constitue par conséquent, un document — une archive, une mémoire — inestimable.
+
+L’une des caractéristiques essentielles de la céramique pour les archéologues est sa stabilité dans le temps. Lors de son abandon — de son « enfouissement » —, la terre cuite n’a en effet quasiment aucune interaction avec le milieu environnant. Aussi, bien que non polluante, elle ne se dégrade pas systématiquement [1. À l’exception des poteries souscuites ou enfouies dans des sols aux compositions chimiques très agressives.]. Une céramique est éternelle, plus qu’une momie ou une pyramide, plus que de l’acier ou du béton.
+
+À Rome, le mont Testaccio (la colline des tessons) accumule sur 30 mètres de hauteur des millions de fragments d’amphores antiques. Mahasthan — la citée perdue du Bengale —, dresse sur des kilomètres ses murailles de brique. En Chine, les célèbres armées de soldats en terres cuites de Xi’an protègent les tombeaux d’anciens empereurs chinois.
+
+Toutes les civilisations, des plus prestigieuses aux plus indigentes, à de rares exceptions, produisent ou ont produit de la céramique à partir du Néolithique. La poterie apparaît en plusieurs endroits de l’Eurasie : entre le XIVe et le IXe millénaire avant J.C. dans le sud de la Chine, puis, simultanément au VIIe millénaire en Chine centrale, au Japon, au Proche-Orient, en Afrique de l’Ouest. Enfin, elle est découverte en Amérique du Sud entre 1800 et 1000 avant J.C. L’art de la poterie se transmet de deux manières possibles : soit en une lente diffusion par les « échanges », soit elle procède de découvertes isolées. L’invention de la céramique serait alors le résultat d’une pression environnementale, qu’elle soit sociale, technique, naturelle ou culturelle.
+
+### L’archéologue — céramologue
+Chaque culture laisse derrière elle un large sillage de poteries ou une piste de tessons. Les archéologues les remontent et, dans une maniaque hystérie, comptent, mesurent, recollent, dessinent, classent, écrivent, se disputent et rangent dans des boîtes leurs milliers de petits morceaux de poteries.
+
+Étymologiquement, le céramologue est celui qui crée un discours et un savoir à partir des céramiques. Plus prosaïquement, il est le spécialiste des poteries dans une équipe d’archéologues. Il n’en demeure pas moins historien et son rôle est d’extraire à partir des vestiges étudiés, y compris les plus modestes, toutes les informations sur la société qui les a fabriqués, utilisés et déposés. Selon la période qu’il étudie, sa formation et ses motivations, le travail et les techniques d’investigation peuvent varier considérablement. La variété des productions céramique est telle qu’elle confère à chaque culture un visage particulier. À chaque culture correspond une production céramique spécifique. Lors des prospections archéologiques, un seul tesson peut trahir un site et sa période : un fragment d’amphore ou de tuile à rebord pour une villa romaine, une ligne imprimée sur une paroi à l’aide d’un coquillage pour un établissement du Néolithique ancien, un décor de fines lignes rouges parallèles sur un pot indiquant que l’objet provient de la Corinthe archaïque, etc.
+
+Imitant et reprenant le système de la classification des sciences naturelles du XVIIIe siècle, les archéologues classent, regroupent et distribuent les productions céramiques par types. La typologie s’ordonne suivant la chronologie — préoccupation majeure des archéologues. Les archéologues cherchent à dater les choses, ou plus exactement à les insérer dans des espaces chronologiques définis. Les céramiques servent ainsi de repères chronologiques essentiels appelés « des vestiges directeurs » ; certaines, comme les sigillées romaines peuvent être datées avec une précision de vingt ans ; d’autres, comme les céramiques médiévales, de deux siècles. Cette différence s’explique par le mode de production quasi industriel et très normalisé du monde romain ; le monde médiéval ayant recours à un artisanat plus hétérogène (et dont la connaissance est paradoxalement plus lacunaire).
+
+Les classifications typologiques sont fréquemment bâties à partir du seul aspect visuel des poteries : la forme et le décor prenant le pas sur les caractéristiques techniques. Puis, les types de céramiques (pots, jarres, amphores…) sont classés suivant le temps en une courbe ascendante. Ce procédé est issu du positivisme et de l’évolutionnisme, courants de pensée pour lesquels le progrès est, depuis le XIXe siècle, considéré comme invariable, l’humanité ne cessant de se perfectionner grâce à ses inventions et découvertes. Les périodes de recul (comme la fin de l’Empire Romain et le haut Moyen Âge) sont expliquées comme étant des épiphénomènes ou des décadences, issues ou conséquences de l’abâtardissement et la dégénérescence des populations. Par exemple, la disparition de l’art de la poterie antique à partir du VIe siècle en Occident est considérée comme un mal nécessaire, prélude à des mutations futures [2. Voir notamment à ce sujet, Dominique Allios, 2004, *Le vilain et son pot — Céramiques et vie quotidienne au Moyen Âge*, Presses Universitaires de Rennes, Rennes.].
+
+Lorsque les céramiques sont classées et reconnues en entités distinctes, les archéologues dessinent les cartes de répartition qui peuvent soit être interprétées comme des surfaces de distribution (par le commerce ou les échanges), soit marquer le territoire d’une population. C’est ainsi que tout au long du XXe siècle, quelques malheureux tessons de céramique ont été utilisés comme preuves scientifiques et arguments politiques justifiant l’annexion militaire de territoires [3. Les cas sont nombreux… Les archéologues nazis se sont ainsi appuyés sur les théories de Kossinna qui écrit, en 1910 : « Des régions culturelles bien déterminées et délimitées correspondent indéfectiblement (pour toujours) à des peuples et races bien déterminés. ». ].
+
+(image: d.jpg caption: Céramiques de Mahasthan Bangladesh–franco-bangladaise de Mahasthan dirigée par D. Allios, J.-F. Salles _CNRS / Hisoma-UMR 5189_, cliché Massoud Karim. © Mission archéologique)
+
+À partir des recherches menées au XIXe siècle par Brongniart [4. Alexandre Brongniart, 1844, *Traité des arts céramiques ou des poteries considéréest dans leur histoire, leur pratique et leur théorie*, 3 vol., Paris. ], la technologie dans le domaine de la céramologie est devenue prédominante à l’après-guerre. Cette approche permet de définir les différentes modalités de réalisation des objets : de l’extraction de l’argile à la cuisson des poteries en passant par les techniques de modelage, de décor, tout comme l’organisation des potiers (artisanat, manufacture, industrie). La succession des étapes de fabrication est déterminée par l’observation des poteries : observation des pâtes, des traces de fabrications, détermination des températures de cuisson, etc. Mais, cantonnée dans le monde académique et scientifique, cette approche délaissa céramistes, potiers et artistes. Delacroix, Gauguin, Rodin, Picasso puisaient largement dans l’archéologie des éléments d’inspiration ou, plus exactement, de confrontation avec le passé. Rares sont les artistes contemporains qui peuvent le faire ; non pas par inculture, mais parce que les données actuelles en archéologie sont inaccessibles, voire incompréhensibles.
+
+La chronotypologie constitue l’une des premières étapes de l’archéologie qui, pour chaque période, pour chaque culture, définit une production céramique spécifique et son évolution suivant la ligne du temps que propose la stratigraphie. La seconde étape, la plus importante, est de faire parler les céramiques. Tout comme les oeuvres d’art ou les manuscrits, les objets nous *parlent*. Bien entendu, la richesse et la portée du discours ne sont pas les mêmes, mais les signes relevés, combinés entre eux, forment comme des lettres, quelquefois des mots, plus rarement des phrases arrachées au monde des morts.
+
+La valeur de ces signes est inestimable dans la mesure où ils proviennent bien souvent de peuples, d’individus qui n’avaient pas accès au privilège de l’écriture. Aussi, si l’écriture consignée sur les tablettes d’argile sumériennes est en soi un document, on sait que les textes ne parlent que d’une partie de la société comme de « thèmes » précis (tels que la comptabilité, la religion, la politique), laissant dans l’ombre tout le reste de la population. Les céramiques, elles, sont partout et témoignent de tous, elles sont un documentunique faisant parler les hommes de la Préhistoire, les esclaves antiques ou les serfs médiévaux voire des peuples dont même le nom a disparu. La pierre de Rosette a permis aux chercheurs de lire les hiéroglyphes, redonnant la parole à toute l’Égypte ancienne. Les céramiques anciennes, malgré la richesse des informations qu’elles contiennent, n’ont peut-être pas encore trouvé leur Champollion… Elles ne sont « décryptées » que partiellement, à travers une lecture morphologique, typologique, décorative, technique et qui délaissent certaines questions essentielles. Tel est le cas des dépôts votifs et funéraires. L’objet exhumé de ce contexte, par le caractère religieux du geste, prend alors une autre dimension, valorisant à la fois le sujet et l’archéologue luimême. Ainsi, des dépotoirs de céramiques médiévales du midi de la France ont été considérés dans les années 1980 comme relevant de rituels cathares et chtoniens : des pots posés à la tête de squelettes médiévaux indiquaient des sépultures de prêtres [5. D. Allios, *Le vilain et son pot*, *op cit*.]. L’interprétation religieuse constituait alors une solution tentante. Actuellement, le phénomène s’inverse : les archéologues, tout en décrivant avec force de détails ces dépôts, se gardent bien de proposer la moindre interprétation religieuse ou spirituelle. Cette attitude des chercheurs contemporains s’inscrit pleinement dans le matérialisme de notre société, cherchant à oblitérer la mort et le rituel sacré, en y substituant de nouveaux « rituels », bien souvent
+consuméristes.
+
+### Une esthétique ?
+La dimension esthétique est également délaissée, dans l’ensemble, de l’étude des céramiques. Bien sûr, la place de la céramique dans l’art est variable selon le statut qu’une culture confère à ce matériau. Toutes les civilisations classent, en fonction de références religieuses, les matières, de noble à vulgaire, de sacrée à profane : L’Occident chrétien médiéval porte aux nues or et pierreries et méprise la terre cuite issue de la glaise. À l’inverse, les musulmans, en fonction des préconisations du prophète Mahomet, vont donner à l’art de la terre une considération sans aucune mesure, comme l’attestent les carreaux en terres cuites glaçurées qui décorent le mihrab de la mosquée de Kairouan. Les plats de céramiques métallescentes ou glaçurées ornent les tables et les palais des souverains de l’Andalousie à l’Inde Mongole, et les grands ateliers de céramistes bénéficieront de toutes les recherches et du savoir scientifique des musulmans. En Occident chrétien, le potier restera jusqu’à la Renaissance un artisan de second (ou de troisième) ordre, et l’usage de la vaisselle de terre n’apparaîtra qu’à la cour de Louis XIV. Cela bien sûr, soulève le débat entre arts majeurs et arts mineurs, artistes et artisans [6. Voir notamment le colloque X. Barral, I Altet (dir.), 1983, *Artistes, artisans et production artistique au Moyen Âge*. Actes du Colloque international, Paris.], et dont nous trouvons une flagrante contradiction dans l’exposition d’une céramique grecque au Louvre et d’une poterie olmèque aux Arts Premiers. Si les céramiques de la Grèce archaïque sont de véritables œuvres d’art combinant peinture et sculpture, les poteries domestiques de cette même période possèdent aussi une dimension esthétique. Toute production matérielle, fût-elle fonctionnelle, détient toujours une dimension artistique — artistique dans le sens où s’y manifeste une pensée commune, autrement dit, une culture spécifique avec ses lois, ses codes esthétiques — ses canons. Pour autant, cette lecture n’est réservée qu’aux productions considérées comme les plus prestigieuses [7. Par exemple, des outils et des céramiques des XVIIIe et XIXe siècles, qui n’avaient auprès de leurs contemporains qu’une valeur fonctionnelle, font de nos jours l’objet de collections et d’articles dans des revues d’art.].
+
+Définir et caractériser une civilisation ou une culture est un débat infini, sans cesse réactualisé en fonction de nos propres critères : la langue, la religion, l’organisation politique, et, pourquoi pas, le style ? « Individualiser » une civilisation ou une culture n’est pas chose aisée et son interprétation varie, à l’évidence, en fonction de l’observateur. Nous aurions tendance à unifier un Manchou et un Cantonais, à séparer un Basque d’un Breton. Pour un archéologue, les objets et les productions matérielles sont désignés sous le terme d’industrie ou de cultures matérielles, mais la culture — et nous le voyons bien dans notre art actuel — est surtout im-matérielle. Pour individualiser des populations de la Préhistoire, des archéologues s’appuient sur la forme des poteries et leurs décors, ou sur la technique de la taille des silex [8. Pour le Néolitique Ancien et Moyen du Midi de la France, nous avons la civilisation cardiale (coquillage qui décore les poteries), et la culture des « vases à moustache » de Montbolo (site éponyme).]. En effet, une céramique, lors de sa conception, respecte des normes et une esthétique, à l’égal des productions plus prestigieuses comme l’architecture. C’est la proportion de ces normes ou règles qui confère à l’objet sa dimension usuelle ou artistique, ou encore, religieuse. Il est d’une grande naïveté de croire que c’est le XXe siècle qui a inventé ou conféré une valeur esthétique aux objets quotidiens (du Modern Style au Bauhaus), en inventant le terme de *design*… Une poterie usuelle témoigne du goût d’une époque et, sans le recours des textes et des oeuvres d’art, l’archéologue découvre en elle de nombreuses confidences sur ses créateurs.
+
+Toutefois cette analyse stylistique se trouve en décalage avec la conception mécanique et positiviste qui imprègne la recherche archéologique. Les archéologues ont une nette tendance à se situer du côté des sciences exactes ou dures. De plus, même si l’apport du structuralisme a modifié considérablement les sciences humaines, en travaillant sur le relatif, l’humain et le sensible, le religieux ou le spirituel (et non pas uniquement sur une technologie), de nombreuses publications scientifiques décrivent, comme je l’ai dit, des dépôts votifs de poteries sans aborder la signification du geste. De nos jours, l’archéographe (celui qui dessine les choses anciennes) se substitue à l’archéologue, privilégiant une description clinique, aussi complexe que rassurante. Par conséquent, le recours à l’appareil scientifique utilisé pour les analyses des céramiques a trop souvent comme corollaire une grande pauvreté épistémologique. Analyse des pâtes en lumière polarisante, diffractométrie par microscope à balayage électronique, dilatométrie pour connaître les températures de cuisson, archéomagnétisme pour déterminer l’ancienne orientation du nord magnétique lors de la cuisson, sont des outils remarquables d’investigation, mais l’exploitation des résultats qu’ils fournissent délaisse souvent la dimension historique et anthropologique. Par exemple, des chercheurs ont déterminé que des potiers du Néolithique ont ajouté à la pâte des coquillages broyés, or on sait que la présence du calcaire est un non-sens technique (les points de chaux fragilisant considérablement les pots), mais ce geste n’a pas été analysé sur le plan culturel… On le comprend fort aisément : c’est justement dans ces illogismes techniques que la part culturelle se révèle essentielle… Comment un archéologue du futur interprétera notre époque ? Comment, par exemple, expliquer la présence de véhicules roulant à 300 kilomètres / heure sur des routes limitées à 130 kilomètres / heure ? Pourquoi des appareils électroniques ont un coût qui est inversement proportionnel à leur durée de vie ? On retrouve ces mêmes contradictions dans le passé. Le Moyen Âge occidental maîtrise parfaitement les techniques des émaux et des vitraux, les fondants, les points eutectiques, les oxydes et colorants. Plusieurs milliers de mètres carrés de verres colorés couvrent les cathédrales tandis que, dans le même temps, les potiers sont incapables de réaliser des céramiques glaçurées [9. Cette technique ne se généralise qu’à partir du XIVe siècle.]. Verriers et émailleurs appartiennent au monde religieux, le potier appartient au monde profane.
+
+La céramique offre des usages si variés que l’historien les regarde de façons fort différentes : d’une amphore gisant au fond des mers, on cherchera la provenance, la destination ; pour une coupe de la Préhistoire, quelle est sa période ; pour une faïence moderne, quel est le thème de son décor, etc.
+
+Cependant, les cloisonnements par période créent de nombreuses limites pour la connaissance de la céramique. L’appréciation globale de son évolution outrepasse continents et cultures, encore plus les états et les régions. Par exemple, l’histoire de la glaçure prend son origine dans la Chine des Han (− 206 + 220), on la retrouve dans la Rome antique, elle est réinventée par les Abbassides au IXe siècle, pour se propager en Europe à partir du XIIe siècle. L’imitation et la copie sont l’un des moteurs essentiels (mais pas exclusifs) de cette traversée d’Est en Ouest, de l’Asie à l’Europe, et qui dure plus d’un millénaire. Les premiers platsmusulmans recopient les idéogrammes chinois, les chrétiens imitent ensuite les caractères coufiques.
+
+Ainsi, l’histoire de l’homme racontée par ses propres créations se mondialise en trois temps : l’Âge de Pierre, l’Âge de la Terre Cuite, l’Âge du Plastique. Elle se trouve en totale contradiction avec l’Histoire événementielle, nationaliste ou régionaliste. Mais cette vision ouvre, peut-être, trop de perspectives que nous ne voulons pas ou ne cherchons pas à voir. Les pots portent des signes que nous grossissons ou oblitérons révélant, par la nature même de nos questions, nos propres préoccupations. Que cherche réellement à voir l’archéologue au travers d’un fragment de poterie et de sa discipline ? Faire, à partir de signes épars, parler un monde défunt ou bien, trouver dans un étrange miroir une réponse au mystère de la mort ?
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: 
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: 
+
+----
+
+Nom-auteur: Dominique Allios
+
+----
+
+Article-sito: 

@@ -1,0 +1,38 @@
+Info-1: 
+
+----
+
+Title: Emmanuël Souchier
+
+----
+
+Info-2: 
+
+----
+
+Text-bio: Professeur des Universités. Celsa, Université Paris-Sorbonne. Éditeur des Œuvres de Raymond Queneau pour la *Bibliothèque de la Pléiade*, *Les Cahiers de la NRF* ou *Folio*, il est Rédacteur en chef de la revue *Communication & langages*. Il dirige avec Anne Zali (Bibliothèque nationale de France) le séminaire doctoral « Chemins d’écritures » à la *Maison de la recherche*, Université Paris-Sorbonne. Ses travaux portent sur l’histoire et la sémiologie du texte et de l’image, sur les imaginaires et pratiques d’écritures (écriture, typographie), sur le livre et les médias *numériques*. Auteur d’une théorie de *l’énonciation éditoriale*, il est également à l’origine d’une théorie de *l’écrit d’écran* et des *écrits de réseaux*. Il s’intéresse aux pratiques de communication *infra-ordinaires* liées à la *mémoire de l’oubli* ainsi qu’aux rapports entre littérature et communication (littérature du XX<sup>e</sup> siècle, Raymond Queneau, Oulipo).
+
+----
+
+Text-contact: 
+
+Professeur des Universités. Celsa, Université Paris-Sorbonne. 
+Ses travaux portent sur l’histoire et la sémiologie du texte et de l’image, sur les imaginaires et pratiques d’écritures (écriture, typographie), sur le livre et les médias numériques. Auteur d’une théorie de *l’énonciation éditoriale*, il est également à l’origine d’une théorie de *l’écrit d’écran* et des *écrits de réseaux*. Il s’intéresse aux pratiques de communication *infra-ordinaires* liées à la *mémoire de l’oubli* ainsi qu’aux rapports entre littérature et communication (littérature du XX<sup>e</sup> siècle, Raymond Queneau, Oulipo).
+
+----
+
+Text: lien vers un article ou vers un ite web
+
+----
+
+Text-liens: 
+
+Éditeur des Œuvres de Raymond Queneau pour la *Bibliothèque de la Pléiade*, *Les Cahiers de la NRF* ou *Folio*, il est Rédacteur en chef de la revue *Communication & langages*. 
+Il dirige avec Anne Zali (Bibliothèque nationale de France) le séminaire doctoral « Chemins d’écritures » à la Maison de la recherche, Université Paris-Sorbonne.
+
+----
+
+Text-liste-articles: 
+
+(link: numeros/numero3/l-ecrit-d-cran-pratiques-d-criture-informatique text: n°3 : L'écrit d'écran, pratiques d'écriture & informatique publié in Communication et langages, n° 107, 1er trimestre 1996.)
+(link: numeros/numero3/entretien-avec-emmanuel-souchier-sur-lecriture-et-la-lecture-aujourd-hui text: n°3 : Entretien avec Emmanuël Souchier, Sur l’écriture et la lecture aujourd’hui)

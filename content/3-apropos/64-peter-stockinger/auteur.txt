@@ -1,0 +1,17 @@
+Title: Peter Stockinger
+
+----
+
+Text-bio: Peter Stockinger est Professeur des Universités en Sciences du Langage, spécialiste en sémiotique, il dirige l’Equipe *Sémiotique Cognitive des Nouveaux Médias* (ESCoM) au sein la *Fondation Maison des Sciences de l’Homme*. Il est le créateur du programme des *Archives Audiovisuelles de la Recherche*.
+
+----
+
+Text-contact: 
+
+----
+
+Text-liens: 
+
+----
+
+Text-liste-articles: (link: numeros/numero2/archives-audiovisuelles text: n°2 : Archives audiovisuelles numériques de la recherche en SHS et Digital Information Design : rencontre entre sémiotique de l’audiovisuelle numérique et nouvelles interfaces documentaires)

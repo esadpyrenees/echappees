@@ -1,0 +1,161 @@
+Pagesettings-1: 
+
+----
+
+Title: La tracéologie ou comment rendre visible l’invisible : étude de traces microscopiques sur des outils préhistoriques
+
+----
+
+Article-date: 
+
+----
+
+Pagesettings-2: 
+
+----
+
+Article-auteur: 
+
+- 
+  auteur_uid: loic-torchy
+
+----
+
+Pagesettings-3: 
+
+----
+
+Article-chapeau-redaction: 
+
+----
+
+Article-chapeau-auteur: 
+
+----
+
+Line: 
+
+----
+
+Info-1: 
+
+----
+
+Article-galerie: 
+
+----
+
+Line-2: 
+
+----
+
+Info-2: 
+
+----
+
+Article-text: 
+
+### La tracéologie [1. La tracéologie, née il y a une quarantaine d’années, est une branche de l’archéologie qui s’est développée récemment en France. Elle a pour but d’examiner, notamment grâce au microscope, les traces laissées par les hommes du passé sur chaque matière d’œuvre (bois, végétaux, minéraux…), et d’en déterminer la ou les fonctionnalités et, ainsi, de rendre visible l’invisible. Sa nouveauté et son discours sur les traces, l’iconographie qu’elle produit via des microscopes très perfectionnés, ses prolongements actuels dans d’autres domaines que l’archéologie comme la criminologie, nous sont apparus comme autant de raisons pour inviter Loïc Torchy, jeune chercheur en tracéologie. Si le texte qu’il signe ici expose le fruit de ses investigations selon le vocabulaire spécifique du spécialiste, son intervention dans le cadre du séminaire nous a conduit à établir de nombreux liens analogiques avec le champ des arts visuels.]ou comment rendre visible l’invisible : étude de traces microscopiques sur des outils préhistoriques
+
+L’observation à fort grossissement et l’étude des traces d’utilisation sur les outils préhistoriques en silex a donné son nom à une discipline : la tracéologie. Par la suite, le champ d’application de cette science a été répandu sur d’autres matières premières, comme l’os ou le métal, et pour toutes périodes chronologiques. L’analyse de ces indices (stries, écaillements, émoussements, polis…) permet de reconstituer le mode de fonctionnement des outils, d’avoir des indications sur la matière travaillée et dans certains cas, de proposer des hypothèses sur la finalité du geste. Avant la proposition de cette méthode par Sergei A. Semenov dans les années 1930, le seul moyen de classer les outils préhistoriques était de les comparer aux outils modernes ou ethnographiques, et de les lister par types. La tracéologie permet d’avoir un regard moins subjectif sur la fonction des outils. Au Néolithique, l’étude de ces traces présente un intérêt particulier puisque, avec le développement de l’élevage et de l’agriculture, les outils sont de plus en plus diversifiés. Par la reconstitution des gestes, nous abordons les savoir-faire et les modes de vie de ces sociétés.
+
+### Origine de la tracéologie, et méthode d’approche
+Dès la naissance de la Préhistoire au milieu du XIXe siècle, les archéologues ont éprouvé le besoin de donner une fonction aux objets recueillis. Ces interprétations étaient rendues possibles par des comparaisons avec des outils modernes, des exemples empruntés à l’ethnologie, ou encore par des tests expérimentaux qui visaient à montrer les fonctions pour lesquelles les outils étaient le mieux adaptés. Dans les années 1930, Sergei A. Semenov est le premier à observer à fort grossissement les traces d’usure sur les outils en silex, pour les comparer à un référentiel expérimental puis, par analogie, d’en restituer leurs modes d’utilisation. Ses travaux ne furent traduits du russe que bien plus tard (Semenov, 1964), et après la prise de conscience de l’importance de cette nouvelle discipline dans les années 1970, les préhistoriens occidentaux s’engagèrent dans des débats méthodologiques dans les années 1980 et 1990 sur l’utilisation des faibles (10x à 80x), forts (100x à 400x), et très forts grossissements (jusqu’à 10000x). Aujourd’hui, bon nombre de chercheurs ont choisi de combiner l’utilisation de la loupe binoculaire et du microscope métallographique, qui sont des méthodes peu couteûses et complémentaires. Ces instruments permettent l’observation de la plupart des traces d’utilisation, c’est-à-dire des micro-écaillements, des émoussements, des polis et des stries d’utilisation. Ces indices, comparés à des traces de référence, permettent dans la plupart des cas de déduire le fonctionnement de l’outil et de connaître la matière travaillée, et parfois d’aller jusqu’à formuler des hypothèses sur la finalité du geste. L’observation d’une série d’outils offre donc la possibilité de reconstituer en partie les activités artisanales ayant eu lieu sur un site donné, même si les matières en question sont périssables et, par conséquent, invisibles lors de la fouille.
+
+### Du geste à la trace : le référentiel expérimental
+Les traces de références sont obtenues par reproduction systématique d’une multitude de gestes différents sur différentes matières . 
+
+(image: figure-1-300dpi.jpg caption: Moisson de blé avec faucille faite d’éléments de silex emmanchés. © Loïc Torchy)
+
+Pour chaque expérimentation, le maximum de paramètres doit être enregistré pour vérifier l’impact de chacun d’entre eux sur les traces laissées sur l’outil en silex : la main utilisée, l’emmanchement, la cinématique de l’outil, la force appliquée, la nature de la matière travaillée, son état, la durée du travail, etc. La multiplication des expérimentations et la description précise des traces nous autorise à établir des relations de causes à effets.
+
+Le silex étant un matériau fragile, des micro-écaillements se forment lors des contacts avec une autre matière. Ils sont visibles à la loupe binoculaire de 10x à 40x et permettent de localiser rapidement la partie active de l’outil. Leur distribution sur chaque face, ainsi que leur orientation peuvent nous donner des informations sur la cinématique de l’outil pendant le travail. La quantité, la morphologie, le nombre de génération d’écaillements nous permettent de connaître la dureté relative de la matière travaillée.
+
+Les frottements entre l’outil et la matière travaillée génèrent des micropolis. Ils sont généralement observables entre 100x et 400x. L’extension sur l’outil et la microtopographie sont indicateurs de la dureté de la matière travaillée .
+
+(image: figure-2-300dpi.jpg caption: Microtopographie et aspect des traces en fonction de la dureté de la matière travaillée. De haut en bas : travail de l’os, travail du bois, et coupe de céréales.)
+
+ En effet, lors du travail d’une matière dure comme de l’os, l’outil de silex ne fait qu’effleurer la surface et par conséquent la zone de contact est moindre, d’où l’aspect marginal du poli. À l’inverse, lors de la coupe d’une matière tendre comme des céréales, toutes les parties découvertes de l’outil frottent contre les tiges et donc la quasi-totalité de la surface apparente est polie. Les zones affectées sur la microtopographie de surface sont également révélatrices de la dureté : les micro-creux sont plus ou moins affectés en fonction de la dureté de la matière travaillée. Dans quelques cas, notamment lors du travail du bois ou de l’os, les micro-polis forment des petites bosses étirées dans le sens du mouvement, nous avons donc une information sur la cinématique.
+
+Le silex est constitué à plus de 95 % de cristaux de quartz. Lors du travail d’une matière abrasive, ces cristaux sont progressivement arrachés de leur matrice, formant petit à petit des émoussements. Ainsi, un émoussé intense est révélateur de contacts avec une matière très abrasive, comme une peau sèche ou une matière minérale.
+
+Enfin, lors du travail, des particules de matière sont arrachées et glissent sur l’outil, laissant quelquefois des stries dans le sens du mouvement visibles au microscope. Il s’agit là d’une lecture directe de la cinématique de l’outil pendant son fonctionnement.
+
+### De la trace au geste : applications archéologiques
+
+Le premier exemple est une lame en silex provenant du site des Moulins (Saint-Paul-Trois-Châteaux, Drôme). Un des bords est affecté sur toute sa longueur et sur environ deux millimètres de largeur par un poli très compact.
+
+(image: figure-3-300dpi.jpg caption: Poli brillant généré par la coupe de végétaux tendres. L’aspect du silex avant utilisation est visible sur la droite de la photo dans le négatif d’un écaillement du tranchant)
+
+Il s’agit là d’un premier indice de la dureté : cette lame a travaillé une matière tendre. Un poli aussi lisse et brillant se retrouve dans le référentiel expérimental sur les outils ayant travaillé des végétaux tendres. Quelques stries fines orientées dans la longueur nous renseignent sur la cinématique de l’outil : un mouvement de coupe longitudinale. Au Néolithique, la coupe de végétaux tendres peut avoir plusieurs finalités. L’hypothèse de la moisson de céréales est celle qui revient le plus souvent en raison de l’importance économique de celle-ci (Gassin, 1996), mais d’autres activités peuvent être envisagées comme la récolte de végétaux en lien avec la construction d’abris (Perlès et Vaughan, 1983), avec la vannerie (Petrequin, 1974 ; Stordeur, 1989), avec l’artisanat du textile (Boquet et Berretrot, 1989), ou avec la confection de litières pour l’élevage (Brochier, 1991).
+
+Le second exemple est illustré par deux éclats en silex aux extrémités appointies issus du site du Pirou (Valros, Hérault). Ces extrémités sont fortement émoussées, ce qui indique le travail d’une matière très abrasive. Au microscope, il est possible d’observer des stries transversales à l’axe de l’outil, il s’agit donc d’un mouvement de rotation. Il n’y a pas d’écaillement, ainsi la matière travaillée était plutôt tendre. Nous pouvons en déduire que ces outils ont percé une ou plusieurs matières minérales tendres.
+
+L’analyse tracéologique ne nous permet pas d’aller plus loin dans les interprétations et c’est le croisement des données avec les autres études qui va confirmer la fonction de ces outils. Sur le site, deux catégories de matières minérales ont été percées : les éléments de parure et la céramique. Alors que les éléments de parure en matières minérales tendres (talc, calcaire) ont des trous de diamètre trop petit pour correspondre, il existe une corrélation entre les diamètres des trous présents sur les tessons de céramiques et les diamètres des perçoirs.
+
+(image: figure-4-300dpi.jpg caption: Réparation de céramique brisée par raccommodage. Les trous sont creusés à l’aide de perçoirs en silex.)
+
+Il s’agit là d’une pratique qui a perduré jusque dans les années 1950 : la réparation de la vaisselle brisée était assurée par un artisan spécialisé dans le raccommodage de faïences et de porcelaines. Au Néolithique, vu la faible dureté de la poterie, la réparation de céramique était un geste technique à la portée de tous. La réparation correspond donc probablement à une volonté d’éviter une nouvelle production couteûse en énergie et / ou saisonnière en prolongeant la durée de vie des vases (Torchy et Gassin, 2010). Des résidus de colle à base de résine ont été observés dans les trous de réparation et sur le bord des tessons brisés, l’utilisation de cet adhésif permettrait d’étanchéifier le récipient (Regert, 2007).
+
+### Conclusion et perspectives
+La recherche et l’analyse des indices tracéologiques sur les productions de silex permet, par analogie avec les traces d’un référentiel expérimental, de reconstituer le mode de fonctionnement des outils et d’avoir des indications sur la nature du matériau travaillé, même si celui-ci n’est pas retrouvé lors de la fouille. La tracéologie permet aussi de proposer des hypothèses sur la finalité du geste et, quelques fois, croisée avec les données d’autres disciplines, elle contribue à la compréhension des modes de vie des sociétés préhistoriques.
+
+Ces indices permettent par ailleurs d’orienter des hypothèses concernant un contexte particulier : par exemple, la culture du Chasséen méridional (4200 à 3500 ans avant notre ère). Les communautés chasséennes ont eu recours à la chauffe volontaire du silex (Binder, 1984) pour augmenter ses qualités, mais nous ignorons encore leurs motivations (symbolisme ? amélioration à la taille ? amélioration des outils produits ?). Des études tracéologiques récentes ont montré qu’il existait une différence de gestion entre les productions sur silex non chauffé et celles sur silex chauffé (Gassin, 1996 ; Torchy et Gassin, 2011). Alors que les productions chauffées sont plutôt destinées à des activités générant les écaillements importants (travail de l’os, du bois, coupe de végétaux), les productions sur silex chauffé sont souvent utilisées pour couper des matières tendres animales (viande, peau fraîche). Cette corrélation entre chauffe du silex et utilisation des productions pour une activité particulière nous a incité à formuler l’hypothèse suivante, traitée dans le cadre d’une thèse de doctorat (Torchy dans Léa et al, sous presse) : est-ce que la chauffe du silex a une incidence sur l’efficacité des tranchants pour la découpe de matières tendres ?
+
+Si la tracéologie relève d’un champ d’investigations fort vaste et nouveau, sa méthodologie, fondée sur l’étude de l’invisible, offre l’extraordinaire possibilité de* rendre visible*, comme d’interroger la manière dont nos lointains ancêtres vivaient.
+
+----
+
+Pagesettings-4: 
+
+----
+
+Info-3: 
+
+----
+
+Article-domaine: 
+
+----
+
+Article-keyword: 
+
+----
+
+Article-resume: 
+
+----
+
+Pdf: 
+
+----
+
+Article-biblio: 
+
+----
+
+Article-url: 
+
+----
+
+Article-citer: 
+
+----
+
+Print: 
+
+----
+
+Article-relie: 
+
+----
+
+Title-note: La tracéologie [1. La tracéologie, née il y a une quarantaine d’années, est une branche de l’archéologie qui s’est développée récemment en France. Elle a pour but d’examiner, notamment grâce au microscope, les traces laissées par les hommes du passé sur chaque matière d’œuvre (bois, végétaux, minéraux…), et d’en déterminer la ou les fonctionnalités et, ainsi, de rendre visible l’invisible. Sa nouveauté et son discours sur les traces, l’iconographie qu’elle produit via des microscopes très perfectionnés, ses prolongements actuels dans d’autres domaines que l’archéologie comme la criminologie, nous sont apparus comme autant de raisons pour inviter Loïc Torchy, jeune chercheur en tracéologie. Si le texte qu’il signe ici expose le fruit de ses investigations selon le vocabulaire spécifique du spécialiste, son intervention dans le cadre du séminaire nous a conduit à établir de nombreux liens analogiques avec le champ des arts visuels.]
+
+----
+
+Nom-auteur: Loïc Torchy
+
+----
+
+Article-sito: 
