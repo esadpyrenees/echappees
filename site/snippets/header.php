@@ -43,7 +43,7 @@
 	<!-- appel du css général -->
     
     <?php 
-        $ff  = param('ff', 'lr'); 
+        $ff  = param('ff', 'ws'); 
         echo css('assets/css/typo-'.$ff.'.css');
     ?>
     
