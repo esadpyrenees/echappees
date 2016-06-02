@@ -1,4 +1,4 @@
-# Échappées
+# échappées
 
  
 Revue de recherche et de création de l’École supérieure d’art des Pyrénées – Pau Tarbes.
