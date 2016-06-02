@@ -138,7 +138,8 @@
 	$(function(){
 			
 		var $body = $('body'),
-			w_width = $(window).width()
+			wwidth = $(window).width(),
+			wheight = $(window).height();
 
 		$(window).scroll(
 			function() {
@@ -153,12 +154,12 @@
 		// STICKY KIT
 	    $("#logotype_home").stick_in_parent();
 	    
-	    if(w_width > 980) {	    	
+	    if(wwidth > 980) {	    	
 	    	$("#container_titre").stick_in_parent({
 	    		'offset_top':100
 	    	});	    	
 	    }
-	    if(w_width > 700) {	    	
+	    if(wwidth > 700) {	    	
 	    	var vh = $(window).height()/100;
 			$('#sideGallery').stick_in_parent({
 	    		'offset_top':10 * vh
@@ -166,7 +167,16 @@
 		};
 
 		
+		$('.pleinEcran').height(wheight * 2);
+		var transormValue = Math.random() * wheight; 
 
+		$('.pleinEcran').css({
+			'-webkit-transform' : 'translateY(-' + transormValue + 'px)',
+			'-moz-transform'    : 'translateY(-' + transormValue + 'px)',
+			'-ms-transform'     : 'translateY(-' + transormValue + 'px)',
+			'-o-transform'      : 'translateY(-' + transormValue + 'px)',
+			'transform'         : 'translateY(-' + transormValue + 'px)'
+		})
 
 
 
@@ -206,7 +216,7 @@
 
 
 		/// gallery originale
-		var wheight = $(window).height();
+		
 
 		$('.gallery').each(function(){
 			var $self = $(this);
