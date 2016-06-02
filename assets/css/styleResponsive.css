@@ -241,7 +241,15 @@ p {
 }
 
 @media only screen and (max-width: 480px) {
+
+
+
 	/*STYLE POUR LA PAGE D'ACCUEIL*/
+    #bandeau-blanc + #main_menu{
+        // top: auto;
+        // bottom: 0;
+        top: 8em;
+    }
 
 	/*STYLE POUR LE MENU*/
 	.menu div ul{
@@ -254,9 +262,10 @@ p {
 	    /*width: 200px;*/
 	}
 
-	#logotype_home{
-		padding-bottom: 50px;
-	}
+	
+    #logotype_home {
+        padding-bottom: 100px;
+    }
 
 	#actualite, #conseil{
     	padding-bottom: 50px;
@@ -402,3 +411,10 @@ p {
 			
 }
 
+
+
+@media only screen and (max-width: 360px) {
+    #echappees-numero{display: none;}
+    #esa-echappees { margin: 0; text-align: center;}
+
+}

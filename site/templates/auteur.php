@@ -1,8 +1,9 @@
 <!-- <main class="main" role="main"> -->
 <!-- identité de l'ecole -->
 <?php snippet('header') ?>
-<?php snippet('menu') ?>
 <?php snippet('logotype') ?>
+<?php snippet('menu') ?>
+
 
 	<article id="liens-orange">
 

@@ -2,8 +2,9 @@
 <!-- <main class="main" role="main"> -->
 <!-- identité de l'ecole -->
 <?php snippet('header') ?>
-<?php snippet('menu') ?>
 <?php snippet('logotype') ?>
+<?php snippet('menu') ?>
+
 <div class="degrade_propos" id="a_propos">
 
 	<div id="liens-orange">

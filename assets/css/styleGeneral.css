@@ -1045,6 +1045,8 @@
         width: 33.3333%;
         top: 16px;
         z-index: 803;
+        transform:translateY(0);
+        transition:transform 350ms ease-out 150ms;
         
         /*background-color: green;*/
         
@@ -1082,10 +1084,19 @@
         top: 20px;
         width: 41.67%;
         z-index: 803;
-        color: black
+        color: black;
+        transform:translateY(0);
+        transition:transform 350ms ease-out 200ms;
     }
-    #echappees-numero sup { line-height: 0.8;
-    top: -0.4em;}
+
+
+    .scrolled #echappees-numero,
+    .scrolled #esa-echappees {
+        transform:translateY(-100px);
+    }
+
+
+
 
     #liens-orange a:hover{
         color: #ff7d4f;
@@ -1097,7 +1108,7 @@
         padding-top: 100px;
         margin-left: 20.00%;
         width: 60%;
-        margin-top: -1.25rem;
+        margin-top: 1.25rem;
         padding-top: 75px;
     }
     article.no-layout {

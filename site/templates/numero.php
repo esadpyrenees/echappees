@@ -1,11 +1,12 @@
 <!-- appel des différents snippet -->
 <?php snippet('header') ?>
-<!-- menu numero et à propos -->
-<?php snippet('menu') ?>
-
 <!-- logotype echappées -->
 <!-- position fixe -->
 <?php snippet('logotype') ?>
+
+<!-- menu numero et à propos -->
+<?php snippet('menu') ?>
+
 
 <h2 id="echappees-numero">
     <!-- On vient trouver le dernier numéro automatiquement -->

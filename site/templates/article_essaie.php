@@ -2,11 +2,11 @@
 <?php snippet('header') ?>
 <!-- appel du snippet pour styler l'impression de l'article -->
 <?php snippet('print') ?>
-<!-- menu numero et à propos -->
-<?php snippet('menu') ?>
 <!-- logotype echappées -->
 <!-- position fixe -->
 <?php snippet('logotype') ?>
+<!-- menu numero et à propos -->
+<?php snippet('menu') ?>
 
 <h2 id="echappees-numero">
     <!-- On vient trouver le dernier numéro automatiquement -->
