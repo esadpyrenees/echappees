@@ -1046,7 +1046,7 @@
         top: 16px;
         z-index: 803;
         transform:translateY(0);
-        transition:transform 350ms ease-out 150ms;
+        transition:transform 150ms ease-out 150ms;
         
         /*background-color: green;*/
         
@@ -1086,7 +1086,7 @@
         z-index: 803;
         color: black;
         transform:translateY(0);
-        transition:transform 350ms ease-out 200ms;
+        transition:transform 150ms ease-out 200ms;
     }
 
 

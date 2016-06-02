@@ -167,16 +167,16 @@
 		};
 
 		
-		$('.pleinEcran').height(wheight * 2);
+		$('.pleinEcran').height(wheight + Math.random() * wheight );
 		var transormValue = Math.random() * wheight; 
 
-		$('.pleinEcran').css({
-			'-webkit-transform' : 'translateY(-' + transormValue + 'px)',
-			'-moz-transform'    : 'translateY(-' + transormValue + 'px)',
-			'-ms-transform'     : 'translateY(-' + transormValue + 'px)',
-			'-o-transform'      : 'translateY(-' + transormValue + 'px)',
-			'transform'         : 'translateY(-' + transormValue + 'px)'
-		})
+		// $('.pleinEcran').css({
+		// 	'-webkit-transform' : 'translateY(-' + transormValue + 'px)',
+		// 	'-moz-transform'    : 'translateY(-' + transormValue + 'px)',
+		// 	'-ms-transform'     : 'translateY(-' + transormValue + 'px)',
+		// 	'-o-transform'      : 'translateY(-' + transormValue + 'px)',
+		// 	'transform'         : 'translateY(-' + transormValue + 'px)'
+		// })
 
 
 
