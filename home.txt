@@ -1,0 +1,30 @@
+Title: Accueil
+
+----
+
+Accueil-actualite: 
+
+- 
+  actualite_contenu: |
+    Le numéro 4 est en cours de préparation.
+    
+    En attendant, surfons sur cette pensée du peintre russe Kasimir Malevitch, qu’il eut après avoir réalisé la peinture *carré blanc sur fond blanc* en 1916 : « J’ai troué l’abat-jour bleu des limitations colorées, je suis sorti dans le blanc, voguez à ma suite, camarades aviateurs […] Voguez ! L’abîme libre blanc, l’infini sont devant vous. »
+
+----
+
+Accueil-conseil: 
+
+----
+
+Accueil-titre-echappee: échappées
+
+----
+
+Accueil-logo-info: 
+
+Revue d'art et de design
+de l'ÉSA des Pyrénées
+
+----
+
+Image-couv-home: (image: cloud_6.jpg)
